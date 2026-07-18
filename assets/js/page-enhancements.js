@@ -140,6 +140,12 @@
     if (!link || typeof link.closest !== "function") {
       return "unknown";
     }
+    if (link.getAttribute("data-affiliate-placement")) {
+      return String(link.getAttribute("data-affiliate-placement"));
+    }
+    if (link.closest("[data-ebay-listing-card]")) {
+      return "listing_card";
+    }
     if (link.closest(".fr-book-card")) {
       return "book_card";
     }
@@ -159,17 +165,35 @@
       if (!link) {
         return;
       }
-      var merchant = affiliateMerchantFromUrl(link.href);
-      if (!merchant || typeof window.gtag !== "function") {
+      var merchant = String(link.getAttribute("data-affiliate-merchant") || affiliateMerchantFromUrl(link.href));
+      if (!merchant) {
         return;
       }
-      window.gtag("event", "affiliate_click", {
+      var destination = null;
+      try {
+        destination = new URL(String(link.href || ""), window.location.href);
+      } catch (err) {
+        destination = null;
+      }
+      var section = link.closest("[data-ebay-experiment]");
+      var detail = {
         affiliate_merchant: merchant,
         affiliate_placement: affiliatePlacementForLink(link),
-        link_url: String(link.href || ""),
+        destination_host: destination ? String(destination.hostname || "") : "",
+        destination_path: destination ? String(destination.pathname || "").slice(0, 160) : "",
         link_text: String(link.textContent || "").replace(/\s+/g, " ").trim().slice(0, 120),
+        ebay_card_kind: String(link.getAttribute("data-ebay-card-kind") || ""),
+        ebay_card_position: String(link.getAttribute("data-ebay-card-position") || ""),
+        experiment: section ? String(section.getAttribute("data-ebay-experiment") || "") : "",
+        experiment_variant: section ? String(section.getAttribute("data-ebay-experiment-variant") || "") : ""
+      };
+      document.dispatchEvent(new CustomEvent("phoenix:affiliate-click", { detail: detail }));
+      if (typeof window.gtag !== "function") {
+        return;
+      }
+      window.gtag("event", "affiliate_click", Object.assign({}, detail, {
         transport_type: "beacon"
-      });
+      }));
     });
   }
 
