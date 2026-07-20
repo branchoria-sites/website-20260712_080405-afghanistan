@@ -1342,89 +1342,89 @@ Morocco’s enduring enigmas sit at important turning points in the country’s 
 The most valuable approach is therefore investigative rather than sensational. Ask what evidence survives, who produced it, what may have been lost or concealed, and whether later retellings have become more definite than the original records. Morocco’s mysteries are compelling not because nothing is known, but because the surviving fragments are substantial enough to suggest an answer while still withholding certainty.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt Morocco&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt Morocco&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Travels+of+Ibn+Battuta%2C+A.D.+1325-1354+Ibn+Batuta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Travels of Ibn Battuta, A.D. 1325-1354 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5441106-M.jpg" alt="Cover for Travels of Ibn Battuta, A.D." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Travels+of+Ibn+Battuta%2C+A.D.+1325-1354+Ibn+Batuta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Travels of Ibn Battuta, A.D.">Travels of Ibn Battuta, A.D.</a>
-</h4>
-<p class="fr-book-author">By Ibn Batuta</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Morocco on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7269663-M.jpg" alt="Cover for A history of modern Morocco" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Morocco">A history of modern Morocco</a>
+        </h4>
+        <p class="fr-book-author">By Susan Gilson Miller</p>
         
-<p class="fr-book-desc">First published 1958. Subjects: Description and travel, Voyages and travels.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Travels+of+Ibn+Battuta%2C+A.D.+1325-1354+Ibn+Batuta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers many of the historical episodes behind Morocco&#x27;s enduring mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Morocco on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7269663-M.jpg" alt="Cover for A history of modern Morocco" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Morocco">A history of modern Morocco</a>
-</h4>
-<p class="fr-book-author">By Susan Gilson Miller</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The great sea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12862065-M.jpg" alt="Cover for The great sea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great sea">The great sea</a>
+        </h4>
+        <p class="fr-book-author">By David Abulafia</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: HISTORY / Middle East / General, History, Morocco, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Morocco within wider Mediterranean historical networks.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ornament of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/189283-M.jpg" alt="Cover for The ornament of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ornament of the world">The ornament of the world</a>
-</h4>
-<p class="fr-book-author">By Maria Rosa Menocal</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ornament of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/189283-M.jpg" alt="Cover for The ornament of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ornament of the world">The ornament of the world</a>
+        </h4>
+        <p class="fr-book-author">By Maria Rosa Menocal</p>
         
-<p class="fr-book-desc">First published 2002. Subjects: Spain, Toleration, Jews, Religions, Nonfiction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides cultural context for Morocco&#x27;s medieval past.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The great sea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12862065-M.jpg" alt="Cover for The great sea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great sea">The great sea</a>
-</h4>
-<p class="fr-book-author">By David Abulafia</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Travels+of+Ibn+Battuta%2C+A.D.+1325-1354+Ibn+Batuta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Travels of Ibn Battuta, A.D. 1325-1354 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5441106-M.jpg" alt="Cover for Travels of Ibn Battuta, A.D. 1325-1354" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Travels+of+Ibn+Battuta%2C+A.D.+1325-1354+Ibn+Batuta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Travels of Ibn Battuta, A.D. 1325-1354">Travels of Ibn Battuta, A.D. 1325-1354</a>
+        </h4>
+        <p class="fr-book-author">By Ibn Batuta</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: History, Civilization, Intercultural communication, Mediterranean region, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1958. Subjects: Description and travel, Voyages and travels.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Travels+of+Ibn+Battuta%2C+A.D.+1325-1354+Ibn+Batuta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Travels+of+Ibn+Battuta%2C+A.D.+1325+1354&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Travels of Ibn Battuta, A.D.</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Morocco&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Morocco</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ornament+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ornament of the world</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Morocco&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Morocco</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+great+sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The great sea</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ornament+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ornament of the world</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

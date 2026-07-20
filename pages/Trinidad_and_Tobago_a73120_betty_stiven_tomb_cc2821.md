@@ -324,89 +324,89 @@ The inscription almost certainly reflects a real circumstance known to those who
 For that reason, Betty Stiven's tomb remains a genuine historical puzzle rather than a supernatural mystery. Its enduring fascination comes from the survival of an enigmatic epitaph after the ordinary family knowledge needed to interpret it was lost. The stone preserves the words, but not the conversation that once made those words perfectly clear.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Did Betty Stiven&#x27;s Tombstone Really Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Did Betty Stiven&#x27;s Tombstone Really Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago+Eric+Eustace+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of the people of Trinidad and Tobago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9293402-M.jpg" alt="Cover for History of the people of Trinidad and Tobago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago+Eric+Eustace+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of the people of Trinidad and Tobago">History of the people of Trinidad and Tobago</a>
-</h4>
-<p class="fr-book-author">By Eric Eustace Williams</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago+Eric+Eustace+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of the people of Trinidad and Tobago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9293402-M.jpg" alt="Cover for History of the people of Trinidad and Tobago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago+Eric+Eustace+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of the people of Trinidad and Tobago">History of the people of Trinidad and Tobago</a>
+        </h4>
+        <p class="fr-book-author">By Eric Eustace Williams</p>
         
-<p class="fr-book-desc">First published 1962. Subjects: History, Trinidad and tobago, history, Histoire.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago+Eric+Eustace+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides background on Tobago&#x27;s colonial period.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago+Eric+Eustace+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Suspicions of Mr. Whicher on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10302466-M.jpg" alt="Cover for The Suspicions of Mr. Whicher" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
-</h4>
-<p class="fr-book-author">By Kate Summerscale</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Trinidad, 1783-1962 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4628265-M.jpg" alt="Cover for A history of modern Trinidad, 1783-1962" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Trinidad, 1783-1962">A history of modern Trinidad, 1783-1962</a>
+        </h4>
+        <p class="fr-book-author">By Bridget Brereton</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Detectives, biography, Murder, great britain, Murder, Wiltshire, Case studies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the colonial society in which the Betty Stiven story emerged.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Trinidad, 1783-1962 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4628265-M.jpg" alt="Cover for A history of modern Trinidad," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Trinidad,">A history of modern Trinidad,</a>
-</h4>
-<p class="fr-book-author">By Bridget Brereton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Suspicions of Mr. Whicher on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10302466-M.jpg" alt="Cover for The Suspicions of Mr. Whicher" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
+        </h4>
+        <p class="fr-book-author">By Kate Summerscale</p>
         
-<p class="fr-book-desc">First published 1981. Subjects: History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how historical evidence and interpretation create enduring mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Five on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9171763-M.jpg" alt="Cover for The Five" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five">The Five</a>
-</h4>
-<p class="fr-book-author">By Hallie Rubenhold, Louise Brealey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Five on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9171763-M.jpg" alt="Cover for The Five" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five">The Five</a>
+        </h4>
+        <p class="fr-book-author">By Hallie Rubenhold, Louise Brealey</p>
         
-<p class="fr-book-desc">First published 2019. Subjects: London (england), social conditions, London (england), history, Jack, the ripper, Victims of crimes, Work...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers interested in reconstructing historical identities from sparse evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of the people of Trinidad and Tobago</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Suspicions of Mr. Whicher</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783+1962&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Trinidad,</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of the people of Trinidad and Tobago</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783+1962&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Trinidad, 1783 1962</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Suspicions of Mr. Whicher</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

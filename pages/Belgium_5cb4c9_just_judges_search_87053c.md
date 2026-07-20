@@ -370,89 +370,89 @@ The cathedral theory fits the cryptic surviving statement and the practical prob
 That balance is why the case still matters in Belgium. It is not a mystery sustained only by folklore. The theft, correspondence, returned panel and Goedertier papers are documented. What is missing is the final link between those records and the physical fate of the painting. Until an oak panel is recovered and authenticated through its dimensions, wood, construction, paint layers and relationship to the Ghent Altarpiece, every proposed solution remains a theory rather than a recovery.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Is the Missing Just Judges Panel?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Is the Missing Just Judges Panel?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The monuments men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8759225-M.jpg" alt="Cover for The monuments men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
-</h4>
-<p class="fr-book-author">By Robert M. Edsel</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The monuments men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8759225-M.jpg" alt="Cover for The monuments men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
+        </h4>
+        <p class="fr-book-author">By Robert M. Edsel</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Allied Forces, Art treasures in war, Art and the war, Confiscations and contributions, Protection.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers fascinated by missing masterpieces.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gardner+Heist+Ulrich+Boser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gardner Heist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9989500-M.jpg" alt="Cover for The Gardner Heist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Gardner+Heist+Ulrich+Boser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gardner Heist">The Gardner Heist</a>
-</h4>
-<p class="fr-book-author">By Ulrich Boser</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gardner+Heist+Ulrich+Boser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gardner Heist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9989500-M.jpg" alt="Cover for The Gardner Heist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Gardner+Heist+Ulrich+Boser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gardner Heist">The Gardner Heist</a>
+        </h4>
+        <p class="fr-book-author">By Ulrich Boser</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Isabella Stewart Gardner Museum, Art thefts, Museums, Theft from museums, Art.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Gardner+Heist+Ulrich+Boser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines another famous unresolved art theft.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Gardner+Heist+Ulrich+Boser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Adversary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580647-M.jpg" alt="Cover for The Adversary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Adversary">The Adversary</a>
-</h4>
-<p class="fr-book-author">By Emmanuel Carrère</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+Rembrandts+Anthony+A.+Amore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing Rembrandts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6784863-M.jpg" alt="Cover for Stealing Rembrandts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Stealing+Rembrandts+Anthony+A.+Amore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing Rembrandts">Stealing Rembrandts</a>
+        </h4>
+        <p class="fr-book-author">By Anthony A. Amore, Tom Mashberg</p>
         
-<p class="fr-book-desc">First published 2001. Subjects: Swindlers and swindling, Murder, france, Murderers.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on major art theft investigations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Stealing+Rembrandts+Anthony+A.+Amore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+Rembrandts+Anthony+A.+Amore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing Rembrandts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6784863-M.jpg" alt="Cover for Stealing Rembrandts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Stealing+Rembrandts+Anthony+A.+Amore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing Rembrandts">Stealing Rembrandts</a>
-</h4>
-<p class="fr-book-author">By Anthony A. Amore, Tom Mashberg</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Adversary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580647-M.jpg" alt="Cover for The Adversary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Adversary">The Adversary</a>
+        </h4>
+        <p class="fr-book-author">By Emmanuel Carrère</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Museums, Art thefts, Theft from museums, Rembrandt harmenszoon van rijn, 1606-1669, 20.19 art and society...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Stealing+Rembrandts+Anthony+A.+Amore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2001. Subjects: Swindlers and swindling, Murder, france, Murderers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+monuments+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The monuments men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gardner+Heist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gardner Heist</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Adversary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Adversary</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+monuments+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The monuments men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gardner+Heist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gardner Heist</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stealing+Rembrandts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stealing Rembrandts</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

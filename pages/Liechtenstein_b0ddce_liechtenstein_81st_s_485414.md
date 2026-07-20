@@ -330,89 +330,89 @@ The result is an unusual kind of historical mystery: not "Who secretly joined Li
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Did Liechtenstein&#x27;s Army Really Gain a Soldier?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did Liechtenstein&#x27;s Army Really Gain a Soldier?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Austro-Prussian+War+Geoffrey+Wawro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Austro-Prussian War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/345993-M.jpg" alt="Cover for The Austro-Prussian War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Austro-Prussian+War+Geoffrey+Wawro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Austro-Prussian War">The Austro-Prussian War</a>
-</h4>
-<p class="fr-book-author">By Geoffrey Wawro</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open LIECHTENSTEIN: A MODERN HISTORY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12691634-M.jpg" alt="Cover for LIECHTENSTEIN: A MODERN HISTORY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="LIECHTENSTEIN: A MODERN HISTORY">LIECHTENSTEIN: A MODERN HISTORY</a>
+        </h4>
+        <p class="fr-book-author">By David Beattie</p>
         
-<p class="fr-book-desc">First published 1996. Subjects: Politics and government, Custozza, Battle of, 1866, Königgrätz, Battle of, 1866, Austro-Prussian War, 186...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Austro-Prussian+War+Geoffrey+Wawro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the famous 81st soldier legend in national context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open LIECHTENSTEIN: A MODERN HISTORY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12691634-M.jpg" alt="Cover for LIECHTENSTEIN: A MODERN HISTORY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="LIECHTENSTEIN: A MODERN HISTORY">LIECHTENSTEIN: A MODERN HISTORY</a>
-</h4>
-<p class="fr-book-author">By David Beattie</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Europe : a history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/127151-M.jpg" alt="Cover for Europe : a history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe : a history">Europe : a history</a>
+        </h4>
+        <p class="fr-book-author">By Norman Davies</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: Europe, eastern, history, Economics.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers broader historical context for nineteenth-century Europe.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Habsburg+empire+Pieter+M.+Judson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Habsburg empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8051343-M.jpg" alt="Cover for The Habsburg empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Habsburg+empire+Pieter+M.+Judson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Habsburg empire">The Habsburg empire</a>
-</h4>
-<p class="fr-book-author">By Pieter M. Judson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Austro-Prussian+War+Geoffrey+Wawro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Austro-Prussian War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/345993-M.jpg" alt="Cover for The Austro-Prussian War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Austro-Prussian+War+Geoffrey+Wawro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Austro-Prussian War">The Austro-Prussian War</a>
+        </h4>
+        <p class="fr-book-author">By Geoffrey Wawro</p>
         
-<p class="fr-book-desc">First published 2016. Subjects: Imperialism, Nationalism, History, Habsburg, house of, Nationalism, europe.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Habsburg+empire+Pieter+M.+Judson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides the conflict in which the legend originated.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Austro-Prussian+War+Geoffrey+Wawro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Habsburgs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10449346-M.jpg" alt="Cover for Habsburgs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Habsburgs">Habsburgs</a>
-</h4>
-<p class="fr-book-author">By Martyn Rady</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Habsburg+empire+Pieter+M.+Judson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Habsburg empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8051343-M.jpg" alt="Cover for The Habsburg empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Habsburg+empire+Pieter+M.+Judson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Habsburg empire">The Habsburg empire</a>
+        </h4>
+        <p class="fr-book-author">By Pieter M. Judson</p>
         
-<p class="fr-book-desc">First published 2020. Subjects: Europe, history, Habsburg, house of, Austria, history, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the imperial setting surrounding Liechtenstein&#x27;s final military deployment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Habsburg+empire+Pieter+M.+Judson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Austro+Prussian+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Austro Prussian War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">LIECHTENSTEIN: A MODERN HISTORY</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Habsburg+empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Habsburg empire</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">LIECHTENSTEIN: A MODERN HISTORY</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Europe+%3A+a+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Europe : a history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Austro+Prussian+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Austro Prussian War</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

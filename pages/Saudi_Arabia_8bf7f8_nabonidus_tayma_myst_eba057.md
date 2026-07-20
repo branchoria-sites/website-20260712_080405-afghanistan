@@ -371,89 +371,72 @@ Nabonidus' stay transformed Tayma from a prosperous Arabian oasis into a tempora
 At the same time, the missing motive remains one of the most intriguing gaps in the written record of the ancient world. Unlike many historical mysteries, the uncertainty is not caused by folklore or legend but by damaged texts, political propaganda and the silence of surviving evidence. The facts of Nabonidus' residence at Tayma are no longer in doubt; what remains elusive is the reasoning that led Babylon's last king to exchange the palaces of Mesopotamia for an oasis in north-west Arabia.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did Babylon&#x27;s Last King Rule From Tayma?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did Babylon&#x27;s Last King Rule From Tayma?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Robert+G.+Hoyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs: From the Bronze Age to the Coming of Islam on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Robert+G.+Hoyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs: From the Bronze Age to the Coming of Islam">Arabia and the Arabs: From the Bronze Age to the Coming of Islam</a>
-</h4>
-<p class="fr-book-author">By Robert G. Hoyland</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs">Arabia and the Arabs</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">Explains Tayma and ancient Arabia in context.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Robert+G.+Hoyland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains Tayma and ancient Arabia in context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ancient+Near+East%3A+Historical+Sources+in+Translation+Mark+W.+Chavalas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ancient Near East: Historical Sources in Translation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ancient+Near+East%3A+Historical+Sources+in+Translation+Mark+W.+Chavalas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Near East: Historical Sources in Translation">Ancient Near East: Historical Sources in Translation</a>
-</h4>
-<p class="fr-book-author">By Mark W. Chavalas</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ancient Near East: History, Society and Economy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8438696-M.jpg" alt="Cover for The Ancient Near East: History, Society and Economy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ancient Near East: History, Society and Economy">The Ancient Near East: History, Society and Economy</a>
+        </h4>
+        <p class="fr-book-author">By Mario Liverani</p>
         
-<p class="fr-book-desc">Includes translated texts relevant to Neo-Babylonian history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ancient+Near+East%3A+Historical+Sources+in+Translation+Mark+W.+Chavalas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes translated texts relevant to Neo-Babylonian history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Babylonians%3A+An+Introduction+Gwendolyn+Leick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Babylonians: An Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Babylonians%3A+An+Introduction+Gwendolyn+Leick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Babylonians: An Introduction">The Babylonians: An Introduction</a>
-</h4>
-<p class="fr-book-author">By Gwendolyn Leick</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Babylonians+G.+Leick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Babylonians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266421-M.jpg" alt="Cover for The Babylonians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Babylonians+G.+Leick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Babylonians">The Babylonians</a>
+        </h4>
+        <p class="fr-book-author">By G. Leick</p>
         
-<p class="fr-book-desc">Provides background on Nabonidus and Babylon.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Babylonians%3A+An+Introduction+Gwendolyn+Leick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides background on Nabonidus and Babylon.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Babylonians+G.+Leick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Babylonians+G.+Leick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Babylonians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266421-M.jpg" alt="Cover for The Babylonians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Babylonians+G.+Leick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Babylonians">The Babylonians</a>
-</h4>
-<p class="fr-book-author">By G. Leick</p>
-        
-<p class="fr-book-desc">First published 2002. Subjects: Social conditions, Social life and customs, Civilization, Assyro-Babylonian, History, Civilization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Babylonians+G.+Leick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabia and the Arabs: From the Bronze Age to the Coming of Islam</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Near+East%3A+Historical+Sources+in+Translation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Near East: Historical Sources in Translation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Babylonians%3A+An+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Babylonians: An books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabia and the Arabs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ancient Near East: History, Society and Economy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Babylonians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Babylonians</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

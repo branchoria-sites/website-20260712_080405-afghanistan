@@ -334,89 +334,89 @@ For that reason, the mystery is no longer centred on whether Al Sinniyah was an 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Has the Lost City of Tu&#x27;am Been Found?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Has the Lost City of Tu&#x27;am Been Found?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+golden+trade+of+the+Moors+E.+W.+Bovill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The golden trade of the Moors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/785492-M.jpg" alt="Cover for The golden trade of the Moors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+golden+trade+of+the+Moors+E.+W.+Bovill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The golden trade of the Moors">The golden trade of the Moors</a>
-</h4>
-<p class="fr-book-author">By E. W. Bovill</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs">Arabia and the Arabs</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">First published 1958. Subjects: History, Commerce, Africa, west, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+golden+trade+of+the+Moors+E.+W.+Bovill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers the historical period in which Tu&#x27;am flourished.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeology+of+the+United+Arab+Emirates+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeology of the United Arab Emirates on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8601862-M.jpg" alt="Cover for Archaeology of the United Arab Emirates" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Archaeology+of+the+United+Arab+Emirates+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology of the United Arab Emirates">Archaeology of the United Arab Emirates</a>
-</h4>
-<p class="fr-book-author">By Daniel T. Potts, Hasan Al Naboodah et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeology+of+the+United+Arab+Emirates+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeology of the United Arab Emirates on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8601862-M.jpg" alt="Cover for Archaeology of the United Arab Emirates" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Archaeology+of+the+United+Arab+Emirates+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology of the United Arab Emirates">Archaeology of the United Arab Emirates</a>
+        </h4>
+        <p class="fr-book-author">By Daniel T. Potts, Hasan Al Naboodah et al.</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Civilization, Excavations (Archaeology), Congresses, Antiquities.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Archaeology+of+the+United+Arab+Emirates+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains settlement archaeology relevant to Tu&#x27;am.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Archaeology+of+the+United+Arab+Emirates+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Robert+G.+Hoyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs: From the Bronze Age to the Coming of Islam on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Robert+G.+Hoyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs: From the Bronze Age to the Coming of Islam">Arabia and the Arabs: From the Bronze Age to the Coming of Islam</a>
-</h4>
-<p class="fr-book-author">By Robert G. Hoyland</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The archaeology book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The archaeology book">The archaeology book</a>
+        </h4>
+        <p class="fr-book-author">By David Down</p>
         
-<p class="fr-book-desc">Covers the historical period in which Tu&#x27;am flourished.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Robert+G.+Hoyland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how archaeologists identify lost settlements.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ancient+Emirates%3A+Treasures+from+the+National+Museum+of+Ras+al+Khaimah+Peter+Hellyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ancient Emirates: Treasures from the National Museum of Ras al Khaimah on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ancient+Emirates%3A+Treasures+from+the+National+Museum+of+Ras+al+Khaimah+Peter+Hellyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Emirates: Treasures from the National Museum of Ras al Khaimah">Ancient Emirates: Treasures from the National Museum of Ras a...</a>
-</h4>
-<p class="fr-book-author">By Peter Hellyer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ancient+Emirates%3A+Treasures+from+the+National+Museum+of+Ras+al+Khaimah+Peter+Hellyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ancient Emirates: Treasures from the National Museum of Ras al Khaimah on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ancient+Emirates%3A+Treasures+from+the+National+Museum+of+Ras+al+Khaimah+Peter+Hellyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Emirates: Treasures from the National Museum of Ras al Khaimah">Ancient Emirates: Treasures from the National Museum of Ras a...</a>
+        </h4>
+        <p class="fr-book-author">By Peter Hellyer</p>
         
-<p class="fr-book-desc">Provides context for coastal settlements and pearling.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ancient+Emirates%3A+Treasures+from+the+National+Museum+of+Ras+al+Khaimah+Peter+Hellyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for coastal settlements and pearling.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ancient+Emirates%3A+Treasures+from+the+National+Museum+of+Ras+al+Khaimah+Peter+Hellyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+golden+trade+of+the+Moors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The golden trade of the Moors</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeology+of+the+United+Arab+Emirates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeology of the United Arab Emirates</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabia and the Arabs: From the Bronze Age to the Coming of Islam</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabia and the Arabs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeology+of+the+United+Arab+Emirates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeology of the United Arab Emirates</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+archaeology+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The archaeology book</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

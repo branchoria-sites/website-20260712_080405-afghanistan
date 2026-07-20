@@ -335,89 +335,89 @@ For Monaco, the crash remains significant not because its cause is unknown, but 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Princess Grace&#x27;s Death Really Mysterious?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Princess Grace&#x27;s Death Really Mysterious?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood+Donald+Spoto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open High Society: Grace Kelly and Hollywood on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8369811-M.jpg" alt="Cover for High Society: Grace Kelly and Hollywood" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood+Donald+Spoto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Society: Grace Kelly and Hollywood">High Society: Grace Kelly and Hollywood</a>
-</h4>
-<p class="fr-book-author">By Donald Spoto</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood+Donald+Spoto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open High Society: Grace Kelly and Hollywood on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8369811-M.jpg" alt="Cover for High Society: Grace Kelly and Hollywood" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood+Donald+Spoto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Society: Grace Kelly and Hollywood">High Society: Grace Kelly and Hollywood</a>
+        </h4>
+        <p class="fr-book-author">By Donald Spoto</p>
         
-<p class="fr-book-desc">First published 2010. Subjects: Biografier, Motion picture actors and actresses, Motion picture industry, Princesses, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood+Donald+Spoto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides substantial context on Grace Kelly before and after becoming Princess of Monaco.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood+Donald+Spoto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Plantagenets+Dan+Jones+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Plantagenets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8944562-M.jpg" alt="Cover for The Plantagenets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Plantagenets+Dan+Jones+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Plantagenets">The Plantagenets</a>
-</h4>
-<p class="fr-book-author">By Dan Jones - undifferentiated</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Grace+of+Monaco+Jeffrey+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grace of Monaco on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10243608-M.jpg" alt="Cover for Grace of Monaco" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Grace+of+Monaco+Jeffrey+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grace of Monaco">Grace of Monaco</a>
+        </h4>
+        <p class="fr-book-author">By Jeffrey Robinson</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Great britain, kings and rulers, Great britain, history, medieval period, 1066-1485, Plantagenet, house o...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Plantagenets+Dan+Jones+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers Princess Grace&#x27;s life, final years and the circumstances surrounding her death.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Grace+of+Monaco+Jeffrey+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Once+Upon+a+Time+J.+Randy+Taraborrelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Once Upon a Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1235081-M.jpg" alt="Cover for Once Upon a Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Once+Upon+a+Time+J.+Randy+Taraborrelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Once Upon a Time">Once Upon a Time</a>
-</h4>
-<p class="fr-book-author">By J. Randy Taraborrelli</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Once+Upon+a+Time+J.+Randy+Taraborrelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Once Upon a Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1235081-M.jpg" alt="Cover for Once Upon a Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Once+Upon+a+Time+J.+Randy+Taraborrelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Once Upon a Time">Once Upon a Time</a>
+        </h4>
+        <p class="fr-book-author">By J. Randy Taraborrelli</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Biography &amp; Autobiography, Nonfiction, Princes, Biography, Princesses.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Once+Upon+a+Time+J.+Randy+Taraborrelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines the Monaco royal marriage and the events shaping its public image.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Once+Upon+a+Time+J.+Randy+Taraborrelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Grace+Kelly+Jay+Jorgensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grace Kelly on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Grace+Kelly+Jay+Jorgensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grace Kelly">Grace Kelly</a>
-</h4>
-<p class="fr-book-author">By Jay Jorgensen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Grace+Kelly+Jay+Jorgensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grace Kelly on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Grace+Kelly+Jay+Jorgensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grace Kelly">Grace Kelly</a>
+        </h4>
+        <p class="fr-book-author">By Jay Jorgensen</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Pictorial works, Motion picture actors and actresses, Portrait photography, Celebrities.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Grace+Kelly+Jay+Jorgensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores Grace Kelly&#x27;s career and royal life leading up to the crash.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Grace+Kelly+Jay+Jorgensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">High Society: Grace Kelly and Hollywood</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Plantagenets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Plantagenets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Once+Upon+a+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Once Upon a Time</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">High Society: Grace Kelly and Hollywood</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Grace+of+Monaco&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Grace of Monaco</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Once+Upon+a+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Once Upon a Time</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

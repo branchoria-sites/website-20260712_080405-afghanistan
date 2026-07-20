@@ -374,89 +374,89 @@ The collapse of Mycenaean palace Greece remains important because it illustrates
 The mystery also reminds historians that archaeological evidence rarely preserves complete stories. Burnt walls, abandoned buildings and baked clay tablets reveal that something extraordinary happened around 1200 BC, but they cannot identify every decision, conflict or failed harvest that contributed to the end of the palace world. More than three thousand years later, the precise balance between those competing causes remains one of the most carefully debated questions in Greek archaeology.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Really Destroyed Mycenaean Palace Greece?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Really Destroyed Mycenaean Palace Greece?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8441297-M.jpg" alt="Cover for Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant">Decoding the Heavens: Solving the Mystery of the World&#x27;s Firs...</a>
-</h4>
-<p class="fr-book-author">By Jo Marchant</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Greece, history, Astronomical clocks, History, Antiquities, Technology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly examines the collapse affecting Mycenaean palace society.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The End of the Bronze Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8486475-M.jpg" alt="Cover for The End of the Bronze Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The End of the Bronze Age">The End of the Bronze Age</a>
-</h4>
-<p class="fr-book-author">By Robert Drews</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The End of the Bronze Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8486475-M.jpg" alt="Cover for The End of the Bronze Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The End of the Bronze Age">The End of the Bronze Age</a>
+        </h4>
+        <p class="fr-book-author">By Robert Drews</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Bronze age, Prehistoric Warfare, Chariot warfare, Prehistoric Weapons, Antiquities.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Classic treatment of competing collapse theories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mycenaeans+Louise+Schofield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mycenaeans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1650134-M.jpg" alt="Cover for The Mycenaeans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mycenaeans+Louise+Schofield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mycenaeans">The Mycenaeans</a>
-</h4>
-<p class="fr-book-author">By Louise Schofield</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mycenaeans+Louise+Schofield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mycenaeans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1650134-M.jpg" alt="Cover for The Mycenaeans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mycenaeans+Louise+Schofield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mycenaeans">The Mycenaeans</a>
+        </h4>
+        <p class="fr-book-author">By Louise Schofield</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Civilization, mycenaean, Greece, antiquities, Mycenaean Civilization, Antiquities.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mycenaeans+Louise+Schofield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains palace culture and archaeological evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mycenaeans+Louise+Schofield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
-</h4>
-<p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8441297-M.jpg" alt="Cover for Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant">Decoding the Heavens: Solving the Mystery of the World&#x27;s Firs...</a>
+        </h4>
+        <p class="fr-book-author">By Jo Marchant</p>
         
-<p class="fr-book-desc">First published 2014. Subjects: Bronze age, Mediterranean region, history, Civilization, Sea Peoples, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2008. Subjects: Greece, history, Astronomical clocks, History, Antiquities, Technology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The End of the Bronze Age</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mycenaeans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mycenaeans</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The End of the Bronze Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mycenaeans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mycenaeans</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

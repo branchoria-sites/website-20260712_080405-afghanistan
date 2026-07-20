@@ -361,89 +361,89 @@ These uncertainties explain why reconstruction remains an active scientific fiel
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Much of the Antikythera Machine Is Missing?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Much of the Antikythera Machine Is Missing?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8441297-M.jpg" alt="Cover for Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant">Decoding the Heavens: Solving the Mystery of the World&#x27;s Firs...</a>
-</h4>
-<p class="fr-book-author">By Jo Marchant</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8441297-M.jpg" alt="Cover for Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant">Decoding the Heavens: Solving the Mystery of the World&#x27;s Firs...</a>
+        </h4>
+        <p class="fr-book-author">By Jo Marchant</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Greece, history, Astronomical clocks, History, Antiquities, Technology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focused entirely on the mechanism and its discovery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
-</h4>
-<p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
+        </h4>
+        <p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
         
-<p class="fr-book-desc">First published 2014. Subjects: Bronze age, Mediterranean region, history, Civilization, Sea Peoples, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2014. Subjects: Bronze age, Mediterranean region, history, Civilization, Sea Peoples, History.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Antikythera+Mechanism%3A+The+Story+Behind+the+Genius+of+the+Greek+Computer+and+its+Demise+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Antikythera Mechanism: The Story Behind the Genius of the Greek Computer and its Demise on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Antikythera+Mechanism%3A+The+Story+Behind+the+Genius+of+the+Greek+Computer+and+its+Demise+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Antikythera Mechanism: The Story Behind the Genius of the Greek Computer and its Demise">The Antikythera Mechanism: The Story Behind the Genius of the...</a>
-</h4>
-<p class="fr-book-author">By Jo Marchant</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+portable+cosmos+Alexander+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A portable cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+portable+cosmos+Alexander+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A portable cosmos">A portable cosmos</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Jones</p>
         
-<p class="fr-book-desc">Directly explains the device, research and reconstruction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Antikythera+Mechanism%3A+The+Story+Behind+the+Genius+of+the+Greek+Computer+and+its+Demise+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains evidence for missing components and function.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+portable+cosmos+Alexander+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Decoding+the+Heavens+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding the Heavens on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decoding+the+Heavens+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens">Decoding the Heavens</a>
-</h4>
-<p class="fr-book-author">By Jo Marchant</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Antikythera+Mechanism%3A+The+Story+Behind+the+Genius+of+the+Greek+Computer+and+its+Demise+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Antikythera Mechanism: The Story Behind the Genius of the Greek Computer and its Demise on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Antikythera+Mechanism%3A+The+Story+Behind+the+Genius+of+the+Greek+Computer+and+its+Demise+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Antikythera Mechanism: The Story Behind the Genius of the Greek Computer and its Demise">The Antikythera Mechanism: The Story Behind the Genius of the...</a>
+        </h4>
+        <p class="fr-book-author">By Jo Marchant</p>
         
-<p class="fr-book-desc">Focused entirely on the mechanism and its discovery.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decoding+the+Heavens+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains the device, research and reconstruction.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Antikythera+Mechanism%3A+The+Story+Behind+the+Genius+of+the+Greek+Computer+and+its+Demise+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C.</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Antikythera+Mechanism%3A+The+Story+Behind+the+Genius+of+the+Greek+Computer+and+its+Demise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Antikythera Mechanism: The Story Behind the Genius of the Greek Computer and its Demise</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+portable+cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A portable cosmos</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

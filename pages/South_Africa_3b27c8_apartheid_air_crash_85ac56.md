@@ -409,89 +409,89 @@ Together, the two crashes remain among southern Africa's most significant unreso
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Really Caused Southern Africa&#x27;s Disputed Air Crashes?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Really Caused Southern Africa&#x27;s Disputed Air Crashes?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash+David+Broughton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Helderberg: The Story of the SAA Flight 295 Crash on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash+David+Broughton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Helderberg: The Story of the SAA Flight 295 Crash">The Helderberg: The Story of the SAA Flight 295 Crash</a>
-</h4>
-<p class="fr-book-author">By David Broughton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flight+Failure+Donald+J.+Porter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flight Failure on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Flight+Failure+Donald+J.+Porter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flight Failure">Flight Failure</a>
+        </h4>
+        <p class="fr-book-author">By Donald J. Porter, John Goglia</p>
         
-<p class="fr-book-desc">Directly examines Flight 295 and competing explanations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash+David+Broughton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains investigation methods behind major air crashes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Flight+Failure+Donald+J.+Porter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Death+of+Samora+Machel+Jos%C3%A9+Milhazes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Samora Machel on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Death+of+Samora+Machel+Jos%C3%A9+Milhazes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Samora Machel">The Death of Samora Machel</a>
-</h4>
-<p class="fr-book-author">By José Milhazes</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lie of 1652 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11135860-M.jpg" alt="Cover for The Lie of 1652" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lie of 1652">The Lie of 1652</a>
+        </h4>
+        <p class="fr-book-author">By Patric Tariq Mellet, Patric MELLET</p>
         
-<p class="fr-book-desc">Focuses on the Machel air disaster and its controversies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Death+of+Samora+Machel+Jos%C3%A9+Milhazes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2020. Subjects: Social history, Colonies, History, Slavery, Colonial Labor laws and legislation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Great+South+African+Mysteries+Pat+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great South African Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Great+South+African+Mysteries+Pat+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great South African Mysteries">The Great South African Mysteries</a>
-</h4>
-<p class="fr-book-author">By Pat Hopkins</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash+David+Broughton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Helderberg: The Story of the SAA Flight 295 Crash on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash+David+Broughton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Helderberg: The Story of the SAA Flight 295 Crash">The Helderberg: The Story of the SAA Flight 295 Crash</a>
+        </h4>
+        <p class="fr-book-author">By David Broughton</p>
         
-<p class="fr-book-desc">Includes notable unresolved South African cases.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Great+South+African+Mysteries+Pat+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly examines Flight 295 and competing explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash+David+Broughton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lie of 1652 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11135860-M.jpg" alt="Cover for The Lie of 1652" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lie of 1652">The Lie of 1652</a>
-</h4>
-<p class="fr-book-author">By Patric Tariq Mellet, Patric MELLET</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Death+of+Samora+Machel+Jos%C3%A9+Milhazes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Samora Machel on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Death+of+Samora+Machel+Jos%C3%A9+Milhazes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Samora Machel">The Death of Samora Machel</a>
+        </h4>
+        <p class="fr-book-author">By José Milhazes</p>
         
-<p class="fr-book-desc">First published 2020. Subjects: Social history, Colonies, History, Slavery, Colonial Labor laws and legislation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on the Machel air disaster and its controversies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Death+of+Samora+Machel+Jos%C3%A9+Milhazes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Helderberg: The Story of the SAA Flight 295 Crash</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Samora+Machel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Samora Machel</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+South+African+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great South African Mysteries</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flight+Failure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flight Failure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lie+of+1652&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lie of 1652</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Helderberg: The Story of the SAA Flight 295 Crash</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

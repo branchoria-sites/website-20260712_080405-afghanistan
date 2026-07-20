@@ -361,89 +361,89 @@ Since the late twentieth century, the City of Luxembourg has progressively acqui
 The mystery of La Fontaine therefore lies less in its disappearance than in its remarkable afterlife. Unlike a palace preserved intact, it must be rediscovered fragment by fragment. Every carved stone, buried foundation or forgotten archival drawing contributes to a puzzle that historians have been assembling for generations. The palace can never be recovered in its original form, but each new discovery makes its vanished splendour a little easier to understand.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Happened to Mansfeld&#x27;s Vanished Renaissance Palace?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Happened to Mansfeld&#x27;s Vanished Renaissance Palace?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/538390-M.jpg" alt="Cover for The story of art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of art">The story of art</a>
-</h4>
-<p class="fr-book-author">By E. H. Gombrich</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/538390-M.jpg" alt="Cover for The story of art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of art">The story of art</a>
+        </h4>
+        <p class="fr-book-author">By E. H. Gombrich</p>
         
-<p class="fr-book-desc">First published 1950. Subjects: Art, History, Histoire, Geschichte, Kunst.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains Renaissance artistic influences reflected in princely residences.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brunelleschi%27s+dome+Ross+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brunelleschi&#x27;s dome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/570774-M.jpg" alt="Cover for Brunelleschi&#x27;s dome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Brunelleschi%27s+dome+Ross+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brunelleschi&#x27;s dome">Brunelleschi&#x27;s dome</a>
-</h4>
-<p class="fr-book-author">By Ross King</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brunelleschi%27s+dome+Ross+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brunelleschi&#x27;s dome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/570774-M.jpg" alt="Cover for Brunelleschi&#x27;s dome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Brunelleschi%27s+dome+Ross+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brunelleschi&#x27;s dome">Brunelleschi&#x27;s dome</a>
+        </h4>
+        <p class="fr-book-author">By Ross King</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Architecture, Renaissance, Art, Biography &amp; Autobiography, Buildings, structures, Cathedrals.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Brunelleschi%27s+dome+Ross+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates Renaissance building culture and historical reconstruction.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Brunelleschi%27s+dome+Ross+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Renaissance+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Renaissance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/419614-M.jpg" alt="Cover for The Renaissance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Renaissance+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Renaissance">The Renaissance</a>
-</h4>
-<p class="fr-book-author">By Paul Bede Johnson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+World+History+of+Architecture+Michael+Fazio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A World History of Architecture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1081880-M.jpg" alt="Cover for A World History of Architecture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+World+History+of+Architecture+Michael+Fazio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A World History of Architecture">A World History of Architecture</a>
+        </h4>
+        <p class="fr-book-author">By Michael Fazio, Marian Moffett et al.</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Historia, Intellectual life, Civilización, Renaissance, Civilization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Renaissance+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides Renaissance architectural context for understanding Mansfeld&#x27;s lost palace.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+World+History+of+Architecture+Michael+Fazio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+World+History+of+Architecture+Michael+Fazio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A World History of Architecture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1081880-M.jpg" alt="Cover for A World History of Architecture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+World+History+of+Architecture+Michael+Fazio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A World History of Architecture">A World History of Architecture</a>
-</h4>
-<p class="fr-book-author">By Michael Fazio, Marian Moffett et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Renaissance+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Renaissance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/419614-M.jpg" alt="Cover for The Renaissance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Renaissance+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Renaissance">The Renaissance</a>
+        </h4>
+        <p class="fr-book-author">By Paul Bede Johnson</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: architecture history, architecture, world culture, Architecture, history, Architecture.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+World+History+of+Architecture+Michael+Fazio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Mansfeld&#x27;s palace within its wider cultural era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Renaissance+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of art</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brunelleschi%27s+dome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brunelleschi&#x27;s dome</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Renaissance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Renaissance</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of art</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brunelleschi%27s+dome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brunelleschi&#x27;s dome</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+World+History+of+Architecture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A World History of Architecture</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -360,89 +360,89 @@ The case therefore remains a model historical mystery. The broad outline is wide
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Who Killed the Princes in the Tower?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Who Killed the Princes in the Tower?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Daughter of Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6485299-M.jpg" alt="Cover for The Daughter of Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Daughter of Time">The Daughter of Time</a>
-</h4>
-<p class="fr-book-author">By Josephine Tey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Daughter of Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6485299-M.jpg" alt="Cover for The Daughter of Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Daughter of Time">The Daughter of Time</a>
+        </h4>
+        <p class="fr-book-author">By Josephine Tey</p>
         
-<p class="fr-book-desc">First published 1951. Subjects: Alan Grant (Fictitious character), Fiction, Police, Kings and rulers, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Famously re-examines the evidence surrounding Richard III.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The princes in the tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5525606-M.jpg" alt="Cover for The princes in the tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The princes in the tower">The princes in the tower</a>
-</h4>
-<p class="fr-book-author">By Alison Weir</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The princes in the tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5525606-M.jpg" alt="Cover for The princes in the tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The princes in the tower">The princes in the tower</a>
+        </h4>
+        <p class="fr-book-author">By Alison Weir</p>
         
-<p class="fr-book-desc">First published 1992. Subjects: Biography, History, Kings and rulers, Death and burial, Princes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly examines the disappearance of the princes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Richard III on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1406022-M.jpg" alt="Cover for Richard III" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Richard III">Richard III</a>
-</h4>
-<p class="fr-book-author">By Michael Hicks</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Richard III on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1406022-M.jpg" alt="Cover for Richard III" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Richard III">Richard III</a>
+        </h4>
+        <p class="fr-book-author">By Michael Hicks</p>
         
-<p class="fr-book-desc">First published 1992. Subjects: Kings and rulers, Biography, History, Richard iii, king of england, 1452-1485.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Assesses Richard III&#x27;s role in the mystery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=This+Dan+Jones+Bestselling+%2C4+Books+Collection+Set%2CPowers+and+Thrones+%3A+a+New+History+of+the+Middle+Ages+%2Cthe+Plantagenets+%3A+the+Warrior+Kings+and+Queens+Who+Made+England%2Cthe+Templars+%3A+the+Rise+and+Spectacular+Fall+of+God%27s+Holy+Warriors%2Cthe+Wars+of+the+Roses+Dan+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Dan Jones Bestselling ,4 Books Collection Set,Powers and Thrones : a New History of the Middle Ages ,the Plantagenets : the Warrior Kings and Queens Who Made England,the Templars : the Rise and Spectacular Fall of God&#x27;s Holy Warriors,the Wars of the Roses on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=This+Dan+Jones+Bestselling+%2C4+Books+Collection+Set%2CPowers+and+Thrones+%3A+a+New+History+of+the+Middle+Ages+%2Cthe+Plantagenets+%3A+the+Warrior+Kings+and+Queens+Who+Made+England%2Cthe+Templars+%3A+the+Rise+and+Spectacular+Fall+of+God%27s+Holy+Warriors%2Cthe+Wars+of+the+Roses+Dan+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Dan Jones Bestselling ,4 Books Collection Set,Powers and Thrones : a New History of the Middle Ages ,the Plantagenets : the Warrior Kings and Queens Who Made England,the Templars : the Rise and Spectacular Fall of God&#x27;s Holy Warriors,the Wars of the Roses">This Dan Jones Bestselling ,4 Books Collection Set,Powers and...</a>
-</h4>
-<p class="fr-book-author">By Dan Jones</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The time traveller&#x27;s guide to medieval England on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8728137-M.jpg" alt="Cover for The time traveller&#x27;s guide to medieval England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
+        </h4>
+        <p class="fr-book-author">By Ian Mortimer</p>
         
-<p class="fr-book-desc">First published 2022. Subjects: Great britain, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=This+Dan+Jones+Bestselling+%2C4+Books+Collection+Set%2CPowers+and+Thrones+%3A+a+New+History+of+the+Middle+Ages+%2Cthe+Plantagenets+%3A+the+Warrior+Kings+and+Queens+Who+Made+England%2Cthe+Templars+%3A+the+Rise+and+Spectacular+Fall+of+God%27s+Holy+Warriors%2Cthe+Wars+of+the+Roses+Dan+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand the world in which the events unfolded.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Daughter+of+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Daughter of Time</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+princes+in+the+tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The princes in the tower</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Richard+III&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Richard III</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Daughter+of+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Daughter of Time</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+princes+in+the+tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The princes in the tower</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Richard+III&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Richard III</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

@@ -340,89 +340,89 @@ Romero's assassination illustrates a different kind of historical mystery from a
 For many Salvadorans, the enduring question is therefore not simply "Who killed Archbishop Romero?" but "How did an organised political murder remain protected for so long?" The answer lies in the interaction between clandestine death squads, powerful political allies, institutional obstruction and decades of impunity. That combination transformed a single assassination into one of the defining unresolved questions about governance, accountability and historical memory in modern El Salvador.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Much Is Known About Romero&#x27;s Murder?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Much Is Known About Romero&#x27;s Murder?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oscar Romero and the communion of the saints on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11690924-M.jpg" alt="Cover for Oscar Romero and the communion of the saints" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oscar Romero and the communion of the saints">Oscar Romero and the communion of the saints</a>
-</h4>
-<p class="fr-book-author">By Scott Wright</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oscar Romero and the communion of the saints on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11690924-M.jpg" alt="Cover for Oscar Romero and the communion of the saints" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oscar Romero and the communion of the saints">Oscar Romero and the communion of the saints</a>
+        </h4>
+        <p class="fr-book-author">By Scott Wright</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Bishops, Biography, Catholic Church, Romero, oscar a. (oscar arnulfo), 1917-1980, Catholic church, america.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores Romero&#x27;s life, death and legacy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The massacre at El Mozote on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420963-M.jpg" alt="Cover for The massacre at El Mozote" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
-</h4>
-<p class="fr-book-author">By Mark Danner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The massacre at El Mozote on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420963-M.jpg" alt="Cover for The massacre at El Mozote" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
+        </h4>
+        <p class="fr-book-author">By Mark Danner</p>
         
-<p class="fr-book-desc">First published 1994. Subjects: Politics and government, Massacres, History, El salvador, politics and government, El salvador, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides the broader conflict context surrounding Romero&#x27;s murder.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open One day of life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9671140-M.jpg" alt="Cover for One day of life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One day of life">One day of life</a>
-</h4>
-<p class="fr-book-author">By Manlio Argueta</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+violence+of+love%3A+the+pastoral+wisdom+of+Archbishop+Oscar+Romero+Oscar+A.+Romero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The violence of love: the pastoral wisdom of Archbishop Oscar Romero on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7075104-M.jpg" alt="Cover for The violence of love: the pastoral wisdom of Archbishop Oscar Romero" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+violence+of+love%3A+the+pastoral+wisdom+of+Archbishop+Oscar+Romero+Oscar+A.+Romero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The violence of love: the pastoral wisdom of Archbishop Oscar Romero">The violence of love: the pastoral wisdom of Archbishop Oscar...</a>
+        </h4>
+        <p class="fr-book-author">By Oscar A. Romero</p>
         
-<p class="fr-book-desc">First published 1983. Subjects: war stories, fiction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces Romero&#x27;s thought and the context leading to his assassination.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+violence+of+love%3A+the+pastoral+wisdom+of+Archbishop+Oscar+Romero+Oscar+A.+Romero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+violence+of+love%3A+the+pastoral+wisdom+of+Archbishop+Oscar+Romero+Oscar+A.+Romero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The violence of love: the pastoral wisdom of Archbishop Oscar Romero on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7075104-M.jpg" alt="Cover for The violence of love: the pastoral wisdom of Archbishop Oscar Romero" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+violence+of+love%3A+the+pastoral+wisdom+of+Archbishop+Oscar+Romero+Oscar+A.+Romero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The violence of love: the pastoral wisdom of Archbishop Oscar Romero">The violence of love: the pastoral wisdom of Archbishop Oscar...</a>
-</h4>
-<p class="fr-book-author">By Oscar A. Romero</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open One day of life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9671140-M.jpg" alt="Cover for One day of life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One day of life">One day of life</a>
+        </h4>
+        <p class="fr-book-author">By Manlio Argueta</p>
         
-<p class="fr-book-desc">First published 1989. Subjects: Meditations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+violence+of+love%3A+the+pastoral+wisdom+of+Archbishop+Oscar+Romero+Oscar+A.+Romero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Reflects the atmosphere of repression during Romero&#x27;s era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oscar Romero and the communion of the saints</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The massacre at El Mozote</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=One+day+of+life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">One day of life</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oscar Romero and the communion of the saints</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The massacre at El Mozote</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+violence+of+love%3A+the+pastoral+wisdom+of+Archbishop+Oscar+Romero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The violence of love: the pastoral wisdom of Archbishop Oscar Romero</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

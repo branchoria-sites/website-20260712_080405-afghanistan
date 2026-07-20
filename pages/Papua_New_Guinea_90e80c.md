@@ -1299,89 +1299,89 @@ The strongest cases reward restraint. Earhart’s most likely fate is understand
 Papua New Guinea’s historical enigmas therefore matter less as invitations to conspiracy than as tests of evidence. They show what can be learned when archives, archaeology, local knowledge and modern technology meet—and how much uncertainty can remain when even one of those elements is missing.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Remains Unsolved in Papua New Guinea?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Remains Unsolved in Papua New Guinea?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for Amelia Earhart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6560737-M.jpg" alt="Cover for The search for Amelia Earhart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for Amelia Earhart">The search for Amelia Earhart</a>
-</h4>
-<p class="fr-book-author">By Fred G. Goerner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for Amelia Earhart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6560737-M.jpg" alt="Cover for The search for Amelia Earhart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for Amelia Earhart">The search for Amelia Earhart</a>
+        </h4>
+        <p class="fr-book-author">By Fred G. Goerner</p>
         
-<p class="fr-book-desc">First published 1966. Subjects: Women air pilots, Biography, Women in Aeronautics, Air pilots.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Foundational investigation into Earhart&#x27;s disappearance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amelia Earhart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12791487-M.jpg" alt="Cover for Amelia Earhart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amelia Earhart">Amelia Earhart</a>
-</h4>
-<p class="fr-book-author">By Mike Campbell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amelia Earhart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12791487-M.jpg" alt="Cover for Amelia Earhart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amelia Earhart">Amelia Earhart</a>
+        </h4>
+        <p class="fr-book-author">By Mike Campbell</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Earhart, Amelia,, Voyages and travels, Women air pilots, Biography, United states, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers the most famous unresolved mystery linked to Papua New Guinea.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Sky">Empires of the Sky</a>
-</h4>
-<p class="fr-book-author">By Alexander Rose</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kokoda on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kokoda">Kokoda</a>
+        </h4>
+        <p class="fr-book-author">By Paul Ham</p>
         
-<p class="fr-book-desc">First published 2020. Subjects: Airships, Airplanes, history, Aeronautics, commercial, Aeronautics, biography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the wartime landscape behind many unresolved cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kokoda on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kokoda">Kokoda</a>
-</h4>
-<p class="fr-book-author">By Paul Ham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Sky">Empires of the Sky</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Rose</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: Campaigns, World War, 1939-1945, Papua new guinea, World war, 1939-1945, campaigns, new guinea, Military...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places long-distance pioneering flights into historical context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for Amelia Earhart</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amelia Earhart</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of the Sky</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for Amelia Earhart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amelia Earhart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Kokoda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kokoda</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

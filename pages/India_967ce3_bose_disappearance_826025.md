@@ -359,89 +359,89 @@ When the available evidence is weighed as a whole, the reported death in the Tai
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Did Subhas Chandra Bose Really Die in 1945?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did Subhas Chandra Bose Really Die in 1945?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=His+majesty%27s+opponent+Sugata+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open His majesty&#x27;s opponent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8659065-M.jpg" alt="Cover for His majesty&#x27;s opponent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=His+majesty%27s+opponent+Sugata+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="His majesty&#x27;s opponent">His majesty&#x27;s opponent</a>
-</h4>
-<p class="fr-book-author">By Sugata Bose</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=His+majesty%27s+opponent+Sugata+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open His majesty&#x27;s opponent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8659065-M.jpg" alt="Cover for His majesty&#x27;s opponent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=His+majesty%27s+opponent+Sugata+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="His majesty&#x27;s opponent">His majesty&#x27;s opponent</a>
+        </h4>
+        <p class="fr-book-author">By Sugata Bose</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Politics and government, Nationalists, Biography, Statesmen, Bose, subhas chandra, 1897-1945.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=His+majesty%27s+opponent+Sugata+Bose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains Bose&#x27;s life, wartime activities and the circumstances of his disappearance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=His+majesty%27s+opponent+Sugata+Bose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Indian+struggle%2C+1920-1942+Subhas+Chandra+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Indian struggle, 1920-1942 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/128151-M.jpg" alt="Cover for The Indian struggle," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Indian+struggle%2C+1920-1942+Subhas+Chandra+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indian struggle,">The Indian struggle,</a>
-</h4>
-<p class="fr-book-author">By Subhas Chandra Bose</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open India on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/569100-M.jpg" alt="Cover for India" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="India">India</a>
+        </h4>
+        <p class="fr-book-author">By John Keay</p>
         
-<p class="fr-book-desc">First published 1964. Subjects: Politics and government, Nationalism, World history, India.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Indian+struggle%2C+1920-1942+Subhas+Chandra+Bose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2000. Subjects: India, History, India, history, Ds451 .k365 2000b, 954.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open India on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/569100-M.jpg" alt="Cover for India" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="India">India</a>
-</h4>
-<p class="fr-book-author">By John Keay</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Indian+struggle%2C+Subhas+Chandra+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Indian struggle, on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/128151-M.jpg" alt="Cover for The Indian struggle," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Indian+struggle%2C+Subhas+Chandra+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indian struggle,">The Indian struggle,</a>
+        </h4>
+        <p class="fr-book-author">By Subhas Chandra Bose</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: India, History, India, history, Ds451 .k365 2000b, 954.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides essential background to his political career.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Indian+struggle%2C+Subhas+Chandra+Bose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=India%27s+biggest+cover-up+Anuj+Dhar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open India&#x27;s biggest cover-up on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=India%27s+biggest+cover-up+Anuj+Dhar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="India&#x27;s biggest cover-up">India&#x27;s biggest cover-up</a>
-</h4>
-<p class="fr-book-author">By Anuj Dhar</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=India%27s+biggest+cover-up+Anuj+Dhar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open India&#x27;s biggest cover-up on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=India%27s+biggest+cover-up+Anuj+Dhar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="India&#x27;s biggest cover-up">India&#x27;s biggest cover-up</a>
+        </h4>
+        <p class="fr-book-author">By Anuj Dhar</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Death and burial, Last years, Nationalism, History, Politics and government.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=India%27s+biggest+cover-up+Anuj+Dhar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Presents one of the major alternative interpretations of Bose&#x27;s fate.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=India%27s+biggest+cover-up+Anuj+Dhar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=His+majesty%27s+opponent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">His majesty&#x27;s opponent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Indian+struggle%2C+1920+1942&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Indian struggle,</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=India&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">India</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=His+majesty%27s+opponent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">His majesty&#x27;s opponent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=India&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">India</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Indian+struggle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Indian struggle</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

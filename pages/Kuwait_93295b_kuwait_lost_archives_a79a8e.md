@@ -349,89 +349,89 @@ The result is that Kuwait's missing treasures are measured not only in priceless
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Are Kuwait&#x27;s Missing Archives and Treasures?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Are Kuwait&#x27;s Missing Archives and Treasures?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The monuments men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8759225-M.jpg" alt="Cover for The monuments men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
-</h4>
-<p class="fr-book-author">By Robert M. Edsel</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The monuments men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8759225-M.jpg" alt="Cover for The monuments men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
+        </h4>
+        <p class="fr-book-author">By Robert M. Edsel</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Allied Forces, Art treasures in war, Art and the war, Confiscations and contributions, Protection.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on recovering looted cultural treasures after war.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Middle East on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/425125-M.jpg" alt="Cover for The Middle East" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Middle East">The Middle East</a>
-</h4>
-<p class="fr-book-author">By Bernard Lewis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Destruction of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/917560-M.jpg" alt="Cover for The Destruction of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Destruction of Memory">The Destruction of Memory</a>
+        </h4>
+        <p class="fr-book-author">By Robert Bevan</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Civilization, Economic conditions, Forecasting, History, Politics and culture.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines destruction and theft of cultural heritage during conflict.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Destruction of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/917560-M.jpg" alt="Cover for The Destruction of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Destruction of Memory">The Destruction of Memory</a>
-</h4>
-<p class="fr-book-author">By Robert Bevan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Middle East on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/425125-M.jpg" alt="Cover for The Middle East" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Middle East">The Middle East</a>
+        </h4>
+        <p class="fr-book-author">By Bernard Lewis</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Buildings, Kriegsschaden, Pillage, Kulturgut, Baudenkmal.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1995. Subjects: Civilization, Economic conditions, Forecasting, History, Politics and culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Kleptopia+How+Dirty+Money+is+Conquering+the+World+%26+The+Looting+Machine+By+Tom+Burgis+2+Books+Collection+Set+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kleptopia How Dirty Money is Conquering the World &amp; The Looting Machine By Tom Burgis 2 Books Collection Set on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Kleptopia+How+Dirty+Money+is+Conquering+the+World+%26+The+Looting+Machine+By+Tom+Burgis+2+Books+Collection+Set+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kleptopia How Dirty Money is Conquering the World &amp; The Looting Machine By Tom Burgis 2 Books Collection Set">Kleptopia How Dirty Money is Conquering the World &amp; The Looti...</a>
-</h4>
-<p class="fr-book-author">By Tom Burgis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Kleptopia+How+Dirty+Money+is+Conquering+the+World+%26+The+Looting+Machine+By+Tom+Burgis+2+Books+Collection+Set+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kleptopia How Dirty Money is Conquering the World &amp; The Looting Machine By Tom Burgis 2 Books Collection Set on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Kleptopia+How+Dirty+Money+is+Conquering+the+World+%26+The+Looting+Machine+By+Tom+Burgis+2+Books+Collection+Set+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kleptopia How Dirty Money is Conquering the World &amp; The Looting Machine By Tom Burgis 2 Books Collection Set">Kleptopia How Dirty Money is Conquering the World &amp; The Looti...</a>
+        </h4>
+        <p class="fr-book-author">By Tom Burgis</p>
         
-<p class="fr-book-desc">First published 2020.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Kleptopia+How+Dirty+Money+is+Conquering+the+World+%26+The+Looting+Machine+By+Tom+Burgis+2+Books+Collection+Set+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2020.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Kleptopia+How+Dirty+Money+is+Conquering+the+World+%26+The+Looting+Machine+By+Tom+Burgis+2+Books+Collection+Set+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+monuments+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The monuments men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Middle+East&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Middle East</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Destruction+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Destruction of Memory</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+monuments+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The monuments men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Destruction+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Destruction of Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Middle+East&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Middle East</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

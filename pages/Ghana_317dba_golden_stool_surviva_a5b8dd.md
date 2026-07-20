@@ -356,89 +356,89 @@ The genuine historical mystery therefore lies not in the object's survival but i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Did the Golden Stool Evade the British?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Did the Golden Stool Evade the British?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asante in the nineteenth century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4066941-M.jpg" alt="Cover for Asante in the nineteenth century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asante in the nineteenth century">Asante in the nineteenth century</a>
-</h4>
-<p class="fr-book-author">By Ivor Wilks</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asante in the nineteenth century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4066941-M.jpg" alt="Cover for Asante in the nineteenth century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asante in the nineteenth century">Asante in the nineteenth century</a>
+        </h4>
+        <p class="fr-book-author">By Ivor Wilks</p>
         
-<p class="fr-book-desc">First published 1975. Subjects: Politics and government, Ashanti (African people), Ghana, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains colonial conflict and Asante political institutions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open `The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5439738-M.jpg" alt="Cover for `The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="`The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh">`The History of Ashanti Kings and the Whole Country Itself&#x27; a...</a>
-</h4>
-<p class="fr-book-author">By Agyeman Prempeh, E. Akyeampong et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Ghana+W.+E.+F.+Ward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Ghana on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9654225-M.jpg" alt="Cover for A history of Ghana" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+history+of+Ghana+W.+E.+F.+Ward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Ghana">A history of Ghana</a>
+        </h4>
+        <p class="fr-book-author">By W. E. F. Ward</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Ashanti (african people), history, Ghana, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places the War of the Golden Stool into national history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+history+of+Ghana+W.+E.+F.+Ward&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Africa+in+History+by+Basil+Davidson+%281995-01-01%29+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa in History by Basil Davidson (1995-01-01) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Africa+in+History+by+Basil+Davidson+%281995-01-01%29+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa in History by Basil Davidson (1995-01-01)">Africa in History by Basil Davidson (1995-01-01)</a>
-</h4>
-<p class="fr-book-author">By Basil Davidson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open `The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5439738-M.jpg" alt="Cover for `The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="`The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh">`The History of Ashanti Kings and the Whole Country Itself&#x27; a...</a>
+        </h4>
+        <p class="fr-book-author">By Agyeman Prempeh, E. Akyeampong et al.</p>
         
-<p class="fr-book-desc">First published 1656.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Africa+in+History+by+Basil+Davidson+%281995-01-01%29+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2003. Subjects: Ashanti (african people), history, Ghana, history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden stool on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden stool">The Golden stool</a>
-</h4>
-<p class="fr-book-author">By Enid Schildkrout, Carol Gelber</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden stool on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden stool">The Golden stool</a>
+        </h4>
+        <p class="fr-book-author">By Enid Schildkrout, Carol Gelber</p>
         
-<p class="fr-book-desc">First published 1987. Subjects: Social life and customs, Ashanti (African people), Congresses, History, Antiquities.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses directly on the object, its symbolism and history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asante in the nineteenth century</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">`The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Africa+in+History+by+Basil+Davidson+%281995+01+01%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Africa in History by Basil Davidson (1995 01 01)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asante in the nineteenth century</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Ghana&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Ghana</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">`The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

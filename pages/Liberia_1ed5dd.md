@@ -1311,89 +1311,89 @@ That distinction protects Liberia’s history from two opposite errors: treating
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt Liberia&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt Liberia&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The house at Sugar Beach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2579664-M.jpg" alt="Cover for The house at Sugar Beach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The house at Sugar Beach">The house at Sugar Beach</a>
-</h4>
-<p class="fr-book-author">By Helene Cooper, Helene Cooper</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mask of anarchy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1544155-M.jpg" alt="Cover for The mask of anarchy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mask of anarchy">The mask of anarchy</a>
+        </h4>
+        <p class="fr-book-author">By Ellis, Stephen</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Biography, Childhood and youth, Elite (Social sciences), History, Journalists.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for unresolved political violence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mask of anarchy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1544155-M.jpg" alt="Cover for The mask of anarchy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mask of anarchy">The mask of anarchy</a>
-</h4>
-<p class="fr-book-author">By Ellis, Stephen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The house at Sugar Beach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2579664-M.jpg" alt="Cover for The house at Sugar Beach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The house at Sugar Beach">The house at Sugar Beach</a>
+        </h4>
+        <p class="fr-book-author">By Helene Cooper, Helene Cooper</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Liberia Civil War, 1989-, Religious aspects, Sande Society, Religion, Poro (Society).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces Liberia&#x27;s history through a compelling personal narrative.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Liberia: The Violence of Democracy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Liberia: The Violence of Democracy">Liberia: The Violence of Democracy</a>
-</h4>
-<p class="fr-book-author">By Amos Sawyer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Liberia: The Violence of Democracy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Liberia: The Violence of Democracy">Liberia: The Violence of Democracy</a>
+        </h4>
+        <p class="fr-book-author">By Amos Sawyer</p>
         
-<p class="fr-book-desc">Explains many of the political mysteries covered on the page.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains many of the political mysteries covered on the page.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=There+Was+No+Meekness+James+Ciment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open There Was No Meekness on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=There+Was+No+Meekness+James+Ciment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="There Was No Meekness">There Was No Meekness</a>
-</h4>
-<p class="fr-book-author">By James Ciment</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=There+Was+No+Meekness+James+Ciment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open There Was No Meekness on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=There+Was+No+Meekness+James+Ciment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="There Was No Meekness">There Was No Meekness</a>
+        </h4>
+        <p class="fr-book-author">By James Ciment</p>
         
-<p class="fr-book-desc">Explores Liberia&#x27;s historical development.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=There+Was+No+Meekness+James+Ciment&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores Liberia&#x27;s historical development.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=There+Was+No+Meekness+James+Ciment&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The house at Sugar Beach</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mask+of+anarchy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mask of anarchy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Liberia: The Violence of Democracy</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mask+of+anarchy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mask of anarchy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The house at Sugar Beach</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Liberia: The Violence of Democracy</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -320,89 +320,89 @@ For historians, the unresolved burial is therefore less a puzzle awaiting a sens
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Was Francisco de Miranda Buried?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Was Francisco de Miranda Buried?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Miranda%3A+The+First+Venezuelan+Karen+Racine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Miranda: The First Venezuelan on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Miranda%3A+The+First+Venezuelan+Karen+Racine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miranda: The First Venezuelan">Miranda: The First Venezuelan</a>
-</h4>
-<p class="fr-book-author">By Karen Racine</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Born in blood and fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253004-M.jpg" alt="Cover for Born in blood and fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in blood and fire">Born in blood and fire</a>
+        </h4>
+        <p class="fr-book-author">By John Charles Chasteen</p>
         
-<p class="fr-book-desc">Best single-volume account of Miranda&#x27;s life, imprisonment and death.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Miranda%3A+The+First+Venezuelan+Karen+Racine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the Latin American independence movements that shaped Miranda&#x27;s legacy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Bol%C3%ADvar%3A+American+Liberator+Marie+Arana&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bolívar: American Liberator on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bol%C3%ADvar%3A+American+Liberator+Marie+Arana&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bolívar: American Liberator">Bolívar: American Liberator</a>
-</h4>
-<p class="fr-book-author">By Marie Arana</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The General in his Labyrinth on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The General in his Labyrinth">The General in his Labyrinth</a>
+        </h4>
+        <p class="fr-book-author">By Gabriel Garcia Marquez</p>
         
-<p class="fr-book-desc">Places Miranda within the wider independence movement.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bol%C3%ADvar%3A+American+Liberator+Marie+Arana&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Broadens reader interest in the independence era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Born in blood and fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253004-M.jpg" alt="Cover for Born in blood and fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in blood and fire">Born in blood and fire</a>
-</h4>
-<p class="fr-book-author">By John Charles Chasteen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bolívar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bolívar">Bolívar</a>
+        </h4>
+        <p class="fr-book-author">By Arana, Marie (Writer)</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Histoire, Geschichte, History, Latin america, history, F1410 .c4397 2006.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Miranda within the wider independence movement.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The General in his Labyrinth on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The General in his Labyrinth">The General in his Labyrinth</a>
-</h4>
-<p class="fr-book-author">By Gabriel Garcia Marquez</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Miranda%3A+The+First+Venezuelan+Karen+Racine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Miranda: The First Venezuelan on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Miranda%3A+The+First+Venezuelan+Karen+Racine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miranda: The First Venezuelan">Miranda: The First Venezuelan</a>
+        </h4>
+        <p class="fr-book-author">By Karen Racine</p>
         
-<p class="fr-book-desc">First published 1990.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Best single-volume account of Miranda&#x27;s life, imprisonment and death.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Miranda%3A+The+First+Venezuelan+Karen+Racine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Miranda%3A+The+First+Venezuelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Miranda: The First Venezuelan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bol%C3%ADvar%3A+American+Liberator&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bolívar: American Liberator</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Born+in+blood+and+fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Born in blood and fire</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Born+in+blood+and+fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Born in blood and fire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The General in his Labyrinth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bol%C3%ADvar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bolívar</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

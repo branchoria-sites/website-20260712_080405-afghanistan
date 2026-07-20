@@ -335,89 +335,72 @@ For that reason, the Salt Men occupy a distinctive place in Iran's historical he
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Killed the Salt Men of Chehrabad?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Killed the Salt Men of Chehrabad?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Iran%3A+Empire+of+the+Mind+Michael+Axworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Iran: Empire of the Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6436573-M.jpg" alt="Cover for Iran: Empire of the Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Iran%3A+Empire+of+the+Mind+Michael+Axworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iran: Empire of the Mind">Iran: Empire of the Mind</a>
-</h4>
-<p class="fr-book-author">By Michael Axworthy</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Iran%3A+Empire+of+the+Mind+Michael+Axworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Iran: Empire of the Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6436573-M.jpg" alt="Cover for Iran: Empire of the Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Iran%3A+Empire+of+the+Mind+Michael+Axworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iran: Empire of the Mind">Iran: Empire of the Mind</a>
+        </h4>
+        <p class="fr-book-author">By Michael Axworthy</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: History, Nonfiction, Iran, history, Iran, civilization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Iran%3A+Empire+of+the+Mind+Michael+Axworthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places the Achaemenid and Sasanian periods represented at Chehrabad within the longer history of Iran.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Iran%3A+Empire+of+the+Mind+Michael+Axworthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Persians+Homa+Katouzian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Persians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10212512-M.jpg" alt="Cover for The Persians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Persians+Homa+Katouzian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Persians">The Persians</a>
-</h4>
-<p class="fr-book-author">By Homa Katouzian</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Persians+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Persians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13455944-M.jpg" alt="Cover for Persians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Persians+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Persians">Persians</a>
+        </h4>
+        <p class="fr-book-author">By Lloyd Llewellyn-Jones</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: History, Regions &amp; Countries - Asia &amp; the Middle East, History &amp; Archaeology, Middle East, General.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Persians+Homa+Katouzian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Gives readers the chronological and cultural framework needed to understand the different eras of mining at Chehrabad.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Persians+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Persians+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Persians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13455944-M.jpg" alt="Cover for Persians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Persians+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Persians">Persians</a>
-</h4>
-<p class="fr-book-author">By Lloyd Llewellyn-Jones</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mummy+Congress%2C+Science%2C+Obsession%2C+and+the+Everlasting+Dead+Heather+Pringle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mummy Congress, Science, Obsession, and the Everlasting Dead on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mummy+Congress%2C+Science%2C+Obsession%2C+and+the+Everlasting+Dead+Heather+Pringle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mummy Congress, Science, Obsession, and the Everlasting Dead">The Mummy Congress, Science, Obsession, and the Everlasting Dead</a>
+        </h4>
+        <p class="fr-book-author">By Heather Pringle</p>
         
-<p class="fr-book-desc">First published 2022. Subjects: Persia, ancient history, Asian / Middle Eastern history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Persians+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2001.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mummy+Congress%2C+Science%2C+Obsession%2C+and+the+Everlasting+Dead+Heather+Pringle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mummy+Congress%2C+Science%2C+Obsession%2C+and+the+Everlasting+Dead+Heather+Pringle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mummy Congress, Science, Obsession, and the Everlasting Dead on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mummy+Congress%2C+Science%2C+Obsession%2C+and+the+Everlasting+Dead+Heather+Pringle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mummy Congress, Science, Obsession, and the Everlasting Dead">The Mummy Congress, Science, Obsession, and the Everlasting Dead</a>
-</h4>
-<p class="fr-book-author">By Heather Pringle</p>
-        
-<p class="fr-book-desc">First published 2001.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mummy+Congress%2C+Science%2C+Obsession%2C+and+the+Everlasting+Dead+Heather+Pringle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Iran%3A+Empire+of+the+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Iran: Empire of the Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persians</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Persians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Persians</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Iran%3A+Empire+of+the+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Iran: Empire of the Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Persians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Persians</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mummy+Congress%2C+Science%2C+Obsession%2C+and+the+Everlasting+Dead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mummy Congress, Science, Obsession, and the Everlasting Dead</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

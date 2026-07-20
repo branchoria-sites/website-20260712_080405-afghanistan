@@ -353,89 +353,89 @@ That makes the disc an important reminder that archaeology often advances throug
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Can the Phaistos Disc Ever Be Read?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can the Phaistos Disc Ever Be Read?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8441297-M.jpg" alt="Cover for Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant">Decoding the Heavens: Solving the Mystery of the World&#x27;s Firs...</a>
-</h4>
-<p class="fr-book-author">By Jo Marchant</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Riddle of the Labyrinth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10658794-M.jpg" alt="Cover for Riddle of the Labyrinth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Riddle of the Labyrinth">Riddle of the Labyrinth</a>
+        </h4>
+        <p class="fr-book-author">By Margalit Fox</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Greece, history, Astronomical clocks, History, Antiquities, Technology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Excellent entry point for understanding why the Phaistos Disc remains unread.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+decipherment+of+linear+B+John+Chadwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The decipherment of linear B on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6484945-M.jpg" alt="Cover for The decipherment of linear B" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+decipherment+of+linear+B+John+Chadwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The decipherment of linear B">The decipherment of linear B</a>
-</h4>
-<p class="fr-book-author">By John Chadwick</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+decipherment+of+linear+B+John+Chadwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The decipherment of linear B on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6484945-M.jpg" alt="Cover for The decipherment of linear B" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+decipherment+of+linear+B+John+Chadwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The decipherment of linear B">The decipherment of linear B</a>
+        </h4>
+        <p class="fr-book-author">By John Chadwick</p>
         
-<p class="fr-book-desc">First published 1958. Subjects: Inscriptions, Inscriptions, Linear B, Inscriptions, Linear B., Linear B Inscriptions, Michael Ventris.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+decipherment+of+linear+B+John+Chadwick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows why the Phaistos Disc has resisted similar success.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+decipherment+of+linear+B+John+Chadwick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The End of the Bronze Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8486475-M.jpg" alt="Cover for The End of the Bronze Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The End of the Bronze Age">The End of the Bronze Age</a>
-</h4>
-<p class="fr-book-author">By Robert Drews</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8441297-M.jpg" alt="Cover for Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant">Decoding the Heavens: Solving the Mystery of the World&#x27;s Firs...</a>
+        </h4>
+        <p class="fr-book-author">By Jo Marchant</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Bronze age, Prehistoric Warfare, Chariot warfare, Prehistoric Weapons, Antiquities.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2008. Subjects: Greece, history, Astronomical clocks, History, Antiquities, Technology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Riddle of the Labyrinth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10658794-M.jpg" alt="Cover for Riddle of the Labyrinth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Riddle of the Labyrinth">Riddle of the Labyrinth</a>
-</h4>
-<p class="fr-book-author">By Margalit Fox</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The End of the Bronze Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8486475-M.jpg" alt="Cover for The End of the Bronze Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The End of the Bronze Age">The End of the Bronze Age</a>
+        </h4>
+        <p class="fr-book-author">By Robert Drews</p>
         
-<p class="fr-book-desc">First published 2013. Subjects: Ventris, michael, 1922-1956, Inscriptions, linear b, Knossos (extinct city), Evans, arthur, sir, 1851-194...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1995. Subjects: Bronze age, Prehistoric Warfare, Chariot warfare, Prehistoric Weapons, Antiquities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+decipherment+of+linear+B&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The decipherment of linear B</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The End of the Bronze Age</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Riddle of the Labyrinth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+decipherment+of+linear+B&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The decipherment of linear B</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
