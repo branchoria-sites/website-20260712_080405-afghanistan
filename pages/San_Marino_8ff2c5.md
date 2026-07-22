@@ -1321,16 +1321,16 @@ The strongest evidence does not overturn that story. It makes it more human. San
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8848108-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By Peter Frankopan</p>
+
         <p class="fr-book-desc">Broadens understanding of the wider historical networks affecting Europe.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1344,7 +1344,7 @@ The strongest evidence does not overturn that story. It makes it more human. San
           <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of Italy">The pursuit of Italy</a>
         </h4>
         <p class="fr-book-author">By Gilmour, David</p>
-        
+
         <p class="fr-book-desc">Places San Marino within the wider history of Italy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ The strongest evidence does not overturn that story. It makes it more human. San
           <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)">By Morris Bishop - The Middle Ages (American Heritage Library...</a>
         </h4>
         <p class="fr-book-author">By Morris Bishop</p>
-        
+
         <p class="fr-book-desc">First published 2001.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ The strongest evidence does not overturn that story. It makes it more human. San
           <a href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of the Decline and Fall of the Roman Empire">The History of the Decline and Fall of the Roman Empire</a>
         </h4>
         <p class="fr-book-author">By Edward Gibbon</p>
-        
+
         <p class="fr-book-desc">Provides broad historical context for late Roman and early medieval traditions linked to San Marino.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

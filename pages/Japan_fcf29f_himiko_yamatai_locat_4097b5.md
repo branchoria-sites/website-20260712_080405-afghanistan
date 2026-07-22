@@ -387,7 +387,7 @@ Until archaeologists uncover an inscription explicitly naming Himiko or Yamatai,
           <a href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Japan">A history of Japan</a>
         </h4>
         <p class="fr-book-author">By Sansom, George Bailey Sir</p>
-        
+
         <p class="fr-book-desc">Includes early Japanese state formation and Yamatai debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Until archaeologists uncover an inscription explicitly naming Himiko or Yamatai,
           <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Modern History of Japan">A Modern History of Japan</a>
         </h4>
         <p class="fr-book-author">By Andrew Gordon</p>
-        
+
         <p class="fr-book-desc">First published 2002. Subjects: History, Nonfiction, Japan, history, Edo-Zeit, Meiji-Periode.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Until archaeologists uncover an inscription explicitly naming Himiko or Yamatai,
           <a href="https://www.amazon.com/s?k=Lost+Japan+Alex+Kerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Japan">Lost Japan</a>
         </h4>
         <p class="fr-book-author">By Alex Kerr</p>
-        
+
         <p class="fr-book-desc">First published 1996. Subjects: Fiction, Travel Literature.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+Japan+Alex+Kerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ Until archaeologists uncover an inscription explicitly naming Himiko or Yamatai,
           <a href="https://www.amazon.com/s?k=Japan+Before+Buddhism+Charles+T.+Keally&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan Before Buddhism">Japan Before Buddhism</a>
         </h4>
         <p class="fr-book-author">By Charles T. Keally</p>
-        
+
         <p class="fr-book-desc">Directly covers the Yayoi period and background to Himiko.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Japan+Before+Buddhism+Charles+T.+Keally&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

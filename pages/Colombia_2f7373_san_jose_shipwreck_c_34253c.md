@@ -329,7 +329,7 @@ For historians, archaeologists and the public, the most important question is no
           <a href="https://www.amazon.com/s?k=Empire+of+Blue+Water+Stephan+Talty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire of Blue Water">Empire of Blue Water</a>
         </h4>
         <p class="fr-book-author">By Stephan Talty</p>
-        
+
         <p class="fr-book-desc">Explores the colonial Caribbean world surrounding the San José.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empire+of+Blue+Water+Stephan+Talty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ For historians, archaeologists and the public, the most important question is no
           <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Days of the Incas">The Last Days of the Incas</a>
         </h4>
         <p class="fr-book-author">By Kim MacQuarrie</p>
-        
+
         <p class="fr-book-desc">Provides wider Spanish imperial context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ For historians, archaeologists and the public, the most important question is no
           <a href="https://www.amazon.com/s?k=The+Sea+Hunters+Clive+Cussler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Hunters">The Sea Hunters</a>
         </h4>
         <p class="fr-book-author">By Clive Cussler, Craig Dirgo</p>
-        
+
         <p class="fr-book-desc">Strong fit for readers fascinated by historic wrecks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sea+Hunters+Clive+Cussler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For historians, archaeologists and the public, the most important question is no
           <a href="https://www.amazon.com/s?k=Underwater+archaeology+Nautical+Archaeology+Society.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underwater archaeology">Underwater archaeology</a>
         </h4>
         <p class="fr-book-author">By Nautical Archaeology Society.</p>
-        
+
         <p class="fr-book-desc">Explains how shipwrecks are investigated and preserved.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Underwater+archaeology+Nautical+Archaeology+Society.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

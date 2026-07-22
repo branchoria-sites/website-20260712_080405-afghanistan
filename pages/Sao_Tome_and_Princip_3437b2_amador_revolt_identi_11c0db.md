@@ -363,7 +363,7 @@ The enduring mystery lies elsewhere. Historians still cannot answer with confide
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of colonial violence and resistance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The enduring mystery lies elsewhere. Historians still cannot answer with confide
           <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The slave trade">The slave trade</a>
         </h4>
         <p class="fr-book-author">By Hugh Thomas</p>
-        
+
         <p class="fr-book-desc">Provides context for the slave revolt led by Amador.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The enduring mystery lies elsewhere. Historians still cannot answer with confide
           <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in Blackness">Born in Blackness</a>
         </h4>
         <p class="fr-book-author">By Howard W. French</p>
-        
+
         <p class="fr-book-desc">Examines Portugal&#x27;s Atlantic empire and African history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The enduring mystery lies elsewhere. Historians still cannot answer with confide
           <a href="https://www.amazon.com/s?k=Many+thousands+gone+Ira+Berlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Many thousands gone">Many thousands gone</a>
         </h4>
         <p class="fr-book-author">By Ira Berlin</p>
-        
+
         <p class="fr-book-desc">Helps explain the societies from which revolts emerged.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Many+thousands+gone+Ira+Berlin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

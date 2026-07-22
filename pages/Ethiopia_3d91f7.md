@@ -1349,7 +1349,7 @@ The best Ethiopian mysteries therefore reward a middle position: respect traditi
           <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sign and the Seal">The Sign and the Seal</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Explores the Ark of the Covenant tradition and Ethiopian history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ The best Ethiopian mysteries therefore reward a middle position: respect traditi
           <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Ethiopia">A history of Ethiopia</a>
         </h4>
         <p class="fr-book-author">By Harold G. Marcus</p>
-        
+
         <p class="fr-book-desc">Provides essential context for Ethiopia&#x27;s historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ The best Ethiopian mysteries therefore reward a middle position: respect traditi
           <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ethiopians">The Ethiopians</a>
         </h4>
         <p class="fr-book-author">By Pankhurst, Richard.</p>
-        
+
         <p class="fr-book-desc">Covers Aksum, Lalibela, monarchy and cultural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1400,7 +1400,7 @@ The best Ethiopian mysteries therefore reward a middle position: respect traditi
           <a href="https://www.amazon.com/s?k=The+Prester+quest+Nicholas+Jubber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Prester quest">The Prester quest</a>
         </h4>
         <p class="fr-book-author">By Nicholas Jubber</p>
-        
+
         <p class="fr-book-desc">Explores Ethiopia&#x27;s myths, history and enduring legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Prester+quest+Nicholas+Jubber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

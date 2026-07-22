@@ -1349,7 +1349,7 @@ Malta’s mysteries are most compelling when uncertainty is preserved rather tha
           <a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malta, prehistory and temples">Malta, prehistory and temples</a>
         </h4>
         <p class="fr-book-author">By David H. Trump</p>
-        
+
         <p class="fr-book-desc">Covers the major archaeological mysteries of prehistoric Malta.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ Malta’s mysteries are most compelling when uncertainty is preserved rather tha
           <a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of Malta">The story of Malta</a>
         </h4>
         <p class="fr-book-author">By Brian Blouet</p>
-        
+
         <p class="fr-book-desc">Provides historical context across multiple mystery topics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ Malta’s mysteries are most compelling when uncertainty is preserved rather tha
           <a href="https://www.amazon.com/s?k=The+Great+Siege%2C+Malta+1565+%3A+Clash+of+Cultures+Ernle+Dusgate+Selby+Bradford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Siege, Malta 1565 : Clash of Cultures">The Great Siege, Malta 1565 : Clash of Cultures</a>
         </h4>
         <p class="fr-book-author">By Ernle Dusgate Selby Bradford</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: Malta, history, siege, 1565.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Siege%2C+Malta+1565+%3A+Clash+of+Cultures+Ernle+Dusgate+Selby+Bradford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -357,7 +357,7 @@ The mystery, therefore, is no longer whether Mañé disappeared at the hands of 
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Illustrates colonial systems and abuses across Central Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ The mystery, therefore, is no longer whether Mañé disappeared at the hands of 
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Explains decolonisation and authoritarian transitions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The mystery, therefore, is no longer whether Mañé disappeared at the hands of 
           <a href="https://www.amazon.com/s?k=Historical+dictionary+of+Equatorial+Guinea+Max+Liniger-Goumaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical dictionary of Equatorial Guinea">Historical dictionary of Equatorial Guinea</a>
         </h4>
         <p class="fr-book-author">By Max Liniger-Goumaz</p>
-        
+
         <p class="fr-book-desc">Covers nationalist leaders and colonial-era politics including Mañé.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Historical+dictionary+of+Equatorial+Guinea+Max+Liniger-Goumaz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The mystery, therefore, is no longer whether Mañé disappeared at the hands of 
           <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The state of Africa">The state of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Frames post-colonial political developments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1322,7 +1322,7 @@ The greatest national enigma is therefore the absence of a full public account o
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Useful background on colonial violence and historical documentation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1339,7 +1339,7 @@ The greatest national enigma is therefore the absence of a full public account o
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places Equatorial Guinea within post-independence African politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1356,7 +1356,7 @@ The greatest national enigma is therefore the absence of a full public account o
           <a href="https://www.amazon.com/s?k=Historical+dictionary+of+Equatorial+Guinea+Max+Liniger-Goumaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical dictionary of Equatorial Guinea">Historical dictionary of Equatorial Guinea</a>
         </h4>
         <p class="fr-book-author">By Max Liniger-Goumaz</p>
-        
+
         <p class="fr-book-desc">Broad coverage of Equatorial Guinea&#x27;s political and historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Historical+dictionary+of+Equatorial+Guinea+Max+Liniger-Goumaz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1373,7 +1373,7 @@ The greatest national enigma is therefore the absence of a full public account o
           <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The state of Africa">The state of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Explains dictatorship, decolonisation and state formation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

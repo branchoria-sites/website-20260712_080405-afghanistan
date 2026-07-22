@@ -359,7 +359,7 @@ The enduring mystery therefore lies not only in who committed these killings, bu
           <a href="https://www.amazon.com/s?k=White+mischief+James+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="White mischief">White mischief</a>
         </h4>
         <p class="fr-book-author">By James Fox, James Fox</p>
-        
+
         <p class="fr-book-desc">Directly explores one of Kenya&#x27;s most famous unsolved killings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=White+mischief+James+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ The enduring mystery therefore lies not only in who committed these killings, bu
           <a href="https://www.amazon.com/s?k=It%27s+Our+Turn+to+Eat+Michela+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s Our Turn to Eat">It&#x27;s Our Turn to Eat</a>
         </h4>
         <p class="fr-book-author">By Michela Wrong</p>
-        
+
         <p class="fr-book-desc">Helps explain institutional patterns behind unresolved political crimes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=It%27s+Our+Turn+to+Eat+Michela+Wrong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ The enduring mystery therefore lies not only in who committed these killings, bu
           <a href="https://www.amazon.com/s?k=Histories+of+the+Hanged+David+M.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Histories of the Hanged">Histories of the Hanged</a>
         </h4>
         <p class="fr-book-author">By David M. Anderson</p>
-        
+
         <p class="fr-book-desc">Provides colonial background relevant to the Lord Erroll era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Histories+of+the+Hanged+David+M.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ The enduring mystery therefore lies not only in who committed these killings, bu
           <a href="https://www.amazon.com/s?k=Kenya+Charles+Hornsby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kenya">Kenya</a>
         </h4>
         <p class="fr-book-author">By Charles Hornsby</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Politics and government, Social conditions, Economic conditions, History, Kenya, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kenya+Charles+Hornsby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

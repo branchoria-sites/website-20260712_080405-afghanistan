@@ -1323,7 +1323,7 @@ The surviving evidence rarely offers the satisfaction of a final culprit, a reco
           <a href="https://www.amazon.com/s?k=Malawi%3B+a+political+and+economic+history+John+G.+Pike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malawi; a political and economic history">Malawi; a political and economic history</a>
         </h4>
         <p class="fr-book-author">By John G. Pike</p>
-        
+
         <p class="fr-book-desc">Provides context for Malawi&#x27;s major historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Malawi%3B+a+political+and+economic+history+John+G.+Pike&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1340,7 +1340,7 @@ The surviving evidence rarely offers the satisfaction of a final culprit, a reco
           <a href="https://www.amazon.com/s?k=A+History+of+Malawi%2C+1859-1966+John+McCracken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Malawi, 1859-1966">A History of Malawi, 1859-1966</a>
         </h4>
         <p class="fr-book-author">By John McCracken</p>
-        
+
         <p class="fr-book-desc">Explains Malawi&#x27;s historical foundations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+Malawi%2C+1859-1966+John+McCracken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1357,7 +1357,7 @@ The surviving evidence rarely offers the satisfaction of a final culprit, a reco
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides political context for Malawi&#x27;s twentieth-century events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1374,7 +1374,7 @@ The surviving evidence rarely offers the satisfaction of a final culprit, a reco
           <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark star safari">Dark star safari</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Offers accessible cultural and historical observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

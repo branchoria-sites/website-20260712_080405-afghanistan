@@ -348,7 +348,7 @@ For historians, the mystery is therefore narrower than popular retellings someti
           <a href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prisoners of geography">Prisoners of geography</a>
         </h4>
         <p class="fr-book-author">By Tim Marshall</p>
-        
+
         <p class="fr-book-desc">Helps explain the regional strategic environment around Bhutan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ For historians, the mystery is therefore narrower than popular retellings someti
           <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the sky and the earth">Beyond the sky and the earth</a>
         </h4>
         <p class="fr-book-author">By Jamie Zeppa</p>
-        
+
         <p class="fr-book-desc">Introduces Bhutanese society and institutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For historians, the mystery is therefore narrower than popular retellings someti
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Game">The Great Game</a>
         </h4>
         <p class="fr-book-author">By Peter Hopkirk</p>
-        
+
         <p class="fr-book-desc">Provides regional political background relevant to Himalayan states.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For historians, the mystery is therefore narrower than popular retellings someti
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
         </h4>
         <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Archaeology, Textbooks, Methodology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

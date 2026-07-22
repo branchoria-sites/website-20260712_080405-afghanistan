@@ -380,7 +380,7 @@ While future excavations or new ancient DNA discoveries may clarify aspects of e
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
 </h4>
 <p class="fr-book-author">By Peter Frankopan</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: East and West, HISTORY / World, Trade routes, Acculturation, TRAVEL / Asia / China.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ While future excavations or new ancient DNA discoveries may clarify aspects of e
 <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Indians">Early Indians</a>
 </h4>
 <p class="fr-book-author">By Tony Joseph</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Antiquities, Ethnology, Human genetics, Civilization, Prehistoric peoples.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ While future excavations or new ancient DNA discoveries may clarify aspects of e
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maldives">The Maldives</a>
 </h4>
 <p class="fr-book-author">By J.J. Robinson</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Democracy, Maldives, Politics and government, Social conditions, Islam.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ While future excavations or new ancient DNA discoveries may clarify aspects of e
 <a href="https://www.amazon.com/s?k=Folk+Tales+of+the+Maldives+Romero+Frias+Xavier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Tales of the Maldives">Folk Tales of the Maldives</a>
 </h4>
 <p class="fr-book-author">By Romero Frias Xavier</p>
-        
+
 <p class="fr-book-desc">First published 2021.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folk+Tales+of+the+Maldives+Romero+Frias+Xavier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

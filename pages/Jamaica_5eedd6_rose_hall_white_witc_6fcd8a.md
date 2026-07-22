@@ -379,7 +379,7 @@ Several conclusions now command broad agreement:
           <a href="https://www.amazon.com/s?k=The+White+Witch+of+Rosehall+Herbert+G.+de+Lisser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The White Witch of Rosehall">The White Witch of Rosehall</a>
         </h4>
         <p class="fr-book-author">By Herbert G. de Lisser</p>
-        
+
         <p class="fr-book-desc">Essential reading for understanding the White Witch myth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+White+Witch+of+Rosehall+Herbert+G.+de+Lisser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Several conclusions now command broad agreement:
           <a href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wide Sargasso Sea">Wide Sargasso Sea</a>
         </h4>
         <p class="fr-book-author">By Jean Rhys</p>
-        
+
         <p class="fr-book-desc">Explores colonial Caribbean myths and haunted plantation themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Several conclusions now command broad agreement:
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Places plantation Jamaica in historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ Several conclusions now command broad agreement:
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Jamaica 3">The Rough Guide to Jamaica 3</a>
         </h4>
         <p class="fr-book-author">By ROUGH GUIDES</p>
-        
+
         <p class="fr-book-desc">First published 2003.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

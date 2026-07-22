@@ -412,13 +412,30 @@ Rather than shrinking into a solved historical puzzle, the Franklin Expedition h
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frozen+in+time+Owen+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frozen in time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/769265-M.jpg" alt="Cover for Frozen in time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Frozen+in+time+Owen+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frozen in time">Frozen in time</a>
+        </h4>
+        <p class="fr-book-author">By Owen Beattie, O. Beattie et al.</p>
+
+        <p class="fr-book-desc">Combines archaeology, forensic science and expedition history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Frozen+in+time+Owen+Beattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Man+Who+Ate+His+Boots+Anthony+Brandt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Man Who Ate His Boots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11555200-M.jpg" alt="Cover for The Man Who Ate His Boots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Man+Who+Ate+His+Boots+Anthony+Brandt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man Who Ate His Boots">The Man Who Ate His Boots</a>
         </h4>
         <p class="fr-book-author">By Anthony Brandt</p>
-        
+
         <p class="fr-book-desc">Places Franklin within the wider search for the Northwest Passage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Man+Who+Ate+His+Boots+Anthony+Brandt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,27 +452,10 @@ Rather than shrinking into a solved historical puzzle, the Franklin Expedition h
           <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arctic Grail">The Arctic Grail</a>
         </h4>
         <p class="fr-book-author">By Pierre Berton</p>
-        
+
         <p class="fr-book-desc">Provides extensive context for Franklin and later searches.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frozen+in+time+Owen+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frozen in time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/769265-M.jpg" alt="Cover for Frozen in time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Frozen+in+time+Owen+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frozen in time">Frozen in time</a>
-        </h4>
-        <p class="fr-book-author">By Owen Beattie, O. Beattie et al.</p>
-        
-        <p class="fr-book-desc">Combines archaeology, forensic science and expedition history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Frozen+in+time+Owen+Beattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -469,7 +469,7 @@ Rather than shrinking into a solved historical puzzle, the Franklin Expedition h
           <a href="https://www.amazon.com/s?k=Ice+ghosts+Paul+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ice ghosts">Ice ghosts</a>
         </h4>
         <p class="fr-book-author">By Paul Watson</p>
-        
+
         <p class="fr-book-desc">Explains how the mystery has been progressively solved.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ice+ghosts+Paul+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -480,7 +480,7 @@ Rather than shrinking into a solved historical puzzle, the Franklin Expedition h
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Man+Who+Ate+His+Boots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Man Who Ate His Boots</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arctic+Grail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arctic Grail</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frozen+in+time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frozen in time</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frozen+in+time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frozen in time</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Man+Who+Ate+His+Boots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Man Who Ate His Boots</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arctic+Grail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arctic Grail</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

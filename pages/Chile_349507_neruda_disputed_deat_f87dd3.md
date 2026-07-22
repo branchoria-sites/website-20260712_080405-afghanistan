@@ -348,7 +348,7 @@ That tension is precisely what keeps the mystery alive. The official explanation
 <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pinochet File">The Pinochet File</a>
 </h4>
 <p class="fr-book-author">By Peter Kornbluh</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Human rights, Subversive activities, Relations, United States, Sources.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ That tension is precisely what keeps the mystery alive. The official explanation
 <a href="https://www.amazon.com/s?k=The+Complete+Memoirs+Pablo+Neruda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Memoirs">The Complete Memoirs</a>
 </h4>
 <p class="fr-book-author">By Pablo Neruda, Hardie St. Martin et al.</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Romance literature, Chilean Poets, Biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Complete+Memoirs+Pablo+Neruda&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ That tension is precisely what keeps the mystery alive. The official explanation
 <a href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neruda">Neruda</a>
 </h4>
 <p class="fr-book-author">By Mark Eisner</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Neruda, pablo, 1904-1973, Poets, biography, Chilean Authors, Biography, BIOGRAPHY &amp; AUTOBIOGRAPHY / Liter...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ That tension is precisely what keeps the mystery alive. The official explanation
 <a href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My Invented Country">My Invented Country</a>
 </h4>
 <p class="fr-book-author">By Isabel Allende</p>
-        
+
 <p class="fr-book-desc">First published 2004.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -369,7 +369,7 @@ The unresolved fate of many of the Chibok girls therefore remains both a histori
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
         </h4>
         <p class="fr-book-author">By Philip Gourevitch</p>
-        
+
         <p class="fr-book-desc">Explores documenting human tragedy and conflict, relevant in method rather than subject.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The unresolved fate of many of the Chibok girls therefore remains both a histori
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
         </h4>
         <p class="fr-book-author">By Lawrence Wright</p>
-        
+
         <p class="fr-book-desc">Provides broader context for militant movements, though not Nigeria-specific.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The unresolved fate of many of the Chibok girls therefore remains both a histori
           <a href="https://www.amazon.com/s?k=Bring+Back+Our+Girls+Drew+Hinshaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bring Back Our Girls">Bring Back Our Girls</a>
         </h4>
         <p class="fr-book-author">By Drew Hinshaw, Joe Parkinson</p>
-        
+
         <p class="fr-book-desc">Directly examines the kidnapping and its aftermath.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bring+Back+Our+Girls+Drew+Hinshaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,16 +414,16 @@ The unresolved fate of many of the Chibok girls therefore remains both a histori
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+archaeology+Ann+Brower+Stahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1751405-M.jpg" alt="Cover for African archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+archaeology+Ann+Brower+Stahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African archaeology">African archaeology</a>
+          <a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African archaeology">African archaeology</a>
         </h4>
-        <p class="fr-book-author">By Ann Brower Stahl</p>
-        
-        <p class="fr-book-desc">First published 2005. Subjects: Prehistoric Antiquities, Antiquities, Archaeology, Africa, antiquities, Antiquities, prehistoric.</p>
+        <p class="fr-book-author">By David W. Phillipson</p>
+
+        <p class="fr-book-desc">First published 1984. Subjects: Homme prehistorique, Prehistoric peoples, Antiquities, Antiquites, Vor- und Fruhgeschichte.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+archaeology+Ann+Brower+Stahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

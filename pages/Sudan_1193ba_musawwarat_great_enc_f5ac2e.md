@@ -352,7 +352,7 @@ Today, the strongest scholarly consensus is cautious. Musawwarat was almost cert
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the wider Nile cultural world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Today, the strongest scholarly consensus is cautious. Musawwarat was almost cert
           <a href="https://www.amazon.com/s?k=The+Kingdom+of+Kush%3A+Handbook+of+the+Napatan-Meroitic+Civilization+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdom of Kush: Handbook of the Napatan-Meroitic Civilization">The Kingdom of Kush: Handbook of the Napatan-Meroitic Civiliz...</a>
         </h4>
         <p class="fr-book-author">By László Török</p>
-        
+
         <p class="fr-book-desc">Covers Musawwarat and its religious landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kingdom+of+Kush%3A+Handbook+of+the+Napatan-Meroitic+Civilization+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Today, the strongest scholarly consensus is cautious. Musawwarat was almost cert
           <a href="https://www.amazon.com/s?k=Ancient+Nubia%3A+African+Kingdoms+on+the+Nile+Marisa+J.+A.+J.+de+Voogt+and+Geoff+Emberling+%28eds.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Nubia: African Kingdoms on the Nile">Ancient Nubia: African Kingdoms on the Nile</a>
         </h4>
         <p class="fr-book-author">By Marisa J. A. J. de Voogt and Geoff Emberling (eds.)</p>
-        
+
         <p class="fr-book-desc">Introduces major Kushite archaeological sites including Musawwarat.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ancient+Nubia%3A+African+Kingdoms+on+the+Nile+Marisa+J.+A.+J.+de+Voogt+and+Geoff+Emberling+%28eds.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Today, the strongest scholarly consensus is cautious. Musawwarat was almost cert
           <a href="https://www.amazon.com/s?k=The+Nubian+Pharaohs%3A+Black+Kings+on+the+Nile+Robert+B.+Morkot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Nubian Pharaohs: Black Kings on the Nile">The Nubian Pharaohs: Black Kings on the Nile</a>
         </h4>
         <p class="fr-book-author">By Robert B. Morkot</p>
-        
+
         <p class="fr-book-desc">Places the Great Enclosure within Kushite history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Nubian+Pharaohs%3A+Black+Kings+on+the+Nile+Robert+B.+Morkot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

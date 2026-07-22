@@ -1335,7 +1335,7 @@ These mysteries matter because they concern how Palauans organised power, adapte
           <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, myths, and mysteries">Frauds, myths, and mysteries</a>
         </h4>
         <p class="fr-book-author">By Kenneth L. Feder</p>
-        
+
         <p class="fr-book-desc">Helps readers distinguish evidence-based archaeology from sensational claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1352,7 @@ These mysteries matter because they concern how Palauans organised power, adapte
           <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Road of the Winds">On the Road of the Winds</a>
         </h4>
         <p class="fr-book-author">By Patrick Vinton Kirch</p>
-        
+
         <p class="fr-book-desc">Explains settlement, culture and archaeology across Oceania, including Micronesian context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,7 +1369,7 @@ These mysteries matter because they concern how Palauans organised power, adapte
           <a href="https://www.amazon.com/s?k=Archaeology+of+Oceania+Ian+Lilley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology of Oceania">Archaeology of Oceania</a>
         </h4>
         <p class="fr-book-author">By Ian Lilley</p>
-        
+
         <p class="fr-book-desc">Provides essential archaeological context for Palau&#x27;s prehistoric mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+of+Oceania+Ian+Lilley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1380,16 +1380,16 @@ These mysteries matter because they concern how Palauans organised power, adapte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vanished+Kingdoms+Norman+Jordan+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vanished Kingdoms on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9097708-M.jpg" alt="Cover for Vanished Kingdoms" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vanished kingdoms on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101390-M.jpg" alt="Cover for Vanished kingdoms" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vanished+Kingdoms+Norman+Jordan+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vanished Kingdoms">Vanished Kingdoms</a>
+          <a href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vanished kingdoms">Vanished kingdoms</a>
         </h4>
-        <p class="fr-book-author">By Norman Jordan Davies</p>
-        
+        <p class="fr-book-author">By Norman Davies</p>
+
         <p class="fr-book-desc">Appeals to readers interested in lost societies and historical puzzles.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vanished+Kingdoms+Norman+Jordan+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -344,7 +344,7 @@ Its ruins preserve evidence of how medieval desert cities adapted to political u
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
 </h4>
 <p class="fr-book-author">By Peter Frankopan</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: East and West, HISTORY / World, Trade routes, Acculturation, TRAVEL / Asia / China.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Its ruins preserve evidence of how medieval desert cities adapted to political u
 <a href="https://www.amazon.com/s?k=The+golden+trade+of+the+Moors+E.+W.+Bovill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The golden trade of the Moors">The golden trade of the Moors</a>
 </h4>
 <p class="fr-book-author">By E. W. Bovill</p>
-        
+
 <p class="fr-book-desc">First published 1958. Subjects: History, Commerce, Africa, west, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+golden+trade+of+the+Moors+E.+W.+Bovill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Its ruins preserve evidence of how medieval desert cities adapted to political u
 <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Morocco">A history of modern Morocco</a>
 </h4>
 <p class="fr-book-author">By Susan Gilson Miller</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: HISTORY / Middle East / General, History, Morocco, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Its ruins preserve evidence of how medieval desert cities adapted to political u
 <a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great sea">The great sea</a>
 </h4>
 <p class="fr-book-author">By David Abulafia</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: History, Civilization, Intercultural communication, Mediterranean region, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

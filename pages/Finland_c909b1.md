@@ -1321,7 +1321,7 @@ Their continuing appeal comes from the gap between extensive knowledge and one m
 <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
 </h4>
 <p class="fr-book-author">By Roger Wilkes</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Homicide, Case studies, Cold cases (Criminal investigation), Crime, Criminal investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1338,7 +1338,7 @@ Their continuing appeal comes from the gap between extensive knowledge and one m
 <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Wolves">The Sea Wolves</a>
 </h4>
 <p class="fr-book-author">By Lars Brownworth, Joe Barrett</p>
-        
+
 <p class="fr-book-desc">First published 2014.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,7 +1355,7 @@ Their continuing appeal comes from the gap between extensive knowledge and one m
 <a href="https://www.amazon.com/s?k=Scandinavia+Ewan+Butler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scandinavia">Scandinavia</a>
 </h4>
 <p class="fr-book-author">By Ewan Butler</p>
-        
+
 <p class="fr-book-desc">First published 2016.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scandinavia+Ewan+Butler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ Their continuing appeal comes from the gap between extensive knowledge and one m
 <a href="https://www.amazon.com/s?k=The+Skeleton+in+God%27s+Closet+Paul+L.+Maier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeleton in God&#x27;s Closet">The Skeleton in God&#x27;s Closet</a>
 </h4>
 <p class="fr-book-author">By Paul L. Maier</p>
-        
+
 <p class="fr-book-desc">Explores how historians investigate enduring unsolved historical questions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Skeleton+in+God%27s+Closet+Paul+L.+Maier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

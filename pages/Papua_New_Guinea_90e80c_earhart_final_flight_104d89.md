@@ -330,13 +330,30 @@ That sharp transition explains why Lae continues to feature in investigations ne
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=East+to+the+dawn+Susan+Butler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East to the dawn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134356-M.jpg" alt="Cover for East to the dawn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=East+to+the+dawn+Susan+Butler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East to the dawn">East to the dawn</a>
+        </h4>
+        <p class="fr-book-author">By Susan Butler</p>
+
+        <p class="fr-book-desc">Strong coverage of the Lae departure and final journey.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=East+to+the+dawn+Susan+Butler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for Amelia Earhart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6560737-M.jpg" alt="Cover for The search for Amelia Earhart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for Amelia Earhart">The search for Amelia Earhart</a>
         </h4>
         <p class="fr-book-author">By Fred G. Goerner</p>
-        
+
         <p class="fr-book-desc">Examines competing disappearance theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,27 +370,10 @@ That sharp transition explains why Lae continues to feature in investigations ne
           <a href="https://www.amazon.com/s?k=Last+flight+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Last flight">Last flight</a>
         </h4>
         <p class="fr-book-author">By Amelia Earhart</p>
-        
+
         <p class="fr-book-desc">Provides first-hand context before the disappearance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Last+flight+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=East+to+the+dawn+Susan+Butler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East to the dawn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134356-M.jpg" alt="Cover for East to the dawn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=East+to+the+dawn+Susan+Butler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East to the dawn">East to the dawn</a>
-        </h4>
-        <p class="fr-book-author">By Susan Butler</p>
-        
-        <p class="fr-book-desc">Strong coverage of the Lae departure and final journey.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=East+to+the+dawn+Susan+Butler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -387,7 +387,7 @@ That sharp transition explains why Lae continues to feature in investigations ne
           <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amelia Earhart">Amelia Earhart</a>
         </h4>
         <p class="fr-book-author">By Mike Campbell</p>
-        
+
         <p class="fr-book-desc">Focuses on the final flight and evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ That sharp transition explains why Lae continues to feature in investigations ne
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for Amelia Earhart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Last+flight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Last flight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=East+to+the+dawn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East to the dawn</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=East+to+the+dawn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East to the dawn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for Amelia Earhart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Last+flight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Last flight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

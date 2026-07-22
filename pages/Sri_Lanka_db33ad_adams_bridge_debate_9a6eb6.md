@@ -410,7 +410,7 @@ The enduring mystery therefore is less about whether the shoals exist—they unq
 <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The wonder that was India">The wonder that was India</a>
 </h4>
 <p class="fr-book-author">By Basham, A. L.</p>
-        
+
 <p class="fr-book-desc">First published 1954. Subjects: History, Civilization, Civilisation, Histoire, India, civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ The enduring mystery therefore is less about whether the shoals exist—they unq
 <a href="https://www.amazon.com/s?k=The+Ramayana+Rasipuram+Krishnaswamy+Narayan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ramayana">The Ramayana</a>
 </h4>
 <p class="fr-book-author">By Rasipuram Krishnaswamy Narayan</p>
-        
+
 <p class="fr-book-desc">First published 1972. Subjects: Adaptations, Epic literature, Sanskrit, Epic literature, Tamil, Fiction, Literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ramayana+Rasipuram+Krishnaswamy+Narayan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ The enduring mystery therefore is less about whether the shoals exist—they unq
 <a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Historical Relation of the Island Ceylon in the East Indies">An Historical Relation of the Island Ceylon in the East Indies</a>
 </h4>
 <p class="fr-book-author">By Robert Knox</p>
-        
+
 <p class="fr-book-desc">First published 2006.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +461,7 @@ The enduring mystery therefore is less about whether the shoals exist—they unq
 <a href="https://www.amazon.com/s?k=the+sri+lanka+reader+history%2C+culture%2C+politics+ed+john+clifford+holt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="the sri lanka reader history, culture, politics">the sri lanka reader history, culture, politics</a>
 </h4>
 <p class="fr-book-author">By ed john clifford holt</p>
-        
+
 <p class="fr-book-desc">First published 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=the+sri+lanka+reader+history%2C+culture%2C+politics+ed+john+clifford+holt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

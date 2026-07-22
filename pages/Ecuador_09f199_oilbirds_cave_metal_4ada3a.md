@@ -376,7 +376,7 @@ For Ecuador, the episode serves as a reminder that remarkable places do not requ
           <a href="https://www.amazon.com/s?k=The+gold+of+the+gods+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The gold of the gods">The gold of the gods</a>
         </h4>
         <p class="fr-book-author">By Erich von Däniken</p>
-        
+
         <p class="fr-book-desc">Popularized the metal library story central to the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+gold+of+the+gods+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For Ecuador, the episode serves as a reminder that remarkable places do not requ
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in archaeological mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For Ecuador, the episode serves as a reminder that remarkable places do not requ
           <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Right at Machu Picchu">Turn Right at Machu Picchu</a>
         </h4>
         <p class="fr-book-author">By Mark Adams, Mark Adams</p>
-        
+
         <p class="fr-book-desc">Balances sensational claims with real Andean exploration history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For Ecuador, the episode serves as a reminder that remarkable places do not requ
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
         </h4>
         <p class="fr-book-author">By Erich von Däniken</p>
-        
+
         <p class="fr-book-desc">Explains the broader ideas that fueled interest in Tayos Cave.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

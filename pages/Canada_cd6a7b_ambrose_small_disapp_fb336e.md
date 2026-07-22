@@ -385,7 +385,7 @@ More than a century later, the essential mystery remains exactly where it began:
           <a href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small+Fred+McClement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The strange case of Ambrose Small">The strange case of Ambrose Small</a>
         </h4>
         <p class="fr-book-author">By Fred McClement</p>
-        
+
         <p class="fr-book-desc">Dedicated book on the Ambrose Small mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small+Fred+McClement&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ More than a century later, the essential mystery remains exactly where it began:
           <a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Canada in Ten Maps">A History of Canada in Ten Maps</a>
         </h4>
         <p class="fr-book-author">By Adam Shoalts</p>
-        
+
         <p class="fr-book-desc">Broadens historical understanding of early twentieth-century Canada.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ More than a century later, the essential mystery remains exactly where it began:
           <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arctic Grail">The Arctic Grail</a>
         </h4>
         <p class="fr-book-author">By Pierre Berton</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Discovery and exploration, Northwest Passage, North pole, Arctic regions, discovery and exploration, Déco...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ More than a century later, the essential mystery remains exactly where it began:
           <a href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great Canadian bucket list">The great Canadian bucket list</a>
         </h4>
         <p class="fr-book-author">By Robin Esrock</p>
-        
+
         <p class="fr-book-desc">Many readers of Canadian history also enjoy landmark stories and places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

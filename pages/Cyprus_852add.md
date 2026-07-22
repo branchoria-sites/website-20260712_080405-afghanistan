@@ -1344,7 +1344,7 @@ The island’s unresolved past is therefore not a catalogue of strange tales. It
           <a href="https://www.amazon.com/s?k=The+Cyprus+problem+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyprus problem">The Cyprus problem</a>
         </h4>
         <p class="fr-book-author">By James Ker-Lindsay</p>
-        
+
         <p class="fr-book-desc">Explains the island&#x27;s division and modern unresolved issues.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cyprus+problem+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ The island’s unresolved past is therefore not a catalogue of strange tales. It
           <a href="https://www.amazon.com/s?k=A+History+Of+Cyprus+Sir+George+Francis+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Cyprus">A History Of Cyprus</a>
         </h4>
         <p class="fr-book-author">By Sir George Francis Hill</p>
-        
+
         <p class="fr-book-desc">Provides deep historical context for archaeological and political mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+Of+Cyprus+Sir+George+Francis+Hill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ The island’s unresolved past is therefore not a catalogue of strange tales. It
           <a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyprus">Cyprus</a>
         </h4>
         <p class="fr-book-author">By William Mallinson</p>
-        
+
         <p class="fr-book-desc">First published 2005. Subjects: Cyprus, history, Cyprus, politics and government, International relations, History, Foreign relations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1395,7 +1395,7 @@ The island’s unresolved past is therefore not a catalogue of strange tales. It
           <a href="https://www.amazon.com/s?k=Cyprus%3A+A+History+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyprus: A History">Cyprus: A History</a>
         </h4>
         <p class="fr-book-author">By William Mallinson</p>
-        
+
         <p class="fr-book-desc">Introduces the historical background to Cyprus&#x27;s major unresolved questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cyprus%3A+A+History+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

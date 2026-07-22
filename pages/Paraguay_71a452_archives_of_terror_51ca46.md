@@ -388,7 +388,7 @@ The files therefore represent both revelation and absence: an extraordinary docu
           <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predatory States">Predatory States</a>
         </h4>
         <p class="fr-book-author">By J. Patrice McSherry, J. Patrice McSherry</p>
-        
+
         <p class="fr-book-desc">Analyses cross-border repression involving Paraguay.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,27 +405,10 @@ The files therefore represent both revelation and absence: an extraordinary docu
           <a href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig+John+Gimlette&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="At the tomb of the inflatable pig">At the tomb of the inflatable pig</a>
         </h4>
         <p class="fr-book-author">By John Gimlette</p>
-        
+
         <p class="fr-book-desc">Provides historical context for modern Paraguay.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig+John+Gimlette&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Paraguayan War, Volume 1 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1513866-M.jpg" alt="Cover for The Paraguayan War, Volume 1" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paraguayan War, Volume 1">The Paraguayan War, Volume 1</a>
-        </h4>
-        <p class="fr-book-author">By Thomas L. Whigham</p>
-        
-        <p class="fr-book-desc">First published 2002.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -439,7 +422,7 @@ The files therefore represent both revelation and absence: an extraordinary docu
           <a href="https://www.amazon.com/s?k=The+Condor+years+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Condor years">The Condor years</a>
         </h4>
         <p class="fr-book-author">By John Dinges</p>
-        
+
         <p class="fr-book-desc">Covers the dictatorship era in greater depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Condor+years+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,9 +431,26 @@ The files therefore represent both revelation and absence: an extraordinary docu
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Paraguayan War, Volume 1 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1513866-M.jpg" alt="Cover for The Paraguayan War, Volume 1" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paraguayan War, Volume 1">The Paraguayan War, Volume 1</a>
+        </h4>
+        <p class="fr-book-author">By Thomas L. Whigham</p>
+
+        <p class="fr-book-desc">First published 2002.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Predatory+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predatory States</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">At the tomb of the inflatable pig</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Paraguayan War, Volume 1</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Predatory+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predatory States</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">At the tomb of the inflatable pig</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Condor+years&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Condor years</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

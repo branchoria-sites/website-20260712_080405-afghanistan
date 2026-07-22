@@ -357,7 +357,7 @@ For many Salvadorans, the enduring question is therefore not simply "Who killed 
           <a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oscar Romero and the communion of the saints">Oscar Romero and the communion of the saints</a>
         </h4>
         <p class="fr-book-author">By Scott Wright</p>
-        
+
         <p class="fr-book-desc">Explores Romero&#x27;s life, death and legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For many Salvadorans, the enduring question is therefore not simply "Who killed 
           <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
         </h4>
         <p class="fr-book-author">By Mark Danner</p>
-        
+
         <p class="fr-book-desc">Provides the broader conflict context surrounding Romero&#x27;s murder.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For many Salvadorans, the enduring question is therefore not simply "Who killed 
           <a href="https://www.amazon.com/s?k=The+violence+of+love%3A+the+pastoral+wisdom+of+Archbishop+Oscar+Romero+Oscar+A.+Romero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The violence of love: the pastoral wisdom of Archbishop Oscar Romero">The violence of love: the pastoral wisdom of Archbishop Oscar...</a>
         </h4>
         <p class="fr-book-author">By Oscar A. Romero</p>
-        
+
         <p class="fr-book-desc">Introduces Romero&#x27;s thought and the context leading to his assassination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+violence+of+love%3A+the+pastoral+wisdom+of+Archbishop+Oscar+Romero+Oscar+A.+Romero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For many Salvadorans, the enduring question is therefore not simply "Who killed 
           <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One day of life">One day of life</a>
         </h4>
         <p class="fr-book-author">By Manlio Argueta</p>
-        
+
         <p class="fr-book-desc">Reflects the atmosphere of repression during Romero&#x27;s era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

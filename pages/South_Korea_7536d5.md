@@ -1350,7 +1350,7 @@ That is why these mysteries continue to matter. They are not simply entertaining
           <a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea&#x27;s Place in the Sun">Korea&#x27;s Place in the Sun</a>
         </h4>
         <p class="fr-book-author">By Bruce Cumings</p>
-        
+
         <p class="fr-book-desc">Explains political developments that shaped modern South Korea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ That is why these mysteries continue to matter. They are not simply entertaining
           <a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Korea">A history of Korea</a>
         </h4>
         <p class="fr-book-author">By Kyung Moon Hwang</p>
-        
+
         <p class="fr-book-desc">Covers the historical background for many unresolved national issues.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1384,7 +1384,7 @@ That is why these mysteries continue to matter. They are not simply entertaining
           <a href="https://www.amazon.com/s?k=The+new+Koreans+Michael+Breen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new Koreans">The new Koreans</a>
         </h4>
         <p class="fr-book-author">By Michael Breen</p>
-        
+
         <p class="fr-book-desc">Provides social and historical context for contemporary Korea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+new+Koreans+Michael+Breen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1401,7 +1401,7 @@ That is why these mysteries continue to matter. They are not simply entertaining
           <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes">Korea : The Impossible Country : South Korea&#x27;s Amazing Rise f...</a>
         </h4>
         <p class="fr-book-author">By Daniel Tudor</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Economic development, Korea, civilization, Civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

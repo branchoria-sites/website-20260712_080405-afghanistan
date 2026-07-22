@@ -366,7 +366,7 @@ That uncertainty reflects the nature of clandestine rescue itself. The same secr
 <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish Civil War">The Spanish Civil War</a>
 </h4>
 <p class="fr-book-author">By Antony Beevor</p>
-        
+
 <p class="fr-book-desc">First published 1982. Subjects: History, History of Spain, Spanish Civil War, Historia, Spain, history, civil war, 1936-1939.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ That uncertainty reflects the nature of clandestine rescue itself. The same secr
 <a href="https://www.amazon.com/s?k=A+Woman+of+No+Importance+Sonia+Purnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Woman of No Importance">A Woman of No Importance</a>
 </h4>
 <p class="fr-book-author">By Sonia Purnell</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Spies, Intelligence officers, biography, World war, 1939-1945, secret service, united states, World war,...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Woman+of+No+Importance+Sonia+Purnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ That uncertainty reflects the nature of clandestine rescue itself. The same secr
 <a href="https://www.amazon.com/s?k=Between+Silk+and+Cyanide+Leo+Marks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Between Silk and Cyanide">Between Silk and Cyanide</a>
 </h4>
 <p class="fr-book-author">By Leo Marks</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Biography, British Personal narratives, Cryptographers, Cryptography, Great Britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Between+Silk+and+Cyanide+Leo+Marks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ That uncertainty reflects the nature of clandestine rescue itself. The same secr
 <a href="https://www.amazon.com/s?k=The+escape+line+Megan+Koreman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The escape line">The escape line</a>
 </h4>
 <p class="fr-book-author">By Megan Koreman</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Dutch-Paris (Organization), Underground movements, World War, 1939-1945, World war, 1939-1945, undergroun...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+escape+line+Megan+Koreman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

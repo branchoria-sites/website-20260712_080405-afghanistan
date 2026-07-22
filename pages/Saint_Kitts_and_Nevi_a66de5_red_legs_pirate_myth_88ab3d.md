@@ -386,7 +386,7 @@ Within the wider historical mysteries of [Saint Kitts and Nevis]({{ 'saint-kitts
           <a href="https://www.amazon.com/s?k=A+General+History+of+the+Pyrates+Captain+Charles+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A General History of the Pyrates">A General History of the Pyrates</a>
         </h4>
         <p class="fr-book-author">By Captain Charles Johnson, Daniel Defoe et al.</p>
-        
+
         <p class="fr-book-desc">Primary-era collection of pirate biographies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+General+History+of+the+Pyrates+Captain+Charles+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Within the wider historical mysteries of [Saint Kitts and Nevis]({{ 'saint-kitts
           <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The republic of pirates">The republic of pirates</a>
         </h4>
         <p class="fr-book-author">By Colin Woodard</p>
-        
+
         <p class="fr-book-desc">Provides factual context for Caribbean pirate legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Within the wider historical mysteries of [Saint Kitts and Nevis]({{ 'saint-kitts
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Places pirate stories within Caribbean history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ Within the wider historical mysteries of [Saint Kitts and Nevis]({{ 'saint-kitts
           <a href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pirates of the Americas">Pirates of the Americas</a>
         </h4>
         <p class="fr-book-author">By Padraic Carlin, David F. Marley</p>
-        
+
         <p class="fr-book-desc">Helps separate documented pirates from folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

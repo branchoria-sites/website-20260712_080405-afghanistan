@@ -348,7 +348,7 @@ For historians, the mystery is not whether the legend should simply be accepted 
           <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of Italy">The pursuit of Italy</a>
         </h4>
         <p class="fr-book-author">By Gilmour, David</p>
-        
+
         <p class="fr-book-desc">Shows how San Marino fits into the history of the Italian peninsula.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ For historians, the mystery is not whether the legend should simply be accepted 
           <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)">By Morris Bishop - The Middle Ages (American Heritage Library...</a>
         </h4>
         <p class="fr-book-author">By Morris Bishop</p>
-        
+
         <p class="fr-book-desc">First published 2001.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,14 +376,14 @@ For historians, the mystery is not whether the legend should simply be accepted 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7390155-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
         </h4>
-        <p class="fr-book-author">By Mary Beard</p>
-        
-        <p class="fr-book-desc">First published 2015. Subjects: Roman Empire, History, nyt:combined-print-and-e-book-nonfiction=2015-12-06, New York Times bestseller, Ro...</p>
+        <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
+
+        <p class="fr-book-desc">First published 2015. Subjects: Historia, History, Rome, history, Histoire, Antike.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -399,7 +399,7 @@ For historians, the mystery is not whether the legend should simply be accepted 
           <a href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of the Decline and Fall of the Roman Empire">The History of the Decline and Fall of the Roman Empire</a>
         </h4>
         <p class="fr-book-author">By Edward Gibbon</p>
-        
+
         <p class="fr-book-desc">Discusses the transformation of the Roman world into the medieval era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

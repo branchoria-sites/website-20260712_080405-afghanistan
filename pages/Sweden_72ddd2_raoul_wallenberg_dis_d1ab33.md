@@ -378,7 +378,7 @@ For Sweden, the disappearance has become both a diplomatic and moral symbol. Wal
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
         </h4>
         <p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
-        
+
         <p class="fr-book-desc">Strong thematic overlap with Soviet secrecy and intelligence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For Sweden, the disappearance has become both a diplomatic and moral symbol. Wal
           <a href="https://www.amazon.com/s?k=East+West+Street+Philippe+Sands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East West Street">East West Street</a>
         </h4>
         <p class="fr-book-author">By Philippe Sands</p>
-        
+
         <p class="fr-book-desc">Explores justice, archives and post-war Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=East+West+Street+Philippe+Sands&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ For Sweden, the disappearance has become both a diplomatic and moral symbol. Wal
           <a href="https://www.amazon.com/s?k=The+Volunteer+Jack+Fairweather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Volunteer">The Volunteer</a>
         </h4>
         <p class="fr-book-author">By Jack Fairweather</p>
-        
+
         <p class="fr-book-desc">Readers interested in wartime rescue missions often buy related works.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Volunteer+Jack+Fairweather&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For Sweden, the disappearance has become both a diplomatic and moral symbol. Wal
           <a href="https://www.amazon.com/s?k=Raoul+Wallenberg+Sharon+Linnea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raoul Wallenberg">Raoul Wallenberg</a>
         </h4>
         <p class="fr-book-author">By Sharon Linnea</p>
-        
+
         <p class="fr-book-desc">Examines Wallenberg&#x27;s life, rescue mission and disappearance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Raoul+Wallenberg+Sharon+Linnea&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

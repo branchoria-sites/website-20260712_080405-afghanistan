@@ -419,7 +419,7 @@ The enduring puzzle is not simply how many people disappeared, but how much of t
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Background on documentary gaps rooted in colonial history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ The enduring puzzle is not simply how many people disappeared, but how much of t
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
         </h4>
         <p class="fr-book-author">By Philip Gourevitch</p>
-        
+
         <p class="fr-book-desc">Useful comparative reading on documenting mass violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ The enduring puzzle is not simply how many people disappeared, but how much of t
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides regional context for conflict and state collapse.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -470,7 +470,7 @@ The enduring puzzle is not simply how many people disappeared, but how much of t
           <a href="https://www.amazon.com/s?k=Dancing+in+the+Glory+of+Monsters+Jason+K.+Stearns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dancing in the Glory of Monsters">Dancing in the Glory of Monsters</a>
         </h4>
         <p class="fr-book-author">By Jason K. Stearns</p>
-        
+
         <p class="fr-book-desc">Directly examines conflict, records and competing narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dancing+in+the+Glory+of+Monsters+Jason+K.+Stearns&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

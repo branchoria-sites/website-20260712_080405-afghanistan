@@ -346,7 +346,7 @@ The White Lady therefore stands as both a masterpiece of Indigenous southern Afr
           <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mind in the Cave">The Mind in the Cave</a>
         </h4>
         <p class="fr-book-author">By J. David Lewis-Williams</p>
-        
+
         <p class="fr-book-desc">Explains the interpretive framework used for San rock art.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ The White Lady therefore stands as both a masterpiece of Indigenous southern Afr
           <a href="https://www.amazon.com/s?k=Empires+of+the+Sea+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Sea">Empires of the Sea</a>
         </h4>
         <p class="fr-book-author">By Roger Crowley</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Islam, Naval battles, Relations, Christianity, Naval History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empires+of+the+Sea+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The White Lady therefore stands as both a masterpiece of Indigenous southern Afr
           <a href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Namibia">Namibia</a>
         </h4>
         <p class="fr-book-author">By Chris McIntyre</p>
-        
+
         <p class="fr-book-desc">First published 1998. Subjects: Guidebooks, Namibia, description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The White Lady therefore stands as both a masterpiece of Indigenous southern Afr
           <a href="https://www.amazon.com/s?k=The+Shamans+of+Prehistory+David+Lewis-Williams+and+Jean+Clottes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shamans of Prehistory">The Shamans of Prehistory</a>
         </h4>
         <p class="fr-book-author">By David Lewis-Williams and Jean Clottes</p>
-        
+
         <p class="fr-book-desc">Explores shamanistic interpretations relevant to the White Lady.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Shamans+of+Prehistory+David+Lewis-Williams+and+Jean+Clottes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

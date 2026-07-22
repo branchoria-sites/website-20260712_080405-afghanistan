@@ -1345,7 +1345,7 @@ Belarus’s enduring enigmas are ultimately mysteries of custody and memory: who
           <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Whisperers">The Whisperers</a>
         </h4>
         <p class="fr-book-author">By Orlando Figes</p>
-        
+
         <p class="fr-book-desc">Essential background on repression and hidden histories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ Belarus’s enduring enigmas are ultimately mysteries of custody and memory: who
           <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gates of Europe">The Gates of Europe</a>
         </h4>
         <p class="fr-book-author">By Serhii Plokhy</p>
-        
+
         <p class="fr-book-desc">Provides regional context relevant to Belarus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ Belarus’s enduring enigmas are ultimately mysteries of custody and memory: who
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain">Iron Curtain</a>
         </h4>
         <p class="fr-book-author">By Anne Applebaum</p>
-        
+
         <p class="fr-book-desc">Explains the post-war political environment affecting Belarus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1396,7 +1396,7 @@ Belarus’s enduring enigmas are ultimately mysteries of custody and memory: who
           <a href="https://www.amazon.com/s?k=Red+Famine+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Red Famine">Red Famine</a>
         </h4>
         <p class="fr-book-author">By Anne Applebaum</p>
-        
+
         <p class="fr-book-desc">Illuminates Soviet policies shaping the region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Red+Famine+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

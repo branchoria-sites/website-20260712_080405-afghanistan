@@ -352,7 +352,7 @@ The lake therefore offers an important lesson in historical investigation. Authe
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
         </h4>
         <p class="fr-book-author">By Robert M. Edsel</p>
-        
+
         <p class="fr-book-desc">Explores wartime recovery of hidden cultural treasures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,27 +369,10 @@ The lake therefore offers an important lesson in historical investigation. Authe
           <a href="https://www.amazon.com/s?k=The+Third+Reich+Thomas+Childers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Third Reich">The Third Reich</a>
         </h4>
         <p class="fr-book-author">By Thomas Childers</p>
-        
+
         <p class="fr-book-desc">Supplies background to the final months of Nazi Germany.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Third+Reich+Thomas+Childers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Habsburgs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10449346-M.jpg" alt="Cover for Habsburgs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Habsburgs">Habsburgs</a>
-        </h4>
-        <p class="fr-book-author">By Martyn Rady</p>
-        
-        <p class="fr-book-desc">First published 2020. Subjects: Europe, history, Habsburg, house of, Austria, history, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -403,7 +386,7 @@ The lake therefore offers an important lesson in historical investigation. Authe
           <a href="https://www.amazon.com/s?k=Nazi+gold+Tom+Bower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nazi gold">Nazi gold</a>
         </h4>
         <p class="fr-book-author">By Tom Bower</p>
-        
+
         <p class="fr-book-desc">Provides context for treasure legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nazi+gold+Tom+Bower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,9 +395,26 @@ The lake therefore offers an important lesson in historical investigation. Authe
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Habsburgs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10449346-M.jpg" alt="Cover for Habsburgs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Habsburgs">Habsburgs</a>
+        </h4>
+        <p class="fr-book-author">By Martyn Rady</p>
+
+        <p class="fr-book-desc">First published 2020. Subjects: Europe, history, Habsburg, house of, Austria, history, History.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+monuments+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The monuments men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Third+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Third Reich</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Habsburgs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Habsburgs</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+monuments+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The monuments men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Third+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Third Reich</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nazi+gold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nazi gold</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

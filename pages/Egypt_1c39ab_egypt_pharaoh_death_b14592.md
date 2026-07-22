@@ -363,7 +363,7 @@ These cases illustrate that modern technology does not eliminate historical myst
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Tutankhamun">The Complete Tutankhamun</a>
         </h4>
         <p class="fr-book-author">By Nicholas Reeves</p>
-        
+
         <p class="fr-book-desc">Examines Tutankhamun&#x27;s life, burial and debates over his death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ These cases illustrate that modern technology does not eliminate historical myst
           <a href="https://www.amazon.com/s?k=Temples%2C+Tombs%2C+and+Hieroglyphs+Barbara+Mertz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Temples, Tombs, and Hieroglyphs">Temples, Tombs, and Hieroglyphs</a>
         </h4>
         <p class="fr-book-author">By Barbara Mertz, Barbara Michaels</p>
-        
+
         <p class="fr-book-desc">Explains Egyptian kingship and burial traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Temples%2C+Tombs%2C+and+Hieroglyphs+Barbara+Mertz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,16 +391,16 @@ These cases illustrate that modern technology does not eliminate historical myst
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rise and fall of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9836729-M.jpg" alt="Cover for The rise and fall of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford history of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/117987-M.jpg" alt="Cover for The Oxford history of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
+          <a href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford history of ancient Egypt">The Oxford history of ancient Egypt</a>
         </h4>
-        <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-        
-        <p class="fr-book-desc">Places royal deaths and succession crises in historical context.</p>
+        <p class="fr-book-author">By Ian Shaw, Ian Shaw</p>
+
+        <p class="fr-book-desc">Summarizes evidence for rulers, dynasties and archaeological discoveries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,7 +414,7 @@ These cases illustrate that modern technology does not eliminate historical myst
           <a href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for Nefertiti">The Search for Nefertiti</a>
         </h4>
         <p class="fr-book-author">By Joann Fletcher</p>
-        
+
         <p class="fr-book-desc">Discusses royal identifications using modern evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ These cases illustrate that modern technology does not eliminate historical myst
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Tutankhamun</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Temples%2C+Tombs%2C+and+Hieroglyphs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Temples, Tombs, and Hieroglyphs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The rise and fall of ancient Egypt</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Tutankhamun</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Temples%2C+Tombs%2C+and+Hieroglyphs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Temples, Tombs, and Hieroglyphs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford history of ancient Egypt</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

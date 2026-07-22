@@ -369,7 +369,7 @@ Their lasting importance lies less in spectacular conspiracy theories than in th
 <a href="https://www.amazon.com/s?k=Mindhunter+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindhunter">Mindhunter</a>
 </h4>
 <p class="fr-book-author">By John E. Douglas, Mark Olshaker</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Psychology, Serial murderers, Officials and employees, United States, Serial murder investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mindhunter+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Their lasting importance lies less in spectacular conspiracy theories than in th
 <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
 </h4>
 <p class="fr-book-author">By Roger Wilkes</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Homicide, Case studies, Cold cases (Criminal investigation), Crime, Criminal investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Their lasting importance lies less in spectacular conspiracy theories than in th
 <a href="https://www.amazon.com/s?k=Unsolved+Murders+Amber+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unsolved Murders">Unsolved Murders</a>
 </h4>
 <p class="fr-book-author">By Amber Hunt, Emily G. Thompson</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Sociology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Unsolved+Murders+Amber+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Their lasting importance lies less in spectacular conspiracy theories than in th
 <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
 </h4>
 <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Murderers, Criminal psychology, Murder, Case studies, Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

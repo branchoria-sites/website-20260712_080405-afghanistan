@@ -1340,7 +1340,7 @@ The mysteries endure because they touch larger parts of South African history: d
           <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lie of 1652">The Lie of 1652</a>
         </h4>
         <p class="fr-book-author">By Patric Tariq Mellet, Patric MELLET</p>
-        
+
         <p class="fr-book-desc">Explains historical contexts behind contested narratives and evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

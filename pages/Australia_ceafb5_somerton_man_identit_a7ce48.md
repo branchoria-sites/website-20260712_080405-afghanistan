@@ -394,7 +394,7 @@ For that reason, the Somerton Man has become a rare historical case in which mod
           <a href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unknown Man: A Suspicious Death at Somerton Beach">The Unknown Man: A Suspicious Death at Somerton Beach</a>
         </h4>
         <p class="fr-book-author">By G M Feltus</p>
-        
+
         <p class="fr-book-desc">Focuses on the investigation and enduring mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For that reason, the Somerton Man has become a rare historical case in which mod
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
         </h4>
         <p class="fr-book-author">By Roger Wilkes</p>
-        
+
         <p class="fr-book-desc">Includes context for celebrated unsolved cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For that reason, the Somerton Man has become a rare historical case in which mod
           <a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fatal shore">The fatal shore</a>
         </h4>
         <p class="fr-book-author">By Robert Hughes</p>
-        
+
         <p class="fr-book-desc">Provides wider historical background for postwar Australia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ For that reason, the Somerton Man has become a rare historical case in which mod
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
         </h4>
         <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
-        
+
         <p class="fr-book-desc">Explains investigative methods for famous unsolved deaths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

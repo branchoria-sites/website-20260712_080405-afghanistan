@@ -1360,7 +1360,7 @@ These mysteries matter because they are not merely unfinished stories. They reve
           <a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Canada in Ten Maps">A History of Canada in Ten Maps</a>
         </h4>
         <p class="fr-book-author">By Adam Shoalts</p>
-        
+
         <p class="fr-book-desc">Provides context for exploration, geography and enduring historical puzzles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ These mysteries matter because they are not merely unfinished stories. They reve
           <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arctic Grail">The Arctic Grail</a>
         </h4>
         <p class="fr-book-author">By Pierre Berton</p>
-        
+
         <p class="fr-book-desc">Essential background for Arctic exploration mysteries including Franklin.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1394,7 +1394,7 @@ These mysteries matter because they are not merely unfinished stories. They reve
           <a href="https://www.amazon.com/s?k=The+Inconvenient+Indian+Thomas+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Inconvenient Indian">The Inconvenient Indian</a>
         </h4>
         <p class="fr-book-author">By Thomas King</p>
-        
+
         <p class="fr-book-desc">Adds broader historical context for interpreting Canada&#x27;s past.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Inconvenient+Indian+Thomas+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1411,7 +1411,7 @@ These mysteries matter because they are not merely unfinished stories. They reve
           <a href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great Canadian bucket list">The great Canadian bucket list</a>
         </h4>
         <p class="fr-book-author">By Robin Esrock</p>
-        
+
         <p class="fr-book-desc">Introduces many famous Canadian historical sites and mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -366,7 +366,7 @@ Many questions remain unanswered, including the exact organisation of the settle
           <a href="https://www.amazon.com/s?k=Empire+of+Blue+Water+Stephan+Talty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire of Blue Water">Empire of Blue Water</a>
         </h4>
         <p class="fr-book-author">By Stephan Talty</p>
-        
+
         <p class="fr-book-desc">Captures the commercial world surrounding early settlements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empire+of+Blue+Water+Stephan+Talty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Many questions remain unanswered, including the exact organisation of the settle
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Places LaSoye in Caribbean colonial history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Many questions remain unanswered, including the exact organisation of the settle
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
         </h4>
         <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
         <p class="fr-book-desc">Relevant to archaeological discovery at LaSoye.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ Many questions remain unanswered, including the exact organisation of the settle
           <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1493">1493</a>
         </h4>
         <p class="fr-book-author">By Charles C. Mann</p>
-        
+
         <p class="fr-book-desc">Explores early modern trade networks relevant to Caribbean archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

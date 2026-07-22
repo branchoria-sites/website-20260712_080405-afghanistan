@@ -1343,50 +1343,16 @@ These mysteries endure because they sit where evidence, identity and memory meet
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Croatia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Croatia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Croatia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Croatia">Croatia</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides the historical framework needed to understand Croatia&#x27;s medieval legends, Yugoslav political disappearances and later national m...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Croatia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Tito+and+the+Rise+and+Fall+of+Yugoslavia+Richard+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tito and the Rise and Fall of Yugoslavia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Tito+and+the+Rise+and+Fall+of+Yugoslavia+Richard+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tito and the Rise and Fall of Yugoslavia">Tito and the Rise and Fall of Yugoslavia</a>
         </h4>
         <p class="fr-book-author">By Richard West</p>
-        
+
         <p class="fr-book-desc">Illuminates the secretive communist political system surrounding Andrija Hebrang&#x27;s arrest and disappearance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tito+and+the+Rise+and+Fall+of+Yugoslavia+Richard+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Croatia: A History from the Middle Ages to the Present Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Croatia: A History from the Middle Ages to the Present Day">Croatia: A History from the Middle Ages to the Present Day</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Tanner</p>
-        
-        <p class="fr-book-desc">Provides the historical framework needed to understand Croatia&#x27;s medieval legends, Yugoslav political disappearances and later national m...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1400,7 +1366,7 @@ These mysteries endure because they sit where evidence, identity and memory meet
           <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kindred">Kindred</a>
         </h4>
         <p class="fr-book-author">By Rebecca Wragg Sykes</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Anthropology, Neanderthals, Human evolution, Fossil hominids, Human remains (Archaeology).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1409,9 +1375,43 @@ These mysteries endure because they sit where evidence, identity and memory meet
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Croatia: A History from the Middle Ages to the Present Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Croatia: A History from the Middle Ages to the Present Day">Croatia: A History from the Middle Ages to the Present Day</a>
+        </h4>
+        <p class="fr-book-author">By Marcus Tanner</p>
+
+        <p class="fr-book-desc">Provides the historical framework needed to understand Croatia&#x27;s medieval legends, Yugoslav political disappearances and later national m...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Croatia+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Croatia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Croatia+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Croatia">Croatia</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Situates Hebrang within modern Croatian politics, the Second World War and socialist Yugoslavia.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Croatia+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Croatia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Croatia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tito+and+the+Rise+and+Fall+of+Yugoslavia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tito and the Rise and Fall of Yugoslavia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Croatia: A History from the Middle Ages to the Present Day</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tito+and+the+Rise+and+Fall+of+Yugoslavia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tito and the Rise and Fall of Yugoslavia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Kindred&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kindred</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Croatia: A History from the Middle Ages to the Present Day</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

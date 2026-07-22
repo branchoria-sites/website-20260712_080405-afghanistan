@@ -426,7 +426,7 @@ Together, the two crashes remain among southern Africa's most significant unreso
           <a href="https://www.amazon.com/s?k=Flight+Failure+Donald+J.+Porter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flight Failure">Flight Failure</a>
         </h4>
         <p class="fr-book-author">By Donald J. Porter, John Goglia</p>
-        
+
         <p class="fr-book-desc">Explains investigation methods behind major air crashes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flight+Failure+Donald+J.+Porter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ Together, the two crashes remain among southern Africa's most significant unreso
           <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lie of 1652">The Lie of 1652</a>
         </h4>
         <p class="fr-book-author">By Patric Tariq Mellet, Patric MELLET</p>
-        
+
         <p class="fr-book-desc">First published 2020. Subjects: Social history, Colonies, History, Slavery, Colonial Labor laws and legislation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ Together, the two crashes remain among southern Africa's most significant unreso
           <a href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash+David+Broughton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Helderberg: The Story of the SAA Flight 295 Crash">The Helderberg: The Story of the SAA Flight 295 Crash</a>
         </h4>
         <p class="fr-book-author">By David Broughton</p>
-        
+
         <p class="fr-book-desc">Directly examines Flight 295 and competing explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Helderberg%3A+The+Story+of+the+SAA+Flight+295+Crash+David+Broughton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -477,7 +477,7 @@ Together, the two crashes remain among southern Africa's most significant unreso
           <a href="https://www.amazon.com/s?k=The+Death+of+Samora+Machel+Jos%C3%A9+Milhazes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Samora Machel">The Death of Samora Machel</a>
         </h4>
         <p class="fr-book-author">By José Milhazes</p>
-        
+
         <p class="fr-book-desc">Focuses on the Machel air disaster and its controversies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Death+of+Samora+Machel+Jos%C3%A9+Milhazes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

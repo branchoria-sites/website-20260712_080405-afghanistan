@@ -359,30 +359,13 @@ The enduring myth is therefore not that Mahendraparvata vanished without trace. 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Angkor and the Khmer Civilization (Ancient Peoples and Places) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316825-M.jpg" alt="Cover for Angkor and the Khmer Civilization (Ancient Peoples and Places)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Angkor and the Khmer Civilization (Ancient Peoples and Places)">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Introduces early Khmer capitals including Phnom Kulen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+civilization+of+Angkor+Charles+Higham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The civilization of Angkor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/327309-M.jpg" alt="Cover for The civilization of Angkor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+civilization+of+Angkor+Charles+Higham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The civilization of Angkor">The civilization of Angkor</a>
         </h4>
         <p class="fr-book-author">By Charles Higham</p>
-        
+
         <p class="fr-book-desc">Explains the origins and growth of Angkorian civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+civilization+of+Angkor+Charles+Higham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,16 +376,33 @@ The enduring myth is therefore not that Mahendraparvata vanished without trace. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Khmer+Empire+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Khmer Empire on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Angkor and the Khmer Civilization (Ancient Peoples and Places) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316825-M.jpg" alt="Cover for Angkor and the Khmer Civilization (Ancient Peoples and Places)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Khmer+Empire+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Khmer Empire">Khmer Empire</a>
+          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Angkor and the Khmer Civilization (Ancient Peoples and Places)">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a>
         </h4>
-        <p class="fr-book-author">By Charles River Charles River Editors</p>
-        
-        <p class="fr-book-desc">Places Mahendraparvata within imperial development.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Explains Angkor&#x27;s development and long decline.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Khmer+Empire+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Cities+of+the+Ancient+World+Philip+Matyszak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Cities of the Ancient World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lost+Cities+of+the+Ancient+World+Philip+Matyszak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Cities of the Ancient World">Lost Cities of the Ancient World</a>
+        </h4>
+        <p class="fr-book-author">By Philip Matyszak</p>
+
+        <p class="fr-book-desc">Provides comparative context for rediscovered archaeological cities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lost+Cities+of+the+Ancient+World+Philip+Matyszak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -416,7 +416,7 @@ The enduring myth is therefore not that Mahendraparvata vanished without trace. 
           <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Angkor and the Khmer Civilization">Angkor and the Khmer Civilization</a>
         </h4>
         <p class="fr-book-author">By Michael D. Coe</p>
-        
+
         <p class="fr-book-desc">Introduces early Khmer capitals including Phnom Kulen.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ The enduring myth is therefore not that Mahendraparvata vanished without trace. 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+civilization+of+Angkor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The civilization of Angkor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Khmer+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Khmer Empire</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+civilization+of+Angkor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The civilization of Angkor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+Cities+of+the+Ancient+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost Cities of the Ancient World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -356,16 +356,16 @@ Rather than resolving the question of who first reached the Seychelles, the grav
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8848108-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By Peter Frankopan</p>
+
         <p class="fr-book-desc">Covers long-distance trade networks linking the Indian Ocean world.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -379,7 +379,7 @@ Rather than resolving the question of who first reached the Seychelles, the grav
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the black flag">Under the black flag</a>
         </h4>
         <p class="fr-book-author">By David Cordingly</p>
-        
+
         <p class="fr-book-desc">Relevant to maritime history around Seychelles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Rather than resolving the question of who first reached the Seychelles, the grav
           <a href="https://www.amazon.com/s?k=Trade%2C+Circulation%2C+and+Flow+in+the+Indian+Ocean+World+Michael+Pearson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trade, Circulation, and Flow in the Indian Ocean World">Trade, Circulation, and Flow in the Indian Ocean World</a>
         </h4>
         <p class="fr-book-author">By Michael Pearson</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Commerce, Economic conditions, History, Indian ocean region, Economic history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Trade%2C+Circulation%2C+and+Flow+in+the+Indian+Ocean+World+Michael+Pearson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Rather than resolving the question of who first reached the Seychelles, the grav
           <a href="https://www.amazon.com/s?k=Blue+Horizon+Wilbur+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Horizon">Blue Horizon</a>
         </h4>
         <p class="fr-book-author">By Wilbur Smith</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Fiction, Fiction, action &amp; adventure, South africa, fiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Blue+Horizon+Wilbur+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -378,7 +378,7 @@ Today, historians generally distinguish between two separate questions. The firs
           <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lie of 1652">The Lie of 1652</a>
         </h4>
         <p class="fr-book-author">By Patric Tariq Mellet, Patric MELLET</p>
-        
+
         <p class="fr-book-desc">First published 2020. Subjects: Social history, Colonies, History, Slavery, Colonial Labor laws and legislation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Today, historians generally distinguish between two separate questions. The firs
           <a href="https://www.amazon.com/s?k=Boer+War+1899-1902+John+Grehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boer War 1899-1902">Boer War 1899-1902</a>
         </h4>
         <p class="fr-book-author">By John Grehan, Martin Mace</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: South african war, 1899-1902, Orange free state, South africa, history, South African War, 1899-1902, Sou...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Boer+War+1899-1902+John+Grehan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ Today, historians generally distinguish between two separate questions. The firs
           <a href="https://www.amazon.com/s?k=Boer+War+John+Grehan%2C+Martin+Mace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boer War">Boer War</a>
         </h4>
         <p class="fr-book-author">By John Grehan, Martin Mace</p>
-        
+
         <p class="fr-book-desc">Explains the historical circumstances behind the treasure legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Boer+War+John+Grehan%2C+Martin+Mace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ Today, historians generally distinguish between two separate questions. The firs
           <a href="https://www.amazon.com/s?k=Trilogy+of+Deneys+Reitz%2C+Commando+-+Trekking+on+-+No+Outspan+Deneys+Reitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trilogy of Deneys Reitz, Commando - Trekking on - No Outspan">Trilogy of Deneys Reitz, Commando - Trekking on - No Outspan</a>
         </h4>
         <p class="fr-book-author">By Deneys Reitz</p>
-        
+
         <p class="fr-book-desc">First published 1994.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Trilogy+of+Deneys+Reitz%2C+Commando+-+Trekking+on+-+No+Outspan+Deneys+Reitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

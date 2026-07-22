@@ -1345,7 +1345,7 @@ Until evidence of that quality appears, the most honest conclusions remain quali
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
         </h4>
         <p class="fr-book-author">By Roger Wilkes</p>
-        
+
         <p class="fr-book-desc">Covers famous unsolved historical mysteries including several American cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ Until evidence of that quality appears, the most honest conclusions remain quali
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
         </h4>
         <p class="fr-book-author">By Sam Kean</p>
-        
+
         <p class="fr-book-desc">Provides accessible scientific context for evidence and investigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ Until evidence of that quality appears, the most honest conclusions remain quali
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
         </h4>
         <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
-        
+
         <p class="fr-book-desc">Examines famous unresolved crimes through investigative methods.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1396,7 +1396,7 @@ Until evidence of that quality appears, the most honest conclusions remain quali
           <a href="https://www.amazon.com/s?k=American+Sherlock%3A+Murder%2C+Forensics%2C+and+the+Birth+of+American+CSI+Kate+Winkler+Dawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Sherlock:  Murder, Forensics, and the Birth of American CSI">American Sherlock: Murder, Forensics, and the Birth of Americ...</a>
         </h4>
         <p class="fr-book-author">By Kate Winkler Dawson</p>
-        
+
         <p class="fr-book-desc">Explains how forensic investigation tackles enduring mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Sherlock%3A+Murder%2C+Forensics%2C+and+the+Birth+of+American+CSI+Kate+Winkler+Dawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

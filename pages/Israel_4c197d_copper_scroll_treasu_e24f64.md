@@ -380,7 +380,7 @@ For the wider public, the Copper Scroll has become one of Israel's most compelli
           <a href="https://www.amazon.com/s?k=The+Dead+Sea+scrolls+today+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Sea scrolls today">The Dead Sea scrolls today</a>
         </h4>
         <p class="fr-book-author">By James C. VanderKam</p>
-        
+
         <p class="fr-book-desc">Discusses what makes the Copper Scroll unique.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dead+Sea+scrolls+today+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For the wider public, the Copper Scroll has become one of Israel's most compelli
           <a href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The meaning of the Dead Sea scrolls">The meaning of the Dead Sea scrolls</a>
         </h4>
         <p class="fr-book-author">By James C. VanderKam, Peter Flint</p>
-        
+
         <p class="fr-book-desc">Explains the Copper Scroll within the wider Qumran discoveries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ For the wider public, the Copper Scroll has become one of Israel's most compelli
           <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dead Sea Scrolls in English">The Complete Dead Sea Scrolls in English</a>
         </h4>
         <p class="fr-book-author">By Géza Vermès</p>
-        
+
         <p class="fr-book-desc">Includes the Copper Scroll and authoritative commentary.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ For the wider public, the Copper Scroll has become one of Israel's most compelli
           <a href="https://www.amazon.com/s?k=Christian+beginnings+and+the+Dead+Sea+scrolls+John+J.+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Christian beginnings and the Dead Sea scrolls">Christian beginnings and the Dead Sea scrolls</a>
         </h4>
         <p class="fr-book-author">By John J. Collins, Craig A. Evans</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: Origin, Primitive and early church, Qumrantexte, Judaism (Christian theology), Dead Sea scrolls.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Christian+beginnings+and+the+Dead+Sea+scrolls+John+J.+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

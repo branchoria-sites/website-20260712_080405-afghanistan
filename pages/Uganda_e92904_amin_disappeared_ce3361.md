@@ -351,7 +351,7 @@ The enduring mystery is therefore not whether the disappearances occurred. It is
           <a href="https://www.amazon.com/s?k=A+state+of+blood+Henry+Kyemba&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A state of blood">A state of blood</a>
         </h4>
         <p class="fr-book-author">By Henry Kyemba</p>
-        
+
         <p class="fr-book-desc">Directly documents disappearances and state violence under Amin.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+state+of+blood+Henry+Kyemba&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ The enduring mystery is therefore not whether the disappearances occurred. It is
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Explains the wider political context of Amin&#x27;s rule.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ The enduring mystery is therefore not whether the disappearances occurred. It is
           <a href="https://www.amazon.com/s?k=Abyssinian+Chronicles+Moses+Isegawa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abyssinian Chronicles">Abyssinian Chronicles</a>
         </h4>
         <p class="fr-book-author">By Moses Isegawa</p>
-        
+
         <p class="fr-book-desc">Captures the atmosphere of Uganda during dictatorship.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abyssinian+Chronicles+Moses+Isegawa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The enduring mystery is therefore not whether the disappearances occurred. It is
           <a href="https://www.amazon.com/s?k=Sowing+the+Mustard+Seed+Yoweri+Kaguta+Museveni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sowing the Mustard Seed">Sowing the Mustard Seed</a>
         </h4>
         <p class="fr-book-author">By Yoweri Kaguta Museveni</p>
-        
+
         <p class="fr-book-desc">Discusses Uganda&#x27;s transition after the regime.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sowing+the+Mustard+Seed+Yoweri+Kaguta+Museveni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

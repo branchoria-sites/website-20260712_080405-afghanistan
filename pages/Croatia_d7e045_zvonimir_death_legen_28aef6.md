@@ -385,7 +385,7 @@ For historians, the case is therefore doubly significant. It offers an unresolve
           <a href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history+Margaret+Olwen+Macmillan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The uses and abuses of history">The uses and abuses of history</a>
         </h4>
         <p class="fr-book-author">By Margaret Olwen Macmillan</p>
-        
+
         <p class="fr-book-desc">Offers a useful framework for understanding why Zvonimir&#x27;s alleged murder and curse remained influential despite weak contemporary evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history+Margaret+Olwen+Macmillan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,16 +396,16 @@ For historians, the case is therefore doubly significant. It offers an unresolve
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/918464-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
+          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
         </h4>
-        <p class="fr-book-author">By Misha Glenny</p>
-        
+        <p class="fr-book-author">By Mark Mazower</p>
+
         <p class="fr-book-desc">Helps readers understand how medieval events, foreign rule and later nationalism became intertwined in Balkan historical memory.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -419,7 +419,7 @@ For historians, the case is therefore doubly significant. It offers an unresolve
           <a href="https://www.amazon.com/s?k=The+early+medieval+Balkans+John+V.+A.+%28John+Van+Antwerp%29+Fine%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The early medieval Balkans">The early medieval Balkans</a>
         </h4>
         <p class="fr-book-author">By John V. A. (John Van Antwerp) Fine, Jr.</p>
-        
+
         <p class="fr-book-desc">Places Zvonimir and the Croatian kingdom within the political and ecclesiastical history of the early medieval Balkans.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+early+medieval+Balkans+John+V.+A.+%28John+Van+Antwerp%29+Fine%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ For historians, the case is therefore doubly significant. It offers an unresolve
           <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Croatia: A History from the Middle Ages to the Present Day">Croatia: A History from the Middle Ages to the Present Day</a>
         </h4>
         <p class="fr-book-author">By Marcus Tanner</p>
-        
+
         <p class="fr-book-desc">Provides historical context for Zvonimir&#x27;s reign, the succession crisis and Croatia&#x27;s later union with Hungary.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

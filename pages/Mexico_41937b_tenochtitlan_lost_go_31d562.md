@@ -351,7 +351,7 @@ As a result, the "Lost Gold of Tenochtitlan" is best understood not as an unsolv
           <a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The broken spears">The broken spears</a>
         </h4>
         <p class="fr-book-author">By Miguel León Portilla, Miguel Leon-Portilla et al.</p>
-        
+
         <p class="fr-book-desc">Includes Indigenous accounts of the retreat from Tenochtitlan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ As a result, the "Lost Gold of Tenochtitlan" is best understood not as an unsolv
           <a href="https://www.amazon.com/s?k=Conquistador+Buddy+Levy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquistador">Conquistador</a>
         </h4>
         <p class="fr-book-author">By Buddy Levy</p>
-        
+
         <p class="fr-book-desc">Covers La Noche Triste and the fate of Aztec treasure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Conquistador+Buddy+Levy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ As a result, the "Lost Gold of Tenochtitlan" is best understood not as an unsolv
           <a href="https://www.amazon.com/s?k=Fifth+Sun+Camilla+Townsend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fifth Sun">Fifth Sun</a>
         </h4>
         <p class="fr-book-author">By Camilla Townsend</p>
-        
+
         <p class="fr-book-desc">Provides modern interpretation of the conquest and its aftermath.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fifth+Sun+Camilla+Townsend&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ As a result, the "Lost Gold of Tenochtitlan" is best understood not as an unsolv
           <a href="https://www.amazon.com/s?k=The+True+History+of+the+Conquest+of+New+Spain+Bernal+Diaz+del+Castillo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True History of the Conquest of New Spain">The True History of the Conquest of New Spain</a>
         </h4>
         <p class="fr-book-author">By Bernal Diaz del Castillo, John Ingram Lockhart</p>
-        
+
         <p class="fr-book-desc">First published 2012.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+True+History+of+the+Conquest+of+New+Spain+Bernal+Diaz+del+Castillo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

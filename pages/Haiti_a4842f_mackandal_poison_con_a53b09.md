@@ -349,7 +349,7 @@ As a result, historians generally agree on several core facts: Mackandal was a r
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Avengers of the New World">Avengers of the New World</a>
         </h4>
         <p class="fr-book-author">By Laurent Dubois</p>
-        
+
         <p class="fr-book-desc">Discusses pre-revolutionary resistance and the social conditions that transformed figures such as Mackandal into revolutionary precursors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ As a result, historians generally agree on several core facts: Mackandal was a r
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Shows how plantation violence and earlier traditions of resistance culminated in the successful Haitian Revolution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ As a result, historians generally agree on several core facts: Mackandal was a r
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
         </h4>
         <p class="fr-book-author">By Michel-Rolph Trouillot</p>
-        
+
         <p class="fr-book-desc">Provides tools for examining how colonial archives, official fear and later national memory shaped Mackandal&#x27;s historical image.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,16 +394,16 @@ As a result, historians generally agree on several core facts: Mackandal was a r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Old+Regime+and+the+Haitian+Revolution+Malick+W.+Ghachem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Old Regime and the Haitian Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+common+wind+Julius+S.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The common wind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8746942-M.jpg" alt="Cover for The common wind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Old+Regime+and+the+Haitian+Revolution+Malick+W.+Ghachem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Regime and the Haitian Revolution">The Old Regime and the Haitian Revolution</a>
+          <a href="https://www.amazon.com/s?k=The+common+wind+Julius+S.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The common wind">The common wind</a>
         </h4>
-        <p class="fr-book-author">By Malick W. Ghachem</p>
-        
-        <p class="fr-book-desc">Places Mackandal and alleged poison conspiracies within Saint-Domingue&#x27;s legal regime, plantation violence and developing revolutionary c...</p>
+        <p class="fr-book-author">By Julius S. Scott</p>
+
+        <p class="fr-book-desc">Explains how news and resistance moved through informal Black communication networks, offering a grounded comparison for claims about Mac...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Old+Regime+and+the+Haitian+Revolution+Malick+W.+Ghachem&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+common+wind+Julius+S.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

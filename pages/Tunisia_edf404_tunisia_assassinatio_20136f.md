@@ -356,7 +356,7 @@ For historians, the enduring mystery is therefore not simply identifying assassi
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
         </h4>
         <p class="fr-book-author">By Lawrence Wright</p>
-        
+
         <p class="fr-book-desc">Offers insight into extremist organizations and investigative challenges.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ For historians, the enduring mystery is therefore not simply identifying assassi
           <a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Dictatorship to Democracy">From Dictatorship to Democracy</a>
         </h4>
         <p class="fr-book-author">By Gene Sharp</p>
-        
+
         <p class="fr-book-desc">Relevant to democratic transitions and political conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ For historians, the enduring mystery is therefore not simply identifying assassi
           <a href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black wave">Black wave</a>
         </h4>
         <p class="fr-book-author">By Kim Ghattas</p>
-        
+
         <p class="fr-book-desc">Helps explain broader regional ideological tensions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ For historians, the enduring mystery is therefore not simply identifying assassi
           <a href="https://www.amazon.com/s?k=Tunisia+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tunisia">Tunisia</a>
         </h4>
         <p class="fr-book-author">By Safwan M. Masri</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Politics and government, Social conditions, History, Tunisia, history, Tunisia, politics and government.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tunisia+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -367,7 +367,7 @@ More than half a century after its discovery, Kazakhstan's Golden Man remains bo
           <a href="https://www.amazon.com/s?k=The+Scythians+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scythians">The Scythians</a>
         </h4>
         <p class="fr-book-author">By Barry W. Cunliffe</p>
-        
+
         <p class="fr-book-desc">Explores steppe peoples closely related to the Saka culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Scythians+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ More than half a century after its discovery, Kazakhstan's Golden Man remains bo
           <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horse, the Wheel, and Language">The Horse, the Wheel, and Language</a>
         </h4>
         <p class="fr-book-author">By David W. Anthony</p>
-        
+
         <p class="fr-book-desc">Provides context for Iron Age steppe cultures related to the Saka.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ More than half a century after its discovery, Kazakhstan's Golden Man remains bo
           <a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Silk Road">Empires of the Silk Road</a>
         </h4>
         <p class="fr-book-author">By Christopher I. Beckwith</p>
-        
+
         <p class="fr-book-desc">Explains the wider historical setting of the Issyk burial.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ More than half a century after its discovery, Kazakhstan's Golden Man remains bo
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
         </h4>
         <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
         <p class="fr-book-desc">Explains how burials are interpreted using archaeological evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

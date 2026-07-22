@@ -336,7 +336,7 @@ For [Malaysia]({{ 'malaysia/' | relative_url }}), Batang Kali represents more th
           <a href="https://www.amazon.com/s?k=The+empire+project+John+Darwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The empire project">The empire project</a>
         </h4>
         <p class="fr-book-author">By John Darwin</p>
-        
+
         <p class="fr-book-desc">Provides wider colonial context for official secrecy and governance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+empire+project+John+Darwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ For [Malaysia]({{ 'malaysia/' | relative_url }}), Batang Kali represents more th
           <a href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malayan emergency">The Malayan emergency</a>
         </h4>
         <p class="fr-book-author">By Robert Jackson</p>
-        
+
         <p class="fr-book-desc">Places Batang Kali within the Malayan Emergency.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ For [Malaysia]({{ 'malaysia/' | relative_url }}), Batang Kali represents more th
           <a href="https://www.amazon.com/s?k=Legacy+of+Violence+Caroline+Elkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Violence">Legacy of Violence</a>
         </h4>
         <p class="fr-book-author">By Caroline Elkins</p>
-        
+
         <p class="fr-book-desc">Explores patterns of colonial violence relevant to Batang Kali.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legacy+of+Violence+Caroline+Elkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ For [Malaysia]({{ 'malaysia/' | relative_url }}), Batang Kali represents more th
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
         </h4>
         <p class="fr-book-author">By Sam Kean</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Miscellanea, Chemical elements, Chemists, Chemistry, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

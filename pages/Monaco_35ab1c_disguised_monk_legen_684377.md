@@ -343,7 +343,7 @@ For Monaco, the uncertainty has become part of the legend's appeal rather than a
           <a href="https://www.amazon.com/s?k=The+Plantagenets+Dan+Jones+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Plantagenets">The Plantagenets</a>
         </h4>
         <p class="fr-book-author">By Dan Jones - undifferentiated</p>
-        
+
         <p class="fr-book-desc">Supplies context for European politics around the era of Monaco&#x27;s capture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Plantagenets+Dan+Jones+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For Monaco, the uncertainty has become part of the legend's appeal rather than a
           <a href="https://www.amazon.com/s?k=Grimaldis+of+Monaco+Anne+Edwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grimaldis of Monaco">Grimaldis of Monaco</a>
         </h4>
         <p class="fr-book-author">By Anne Edwards</p>
-        
+
         <p class="fr-book-desc">Explains the origins of the Grimaldi dynasty and the famous legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Grimaldis+of+Monaco+Anne+Edwards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For Monaco, the uncertainty has become part of the legend's appeal rather than a
           <a href="https://www.amazon.com/s?k=Monaco+Quentin+Crewe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monaco">Monaco</a>
         </h4>
         <p class="fr-book-author">By Quentin Crewe</p>
-        
+
         <p class="fr-book-desc">Covers the medieval capture of Monaco and later traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monaco+Quentin+Crewe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For Monaco, the uncertainty has become part of the legend's appeal rather than a
           <a href="https://www.amazon.com/s?k=Powers+and+Thrones+Dan+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Powers and Thrones">Powers and Thrones</a>
         </h4>
         <p class="fr-book-author">By Dan Jones</p>
-        
+
         <p class="fr-book-desc">Provides broader context for the period in which the legend emerged.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Powers+and+Thrones+Dan+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

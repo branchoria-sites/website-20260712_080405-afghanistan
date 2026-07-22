@@ -376,7 +376,7 @@ What remains unresolved is whether the death resulted from natural illness, an u
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
         </h4>
         <p class="fr-book-author">By Philip Gourevitch</p>
-        
+
         <p class="fr-book-desc">Provides essential historical context for Rwanda&#x27;s political evolution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ What remains unresolved is whether the death resulted from natural illness, an u
           <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shake hands with the devil">Shake hands with the devil</a>
         </h4>
         <p class="fr-book-author">By Roméo Dallaire</p>
-        
+
         <p class="fr-book-desc">Useful broader context for Rwanda&#x27;s political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ What remains unresolved is whether the death resulted from natural illness, an u
           <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Leave none to tell the story&quot;">&quot;Leave none to tell the story&quot;</a>
         </h4>
         <p class="fr-book-author">By Alison Liebhafsky Des Forges</p>
-        
+
         <p class="fr-book-desc">Helps explain the long-term political developments following the monarchy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ What remains unresolved is whether the death resulted from natural illness, an u
           <a href="https://www.amazon.com/s?k=The+King%27s+African+Rifles+H.+Moyse-Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King&#x27;s African Rifles">The King&#x27;s African Rifles</a>
         </h4>
         <p class="fr-book-author">By H. Moyse-Bartlett</p>
-        
+
         <p class="fr-book-desc">Provides background to the colonial period surrounding the monarchy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+King%27s+African+Rifles+H.+Moyse-Bartlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

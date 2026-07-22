@@ -375,7 +375,7 @@ For that reason, the Lead Masks Case occupies a distinctive place in Brazil's hi
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
         </h4>
         <p class="fr-book-author">By Roger Wilkes</p>
-        
+
         <p class="fr-book-desc">Provides context for famous unresolved criminal cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For that reason, the Lead Masks Case occupies a distinctive place in Brazil's hi
           <a href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anatomy of motive">The anatomy of motive</a>
         </h4>
         <p class="fr-book-author">By John E. Douglas, John Douglas et al.</p>
-        
+
         <p class="fr-book-desc">Provides investigative perspective relevant to mysterious deaths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For that reason, the Lead Masks Case occupies a distinctive place in Brazil's hi
           <a href="https://www.amazon.com/s?k=Forensics+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensics">Forensics</a>
         </h4>
         <p class="fr-book-author">By Val McDermid</p>
-        
+
         <p class="fr-book-desc">Explains why missing forensic evidence can leave cases unsolved.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Forensics+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For that reason, the Lead Masks Case occupies a distinctive place in Brazil's hi
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of unsolved mysteries">The encyclopedia of unsolved mysteries</a>
         </h4>
         <p class="fr-book-author">By Colin Wilson</p>
-        
+
         <p class="fr-book-desc">First published 1987. Subjects: Curiosities and wonders.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

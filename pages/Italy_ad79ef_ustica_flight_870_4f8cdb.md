@@ -339,16 +339,16 @@ For many Italians, the disaster therefore represents more than an aviation accid
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10368271-M.jpg" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9293787-M.jpg" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
+          <a href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By John Lewis Gaddis</p>
+
         <p class="fr-book-desc">Places the Ustica disaster within Cold War military tensions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -362,7 +362,7 @@ For many Italians, the disaster therefore represents more than an aviation accid
           <a href="https://www.amazon.com/s?k=The+dark+heart+of+Italy+Tobias+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dark heart of Italy">The dark heart of Italy</a>
         </h4>
         <p class="fr-book-author">By Tobias Jones, Tobias Jones</p>
-        
+
         <p class="fr-book-desc">Discusses secrecy and institutions relevant to Ustica.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dark+heart+of+Italy+Tobias+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For many Italians, the disaster therefore represents more than an aviation accid
           <a href="https://www.amazon.com/s?k=Flight+232+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flight 232">Flight 232</a>
         </h4>
         <p class="fr-book-author">By Laurence Gonzales</p>
-        
+
         <p class="fr-book-desc">Provides insight into crash investigation methods.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flight+232+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,8 +396,8 @@ For many Italians, the disaster therefore represents more than an aviation accid
           <a href="https://www.amazon.com/s?k=FORCE+OF+DESTINY%3A+A+HISTORY+OF+ITALY+SINCE+1796+CHRISTOPHER+DUGGAN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="FORCE OF DESTINY: A HISTORY OF ITALY SINCE 1796">FORCE OF DESTINY: A HISTORY OF ITALY SINCE 1796</a>
         </h4>
         <p class="fr-book-author">By CHRISTOPHER DUGGAN</p>
-        
-        
+
+
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=FORCE+OF+DESTINY%3A+A+HISTORY+OF+ITALY+SINCE+1796+CHRISTOPHER+DUGGAN&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

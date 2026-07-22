@@ -357,7 +357,7 @@ That combination of well-established historical fact and unresolved documentary 
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides accessible background on decolonisation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ That combination of well-established historical fact and unresolved documentary 
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Africa">A history of modern Africa</a>
         </h4>
         <p class="fr-book-author">By Richard J. Reid</p>
-        
+
         <p class="fr-book-desc">Places anti-colonial violence in regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ That combination of well-established historical fact and unresolved documentary 
           <a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amilcar Cabral : revolutionary leadership and people&#x27;s war">Amilcar Cabral : revolutionary leadership and people&#x27;s war</a>
         </h4>
         <p class="fr-book-author">By Patrick Chabal</p>
-        
+
         <p class="fr-book-desc">Explains the historical importance of the massacre.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ That combination of well-established historical fact and unresolved documentary 
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
         </h4>
         <p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
-        
+
         <p class="fr-book-desc">Shows how Pidjiguiti influenced PAIGC strategy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

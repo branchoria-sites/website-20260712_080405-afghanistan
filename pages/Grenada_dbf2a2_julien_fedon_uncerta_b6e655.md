@@ -349,30 +349,13 @@ Today, the mystery of his last escape remains one of Grenada's most enduring unr
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Wake: The Last Crossing of the Lusitania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8629114-M.jpg" alt="Cover for Dead Wake: The Last Crossing of the Lusitania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Wake: The Last Crossing of the Lusitania">Dead Wake: The Last Crossing of the Lusitania</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Offers accessible insight into wartime shipping losses and maritime investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Jacobins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14349219-M.jpg" alt="Cover for The Black Jacobins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Essential background to revolutionary movements like Fédon&#x27;s rebellion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,10 +372,27 @@ Today, the mystery of his last escape remains one of Grenada's most enduring unr
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Avengers of the New World">Avengers of the New World</a>
         </h4>
         <p class="fr-book-author">By Laurent Dubois</p>
-        
+
         <p class="fr-book-desc">Explains the revolutionary Caribbean context that shaped Fédon&#x27;s uprising.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Wake: The Last Crossing of the Lusitania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8629114-M.jpg" alt="Cover for Dead Wake: The Last Crossing of the Lusitania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Wake: The Last Crossing of the Lusitania">Dead Wake: The Last Crossing of the Lusitania</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Offers accessible insight into wartime shipping losses and maritime investigations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -406,7 +406,7 @@ Today, the mystery of his last escape remains one of Grenada's most enduring unr
           <a href="https://www.amazon.com/s?k=Modern+Caribbean+History+Franklin+W.+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modern Caribbean History">Modern Caribbean History</a>
         </h4>
         <p class="fr-book-author">By Franklin W. Knight</p>
-        
+
         <p class="fr-book-desc">Provides colonial and revolutionary Caribbean context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Modern+Caribbean+History+Franklin+W.+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ Today, the mystery of his last escape remains one of Grenada's most enduring unr
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dead Wake: The Last Crossing of the Lusitania</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Avengers+of+the+New+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Avengers of the New World</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Avengers+of+the+New+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Avengers of the New World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dead Wake: The Last Crossing of the Lusitania</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

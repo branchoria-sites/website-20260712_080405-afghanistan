@@ -1371,7 +1371,7 @@ The country’s greatest enigmas therefore point towards the same lesson. Myster
 <a href="https://www.amazon.com/s?k=The+Dominican+Republic+Frank+Moya+Pons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dominican Republic">The Dominican Republic</a>
 </h4>
 <p class="fr-book-author">By Frank Moya Pons</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: History, Politics and government, Economic conditions, Foreign relations, Dominican republic, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Dominican+Republic+Frank+Moya+Pons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1388,7 +1388,7 @@ The country’s greatest enigmas therefore point towards the same lesson. Myster
 <a href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s seduction">The dictator&#x27;s seduction</a>
 </h4>
 <p class="fr-book-author">By Lauren Hutchinson Derby, Gilbert M. Joseph et al.</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Trujillo molina, rafael leonidas, 1891-1961, Dominican republic, social conditions, Dominican republic, p...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1405,7 +1405,7 @@ The country’s greatest enigmas therefore point towards the same lesson. Myster
 <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
 </h4>
 <p class="fr-book-author">By Michele Wucker</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Haiti, Haitians, Relations, International relations, Außenpolitik.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1422,7 +1422,7 @@ The country’s greatest enigmas therefore point towards the same lesson. Myster
 <a href="https://www.amazon.com/s?k=The+Dominican+Republic+Reader%3A+History%2C+Culture%2C+Politics+Eric+Paul+Roorda%2C+Lauren+H.+Derby+%26+Raymundo+Gonz%C3%A1lez+%28eds.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dominican Republic Reader: History, Culture, Politics">The Dominican Republic Reader: History, Culture, Politics</a>
 </h4>
 <p class="fr-book-author">By Eric Paul Roorda, Lauren H. Derby &amp; Raymundo González (eds.)</p>
-        
+
 <p class="fr-book-desc">Provides broad historical context behind many unresolved Dominican mysteries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Dominican+Republic+Reader%3A+History%2C+Culture%2C+Politics+Eric+Paul+Roorda%2C+Lauren+H.+Derby+%26+Raymundo+Gonz%C3%A1lez+%28eds.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

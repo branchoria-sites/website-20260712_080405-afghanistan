@@ -367,7 +367,7 @@ For readers exploring Benin's historical mysteries, Hangbe stands as a reminder 
           <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Spartacus">Black Spartacus</a>
         </h4>
         <p class="fr-book-author">By Sudhir Hazareesingh</p>
-        
+
         <p class="fr-book-desc">Explores the regional political world shaped by the Kingdom of Dahomey.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For readers exploring Benin's historical mysteries, Hangbe stands as a reminder 
           <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The kingdoms of Africa">The kingdoms of Africa</a>
         </h4>
         <p class="fr-book-author">By Peter S. Garlake</p>
-        
+
         <p class="fr-book-desc">Provides context for Dahomey&#x27;s rulers and political development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For readers exploring Benin's historical mysteries, Hangbe stands as a reminder 
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
         </h4>
         <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Archaeology, Textbooks, Methodology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For readers exploring Benin's historical mysteries, Hangbe stands as a reminder 
           <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
         </h4>
         <p class="fr-book-author">By John Reader</p>
-        
+
         <p class="fr-book-desc">First published 1997. Subjects: Geography, History, Pictorial works, Histoire, Bildband.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

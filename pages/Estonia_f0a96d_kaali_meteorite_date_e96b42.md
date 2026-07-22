@@ -334,7 +334,7 @@ For Estonia's history, the mystery is therefore no longer whether Kaali was caus
 <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the World">The Ends of the World</a>
 </h4>
 <p class="fr-book-author">By Peter Brannen</p>
-        
+
 <p class="fr-book-desc">Provides broader context for catastrophic impacts and Earth history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -351,7 +351,7 @@ For Estonia's history, the mystery is therefore no longer whether Kaali was caus
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
 </h4>
 <p class="fr-book-author">By O. Richard Norton</p>
-        
+
 <p class="fr-book-desc">Helps readers understand meteorite science behind Kaali.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ For Estonia's history, the mystery is therefore no longer whether Kaali was caus
 <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
 </h4>
 <p class="fr-book-author">By Alan Warwick Palmer</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: History, Baltic states, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For Estonia's history, the mystery is therefore no longer whether Kaali was caus
 <a href="https://www.amazon.com/s?k=Estonia+Neil+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Estonia">Estonia</a>
 </h4>
 <p class="fr-book-author">By Neil Taylor</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Estonia, history, Estonia, politics and government, Estonia, foreign relations, Politics and government,...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Estonia+Neil+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

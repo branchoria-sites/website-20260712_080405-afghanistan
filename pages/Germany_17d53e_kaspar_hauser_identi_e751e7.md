@@ -351,7 +351,7 @@ The case also illustrates how historical mysteries evolve. For generations, deba
           <a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shortest History of Germany">The Shortest History of Germany</a>
         </h4>
         <p class="fr-book-author">By James Hawes</p>
-        
+
         <p class="fr-book-desc">Explains the historical setting in which Hauser appeared.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ The case also illustrates how historical mysteries evolve. For generations, deba
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
         </h4>
         <p class="fr-book-author">By Kate Summerscale</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in nineteenth-century investigations and identity mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ The case also illustrates how historical mysteries evolve. For generations, deba
           <a href="https://www.amazon.com/s?k=The+invention+of+murder+Judith+Flanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The invention of murder">The invention of murder</a>
         </h4>
         <p class="fr-book-author">By Judith Flanders</p>
-        
+
         <p class="fr-book-desc">Provides context for nineteenth-century criminal investigation and public fascination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+invention+of+murder+Judith+Flanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The case also illustrates how historical mysteries evolve. For generations, deba
           <a href="https://www.amazon.com/s?k=Iron+Kingdom+-+the+Rise+and+Downfall+of+Prussia+1600+-+1947+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Kingdom - the Rise and Downfall of Prussia 1600 - 1947">Iron Kingdom - the Rise and Downfall of Prussia 1600 - 1947</a>
         </h4>
         <p class="fr-book-author">By Christopher Clark</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: Prussia (germany), history, Germany, history, New York Times reviewed, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Iron+Kingdom+-+the+Rise+and+Downfall+of+Prussia+1600+-+1947+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

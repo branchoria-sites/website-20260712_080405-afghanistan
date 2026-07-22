@@ -1357,50 +1357,6 @@ Together, the cases offer a practical way to judge historical mysteries:
 The country’s most interesting mysteries are therefore not necessarily those with the most dramatic theories. They are the cases in which archives, physical evidence and public memory pull in different directions — revealing not only what may have happened, but how nations decide which versions of the past they wish to preserve.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell fr-section-shell-fallback">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">No matched book cards were available for Which Czech Mysteries Still Resist an Answer?, so this fallback keeps a direct Amazon reading path visible.</p>
-</div>
-<div class="fr-search-grid">
-
-<article class="fr-search-card">
-<p class="fr-search-kicker">Topical books</p>
-<h4 class="fr-search-title">Czech Historical Mystery Categories guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Czech+Historical+Mystery+Categories+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-
-<article class="fr-search-card">
-<p class="fr-search-kicker">Related search</p>
-<h4 class="fr-search-title">Štěchovice treasure guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=%C5%A0t%C4%9Bchovice+treasure+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-
-<article class="fr-search-card">
-<p class="fr-search-kicker">Related search</p>
-<h4 class="fr-search-title">Nazi archives guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Nazi+archives+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-</div>
-<div class="fr-section-footer">
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -1418,7 +1374,7 @@ The country’s most interesting mysteries are therefore not necessarily those w
           <a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret history of the world">The secret history of the world</a>
         </h4>
         <p class="fr-book-author">By Mark Booth</p>
-        
+
         <p class="fr-book-desc">Explores enduring historical enigmas and hidden narratives that align with Czech mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1435,7 +1391,7 @@ The country’s most interesting mysteries are therefore not necessarily those w
           <a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voynich manuscript">The Voynich manuscript</a>
         </h4>
         <p class="fr-book-author">By Gerry Kennedy, Rob Churchill</p>
-        
+
         <p class="fr-book-desc">Covers one of the best-known mysteries connected with Prague.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1452,7 +1408,7 @@ The country’s most interesting mysteries are therefore not necessarily those w
           <a href="https://www.amazon.com/s?k=The+Golden+Maze+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Maze">The Golden Maze</a>
         </h4>
         <p class="fr-book-author">By Richard Fidler</p>
-        
+
         <p class="fr-book-desc">Places several famous Czech mysteries within Prague&#x27;s wider history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Maze+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1469,7 +1425,7 @@ The country’s most interesting mysteries are therefore not necessarily those w
           <a href="https://www.amazon.com/s?k=Prague+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague">Prague</a>
         </h4>
         <p class="fr-book-author">By Richard D. E. Burton</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Civilization, Description and travel, Prague (czech republic), description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Prague+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1485,6 +1441,8 @@ The country’s most interesting mysteries are therefore not necessarily those w
     </div>
   </div>
 </section>
+
+
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
 <div class="fr-section-shell">

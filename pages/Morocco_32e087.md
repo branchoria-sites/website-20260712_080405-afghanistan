@@ -1359,7 +1359,7 @@ The most valuable approach is therefore investigative rather than sensational. A
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Morocco">A history of modern Morocco</a>
         </h4>
         <p class="fr-book-author">By Susan Gilson Miller</p>
-        
+
         <p class="fr-book-desc">Covers many of the historical episodes behind Morocco&#x27;s enduring mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ The most valuable approach is therefore investigative rather than sensational. A
           <a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great sea">The great sea</a>
         </h4>
         <p class="fr-book-author">By David Abulafia</p>
-        
+
         <p class="fr-book-desc">Places Morocco within wider Mediterranean historical networks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,7 +1393,7 @@ The most valuable approach is therefore investigative rather than sensational. A
           <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ornament of the world">The ornament of the world</a>
         </h4>
         <p class="fr-book-author">By Maria Rosa Menocal</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for Morocco&#x27;s medieval past.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1410,7 +1410,7 @@ The most valuable approach is therefore investigative rather than sensational. A
           <a href="https://www.amazon.com/s?k=Travels+of+Ibn+Battuta%2C+A.D.+1325-1354+Ibn+Batuta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Travels of Ibn Battuta, A.D. 1325-1354">Travels of Ibn Battuta, A.D. 1325-1354</a>
         </h4>
         <p class="fr-book-author">By Ibn Batuta</p>
-        
+
         <p class="fr-book-desc">First published 1958. Subjects: Description and travel, Voyages and travels.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Travels+of+Ibn+Battuta%2C+A.D.+1325-1354+Ibn+Batuta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

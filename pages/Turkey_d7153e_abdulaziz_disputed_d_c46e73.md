@@ -346,7 +346,7 @@ Unlike many famous unsolved deaths, the case produced an official verdict, a lat
           <a href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fall of the Ottomans">The fall of the Ottomans</a>
         </h4>
         <p class="fr-book-author">By Eugene L. Rogan</p>
-        
+
         <p class="fr-book-desc">Explains the late Ottoman state that emerged after Abdulaziz&#x27;s reign.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ Unlike many famous unsolved deaths, the case produced an official verdict, a lat
           <a href="https://www.amazon.com/s?k=Lords+of+the+horizons+Jason+Goodwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lords of the horizons">Lords of the horizons</a>
         </h4>
         <p class="fr-book-author">By Jason Goodwin</p>
-        
+
         <p class="fr-book-desc">Introduces Ottoman politics and institutions for non-specialists.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lords+of+the+horizons+Jason+Goodwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Unlike many famous unsolved deaths, the case produced an official verdict, a lat
           <a href="https://www.amazon.com/s?k=Ottomans+Marc+David+Baer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ottomans">Ottomans</a>
         </h4>
         <p class="fr-book-author">By Marc David Baer</p>
-        
+
         <p class="fr-book-desc">Provides context for the late Ottoman political crises surrounding Abdulaziz.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ottomans+Marc+David+Baer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,8 +397,8 @@ Unlike many famous unsolved deaths, the case produced an official verdict, a lat
           <a href="https://www.amazon.com/s?k=Osman%27s+Dream+the+History+of+the+Ottoman+Empire+Caroline+Finkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Osman&#x27;s Dream the History of the Ottoman Empire">Osman&#x27;s Dream the History of the Ottoman Empire</a>
         </h4>
         <p class="fr-book-author">By Caroline Finkel</p>
-        
-        
+
+
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Osman%27s+Dream+the+History+of+the+Ottoman+Empire+Caroline+Finkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

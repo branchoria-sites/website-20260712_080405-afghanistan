@@ -356,7 +356,7 @@ Recovering even part of that missing funerary complex would illuminate the archi
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
         </h4>
         <p class="fr-book-author">By Stanley Karnow</p>
-        
+
         <p class="fr-book-desc">Places Quang Trung within Vietnam&#x27;s long historical narrative.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Recovering even part of that missing funerary complex would illuminate the archi
           <a href="https://www.amazon.com/s?k=A+dragon+apparent+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dragon apparent">A dragon apparent</a>
         </h4>
         <p class="fr-book-author">By Norman Lewis</p>
-        
+
         <p class="fr-book-desc">Introduces readers to Vietnam&#x27;s historical landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+dragon+apparent+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Recovering even part of that missing funerary complex would illuminate the archi
           <a href="https://www.amazon.com/s?k=The+birth+of+Vietnam+Keith+Weller+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The birth of Vietnam">The birth of Vietnam</a>
         </h4>
         <p class="fr-book-author">By Keith Weller Taylor</p>
-        
+
         <p class="fr-book-desc">Provides background on Vietnamese monarchy and state traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+birth+of+Vietnam+Keith+Weller+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Recovering even part of that missing funerary complex would illuminate the archi
           <a href="https://www.amazon.com/s?k=The+T%C3%A2y+Son+uprising+George+Edson+Dutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tây Son uprising">The Tây Son uprising</a>
         </h4>
         <p class="fr-book-author">By George Edson Dutton</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: Social conditions, History, Vietnam, history, Vietnam, social life and customs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+T%C3%A2y+Son+uprising+George+Edson+Dutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

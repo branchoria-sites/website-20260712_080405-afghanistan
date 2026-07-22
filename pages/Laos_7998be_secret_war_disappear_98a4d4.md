@@ -365,7 +365,7 @@ For foreign families, the mystery centred on recovering named individuals whose 
           <a href="https://www.amazon.com/s?k=The+Ravens+Christopher+Robbins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ravens">The Ravens</a>
         </h4>
         <p class="fr-book-author">By Christopher Robbins</p>
-        
+
         <p class="fr-book-desc">Explains the covert conflict that created many missing-person and record-keeping mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ravens+Christopher+Robbins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For foreign families, the mystery centred on recovering named individuals whose 
           <a href="https://www.amazon.com/s?k=Nothing+ever+dies+Viet+Thanh+Nguyen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing ever dies">Nothing ever dies</a>
         </h4>
         <p class="fr-book-author">By Viet Thanh Nguyen</p>
-        
+
         <p class="fr-book-desc">Explores how wars leave unresolved absences and contested memories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nothing+ever+dies+Viet+Thanh+Nguyen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For foreign families, the mystery centred on recovering named individuals whose 
           <a href="https://www.amazon.com/s?k=Shooting+at+the+moon+Roger+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shooting at the moon">Shooting at the moon</a>
         </h4>
         <p class="fr-book-author">By Roger Warner</p>
-        
+
         <p class="fr-book-desc">Provides broad context for disappearances, covert operations and the human cost.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shooting+at+the+moon+Roger+Warner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For foreign families, the mystery centred on recovering named individuals whose 
           <a href="https://www.amazon.com/s?k=Tragic+mountains+Jane+Hamilton-Merritt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tragic mountains">Tragic mountains</a>
         </h4>
         <p class="fr-book-author">By Jane Hamilton-Merritt</p>
-        
+
         <p class="fr-book-desc">Covers Hmong forces, civilian losses and the legacy of the conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tragic+mountains+Jane+Hamilton-Merritt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

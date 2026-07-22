@@ -352,7 +352,7 @@ More than a century after its excavation, the Alexander Sarcophagus remains famo
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of the eastern Mediterranean&#x27;s ancient past.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ More than a century after its excavation, the Alexander Sarcophagus remains famo
           <a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alexander the Great">Alexander the Great</a>
         </h4>
         <p class="fr-book-author">By Freeman, Philip</p>
-        
+
         <p class="fr-book-desc">Explains Alexander&#x27;s campaigns and why the sarcophagus bears his image.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ More than a century after its excavation, the Alexander Sarcophagus remains famo
           <a href="https://www.amazon.com/s?k=From+Cyrus+to+Alexander+Pierre+Briant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Cyrus to Alexander">From Cyrus to Alexander</a>
         </h4>
         <p class="fr-book-author">By Pierre Briant</p>
-        
+
         <p class="fr-book-desc">Explains the Persian and Phoenician political setting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=From+Cyrus+to+Alexander+Pierre+Briant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ More than a century after its excavation, the Alexander Sarcophagus remains famo
           <a href="https://www.amazon.com/s?k=Alexander+the+Great+by+Robin+Lane+Fox+%282004-10-05%29+ROBIN+LANE+FOX&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alexander the Great by Robin Lane Fox (2004-10-05)">Alexander the Great by Robin Lane Fox (2004-10-05)</a>
         </h4>
         <p class="fr-book-author">By ROBIN LANE FOX</p>
-        
+
         <p class="fr-book-desc">First published 1974.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Alexander+the+Great+by+Robin+Lane+Fox+%282004-10-05%29+ROBIN+LANE+FOX&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

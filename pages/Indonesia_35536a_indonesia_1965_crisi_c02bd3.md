@@ -351,7 +351,7 @@ Since Suharto's fall in 1998, historians have gained greater freedom to examine 
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
         </h4>
         <p class="fr-book-author">By Vincent Bevins</p>
-        
+
         <p class="fr-book-desc">Examines the 1965 crisis and its international consequences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ Since Suharto's fall in 1998, historians have gained greater freedom to examine 
           <a href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder+John+Roosa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pretext for Mass Murder">Pretext for Mass Murder</a>
         </h4>
         <p class="fr-book-author">By John Roosa</p>
-        
+
         <p class="fr-book-desc">Focuses directly on competing explanations for the crisis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder+John+Roosa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Since Suharto's fall in 1998, historians have gained greater freedom to examine 
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Indonesia since c. 1200">A history of modern Indonesia since c. 1200</a>
         </h4>
         <p class="fr-book-author">By M. C. Ricklefs</p>
-        
+
         <p class="fr-book-desc">Places the crisis within Indonesia&#x27;s longer political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Since Suharto's fall in 1998, historians have gained greater freedom to examine 
           <a href="https://www.amazon.com/s?k=The+army+and+politics+in+Indonesia+Harold+A.+Crouch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The army and politics in Indonesia">The army and politics in Indonesia</a>
         </h4>
         <p class="fr-book-author">By Harold A. Crouch</p>
-        
+
         <p class="fr-book-desc">Explains the Indonesian military&#x27;s political role before and after 1965.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+army+and+politics+in+Indonesia+Harold+A.+Crouch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

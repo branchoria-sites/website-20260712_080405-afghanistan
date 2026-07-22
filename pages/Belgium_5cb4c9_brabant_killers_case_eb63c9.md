@@ -351,7 +351,7 @@ For that reason, the Brabant Killers are remembered not merely as unidentified m
           <a href="https://www.amazon.com/s?k=Mindhunter+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindhunter">Mindhunter</a>
         </h4>
         <p class="fr-book-author">By John E. Douglas, Mark Olshaker</p>
-        
+
         <p class="fr-book-desc">Explains offender profiling relevant to unsolved serial crimes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mindhunter+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ For that reason, the Brabant Killers are remembered not merely as unidentified m
           <a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Adversary">The Adversary</a>
         </h4>
         <p class="fr-book-author">By Emmanuel Carrère</p>
-        
+
         <p class="fr-book-desc">Strong fit for readers interested in notorious European crime.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For that reason, the Brabant Killers are remembered not merely as unidentified m
           <a href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anatomy of motive">The anatomy of motive</a>
         </h4>
         <p class="fr-book-author">By John E. Douglas, John Douglas et al.</p>
-        
+
         <p class="fr-book-desc">Explores motivations behind violent offenders.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For that reason, the Brabant Killers are remembered not merely as unidentified m
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
         </h4>
         <p class="fr-book-author">By Kate Summerscale</p>
-        
+
         <p class="fr-book-desc">Examines investigative failures and enduring mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

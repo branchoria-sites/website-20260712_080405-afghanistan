@@ -1352,7 +1352,7 @@ The responsible conclusion is rarely that “anything could have happened”. Us
           <a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fatal shore">The fatal shore</a>
         </h4>
         <p class="fr-book-author">By Robert Hughes</p>
-        
+
         <p class="fr-book-desc">Provides rich historical context for many enduring Australian mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,7 +1369,7 @@ The responsible conclusion is rarely that “anything could have happened”. Us
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
         </h4>
         <p class="fr-book-author">By Roger Wilkes</p>
-        
+
         <p class="fr-book-desc">Places Australian mysteries within wider unsolved-crime history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1386,7 +1386,7 @@ The responsible conclusion is rarely that “anything could have happened”. Us
           <a href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unknown Man: A Suspicious Death at Somerton Beach">The Unknown Man: A Suspicious Death at Somerton Beach</a>
         </h4>
         <p class="fr-book-author">By G M Feltus</p>
-        
+
         <p class="fr-book-desc">Explores one of Australia&#x27;s most famous unexplained deaths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1403,7 +1403,7 @@ The responsible conclusion is rarely that “anything could have happened”. Us
           <a href="https://www.amazon.com/s?k=Missing+You%3A+The+Beaumont+Children%2C+Australia%27s+Most+Famous+Cold+Case+Richard+Yallop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing You: The Beaumont Children, Australia&#x27;s Most Famous Cold Case">Missing You: The Beaumont Children, Australia&#x27;s Most Famous C...</a>
         </h4>
         <p class="fr-book-author">By Richard Yallop</p>
-        
+
         <p class="fr-book-desc">Covers the country&#x27;s defining missing-person mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Missing+You%3A+The+Beaumont+Children%2C+Australia%27s+Most+Famous+Cold+Case+Richard+Yallop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

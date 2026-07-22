@@ -392,7 +392,7 @@ For that reason, the Nomoli figures remain one of Sierra Leone's most enduring h
           <a href="https://www.amazon.com/s?k=African+art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African art">African art</a>
         </h4>
         <p class="fr-book-author">By Frank Willett</p>
-        
+
         <p class="fr-book-desc">Helps readers understand stone sculpture traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For that reason, the Nomoli figures remain one of Sierra Leone's most enduring h
           <a href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Africa">History of Africa</a>
         </h4>
         <p class="fr-book-author">By Kevin Shillington</p>
-        
+
         <p class="fr-book-desc">Explains the societies associated with early West African archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For that reason, the Nomoli figures remain one of Sierra Leone's most enduring h
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Africa">The Archaeology of Africa</a>
         </h4>
         <p class="fr-book-author">By Thurstan Shaw</p>
-        
+
         <p class="fr-book-desc">Best broad archaeological context for ancient West African material culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ For that reason, the Nomoli figures remain one of Sierra Leone's most enduring h
           <a href="https://www.amazon.com/s?k=African+Civilizations+Graham+Connah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Civilizations">African Civilizations</a>
         </h4>
         <p class="fr-book-author">By Graham Connah</p>
-        
+
         <p class="fr-book-desc">Explores archaeological interpretation relevant to Nomoli figures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Civilizations+Graham+Connah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

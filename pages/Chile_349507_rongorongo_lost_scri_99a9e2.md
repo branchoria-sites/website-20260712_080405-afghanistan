@@ -385,7 +385,7 @@ For Chile, rongorongo represents a uniquely significant historical puzzle becaus
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
         </h4>
         <p class="fr-book-author">By Jared Diamond</p>
-        
+
         <p class="fr-book-desc">Popular treatment of Easter Island&#x27;s past that often sparks further interest.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For Chile, rongorongo represents a uniquely significant historical puzzle becaus
           <a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Riddle of the Labyrinth">Riddle of the Labyrinth</a>
         </h4>
         <p class="fr-book-author">By Margalit Fox</p>
-        
+
         <p class="fr-book-desc">Excellent companion on how ancient scripts are decoded.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For Chile, rongorongo represents a uniquely significant historical puzzle becaus
           <a href="https://www.amazon.com/s?k=The+writing+systems+of+the+world+Florian+Coulmas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The writing systems of the world">The writing systems of the world</a>
         </h4>
         <p class="fr-book-author">By Florian Coulmas</p>
-        
+
         <p class="fr-book-desc">Places rongorongo among the world&#x27;s scripts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+writing+systems+of+the+world+Florian+Coulmas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ For Chile, rongorongo represents a uniquely significant historical puzzle becaus
           <a href="https://www.amazon.com/s?k=H.+M.+S.+%22Topaze%22+on+Easter+Island+Jo+Anne+Van+Tilburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="H. M. S. &quot;Topaze&quot; on Easter Island">H. M. S. &quot;Topaze&quot; on Easter Island</a>
         </h4>
         <p class="fr-book-author">By Jo Anne Van Tilburg</p>
-        
+
         <p class="fr-book-desc">First published 1992. Subjects: Antiquities, Primitive Sculpture, Hoa Hakananai&#x27;a (Sculpture), History, Statues.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=H.+M.+S.+%22Topaze%22+on+Easter+Island+Jo+Anne+Van+Tilburg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -361,7 +361,7 @@ That balanced approach explains why the Icelandic family sagas remain central to
           <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
         </h4>
         <p class="fr-book-author">By Neil Price</p>
-        
+
         <p class="fr-book-desc">Places saga traditions alongside archaeological evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ That balanced approach explains why the Icelandic family sagas remain central to
           <a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent">Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent</a>
         </h4>
         <p class="fr-book-author">By Hannah Kent</p>
-        
+
         <p class="fr-book-desc">First published 2013. Subjects: Fiction, biographical, Iceland, fiction, Criminals, fiction, Fiction, suspense, Fiction, historical, gene...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ That balanced approach explains why the Icelandic family sagas remain central to
           <a href="https://www.amazon.com/s?k=The+Vikings+in+England+Else+Roesdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vikings in England">The Vikings in England</a>
         </h4>
         <p class="fr-book-author">By Else Roesdahl</p>
-        
+
         <p class="fr-book-desc">First published 1981. Subjects: Northmen, History, Exhibitions, Vikings, Antiquities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Vikings+in+England+Else+Roesdahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ That balanced approach explains why the Icelandic family sagas remain central to
           <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The prose Edda of Snorri Sturluson">The prose Edda of Snorri Sturluson</a>
         </h4>
         <p class="fr-book-author">By Snorri Sturluson</p>
-        
+
         <p class="fr-book-desc">First published 1954. Subjects: Norse Mythology, Scalds and scaldic poetry.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -369,7 +369,7 @@ The continuing recoveries also demonstrate how historical mysteries can graduall
           <a href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle+Robert+Sherrod&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tarawa the Story of a Battle">Tarawa the Story of a Battle</a>
         </h4>
         <p class="fr-book-author">By Robert Sherrod</p>
-        
+
         <p class="fr-book-desc">Directly covers the battlefield where the missing graves originated.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle+Robert+Sherrod&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The continuing recoveries also demonstrate how historical mysteries can graduall
           <a href="https://www.amazon.com/s?k=Utmost+Savagery+Colonel+Joseph+H.+Alexander+-+United+States+Marine+Corps+%28Ret.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Utmost Savagery">Utmost Savagery</a>
         </h4>
         <p class="fr-book-author">By Colonel Joseph H. Alexander - United States Marine Corps (Ret.), Tom Weiner</p>
-        
+
         <p class="fr-book-desc">Explains the battle conditions that led to temporary burials.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Utmost+Savagery+Colonel+Joseph+H.+Alexander+-+United+States+Marine+Corps+%28Ret.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The continuing recoveries also demonstrate how historical mysteries can graduall
           <a href="https://www.amazon.com/s?k=With+the+old+breed%2C+at+Peleliu+and+Okinawa+E.+B.+Sledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="With the old breed, at Peleliu and Okinawa">With the old breed, at Peleliu and Okinawa</a>
         </h4>
         <p class="fr-book-author">By E. B. Sledge</p>
-        
+
         <p class="fr-book-desc">First published 1981. Subjects: American Personal narratives, Biography, Campaigns, History, History, Military.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=With+the+old+breed%2C+at+Peleliu+and+Okinawa+E.+B.+Sledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The continuing recoveries also demonstrate how historical mysteries can graduall
           <a href="https://www.amazon.com/s?k=AMELIA+EARHART+THE+MYSTERY+SOLVED+Elgen+M.+And+Marie+K.+Long+Long&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AMELIA EARHART THE MYSTERY SOLVED">AMELIA EARHART THE MYSTERY SOLVED</a>
         </h4>
         <p class="fr-book-author">By Elgen M. And Marie K. Long Long</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Earhart, amelia, 1898-1937, Aeronautics, flights.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=AMELIA+EARHART+THE+MYSTERY+SOLVED+Elgen+M.+And+Marie+K.+Long+Long&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

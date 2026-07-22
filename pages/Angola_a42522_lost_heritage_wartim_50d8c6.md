@@ -370,7 +370,7 @@ Some mysteries are likely to become clearer through new excavations, museum prov
           <a href="https://www.amazon.com/s?k=The+Brutish+Museums+Dan+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brutish Museums">The Brutish Museums</a>
         </h4>
         <p class="fr-book-author">By Dan Hicks</p>
-        
+
         <p class="fr-book-desc">Directly addresses colonial collecting and dispersed African heritage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Brutish+Museums+Dan+Hicks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Some mysteries are likely to become clearer through new excavations, museum prov
           <a href="https://www.amazon.com/s?k=Whole+Picture+Alice+Procter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Whole Picture">Whole Picture</a>
         </h4>
         <p class="fr-book-author">By Alice Procter</p>
-        
+
         <p class="fr-book-desc">Helps explain debates over provenance and restitution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Whole+Picture+Alice+Procter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Some mysteries are likely to become clearer through new excavations, museum prov
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Some mysteries are likely to become clearer through new excavations, museum prov
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">Explains colonial expansion behind archival and cultural losses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

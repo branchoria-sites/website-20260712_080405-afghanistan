@@ -1346,7 +1346,7 @@ These are not mysteries because every explanation is equally possible. In each c
           <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The republic of pirates">The republic of pirates</a>
         </h4>
         <p class="fr-book-author">By Colin Woodard</p>
-        
+
         <p class="fr-book-desc">Provides historical background for the age of piracy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ These are not mysteries because every explanation is equally possible. In each c
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the black flag">Under the black flag</a>
         </h4>
         <p class="fr-book-author">By David Cordingly</p>
-        
+
         <p class="fr-book-desc">Covers the pirate world behind Seychelles&#x27; greatest legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1380,7 +1380,7 @@ These are not mysteries because every explanation is equally possible. In each c
           <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pirate Hunters">Pirate Hunters</a>
         </h4>
         <p class="fr-book-author">By Robert Kurson</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in pirate mysteries and discoveries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1397,7 +1397,7 @@ These are not mysteries because every explanation is equally possible. In each c
           <a href="https://www.amazon.com/s?k=Blue+Horizon+Wilbur+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Horizon">Blue Horizon</a>
         </h4>
         <p class="fr-book-author">By Wilbur Smith</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Fiction, Fiction, action &amp; adventure, South africa, fiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Blue+Horizon+Wilbur+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

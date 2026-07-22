@@ -332,7 +332,7 @@ The uncertain death toll remains one of the central historical puzzles of the 19
           <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
         </h4>
         <p class="fr-book-author">By Michele Wucker</p>
-        
+
         <p class="fr-book-desc">Places the massacre within the wider border conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -349,7 +349,7 @@ The uncertain death toll remains one of the central historical puzzles of the 19
           <a href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s seduction">The dictator&#x27;s seduction</a>
         </h4>
         <p class="fr-book-author">By Lauren Hutchinson Derby, Gilbert M. Joseph et al.</p>
-        
+
         <p class="fr-book-desc">Explains the political system behind the violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ The uncertain death toll remains one of the central historical puzzles of the 19
           <a href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic+Richard+Lee+Turits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Parsley Massacre: The Tragic Story of the 1937 Haitian Massacre in the Dominican Republic">The Parsley Massacre: The Tragic Story of the 1937 Haitian Ma...</a>
         </h4>
         <p class="fr-book-author">By Richard Lee Turits</p>
-        
+
         <p class="fr-book-desc">Directly examines the killings, evidence and casualty estimates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic+Richard+Lee+Turits&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

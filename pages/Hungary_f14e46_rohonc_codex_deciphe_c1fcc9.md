@@ -405,7 +405,7 @@ Its enduring fascination lies precisely in that balance. The manuscript looks li
           <a href="https://www.amazon.com/s?k=The+Code+Book+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Code Book">The Code Book</a>
         </h4>
         <p class="fr-book-author">By Simon Singh</p>
-        
+
         <p class="fr-book-desc">Provides the best accessible background for understanding undeciphered manuscripts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Code+Book+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,27 +422,10 @@ Its enduring fascination lies precisely in that balance. The manuscript looks li
           <a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voynich manuscript">The Voynich manuscript</a>
         </h4>
         <p class="fr-book-author">By Gerry Kennedy, Rob Churchill</p>
-        
+
         <p class="fr-book-desc">Offers direct parallels to the Rohonc Codex mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Historian+Elizabeth+Kostova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Historian on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8345372-M.jpg" alt="Cover for The Historian" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Historian+Elizabeth+Kostova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Historian">The Historian</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Kostova</p>
-        
-        <p class="fr-book-desc">First published 2005. Subjects: Historical Fiction, Legends, Vampires, Fiction, Historians.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Historian+Elizabeth+Kostova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -456,7 +439,7 @@ Its enduring fascination lies precisely in that balance. The manuscript looks li
           <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Habsburgs">Habsburgs</a>
         </h4>
         <p class="fr-book-author">By Martyn Rady</p>
-        
+
         <p class="fr-book-desc">Provides historical context for the manuscript&#x27;s Central European setting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,9 +448,26 @@ Its enduring fascination lies precisely in that balance. The manuscript looks li
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Historian+Elizabeth+Kostova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Historian on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8345372-M.jpg" alt="Cover for The Historian" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Historian+Elizabeth+Kostova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Historian">The Historian</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth Kostova</p>
+
+        <p class="fr-book-desc">First published 2005. Subjects: Historical Fiction, Legends, Vampires, Fiction, Historians.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Historian+Elizabeth+Kostova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Code+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Code Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voynich+manuscript&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voynich manuscript</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Historian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Historian</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Code+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Code Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voynich+manuscript&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voynich manuscript</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Habsburgs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Habsburgs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

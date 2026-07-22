@@ -1327,7 +1327,7 @@ That disciplined distinction between fact, inference and legend does not make th
           <a href="https://www.amazon.com/s?k=My+promised+land+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My promised land">My promised land</a>
         </h4>
         <p class="fr-book-author">By Ari Shavit</p>
-        
+
         <p class="fr-book-desc">Explores formative episodes in Israeli history and identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=My+promised+land+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1344,7 +1344,7 @@ That disciplined distinction between fact, inference and legend does not make th
           <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dead Sea Scrolls in English">The Complete Dead Sea Scrolls in English</a>
         </h4>
         <p class="fr-book-author">By Géza Vermès</p>
-        
+
         <p class="fr-book-desc">Relevant to the wider landscape of ancient Israeli historical puzzles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ That disciplined distinction between fact, inference and legend does not make th
           <a href="https://www.amazon.com/s?k=A+history+of+Israel+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Israel">A history of Israel</a>
         </h4>
         <p class="fr-book-author">By Howard Morley Sachar</p>
-        
+
         <p class="fr-book-desc">Covers the political and social setting behind the featured cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Israel+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ That disciplined distinction between fact, inference and legend does not make th
           <a href="https://www.amazon.com/s?k=Israel+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Israel">Israel</a>
         </h4>
         <p class="fr-book-author">By Martin Gilbert</p>
-        
+
         <p class="fr-book-desc">First published 1998. Subjects: History, Arab-Israeli conflict, Jews, Geschichte, Israel, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Israel+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

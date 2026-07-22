@@ -338,7 +338,7 @@ For historians, Kibeho serves as a reminder that precise numbers are not always 
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
         </h4>
         <p class="fr-book-author">By Philip Gourevitch</p>
-        
+
         <p class="fr-book-desc">Explains the broader aftermath of the genocide leading into Kibeho.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ For historians, Kibeho serves as a reminder that precise numbers are not always 
           <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shake hands with the devil">Shake hands with the devil</a>
         </h4>
         <p class="fr-book-author">By Roméo Dallaire</p>
-        
+
         <p class="fr-book-desc">Provides indispensable context for post-genocide Rwanda.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ For historians, Kibeho serves as a reminder that precise numbers are not always 
           <a href="https://www.amazon.com/s?k=The+graves+are+not+yet+full+Bill+Berkeley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The graves are not yet full">The graves are not yet full</a>
         </h4>
         <p class="fr-book-author">By Bill Berkeley</p>
-        
+
         <p class="fr-book-desc">Adds regional context for post-genocide violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+graves+are+not+yet+full+Bill+Berkeley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ For historians, Kibeho serves as a reminder that precise numbers are not always 
           <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Leave none to tell the story&quot;">&quot;Leave none to tell the story&quot;</a>
         </h4>
         <p class="fr-book-author">By Alison Liebhafsky Des Forges</p>
-        
+
         <p class="fr-book-desc">Documents the historical environment surrounding Kibeho.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

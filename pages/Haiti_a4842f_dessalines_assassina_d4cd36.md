@@ -364,7 +364,7 @@ The mystery therefore survives not because historians doubt that a conspiracy ex
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Explains Dessalines&#x27;s rise as a revolutionary commander and the political transformations that preceded his rule and assassination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The mystery therefore survives not because historians doubt that a conspiracy ex
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Avengers of the New World">Avengers of the New World</a>
         </h4>
         <p class="fr-book-author">By Laurent Dubois</p>
-        
+
         <p class="fr-book-desc">Provides the essential context for Dessalines&#x27;s leadership, independence, postwar policies and conflicts among Haiti&#x27;s military elite.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The mystery therefore survives not because historians doubt that a conspiracy ex
           <a href="https://www.amazon.com/s?k=Haiti+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haiti">Haiti</a>
         </h4>
         <p class="fr-book-author">By Laurent Dubois</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: History, Politics and government, Slave insurrections, Economic conditions, Social conditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haiti+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

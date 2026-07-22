@@ -1335,7 +1335,7 @@ The most valuable Dutch mysteries are therefore not those that promise a sensati
           <a href="https://www.amazon.com/s?k=Girl+with+a+Pearl+Earring+Tracy+Chevalier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Girl with a Pearl Earring">Girl with a Pearl Earring</a>
         </h4>
         <p class="fr-book-author">By Tracy Chevalier</p>
-        
+
         <p class="fr-book-desc">Connects to one of the Netherlands&#x27; enduring artistic mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Girl+with+a+Pearl+Earring+Tracy+Chevalier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1352,7 @@ The most valuable Dutch mysteries are therefore not those that promise a sensati
           <a href="https://www.amazon.com/s?k=The+Embarrassment+of+Riches+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Embarrassment of Riches">The Embarrassment of Riches</a>
         </h4>
         <p class="fr-book-author">By Simon Schama</p>
-        
+
         <p class="fr-book-desc">Explains Dutch culture and history behind several featured mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Embarrassment+of+Riches+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,7 +1369,7 @@ The most valuable Dutch mysteries are therefore not those that promise a sensati
           <a href="https://www.amazon.com/s?k=Batavia%27s+Graveyard+Mike+Dash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Batavia&#x27;s Graveyard">Batavia&#x27;s Graveyard</a>
         </h4>
         <p class="fr-book-author">By Mike Dash</p>
-        
+
         <p class="fr-book-desc">Adds another famous Dutch historical mystery from the maritime world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Batavia%27s+Graveyard+Mike+Dash&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1386,7 +1386,7 @@ The most valuable Dutch mysteries are therefore not those that promise a sensati
           <a href="https://www.amazon.com/s?k=The+Diary+of+a+Young+Girl+Anne+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Diary of a Young Girl">The Diary of a Young Girl</a>
         </h4>
         <p class="fr-book-author">By Anne Frank</p>
-        
+
         <p class="fr-book-desc">Provides essential context for the Netherlands&#x27; most famous historical mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Diary+of+a+Young+Girl+Anne+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

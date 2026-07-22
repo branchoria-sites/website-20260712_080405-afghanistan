@@ -1337,7 +1337,7 @@ Future archaeological excavation could transform knowledge of early settlement a
 <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the sky and the earth">Beyond the sky and the earth</a>
 </h4>
 <p class="fr-book-author">By Jamie Zeppa</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Description and travel, Nonfiction, Travel, Bhutan, description and travel, Women travelers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1354,8 +1354,8 @@ Future archaeological excavation could transform knowledge of early settlement a
 <a href="https://www.amazon.com/s?k=Treasures+of+the+Thunder+Dragon+%5BPaperback%5D+Ashi+Dorji+Wangmo+Wangchuck+Ashi+Dorji+Wangmo+Wangchuck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Treasures of the Thunder Dragon [Paperback] Ashi Dorji Wangmo Wangchuck">Treasures of the Thunder Dragon [Paperback] Ashi Dorji Wangmo...</a>
 </h4>
 <p class="fr-book-author">By Ashi Dorji Wangmo Wangchuck</p>
-        
-        
+
+
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Treasures+of+the+Thunder+Dragon+%5BPaperback%5D+Ashi+Dorji+Wangmo+Wangchuck+Ashi+Dorji+Wangmo+Wangchuck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -1371,7 +1371,7 @@ Future archaeological excavation could transform knowledge of early settlement a
 <a href="https://www.amazon.com/s?k=Bhutan%3A+A+History+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan: A History">Bhutan: A History</a>
 </h4>
 <p class="fr-book-author">By Karma Phuntsho</p>
-        
+
 <p class="fr-book-desc">Covers the major historical debates and mysteries surrounding Bhutan.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bhutan%3A+A+History+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1388,7 +1388,7 @@ Future archaeological excavation could transform knowledge of early settlement a
 <a href="https://www.amazon.com/s?k=Treasures+of+the+Thunder+Dragon+Ashi+Dorji+Wangmo+Wangchuck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Treasures of the Thunder Dragon">Treasures of the Thunder Dragon</a>
 </h4>
 <p class="fr-book-author">By Ashi Dorji Wangmo Wangchuck</p>
-        
+
 <p class="fr-book-desc">Introduces Bhutan&#x27;s culture, sacred sites and historical landscape.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Treasures+of+the+Thunder+Dragon+Ashi+Dorji+Wangmo+Wangchuck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

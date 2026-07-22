@@ -353,7 +353,7 @@ For Belize, the episode also serves as a reminder that its authentic Maya herita
 <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
 </h4>
 <p class="fr-book-author">By Charles C. Mann</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Origin, Nature, Indians, Antiquities, nyt:paperback_nonfiction=2011-07-23.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ For Belize, the episode also serves as a reminder that its authentic Maya herita
 <a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Maya code">Breaking the Maya code</a>
 </h4>
 <p class="fr-book-author">By Michael D. Coe</p>
-        
+
 <p class="fr-book-desc">First published 1992. Subjects: Antiquities, Archaeology, Central America, History, Maya language.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ For Belize, the episode also serves as a reminder that its authentic Maya herita
 <a href="https://www.amazon.com/s?k=The+ancient+Maya+Robert+J.+Sharer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ancient Maya">The ancient Maya</a>
 </h4>
 <p class="fr-book-author">By Robert J. Sharer, Robert Sharer et al.</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Antiquities, Mayas, American history: pre-Columbian period, BCE to c 1500, Anthropology, Central American...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ancient+Maya+Robert+J.+Sharer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For Belize, the episode also serves as a reminder that its authentic Maya herita
 <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe+and+Stephen+Houston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maya">The Maya</a>
 </h4>
 <p class="fr-book-author">By Michael D. Coe and Stephen Houston</p>
-        
+
 <p class="fr-book-desc">Provides factual context contrasting the myth.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe+and+Stephen+Houston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

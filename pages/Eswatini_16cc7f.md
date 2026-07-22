@@ -1344,7 +1344,7 @@ These distinctions are essential. An unexplained death is not automatically an a
           <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Long Walk to Freedom">Long Walk to Freedom</a>
         </h4>
         <p class="fr-book-author">By Nelson Mandela</p>
-        
+
         <p class="fr-book-desc">Adds context for apartheid-era regional politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,27 +1361,10 @@ These distinctions are essential. An unexplained death is not automatically an a
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides modern political context for Eswatini&#x27;s unresolved history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The kingdoms of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8549440-M.jpg" alt="Cover for The kingdoms of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The kingdoms of Africa">The kingdoms of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Peter S. Garlake</p>
-        
-        <p class="fr-book-desc">Gives historical background relevant to Eswatini.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1395,7 +1378,7 @@ These distinctions are essential. An unexplained death is not automatically an a
           <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past">The Human Past</a>
         </h4>
         <p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
-        
+
         <p class="fr-book-desc">Useful for understanding prehistoric evidence like Lion Cavern.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1404,9 +1387,26 @@ These distinctions are essential. An unexplained death is not automatically an a
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The kingdoms of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8549440-M.jpg" alt="Cover for The kingdoms of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The kingdoms of Africa">The kingdoms of Africa</a>
+        </h4>
+        <p class="fr-book-author">By Peter S. Garlake</p>
+
+        <p class="fr-book-desc">Gives historical background relevant to Eswatini.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Long+Walk+to+Freedom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Long Walk to Freedom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+kingdoms+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The kingdoms of Africa</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Long+Walk+to+Freedom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Long Walk to Freedom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -364,7 +364,7 @@ The mystery therefore is not whether ancient Brunei existed, but **how far back 
           <a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Brunei">A history of Brunei</a>
         </h4>
         <p class="fr-book-author">By Graham E. Saunders</p>
-        
+
         <p class="fr-book-desc">Discusses the identification of Boni and the earliest documentary evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The mystery therefore is not whether ancient Brunei existed, but **how far back 
           <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula">Early Kingdoms of the Indonesian Archipelago and the Malay Pe...</a>
         </h4>
         <p class="fr-book-author">By Paul Michel Munoz</p>
-        
+
         <p class="fr-book-desc">Examines regional kingdoms mentioned in Chinese sources.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The mystery therefore is not whether ancient Brunei existed, but **how far back 
           <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Khersonese">The Golden Khersonese</a>
         </h4>
         <p class="fr-book-author">By Paul Wheatley</p>
-        
+
         <p class="fr-book-desc">Useful for interpreting historical geography and Chinese place names.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ The mystery therefore is not whether ancient Brunei existed, but **how far back 
           <a href="https://www.amazon.com/s?k=History+of+Malaysia+Barbara+Watson+Andaya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Malaysia">History of Malaysia</a>
         </h4>
         <p class="fr-book-author">By Barbara Watson Andaya, Leonard Y. Andaya</p>
-        
+
         <p class="fr-book-desc">Explains regional trade networks connected with early Brunei.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=History+of+Malaysia+Barbara+Watson+Andaya&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

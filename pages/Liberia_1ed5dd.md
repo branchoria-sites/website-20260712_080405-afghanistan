@@ -1328,7 +1328,7 @@ That distinction protects Liberia’s history from two opposite errors: treating
           <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mask of anarchy">The mask of anarchy</a>
         </h4>
         <p class="fr-book-author">By Ellis, Stephen</p>
-        
+
         <p class="fr-book-desc">Provides context for unresolved political violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ That distinction protects Liberia’s history from two opposite errors: treating
           <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The house at Sugar Beach">The house at Sugar Beach</a>
         </h4>
         <p class="fr-book-author">By Helene Cooper, Helene Cooper</p>
-        
+
         <p class="fr-book-desc">Introduces Liberia&#x27;s history through a compelling personal narrative.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ That distinction protects Liberia’s history from two opposite errors: treating
           <a href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Liberia: The Violence of Democracy">Liberia: The Violence of Democracy</a>
         </h4>
         <p class="fr-book-author">By Amos Sawyer</p>
-        
+
         <p class="fr-book-desc">Explains many of the political mysteries covered on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ That distinction protects Liberia’s history from two opposite errors: treating
           <a href="https://www.amazon.com/s?k=There+Was+No+Meekness+James+Ciment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="There Was No Meekness">There Was No Meekness</a>
         </h4>
         <p class="fr-book-author">By James Ciment</p>
-        
+
         <p class="fr-book-desc">Explores Liberia&#x27;s historical development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=There+Was+No+Meekness+James+Ciment&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

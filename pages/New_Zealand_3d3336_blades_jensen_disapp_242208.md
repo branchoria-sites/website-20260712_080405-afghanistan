@@ -351,7 +351,7 @@ Taken together, the two cases demonstrate a recurring pattern in New Zealand's u
           <a href="https://www.amazon.com/s?k=The+Penguin+History+of+New+Zealand+King%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of New Zealand">The Penguin History of New Zealand</a>
         </h4>
         <p class="fr-book-author">By King, Michael</p>
-        
+
         <p class="fr-book-desc">Provides historical background to the period.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+History+of+New+Zealand+King%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ Taken together, the two cases demonstrate a recurring pattern in New Zealand's u
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
         </h4>
         <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
-        
+
         <p class="fr-book-desc">Explains why certain disappearances remain unsolved.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Taken together, the two cases demonstrate a recurring pattern in New Zealand's u
           <a href="https://www.amazon.com/s?k=The+Quiet+Earth%3A+Text+Classics+Craig+Harrison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Quiet Earth: Text Classics">The Quiet Earth: Text Classics</a>
         </h4>
         <p class="fr-book-author">By Craig Harrison</p>
-        
+
         <p class="fr-book-desc">First published 2013. Subjects: Fiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Quiet+Earth%3A+Text+Classics+Craig+Harrison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Taken together, the two cases demonstrate a recurring pattern in New Zealand's u
           <a href="https://www.amazon.com/s?k=I%27ll+Be+Gone+in+the+Dark+Michelle+McNamara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I&#x27;ll Be Gone in the Dark">I&#x27;ll Be Gone in the Dark</a>
         </h4>
         <p class="fr-book-author">By Michelle McNamara</p>
-        
+
         <p class="fr-book-desc">Illustrates modern investigation of long-unsolved crimes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=I%27ll+Be+Gone+in+the+Dark+Michelle+McNamara&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

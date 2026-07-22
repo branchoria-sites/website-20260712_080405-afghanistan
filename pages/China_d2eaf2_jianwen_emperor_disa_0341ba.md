@@ -345,7 +345,7 @@ The enduring fascination lies less in the possibility of a secret escape than in
           <a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chronicle of the Chinese emperors">Chronicle of the Chinese emperors</a>
         </h4>
         <p class="fr-book-author">By Ann Paludan</p>
-        
+
         <p class="fr-book-desc">Covers the Jianwen and Yongle reigns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ The enduring fascination lies less in the possibility of a secret escape than in
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
         </h4>
         <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
         <p class="fr-book-desc">Strong parent-topic recommendation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ The enduring fascination lies less in the possibility of a secret escape than in
           <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
         </h4>
         <p class="fr-book-author">By Ebrey, Patricia Buckley</p>
-        
+
         <p class="fr-book-desc">Explains the Ming dynasty in context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ The enduring fascination lies less in the possibility of a secret escape than in
           <a href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="China A History">China A History</a>
         </h4>
         <p class="fr-book-author">By John Keay</p>
-        
+
         <p class="fr-book-desc">Broad context for imperial succession and court politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

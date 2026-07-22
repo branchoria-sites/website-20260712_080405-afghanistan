@@ -1339,7 +1339,7 @@ That mixture of knowledge and uncertainty is why the cases endure. They are not 
           <a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asante in the nineteenth century">Asante in the nineteenth century</a>
         </h4>
         <p class="fr-book-author">By Ivor Wilks</p>
-        
+
         <p class="fr-book-desc">Explains the political world behind several featured mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1356,7 +1356,7 @@ That mixture of knowledge and uncertainty is why the cases endure. They are not 
           <a href="https://www.amazon.com/s?k=A+history+of+Ghana+W.+E.+F.+Ward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Ghana">A history of Ghana</a>
         </h4>
         <p class="fr-book-author">By W. E. F. Ward</p>
-        
+
         <p class="fr-book-desc">Provides context for Ghana&#x27;s unresolved historical episodes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Ghana+W.+E.+F.+Ward&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,16 +1367,16 @@ That mixture of knowledge and uncertainty is why the cases endure. They are not 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open `The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5439738-M.jpg" alt="Cover for `The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden stool on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="`The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh">`The History of Ashanti Kings and the Whole Country Itself&#x27; a...</a>
+          <a href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden stool">The Golden stool</a>
         </h4>
-        <p class="fr-book-author">By Agyeman Prempeh, E. Akyeampong et al.</p>
-        
-        <p class="fr-book-desc">First published 2003. Subjects: Ashanti (african people), history, Ghana, history.</p>
+        <p class="fr-book-author">By Enid Schildkrout, Carol Gelber</p>
+
+        <p class="fr-book-desc">Directly covers the Golden Stool and wider Asante history.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1390,7 +1390,7 @@ That mixture of knowledge and uncertainty is why the cases endure. They are not 
           <a href="https://www.amazon.com/s?k=Africa+in+History+by+Basil+Davidson+%281995-01-01%29+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa in History by Basil Davidson (1995-01-01)">Africa in History by Basil Davidson (1995-01-01)</a>
         </h4>
         <p class="fr-book-author">By Basil Davidson</p>
-        
+
         <p class="fr-book-desc">First published 1656.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+in+History+by+Basil+Davidson+%281995-01-01%29+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1401,7 +1401,7 @@ That mixture of knowledge and uncertainty is why the cases endure. They are not 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asante in the nineteenth century</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Ghana&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Ghana</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">`The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asante in the nineteenth century</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Ghana&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Ghana</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+stool&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden stool</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

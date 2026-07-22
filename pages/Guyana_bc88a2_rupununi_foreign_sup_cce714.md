@@ -353,30 +353,13 @@ In other words, the principal mystery is no longer whether foreign links existed
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Guyanese working people, 1881-1905 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5296911-M.jpg" alt="Cover for A history of the Guyanese working people, 1881-1905" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Guyanese working people, 1881-1905">A history of the Guyanese working people, 1881-1905</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Traces colonial labour and political divisions that shaped Guyana before independence and influenced later conflicts over land, ethnicity...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost City of Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7895353-M.jpg" alt="Cover for The Lost City of Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z">The Lost City of Z</a>
         </h4>
         <p class="fr-book-author">By David Grann, James Gray</p>
-        
+
         <p class="fr-book-desc">Offers accessible geographical and historical context for the difficult interior terrain in which borders, settlements and state authorit...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +376,7 @@ In other words, the principal mystery is no longer whether foreign links existed
           <a href="https://www.amazon.com/s?k=The+Venezuela-Guyana+border+dispute+Jacqueline+Anne+Braveboy-Wagner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Venezuela-Guyana border dispute">The Venezuela-Guyana border dispute</a>
         </h4>
         <p class="fr-book-author">By Jacqueline Anne Braveboy-Wagner</p>
-        
+
         <p class="fr-book-desc">Explains the territorial dispute, diplomatic rivalry and Venezuelan claims underlying allegations of support for the Rupununi rebels.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Venezuela-Guyana+border+dispute+Jacqueline+Anne+Braveboy-Wagner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +393,7 @@ In other words, the principal mystery is no longer whether foreign links existed
           <a href="https://www.amazon.com/s?k=Guyana+Chaitram+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guyana">Guyana</a>
         </h4>
         <p class="fr-book-author">By Chaitram Singh</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: History, Politics and government, Guyana.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Guyana+Chaitram+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,9 +402,26 @@ In other words, the principal mystery is no longer whether foreign links existed
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Guyanese working people, 1881-1905 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5296911-M.jpg" alt="Cover for A history of the Guyanese working people, 1881-1905" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Guyanese working people, 1881-1905">A history of the Guyanese working people, 1881-1905</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Traces colonial labour and political divisions that shaped Guyana before independence and influenced later conflicts over land, ethnicity...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881+1905&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of the Guyanese working people, 1881 1905</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+City+of+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost City of Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Venezuela+Guyana+border+dispute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Venezuela Guyana border dispute</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+City+of+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost City of Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Venezuela+Guyana+border+dispute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Venezuela Guyana border dispute</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Guyana&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Guyana</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

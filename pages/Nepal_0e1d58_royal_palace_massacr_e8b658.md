@@ -369,7 +369,7 @@ The strongest available evidence continues to support the conclusion that Crown 
 <a href="https://www.amazon.com/s?k=Into+Thin+Air+by+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
 </h4>
 <p class="fr-book-author">By Jon Krakauer</p>
-        
+
 <p class="fr-book-desc">Keeps recommendations commercially strong.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Into+Thin+Air+by+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The strongest available evidence continues to support the conclusion that Crown 
 <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
 </h4>
 <p class="fr-book-author">By Peter Matthiessen</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: Description and travel, Biologists, American Authors, Natural history, Biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The strongest available evidence continues to support the conclusion that Crown 
 <a href="https://www.amazon.com/s?k=House+of+snow+Ranulph+Fiennes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="House of snow">House of snow</a>
 </h4>
 <p class="fr-book-author">By Ranulph Fiennes, Ed Douglas</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: In literature, Description and travel, Nepali literature, Nepal, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=House+of+snow+Ranulph+Fiennes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The strongest available evidence continues to support the conclusion that Crown 
 <a href="https://www.amazon.com/s?k=Bloodstain+Jonathan+Gregson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodstain">Bloodstain</a>
 </h4>
 <p class="fr-book-author">By Jonathan Gregson</p>
-        
+
 <p class="fr-book-desc">Dedicated investigation of the 2001 palace killings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bloodstain+Jonathan+Gregson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

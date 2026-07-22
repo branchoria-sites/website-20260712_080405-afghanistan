@@ -391,7 +391,7 @@ The enduring fascination therefore lies less in dramatic conspiracy than in hist
           <a href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embracing Defeat">Embracing Defeat</a>
         </h4>
         <p class="fr-book-author">By John W. Dower</p>
-        
+
         <p class="fr-book-desc">Explains occupation-era politics surrounding the railway mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The enduring fascination therefore lies less in dramatic conspiracy than in hist
           <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Modern History of Japan">A Modern History of Japan</a>
         </h4>
         <p class="fr-book-author">By Andrew Gordon</p>
-        
+
         <p class="fr-book-desc">Provides the political and labour context of 1949.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The enduring fascination therefore lies less in dramatic conspiracy than in hist
           <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan, a modern history">Japan, a modern history</a>
         </h4>
         <p class="fr-book-author">By James L. McClain</p>
-        
+
         <p class="fr-book-desc">Broad coverage of twentieth-century Japan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ The enduring fascination therefore lies less in dramatic conspiracy than in hist
           <a href="https://www.amazon.com/s?k=Postwar+Japan+as+history+Gordon%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Postwar Japan as history">Postwar Japan as history</a>
         </h4>
         <p class="fr-book-author">By Gordon, Andrew</p>
-        
+
         <p class="fr-book-desc">Examines occupation, labour and Cold War developments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Postwar+Japan+as+history+Gordon%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

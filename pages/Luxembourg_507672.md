@@ -1308,7 +1308,7 @@ The enduring lesson is not that Luxembourg hides a single concealed history. It 
 <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second World War">The Second World War</a>
 </h4>
 <p class="fr-book-author">By Antony Beevor</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: World War, 1939-1945, Sino-japanese war, 1937-1945, New York Times reviewed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1325,7 +1325,7 @@ The enduring lesson is not that Luxembourg hides a single concealed history. It 
 <a href="https://www.amazon.com/s?k=The+Sleepwalkers+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleepwalkers">The Sleepwalkers</a>
 </h4>
 <p class="fr-book-author">By Christopher Clark</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: Diplomatic history, World War, 1914-1918, Politics and government, Causes, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sleepwalkers+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1342,7 +1342,7 @@ The enduring lesson is not that Luxembourg hides a single concealed history. It 
 <a href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vanished kingdoms">Vanished kingdoms</a>
 </h4>
 <p class="fr-book-author">By Norman Davies</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Politics and government, Collective memory, Historical geography, Military History, Social change.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ The enduring lesson is not that Luxembourg hides a single concealed history. It 
 <a href="https://www.amazon.com/s?k=Postwar+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Postwar">Postwar</a>
 </h4>
 <p class="fr-book-author">By Tony Judt</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: History, Nonfiction, Europe, history, 1945-, Europe, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Postwar+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

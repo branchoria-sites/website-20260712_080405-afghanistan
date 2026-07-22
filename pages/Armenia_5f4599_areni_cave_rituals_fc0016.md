@@ -366,7 +366,7 @@ Its greatest historical significance, however, lies in the unresolved relationsh
           <a href="https://www.amazon.com/s?k=Ancient+Wine+Patrick+E.+McGovern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Wine">Ancient Wine</a>
         </h4>
         <p class="fr-book-author">By Patrick E. McGovern</p>
-        
+
         <p class="fr-book-desc">Directly relevant to Areni-1&#x27;s prehistoric winery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ancient+Wine+Patrick+E.+McGovern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,27 +383,10 @@ Its greatest historical significance, however, lies in the unresolved relationsh
           <a href="https://www.amazon.com/s?k=Uncorking+the+Past+Patrick+E.+McGovern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Uncorking the Past">Uncorking the Past</a>
         </h4>
         <p class="fr-book-author">By Patrick E. McGovern</p>
-        
+
         <p class="fr-book-desc">Explains archaeological evidence for ancient wine cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Uncorking+the+Past+Patrick+E.+McGovern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+companion+to+wine+Jancis+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford companion to wine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/131983-M.jpg" alt="Cover for The Oxford companion to wine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+wine+Jancis+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to wine">The Oxford companion to wine</a>
-        </h4>
-        <p class="fr-book-author">By Jancis Robinson</p>
-        
-        <p class="fr-book-desc">Adds context for the history of winemaking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+wine+Jancis+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -417,7 +400,7 @@ Its greatest historical significance, however, lies in the unresolved relationsh
           <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past">The Human Past</a>
         </h4>
         <p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
-        
+
         <p class="fr-book-desc">Provides context for Chalcolithic ritual and daily life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,9 +409,26 @@ Its greatest historical significance, however, lies in the unresolved relationsh
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+companion+to+wine+Jancis+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford companion to wine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/131983-M.jpg" alt="Cover for The Oxford companion to wine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+wine+Jancis+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to wine">The Oxford companion to wine</a>
+        </h4>
+        <p class="fr-book-author">By Jancis Robinson</p>
+
+        <p class="fr-book-desc">Adds context for the history of winemaking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+wine+Jancis+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Wine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Wine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Uncorking+the+Past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Uncorking the Past</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+companion+to+wine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford companion to wine</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Wine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Wine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Uncorking+the+Past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Uncorking the Past</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

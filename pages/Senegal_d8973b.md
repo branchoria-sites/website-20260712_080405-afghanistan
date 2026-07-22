@@ -1346,7 +1346,7 @@ Together, these mysteries reveal a central tension in Senegalese history: the di
           <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fortunes of Africa">The fortunes of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places Senegal in wider African history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ Together, these mysteries reveal a central tension in Senegalese history: the di
           <a href="https://www.amazon.com/s?k=Africa+since+1940+Frederick+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since 1940">Africa since 1940</a>
         </h4>
         <p class="fr-book-author">By Frederick Cooper, Frederick Cooper</p>
-        
+
         <p class="fr-book-desc">Useful for colonial legacies and independence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+since+1940+Frederick+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1380,7 +1380,7 @@ Together, these mysteries reveal a central tension in Senegalese history: the di
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">Background to French colonial expansion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1397,7 +1397,7 @@ Together, these mysteries reveal a central tension in Senegalese history: the di
           <a href="https://www.amazon.com/s?k=A+History+of+Modern+Senegal+Sheldon+Gellar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Modern Senegal">A History of Modern Senegal</a>
         </h4>
         <p class="fr-book-author">By Sheldon Gellar</p>
-        
+
         <p class="fr-book-desc">Excellent context for colonial and post-colonial events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+Modern+Senegal+Sheldon+Gellar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

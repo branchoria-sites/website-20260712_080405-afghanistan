@@ -376,7 +376,7 @@ As a result, the helicopter crash occupies a distinctive place in South Sudan's 
           <a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The root causes of Sudan&#x27;s civil wars">The root causes of Sudan&#x27;s civil wars</a>
         </h4>
         <p class="fr-book-author">By Douglas Hamilton Johnson, Douglas H. Johnson et al.</p>
-        
+
         <p class="fr-book-desc">Explains Garang&#x27;s role and the political stakes surrounding his death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ As a result, the helicopter crash occupies a distinctive place in South Sudan's 
           <a href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is the What">What Is the What</a>
         </h4>
         <p class="fr-book-author">By Dave Eggers</p>
-        
+
         <p class="fr-book-desc">Introduces the wider conflict that shaped Garang&#x27;s career.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ As a result, the helicopter crash occupies a distinctive place in South Sudan's 
           <a href="https://www.amazon.com/s?k=Flight+Failure+Donald+J.+Porter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flight Failure">Flight Failure</a>
         </h4>
         <p class="fr-book-author">By Donald J. Porter, John Goglia</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how crash investigations reach conclusions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flight+Failure+Donald+J.+Porter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ As a result, the helicopter crash occupies a distinctive place in South Sudan's 
           <a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South Sudan">South Sudan</a>
         </h4>
         <p class="fr-book-author">By Edward Thomas</p>
-        
+
         <p class="fr-book-desc">Discusses the transition period surrounding Garang&#x27;s death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

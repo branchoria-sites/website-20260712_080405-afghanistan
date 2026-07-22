@@ -343,7 +343,7 @@ Within Croatia's historical mysteries, Krapina stands out because the uncertaint
 <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past">The Human Past</a>
 </h4>
 <p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Social life and customs, Prehistoric peoples, Economic conditions, Human evolution, Hunting and gathering...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ Within Croatia's historical mysteries, Krapina stands out because the uncertaint
 <a href="https://www.amazon.com/s?k=The+Smart+Neanderthal+Clive+Finlayson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Smart Neanderthal">The Smart Neanderthal</a>
 </h4>
 <p class="fr-book-author">By Clive Finlayson</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Neanderthals, Bird remains (Archaeology), Birds, History, Cognition and culture.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Smart+Neanderthal+Clive+Finlayson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Within Croatia's historical mysteries, Krapina stands out because the uncertaint
 <a href="https://www.amazon.com/s?k=Naked+Neanderthal+Ludovic+Slimak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Naked Neanderthal">Naked Neanderthal</a>
 </h4>
 <p class="fr-book-author">By Ludovic Slimak</p>
-        
+
 <p class="fr-book-desc">First published 2023.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Naked+Neanderthal+Ludovic+Slimak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Within Croatia's historical mysteries, Krapina stands out because the uncertaint
 <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kindred">Kindred</a>
 </h4>
 <p class="fr-book-author">By Rebecca Wragg Sykes</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Anthropology, Neanderthals, Human evolution, Fossil hominids, Human remains (Archaeology).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -394,7 +394,7 @@ That is why most specialists no longer search for a single hidden purpose. The s
           <a href="https://www.amazon.com/s?k=Stonehenge+Rosemary+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stonehenge">Stonehenge</a>
         </h4>
         <p class="fr-book-author">By Rosemary Hill</p>
-        
+
         <p class="fr-book-desc">Directly explores the monument and competing interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Stonehenge+Rosemary+Hill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ That is why most specialists no longer search for a single hidden purpose. The s
           <a href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Britain BC">Britain BC</a>
         </h4>
         <p class="fr-book-author">By Francis Pryor</p>
-        
+
         <p class="fr-book-desc">Places Stonehenge within wider prehistoric Britain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ That is why most specialists no longer search for a single hidden purpose. The s
           <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megalithic European">The Megalithic European</a>
         </h4>
         <p class="fr-book-author">By Julian Cope</p>
-        
+
         <p class="fr-book-desc">Explores prehistoric stone monuments across Britain and Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ That is why most specialists no longer search for a single hidden purpose. The s
           <a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celts">The Celts</a>
         </h4>
         <p class="fr-book-author">By Alice M. Roberts</p>
-        
+
         <p class="fr-book-desc">Provides broader archaeological context for ancient Britain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

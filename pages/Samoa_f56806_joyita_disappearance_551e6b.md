@@ -377,7 +377,7 @@ For that reason, the *Joyita* is best understood not as an inexplicable ghost-sh
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in Samoa">Coming of age in Samoa</a>
         </h4>
         <p class="fr-book-author">By Margaret Mead</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for the voyage&#x27;s point of departure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For that reason, the *Joyita* is best understood not as an inexplicable ghost-sh
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Offers broader geographic context for Samoa and nearby seas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For that reason, the *Joyita* is best understood not as an inexplicable ghost-sh
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We, the navigators">We, the navigators</a>
         </h4>
         <p class="fr-book-author">By David Lewis, Derek Oulton</p>
-        
+
         <p class="fr-book-desc">Explains Pacific navigation and sea conditions relevant to the case.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For that reason, the *Joyita* is best understood not as an inexplicable ghost-sh
           <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Latitudes">Blue Latitudes</a>
         </h4>
         <p class="fr-book-author">By Tony Horwitz</p>
-        
+
         <p class="fr-book-desc">Explores the maritime world of the Pacific.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

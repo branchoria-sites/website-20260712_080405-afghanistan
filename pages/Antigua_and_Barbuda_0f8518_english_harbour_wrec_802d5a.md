@@ -362,7 +362,7 @@ For Antigua and Barbuda, the case demonstrates how archaeology can resolve long-
           <a href="https://www.amazon.com/s?k=Nelson%27s+navy+Brian+Lavery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nelson&#x27;s navy">Nelson&#x27;s navy</a>
         </h4>
         <p class="fr-book-author">By Brian Lavery</p>
-        
+
         <p class="fr-book-desc">Provides context for eighteenth-century naval vessels.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nelson%27s+navy+Brian+Lavery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For Antigua and Barbuda, the case demonstrates how archaeology can resolve long-
           <a href="https://www.amazon.com/s?k=The+safeguard+of+the+sea+N.+A.+M.+Rodger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The safeguard of the sea">The safeguard of the sea</a>
         </h4>
         <p class="fr-book-author">By N. A. M. Rodger</p>
-        
+
         <p class="fr-book-desc">Explains the naval world in which the wrecked ship served.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+safeguard+of+the+sea+N.+A.+M.+Rodger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For Antigua and Barbuda, the case demonstrates how archaeology can resolve long-
           <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire&#x27;s Crossroads">Empire&#x27;s Crossroads</a>
         </h4>
         <p class="fr-book-author">By Carrie Gibson</p>
-        
+
         <p class="fr-book-desc">Explains the strategic importance of Antigua&#x27;s naval base.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ For Antigua and Barbuda, the case demonstrates how archaeology can resolve long-
           <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1493">1493</a>
         </h4>
         <p class="fr-book-author">By Charles C. Mann</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: New York Times bestseller, Economic history, Commerce, History, Ecology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

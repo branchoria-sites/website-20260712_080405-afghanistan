@@ -345,7 +345,7 @@ Today the strongest evidence suggests that the masked prisoner was the man known
           <a href="https://www.amazon.com/s?k=The+Man+in+the+Iron+Mask+Alexandre+Dumas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man in the Iron Mask">The Man in the Iron Mask</a>
         </h4>
         <p class="fr-book-author">By Alexandre Dumas</p>
-        
+
         <p class="fr-book-desc">Introduced generations of readers to the Iron Mask legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Man+in+the+Iron+Mask+Alexandre+Dumas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,27 +362,10 @@ Today the strongest evidence suggests that the masked prisoner was the man known
           <a href="https://www.amazon.com/s?k=Citizens+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Citizens">Citizens</a>
         </h4>
         <p class="fr-book-author">By Simon Schama</p>
-        
+
         <p class="fr-book-desc">First published 1989. Subjects: Französische Revolution, Histoire, Geschichte, Nonfiction, Franse Revolutie.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Citizens+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paris on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/400525-M.jpg" alt="Cover for Paris" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paris">Paris</a>
-        </h4>
-        <p class="fr-book-author">By Colin Jones</p>
-        
-        <p class="fr-book-desc">First published 2004.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -396,7 +379,7 @@ Today the strongest evidence suggests that the masked prisoner was the man known
           <a href="https://www.amazon.com/s?k=Archaeological+theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeological theory">Archaeological theory</a>
         </h4>
         <p class="fr-book-author">By Matthew Johnson</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Philosophy, Archaeology, Einführung, Archäologie, Vor- und Frühgeschichte.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeological+theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,9 +388,26 @@ Today the strongest evidence suggests that the masked prisoner was the man known
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paris on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/400525-M.jpg" alt="Cover for Paris" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paris">Paris</a>
+        </h4>
+        <p class="fr-book-author">By Colin Jones</p>
+
+        <p class="fr-book-desc">First published 2004.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Man+in+the+Iron+Mask&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Man in the Iron Mask</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Citizens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Citizens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Paris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paris</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Man+in+the+Iron+Mask&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Man in the Iron Mask</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Citizens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Citizens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeological+theory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeological theory</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

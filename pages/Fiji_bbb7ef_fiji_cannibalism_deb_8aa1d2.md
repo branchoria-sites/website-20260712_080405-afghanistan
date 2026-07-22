@@ -401,7 +401,7 @@ Rather than proving that all colonial accounts were true or false, Fiji's modifi
           <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Fiji">A history of Fiji</a>
         </h4>
         <p class="fr-book-author">By R. A. Derrick</p>
-        
+
         <p class="fr-book-desc">Explains historical accounts of cannibalism in Fiji.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ Rather than proving that all colonial accounts were true or false, Fiji's modifi
           <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Road of the Winds">On the Road of the Winds</a>
         </h4>
         <p class="fr-book-author">By Patrick Vinton Kirch</p>
-        
+
         <p class="fr-book-desc">First published 2000. Subjects: Prehistoric peoples, Antiquities, Oceania, antiquities, Préhistoire, Homme préhistorique.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ Rather than proving that all colonial accounts were true or false, Fiji's modifi
           <a href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History+Bill+Schutt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cannibalism: A Perfectly Natural History">Cannibalism: A Perfectly Natural History</a>
         </h4>
         <p class="fr-book-author">By Bill Schutt</p>
-        
+
         <p class="fr-book-desc">Provides balanced context for interpreting cannibalism claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History+Bill+Schutt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ Rather than proving that all colonial accounts were true or false, Fiji's modifi
           <a href="https://www.amazon.com/s?k=Fiji%3A+A+Short+History+Brij+V.+Lal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fiji: A Short History">Fiji: A Short History</a>
         </h4>
         <p class="fr-book-author">By Brij V. Lal</p>
-        
+
         <p class="fr-book-desc">Places colonial narratives in historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fiji%3A+A+Short+History+Brij+V.+Lal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

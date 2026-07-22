@@ -361,7 +361,7 @@ Today, the broad outline of the case is clearer than it was in 1969. Most seriou
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Today, the broad outline of the case is clearer than it was in 1969. Most seriou
 <a href="https://www.amazon.com/s?k=A+history+of+Mozambique+M.+D.+D.+Newitt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Mozambique">A history of Mozambique</a>
 </h4>
 <p class="fr-book-author">By M. D. D. Newitt</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: History, Mozambique, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Mozambique+M.+D.+D.+Newitt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Today, the broad outline of the case is clearer than it was in 1969. Most seriou
 <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
 </h4>
 <p class="fr-book-author">By John Reader</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Geography, History, Pictorial works, Histoire, Bildband.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ Today, the broad outline of the case is clearer than it was in 1969. Most seriou
 <a href="https://www.amazon.com/s?k=The+Struggle+for+Mozambique+Eduardo+Mondlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Struggle for Mozambique">The Struggle for Mozambique</a>
 </h4>
 <p class="fr-book-author">By Eduardo Mondlane</p>
-        
+
 <p class="fr-book-desc">Essential reading for understanding Mondlane and FRELIMO.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Struggle+for+Mozambique+Eduardo+Mondlane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

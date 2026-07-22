@@ -355,7 +355,7 @@ For now, Kota Batu stands as a reminder that some of Southeast Asia's greatest h
           <a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Brunei">A history of Brunei</a>
         </h4>
         <p class="fr-book-author">By Graham E. Saunders</p>
-        
+
         <p class="fr-book-desc">Includes the development of Kota Batu and the sultanate&#x27;s capital.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ For now, Kota Batu stands as a reminder that some of Southeast Asia's greatest h
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
         </h4>
         <p class="fr-book-author">By Alfred Russel Wallace</p>
-        
+
         <p class="fr-book-desc">Provides historical perspective on Borneo and its environment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ For now, Kota Batu stands as a reminder that some of Southeast Asia's greatest h
           <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Khersonese">The Golden Khersonese</a>
         </h4>
         <p class="fr-book-author">By Paul Wheatley</p>
-        
+
         <p class="fr-book-desc">Useful for understanding historical geography around Brunei.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ For now, Kota Batu stands as a reminder that some of Southeast Asia's greatest h
           <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula">Early Kingdoms of the Indonesian Archipelago and the Malay Pe...</a>
         </h4>
         <p class="fr-book-author">By Paul Michel Munoz</p>
-        
+
         <p class="fr-book-desc">Places Brunei&#x27;s archaeological record into regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

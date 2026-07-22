@@ -348,7 +348,7 @@ That uncertainty explains why Sigiriya continues to fascinate historians. Its my
 <a href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent+J.+C.+Harle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art and architecture of the Indian subcontinent">The art and architecture of the Indian subcontinent</a>
 </h4>
 <p class="fr-book-author">By J. C. Harle</p>
-        
+
 <p class="fr-book-desc">First published 1986. Subjects: Sri Lankan Art, Indic Art, Art, Sri Lankan, Nepali Art, Art, Nepali.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent+J.+C.+Harle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ That uncertainty explains why Sigiriya continues to fascinate historians. Its my
 <a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Historical Relation of the Island Ceylon in the East Indies">An Historical Relation of the Island Ceylon in the East Indies</a>
 </h4>
 <p class="fr-book-author">By Robert Knox</p>
-        
+
 <p class="fr-book-desc">First published 2006.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ That uncertainty explains why Sigiriya continues to fascinate historians. Its my
 <a href="https://www.amazon.com/s?k=Sigiriya+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sigiriya">Sigiriya</a>
 </h4>
 <p class="fr-book-author">By Senake Bandaranayake</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Description and travel, Excavations (Archaeology), Art, Architecture, Antiquities.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sigiriya+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ That uncertainty explains why Sigiriya continues to fascinate historians. Its my
 <a href="https://www.amazon.com/s?k=the+sri+lanka+reader+history%2C+culture%2C+politics+ed+john+clifford+holt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="the sri lanka reader history, culture, politics">the sri lanka reader history, culture, politics</a>
 </h4>
 <p class="fr-book-author">By ed john clifford holt</p>
-        
+
 <p class="fr-book-desc">First published 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=the+sri+lanka+reader+history%2C+culture%2C+politics+ed+john+clifford+holt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

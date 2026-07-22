@@ -323,7 +323,7 @@ In that respect, Alcatrazes is less a story of a vanished settlement than of a r
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
         </h4>
         <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how forgotten settlements are reconstructed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -340,7 +340,7 @@ In that respect, Alcatrazes is less a story of a vanished settlement than of a r
           <a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fortunate Isles">The Fortunate Isles</a>
         </h4>
         <p class="fr-book-author">By Basil Davidson</p>
-        
+
         <p class="fr-book-desc">Offers regional context for Cape Verde&#x27;s development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ In that respect, Alcatrazes is less a story of a vanished settlement than of a r
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
         </h4>
         <p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
-        
+
         <p class="fr-book-desc">First published 1973. Subjects: Guerrillas, Nationalism, Politics and government, History, Guinea-bissau.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ In that respect, Alcatrazes is less a story of a vanished settlement than of a r
           <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire, 1415-1825">The Portuguese Seaborne Empire, 1415-1825</a>
         </h4>
         <p class="fr-book-author">By C.R. BOXER</p>
-        
+
         <p class="fr-book-desc">Places Alcatrazes within Portuguese Atlantic expansion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

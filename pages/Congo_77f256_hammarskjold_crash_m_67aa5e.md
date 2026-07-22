@@ -358,7 +358,7 @@ For historians, the unanswered questions matter because they touch on the wider 
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Supplies essential historical background for later international intervention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ For historians, the unanswered questions matter because they touch on the wider 
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places the Hammarskjöld mission within the Congo Crisis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For historians, the unanswered questions matter because they touch on the wider 
           <a href="https://www.amazon.com/s?k=The+Lumumba+Plot+Stuart+A.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lumumba Plot">The Lumumba Plot</a>
         </h4>
         <p class="fr-book-author">By Stuart A. Reid</p>
-        
+
         <p class="fr-book-desc">Provides political background to the same crisis period.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lumumba+Plot+Stuart+A.+Reid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For historians, the unanswered questions matter because they touch on the wider 
           <a href="https://www.amazon.com/s?k=Who+killed+Hammarskj%C3%B6ld%3F+Susan+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Who killed Hammarskjöld?">Who killed Hammarskjöld?</a>
         </h4>
         <p class="fr-book-author">By Susan Williams</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: Death and burial, United Nations, Cold War, Foreign relations, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Who+killed+Hammarskj%C3%B6ld%3F+Susan+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

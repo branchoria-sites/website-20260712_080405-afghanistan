@@ -347,7 +347,7 @@ Together, these cases remind us that historical mysteries do not always survive 
           <a href="https://www.amazon.com/s?k=Shadow+Divers+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shadow Divers">Shadow Divers</a>
         </h4>
         <p class="fr-book-author">By Robert Kurson</p>
-        
+
         <p class="fr-book-desc">Captures the investigative world of historic wrecks and lost secrets beneath the sea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shadow+Divers+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ Together, these cases remind us that historical mysteries do not always survive 
           <a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ship of gold in the deep blue sea">Ship of gold in the deep blue sea</a>
         </h4>
         <p class="fr-book-author">By Gary Kinder</p>
-        
+
         <p class="fr-book-desc">Shows how historic wreck investigations unfold.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Together, these cases remind us that historical mysteries do not always survive 
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
         </h4>
         <p class="fr-book-author">By Alan Warwick Palmer</p>
-        
+
         <p class="fr-book-desc">Explains the political and maritime history behind the Kaleva and Vrouw Maria stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Together, these cases remind us that historical mysteries do not always survive 
           <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Wolves">The Sea Wolves</a>
         </h4>
         <p class="fr-book-author">By Lars Brownworth, Joe Barrett</p>
-        
+
         <p class="fr-book-desc">Provides Baltic and Scandinavian maritime context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

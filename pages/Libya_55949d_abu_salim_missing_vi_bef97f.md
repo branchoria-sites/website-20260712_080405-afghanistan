@@ -371,7 +371,7 @@ Today, the broad outline of the massacre is no longer seriously disputed. The en
           <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return: Fathers, Sons and the Land in Between">The Return: Fathers, Sons and the Land in Between</a>
         </h4>
         <p class="fr-book-author">By Hisham Matar</p>
-        
+
         <p class="fr-book-desc">Focuses on disappearances and state repression under Gaddafi.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Today, the broad outline of the massacre is no longer seriously disputed. The en
           <a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Modern Libya">A History of Modern Libya</a>
         </h4>
         <p class="fr-book-author">By Dirk Vandewalle</p>
-        
+
         <p class="fr-book-desc">Provides essential political context for the Abu Salim massacre.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Today, the broad outline of the massacre is no longer seriously disputed. The en
           <a href="https://www.amazon.com/s?k=The+graves+are+not+yet+full+Bill+Berkeley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The graves are not yet full">The graves are not yet full</a>
         </h4>
         <p class="fr-book-author">By Bill Berkeley</p>
-        
+
         <p class="fr-book-desc">Provides comparative insight into mass killings and accountability.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+graves+are+not+yet+full+Bill+Berkeley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Today, the broad outline of the massacre is no longer seriously disputed. The en
           <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya">Libya</a>
         </h4>
         <p class="fr-book-author">By Ronald Bruce St John</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Revolutions, Libya, history, Libya, politics and government, Libya, economic conditions, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

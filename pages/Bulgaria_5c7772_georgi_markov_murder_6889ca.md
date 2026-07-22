@@ -374,7 +374,7 @@ That missing state trail has made the assassination an enduring symbol of both C
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
         </h4>
         <p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
-        
+
         <p class="fr-book-desc">Provides accessible background on Soviet-bloc intelligence operations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ That missing state trail has made the assassination an enduring symbol of both C
           <a href="https://www.amazon.com/s?k=The+truth+that+killed+Georgi+Markov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The truth that killed">The truth that killed</a>
         </h4>
         <p class="fr-book-author">By Georgi Markov</p>
-        
+
         <p class="fr-book-desc">Collects Markov&#x27;s influential essays and broadcasts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+truth+that+killed+Georgi+Markov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ That missing state trail has made the assassination an enduring symbol of both C
           <a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A concise history of Bulgaria">A concise history of Bulgaria</a>
         </h4>
         <p class="fr-book-author">By R. J. Crampton</p>
-        
+
         <p class="fr-book-desc">Explains the communist period and state security context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ That missing state trail has made the assassination an enduring symbol of both C
           <a href="https://www.amazon.com/s?k=Umbrella+Murder+Ulrik+Skotte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Umbrella Murder">Umbrella Murder</a>
         </h4>
         <p class="fr-book-author">By Ulrik Skotte</p>
-        
+
         <p class="fr-book-desc">Focuses directly on the murder, investigation and intelligence background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Umbrella+Murder+Ulrik+Skotte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

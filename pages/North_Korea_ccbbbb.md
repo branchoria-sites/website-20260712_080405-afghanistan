@@ -1390,7 +1390,7 @@ The most durable North Korean mysteries therefore have a sobering character. The
 <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cleanest race">The cleanest race</a>
 </h4>
 <p class="fr-book-author">By B. R. Myers</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: North Korean Propaganda, Social aspects, Korean National characteristics, Social conditions, Nationalism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1407,7 +1407,7 @@ The most durable North Korean mysteries therefore have a sobering character. The
 <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without you, there is no us">Without you, there is no us</a>
 </h4>
 <p class="fr-book-author">By Suki Kim</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Politics and government, Elite (Social sciences), Social conditions, Education and state, Biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1424,7 +1424,7 @@ The most durable North Korean mysteries therefore have a sobering character. The
 <a href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The aquariums of Pyongyang">The aquariums of Pyongyang</a>
 </h4>
 <p class="fr-book-author">By Kang Chol-Hwan, Pierre Rigoulot et al.</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Child concentration camp inmates, Biography, Concentration camps, Political prisoners, Social conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1441,7 +1441,7 @@ The most durable North Korean mysteries therefore have a sobering character. The
 <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
 </h4>
 <p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Koreans, Social conditions, Case studies, Economic conditions, Nonfiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

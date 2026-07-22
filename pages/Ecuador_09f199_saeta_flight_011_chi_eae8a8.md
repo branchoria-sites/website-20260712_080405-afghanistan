@@ -346,7 +346,7 @@ At the same time, the deeper investigative question remains open. Without defini
 <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
 </h4>
 <p class="fr-book-author">By Ernest K Gann</p>
-        
+
 <p class="fr-book-desc">Provides insight into aviation accidents and decision-making.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ At the same time, the deeper investigative question remains open. Without defini
 <a href="https://www.amazon.com/s?k=Into+Thin+Air+by+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
 </h4>
 <p class="fr-book-author">By Jon Krakauer</p>
-        
+
 <p class="fr-book-desc">Captures the realities of high-altitude conditions relevant to Andes disasters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Into+Thin+Air+by+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ At the same time, the deeper investigative question remains open. Without defini
 <a href="https://www.amazon.com/s?k=Airframe+Michael+Crichton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Airframe">Airframe</a>
 </h4>
 <p class="fr-book-author">By Michael Crichton</p>
-        
+
 <p class="fr-book-desc">First published 1996. Subjects: air safety, media relations, investigative journalism, human-machine interaction, Pilot-induced oscillation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Airframe+Michael+Crichton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ At the same time, the deeper investigative question remains open. Without defini
 <a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conquest of the Incas">The conquest of the Incas</a>
 </h4>
 <p class="fr-book-author">By Hemming, John</p>
-        
+
 <p class="fr-book-desc">First published 1970. Subjects: History, Incas, Conquest of Peru (1522-1548) fast (OCoLC)fst01352533, Histoire universelle, Untergang.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

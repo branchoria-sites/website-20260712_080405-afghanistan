@@ -384,16 +384,16 @@ For these reasons, most historians now frame the question in terms of probabilit
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Over the Edge of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/41347-M.jpg" alt="Cover for Over the Edge of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Last Voyage of Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/190481-M.jpg" alt="Cover for The Last Voyage of Columbus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Over the Edge of the World">Over the Edge of the World</a>
+          <a href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Voyage of Columbus">The Last Voyage of Columbus</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Appeals to readers interested in great exploration voyages.</p>
+        <p class="fr-book-author">By Martin Dugard</p>
+
+        <p class="fr-book-desc">Strong introduction to Columbus and his voyages.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -401,16 +401,16 @@ For these reasons, most historians now frame the question in terms of probabilit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Last Voyage of Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/190481-M.jpg" alt="Cover for The Last Voyage of Columbus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Over the Edge of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/30543-M.jpg" alt="Cover for Over the Edge of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Voyage of Columbus">The Last Voyage of Columbus</a>
+          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Over the Edge of the World">Over the Edge of the World</a>
         </h4>
-        <p class="fr-book-author">By Martin Dugard</p>
-        
-        <p class="fr-book-desc">Strong introduction to Columbus and his voyages.</p>
+        <p class="fr-book-author">By Laurence Bergreen</p>
+
+        <p class="fr-book-desc">Appeals to readers interested in great exploration voyages.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,7 +424,7 @@ For these reasons, most historians now frame the question in terms of probabilit
           <a href="https://www.amazon.com/s?k=Admiral+of+the+ocean+sea+Samuel+Eliot+Morison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Admiral of the ocean sea">Admiral of the ocean sea</a>
         </h4>
         <p class="fr-book-author">By Samuel Eliot Morison</p>
-        
+
         <p class="fr-book-desc">Long-standing scholarly account of Columbus&#x27;s voyages.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Admiral+of+the+ocean+sea+Samuel+Eliot+Morison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ For these reasons, most historians now frame the question in terms of probabilit
           <a href="https://www.amazon.com/s?k=Columbus+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Columbus">Columbus</a>
         </h4>
         <p class="fr-book-author">By Laurence Bergreen</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: HISTORY / Expeditions &amp; Discoveries, Spanish, Travel, Explorers, Biography.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Columbus+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ For these reasons, most historians now frame the question in terms of probabilit
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Over the Edge of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Last Voyage of Columbus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Admiral+of+the+ocean+sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Admiral of the ocean sea</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Last Voyage of Columbus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Over the Edge of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Admiral+of+the+ocean+sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Admiral of the ocean sea</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

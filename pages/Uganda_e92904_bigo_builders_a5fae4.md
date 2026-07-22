@@ -367,7 +367,7 @@ The enduring mystery is therefore not whether Bigo existed or whether it was imp
           <a href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Atlas of African History">The Penguin Atlas of African History</a>
         </h4>
         <p class="fr-book-author">By Colin McEvedy</p>
-        
+
         <p class="fr-book-desc">Helps place medieval Uganda within regional history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ The enduring mystery is therefore not whether Bigo existed or whether it was imp
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Broad historical backdrop for Uganda.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The enduring mystery is therefore not whether Bigo existed or whether it was imp
           <a href="https://www.amazon.com/s?k=African+Civilizations+Graham+Connah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Civilizations">African Civilizations</a>
         </h4>
         <p class="fr-book-author">By Graham Connah</p>
-        
+
         <p class="fr-book-desc">Provides archaeological context for sites such as Bigo bya Mugyenyi.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Civilizations+Graham+Connah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The enduring mystery is therefore not whether Bigo existed or whether it was imp
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Africa">The Archaeology of Africa</a>
         </h4>
         <p class="fr-book-author">By Thurstan Shaw</p>
-        
+
         <p class="fr-book-desc">Discusses archaeological methods relevant to interpreting earthworks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

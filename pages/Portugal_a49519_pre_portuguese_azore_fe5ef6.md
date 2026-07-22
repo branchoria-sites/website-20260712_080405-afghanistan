@@ -388,7 +388,7 @@ The result is a genuine historical mystery rather than a solved case. The enviro
 <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Portugal And The Portuguese Empire">A History Of Portugal And The Portuguese Empire</a>
 </h4>
 <p class="fr-book-author">By A. R. Disney</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Portugal, history, Portugal, colonies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The result is a genuine historical mystery rather than a solved case. The enviro
 <a href="https://www.amazon.com/s?k=The+Brendan+voyage+Tim+Severin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brendan voyage">The Brendan voyage</a>
 </h4>
 <p class="fr-book-author">By Tim Severin, Timothy Severin</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: Travel, Ocean travel, Description and travel, Voyages and travels.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Brendan+voyage+Tim+Severin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The result is a genuine historical mystery rather than a solved case. The enviro
 <a href="https://www.amazon.com/s?k=Across+Atlantic+ice+Dennis+J.+Stanford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Across Atlantic ice">Across Atlantic ice</a>
 </h4>
 <p class="fr-book-author">By Dennis J. Stanford</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Origin, Indians of North America, Migrations, Clovis culture, Human beings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Across+Atlantic+ice+Dennis+J.+Stanford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ The result is a genuine historical mystery rather than a solved case. The enviro
 <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors">Conquerors</a>
 </h4>
 <p class="fr-book-author">By Roger Crowley</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Portugal, history, period of discoveries, 1385-1580, Imperialism, Portugal, colonies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -352,7 +352,7 @@ For that reason, the disappearance of Belarus's "Missing Four" is remembered not
           <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Whisperers">The Whisperers</a>
         </h4>
         <p class="fr-book-author">By Orlando Figes</p>
-        
+
         <p class="fr-book-desc">Explores the legacy of fear and state power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For that reason, the disappearance of Belarus's "Missing Four" is remembered not
           <a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Dictatorship to Democracy">From Dictatorship to Democracy</a>
         </h4>
         <p class="fr-book-author">By Gene Sharp</p>
-        
+
         <p class="fr-book-desc">Provides context for opposition movements under authoritarian rule.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For that reason, the disappearance of Belarus's "Missing Four" is remembered not
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain">Iron Curtain</a>
         </h4>
         <p class="fr-book-author">By Anne Applebaum</p>
-        
+
         <p class="fr-book-desc">Explains political systems that shaped later developments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ For that reason, the disappearance of Belarus's "Missing Four" is remembered not
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

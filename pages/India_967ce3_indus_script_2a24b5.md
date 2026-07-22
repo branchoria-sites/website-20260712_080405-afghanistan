@@ -398,7 +398,7 @@ That combination makes the script more than a puzzle of translation. It is a rem
 <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The wonder that was India">The wonder that was India</a>
 </h4>
 <p class="fr-book-author">By Basham, A. L.</p>
-        
+
 <p class="fr-book-desc">First published 1954. Subjects: History, Civilization, Civilisation, Histoire, India, civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ That combination makes the script more than a puzzle of translation. It is a rem
 <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Indians">Early Indians</a>
 </h4>
 <p class="fr-book-author">By Tony Joseph</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Antiquities, Ethnology, Human genetics, Civilization, Prehistoric peoples.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ That combination makes the script more than a puzzle of translation. It is a rem
 <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indus Civilization">The Indus Civilization</a>
 </h4>
 <p class="fr-book-author">By Gregory L. Possehl</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Indus civilization, Indus-beschaving.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,7 +449,7 @@ That combination makes the script more than a puzzle of translation. It is a rem
 <a href="https://www.amazon.com/s?k=The+ancient+Indus+Rita+P.+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ancient Indus">The ancient Indus</a>
 </h4>
 <p class="fr-book-author">By Rita P. Wright</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Indus civilization, Harappakultur.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ancient+Indus+Rita+P.+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

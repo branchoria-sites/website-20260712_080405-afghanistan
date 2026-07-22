@@ -384,7 +384,7 @@ The strongest modern evidence suggests caution rather than certainty. The tradit
 <a href="https://www.amazon.com/s?k=The+Dragons+of+Eden+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dragons of Eden">The Dragons of Eden</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">First published 1977. Subjects: Evolution, Behavioral Genetics, Brain. 0, Intelligence, Cerveau.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Dragons+of+Eden+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The strongest modern evidence suggests caution rather than certainty. The tradit
 <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
 </h4>
 <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: History, Historia, Histoire, Qing Dynasty (China), China, history, qing dynasty, 1644-1912.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The strongest modern evidence suggests caution rather than certainty. The tradit
 <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
 </h4>
 <p class="fr-book-author">By Ebrey, Patricia Buckley</p>
-        
+
 <p class="fr-book-desc">Subjects: Civilization, History, China, China, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ The strongest modern evidence suggests caution rather than certainty. The tradit
 <a href="https://www.amazon.com/s?k=The+complete+world+of+human+evolution+Chris+Stringer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete world of human evolution">The complete world of human evolution</a>
 </h4>
 <p class="fr-book-author">By Chris Stringer</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Human evolution, Human remains (archaeology).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+complete+world+of+human+evolution+Chris+Stringer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

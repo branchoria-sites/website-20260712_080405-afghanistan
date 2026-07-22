@@ -347,7 +347,7 @@ The result is an unusual kind of historical mystery: not "Who secretly joined Li
           <a href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="LIECHTENSTEIN: A MODERN HISTORY">LIECHTENSTEIN: A MODERN HISTORY</a>
         </h4>
         <p class="fr-book-author">By David Beattie</p>
-        
+
         <p class="fr-book-desc">Explains the famous 81st soldier legend in national context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ The result is an unusual kind of historical mystery: not "Who secretly joined Li
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe : a history">Europe : a history</a>
         </h4>
         <p class="fr-book-author">By Norman Davies</p>
-        
+
         <p class="fr-book-desc">Offers broader historical context for nineteenth-century Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The result is an unusual kind of historical mystery: not "Who secretly joined Li
           <a href="https://www.amazon.com/s?k=The+Austro-Prussian+War+Geoffrey+Wawro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Austro-Prussian War">The Austro-Prussian War</a>
         </h4>
         <p class="fr-book-author">By Geoffrey Wawro</p>
-        
+
         <p class="fr-book-desc">Provides the conflict in which the legend originated.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Austro-Prussian+War+Geoffrey+Wawro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,16 +392,16 @@ The result is an unusual kind of historical mystery: not "Who secretly joined Li
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Habsburg+empire+Pieter+M.+Judson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Habsburg empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8051343-M.jpg" alt="Cover for The Habsburg empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Habsburgs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10449346-M.jpg" alt="Cover for Habsburgs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Habsburg+empire+Pieter+M.+Judson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Habsburg empire">The Habsburg empire</a>
+          <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Habsburgs">Habsburgs</a>
         </h4>
-        <p class="fr-book-author">By Pieter M. Judson</p>
-        
-        <p class="fr-book-desc">Explains the imperial setting surrounding Liechtenstein&#x27;s final military deployment.</p>
+        <p class="fr-book-author">By Martyn Rady</p>
+
+        <p class="fr-book-desc">Covers the political world of the Austro-Prussian era.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Habsburg+empire+Pieter+M.+Judson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

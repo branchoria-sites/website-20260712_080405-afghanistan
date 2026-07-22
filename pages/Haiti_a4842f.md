@@ -1330,7 +1330,7 @@ Haiti’s enduring enigmas matter because they expose the struggle over who gets
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Provides the essential revolutionary setting for Bois Caïman, Mackandal&#x27;s legacy, Dessalines and the creation of independent Haiti.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1347,7 +1347,7 @@ Haiti’s enduring enigmas matter because they expose the struggle over who gets
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Avengers of the New World">Avengers of the New World</a>
         </h4>
         <p class="fr-book-author">By Laurent Dubois</p>
-        
+
         <p class="fr-book-desc">Explains the revolution&#x27;s origins, leaders, violence and contested memories, encompassing several mysteries discussed on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1364,7 +1364,7 @@ Haiti’s enduring enigmas matter because they expose the struggle over who gets
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
         </h4>
         <p class="fr-book-author">By Michel-Rolph Trouillot</p>
-        
+
         <p class="fr-book-desc">Uses the Haitian Revolution to show how archives, power and historical storytelling determine which events are documented, doubted or for...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1381,7 +1381,7 @@ Haiti’s enduring enigmas matter because they expose the struggle over who gets
           <a href="https://www.amazon.com/s?k=Haiti+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haiti">Haiti</a>
         </h4>
         <p class="fr-book-author">By Laurent Dubois</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: History, Politics and government, Slave insurrections, Economic conditions, Social conditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haiti+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

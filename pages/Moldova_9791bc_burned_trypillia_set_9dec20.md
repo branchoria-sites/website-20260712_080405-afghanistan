@@ -405,7 +405,7 @@ For Moldova, the burned settlements remain one of the country's oldest historica
           <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horse, the Wheel, and Language">The Horse, the Wheel, and Language</a>
         </h4>
         <p class="fr-book-author">By David W. Anthony</p>
-        
+
         <p class="fr-book-desc">Explains prehistoric societies of Eastern Europe including the Trypillia world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For Moldova, the burned settlements remain one of the country's oldest historica
           <a href="https://www.amazon.com/s?k=The+Dawn+of+Everything+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dawn of Everything">The Dawn of Everything</a>
         </h4>
         <p class="fr-book-author">By David Graeber, David Wengrow</p>
-        
+
         <p class="fr-book-desc">Discusses alternative models of early settlements and societies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dawn+of+Everything+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ For Moldova, the burned settlements remain one of the country's oldest historica
           <a href="https://www.amazon.com/s?k=The+Oxford+Illustrated+History+of+Prehistoric+Europe+%28Oxford+Illustrated+Histories%29+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Illustrated History of Prehistoric Europe (Oxford Illustrated Histories)">The Oxford Illustrated History of Prehistoric Europe (Oxford...</a>
         </h4>
         <p class="fr-book-author">By Barry W. Cunliffe</p>
-        
+
         <p class="fr-book-desc">Provides context for Neolithic settlement archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+Illustrated+History+of+Prehistoric+Europe+%28Oxford+Illustrated+Histories%29+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ For Moldova, the burned settlements remain one of the country's oldest historica
           <a href="https://www.amazon.com/s?k=Europe+between+the+oceans+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe between the oceans">Europe between the oceans</a>
         </h4>
         <p class="fr-book-author">By Barry W. Cunliffe</p>
-        
+
         <p class="fr-book-desc">Covers Neolithic Europe and settlement development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe+between+the+oceans+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

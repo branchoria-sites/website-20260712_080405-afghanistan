@@ -375,7 +375,7 @@ For the history of the [United Kingdom]({{ 'united-kingdom/' | relative_url }}),
           <a href="https://www.amazon.com/s?k=Roman+Britain+Guy+de+la+Be%CC%81doye%CC%80re&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roman Britain">Roman Britain</a>
         </h4>
         <p class="fr-book-author">By Guy de la Bédoyère</p>
-        
+
         <p class="fr-book-desc">Places the legion within Roman Britain&#x27;s archaeology and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Roman+Britain+Guy+de+la+Be%CC%81doye%CC%80re&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For the history of the [United Kingdom]({{ 'united-kingdom/' | relative_url }}),
           <a href="https://www.amazon.com/s?k=The+Eagle+of+the+Ninth.+1400+Grundw%C3%B6rter.+Rosemary+Sutcliff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Eagle of the Ninth. 1400 Grundwörter.">The Eagle of the Ninth. 1400 Grundwörter.</a>
         </h4>
         <p class="fr-book-author">By Rosemary Sutcliff, C. Walter Hodges</p>
-        
+
         <p class="fr-book-desc">First published 1954. Subjects: Rome, history, fiction, Children&#x27;s fiction, Adventure and adventurers, fiction, Great britain, history, t...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Eagle+of+the+Ninth.+1400+Grundw%C3%B6rter.+Rosemary+Sutcliff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For the history of the [United Kingdom]({{ 'united-kingdom/' | relative_url }}),
           <a href="https://www.amazon.com/s?k=The+Complete+Roman+Army+%28The+Complete+Series%29+Adrian+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Roman Army (The Complete Series)">The Complete Roman Army (The Complete Series)</a>
         </h4>
         <p class="fr-book-author">By Adrian Goldsworthy</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: Military History, Army, Rome, army, Rome, history, military.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Roman+Army+%28The+Complete+Series%29+Adrian+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,14 +420,14 @@ For the history of the [United Kingdom]({{ 'united-kingdom/' | relative_url }}),
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7390155-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
         </h4>
-        <p class="fr-book-author">By Mary Beard</p>
-        
-        <p class="fr-book-desc">First published 2015. Subjects: Roman Empire, History, nyt:combined-print-and-e-book-nonfiction=2015-12-06, New York Times bestseller, Ro...</p>
+        <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
+
+        <p class="fr-book-desc">First published 2015. Subjects: Historia, History, Rome, history, Histoire, Antike.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

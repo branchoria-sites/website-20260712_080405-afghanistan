@@ -386,7 +386,7 @@ The unresolved fate of Cyprus's missing people therefore occupies a unique place
           <a href="https://www.amazon.com/s?k=The+Cyprus+problem+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyprus problem">The Cyprus problem</a>
         </h4>
         <p class="fr-book-author">By James Ker-Lindsay</p>
-        
+
         <p class="fr-book-desc">Explains the conflict that led to the missing persons cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cyprus+problem+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The unresolved fate of Cyprus's missing people therefore occupies a unique place
           <a href="https://www.amazon.com/s?k=A+History+Of+Cyprus+Sir+George+Francis+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Cyprus">A History Of Cyprus</a>
         </h4>
         <p class="fr-book-author">By Sir George Francis Hill</p>
-        
+
         <p class="fr-book-desc">Explains the longer background to modern political divisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+Of+Cyprus+Sir+George+Francis+Hill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The unresolved fate of Cyprus's missing people therefore occupies a unique place
           <a href="https://www.amazon.com/s?k=Bitter+lemons+Lawrence+Durrell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bitter lemons">Bitter lemons</a>
         </h4>
         <p class="fr-book-author">By Lawrence Durrell</p>
-        
+
         <p class="fr-book-desc">First published 1957. Subjects: Description and travel, Politics and government, Social life and customs, Travel, Cyprus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bitter+lemons+Lawrence+Durrell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ The unresolved fate of Cyprus's missing people therefore occupies a unique place
           <a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyprus">Cyprus</a>
         </h4>
         <p class="fr-book-author">By William Mallinson</p>
-        
+
         <p class="fr-book-desc">First published 2005. Subjects: Cyprus, history, Cyprus, politics and government, International relations, History, Foreign relations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

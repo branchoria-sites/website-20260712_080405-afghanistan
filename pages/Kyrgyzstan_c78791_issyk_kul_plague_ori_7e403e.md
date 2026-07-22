@@ -343,7 +343,7 @@ For Kyrgyzstan, the graves represent one of the country's most internationally s
 <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
 </h4>
 <p class="fr-book-author">By David Quammen</p>
-        
+
 <p class="fr-book-desc">Explores disease origins and scientific investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For Kyrgyzstan, the graves represent one of the country's most internationally s
 <a href="https://www.amazon.com/s?k=The+Great+Mortality+John+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Mortality">The Great Mortality</a>
 </h4>
 <p class="fr-book-author">By John Kelly</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Black Death, Sources, History, Surtos de doenças (história), Doenças transmissíveis (história).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Great+Mortality+John+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For Kyrgyzstan, the graves represent one of the country's most internationally s
 <a href="https://www.amazon.com/s?k=The+Black+Death+John+Hatcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Death">The Black Death</a>
 </h4>
 <p class="fr-book-author">By John Hatcher, John Hatcher et al.</p>
-        
+
 <p class="fr-book-desc">First published 2007. Subjects: Black Death, Social conditions, Fiction, History, England, fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Black+Death+John+Hatcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For Kyrgyzstan, the graves represent one of the country's most internationally s
 <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
 </h4>
 <p class="fr-book-author">By Adeeb Khalid</p>
-        
+
 <p class="fr-book-desc">First published 2021.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

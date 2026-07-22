@@ -356,7 +356,7 @@ For Japan, Yonaguni has become an enduring historical mystery precisely because 
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ For Japan, Yonaguni has become an enduring historical mystery precisely because 
 <a href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embracing Defeat">Embracing Defeat</a>
 </h4>
 <p class="fr-book-author">By John W. Dower</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: History, National Book Award Winner, award:national_book_award=1999, award:national_book_award=nonfiction...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ For Japan, Yonaguni has become an enduring historical mystery precisely because 
 <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan, a modern history">Japan, a modern history</a>
 </h4>
 <p class="fr-book-author">By James L. McClain</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: History, Japan, history, New York Times reviewed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ For Japan, Yonaguni has become an enduring historical mystery precisely because 
 <a href="https://www.amazon.com/s?k=Underworld+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underworld">Underworld</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Submerged lands, Ancient Civilization, Sociology, Prehistoric peoples, Nonfiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Underworld+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

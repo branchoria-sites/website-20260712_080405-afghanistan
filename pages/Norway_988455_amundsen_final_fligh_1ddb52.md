@@ -381,7 +381,7 @@ That combination of strong evidence and permanent uncertainty is what keeps Amun
           <a href="https://www.amazon.com/s?k=The+last+place+on+earth+Roland+Huntford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The last place on earth">The last place on earth</a>
         </h4>
         <p class="fr-book-author">By Roland Huntford</p>
-        
+
         <p class="fr-book-desc">Authoritative account of Amundsen&#x27;s career and legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+last+place+on+earth+Roland+Huntford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ That combination of strong evidence and permanent uncertainty is what keeps Amun
           <a href="https://www.amazon.com/s?k=Endurance+Alfred+Lansing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Endurance">Endurance</a>
         </h4>
         <p class="fr-book-author">By Alfred Lansing, Elena Grau</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in heroic polar exploration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Endurance+Alfred+Lansing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ That combination of strong evidence and permanent uncertainty is what keeps Amun
           <a href="https://www.amazon.com/s?k=The+last+Viking+Stephen+R.+Bown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The last Viking">The last Viking</a>
         </h4>
         <p class="fr-book-author">By Stephen R. Bown, Stephen Bown</p>
-        
+
         <p class="fr-book-desc">Covers his final expedition and disappearance in detail.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+last+Viking+Stephen+R.+Bown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ That combination of strong evidence and permanent uncertainty is what keeps Amun
           <a href="https://www.amazon.com/s?k=Madhouse+at+the+End+of+the+Earth+Julian+Sancton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Madhouse at the End of the Earth">Madhouse at the End of the Earth</a>
         </h4>
         <p class="fr-book-author">By Julian Sancton</p>
-        
+
         <p class="fr-book-desc">Provides context for extreme Arctic exploration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Madhouse+at+the+End+of+the+Earth+Julian+Sancton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

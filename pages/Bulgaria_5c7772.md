@@ -1374,7 +1374,7 @@ That tension between what can be demonstrated and what people wish to believe is
           <a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A concise history of Bulgaria">A concise history of Bulgaria</a>
         </h4>
         <p class="fr-book-author">By R. J. Crampton</p>
-        
+
         <p class="fr-book-desc">Covers the major historical mysteries and political background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1391,7 +1391,7 @@ That tension between what can be demonstrated and what people wish to believe is
           <a href="https://www.amazon.com/s?k=The+Bridge+at+Andau+James+A.+Michener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bridge at Andau">The Bridge at Andau</a>
         </h4>
         <p class="fr-book-author">By James A. Michener</p>
-        
+
         <p class="fr-book-desc">Offers wider Cold War background relevant to communist Eastern Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Bridge+at+Andau+James+A.+Michener&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1402,16 +1402,16 @@ That tension between what can be demonstrated and what people wish to believe is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/918464-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
+          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
         </h4>
-        <p class="fr-book-author">By Misha Glenny</p>
-        
+        <p class="fr-book-author">By Mark Mazower</p>
+
         <p class="fr-book-desc">Places Bulgarian events in wider Balkan history.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1425,7 +1425,7 @@ That tension between what can be demonstrated and what people wish to believe is
           <a href="https://www.amazon.com/s?k=The+Bulgarians+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bulgarians">The Bulgarians</a>
         </h4>
         <p class="fr-book-author">By R. J. Crampton</p>
-        
+
         <p class="fr-book-desc">Introduces Bulgaria&#x27;s historical development and modern controversies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Bulgarians+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

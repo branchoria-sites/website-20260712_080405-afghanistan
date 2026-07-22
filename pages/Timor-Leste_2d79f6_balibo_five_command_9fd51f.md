@@ -382,7 +382,7 @@ For Timor-Leste, the case remains a symbol of the wider difficulties involved in
           <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
         </h4>
         <p class="fr-book-author">By Jill Jolliffe</p>
-        
+
         <p class="fr-book-desc">Places the Balibo killings in the wider invasion context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For Timor-Leste, the case remains a symbol of the wider difficulties involved in
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
         </h4>
         <p class="fr-book-author">By Joseph Nevins</p>
-        
+
         <p class="fr-book-desc">Examines the Indonesian occupation and international response.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For Timor-Leste, the case remains a symbol of the wider difficulties involved in
           <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Not on our watch">Not on our watch</a>
         </h4>
         <p class="fr-book-author">By Don Cheadle, John Prendergast</p>
-        
+
         <p class="fr-book-desc">Discusses East Timor within broader accountability themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ For Timor-Leste, the case remains a symbol of the wider difficulties involved in
           <a href="https://www.amazon.com/s?k=Cover-Up%3A+The+Inside+Story+of+the+Balibo+Five+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cover-Up: The Inside Story of the Balibo Five">Cover-Up: The Inside Story of the Balibo Five</a>
         </h4>
         <p class="fr-book-author">By Jill Jolliffe</p>
-        
+
         <p class="fr-book-desc">Directly investigates the killings and command responsibility.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cover-Up%3A+The+Inside+Story+of+the+Balibo+Five+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

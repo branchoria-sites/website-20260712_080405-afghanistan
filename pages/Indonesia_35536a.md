@@ -1359,7 +1359,7 @@ These distinctions matter. A missing archive should not automatically be treated
 <a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Indonesia since c. 1200">A history of modern Indonesia since c. 1200</a>
 </h4>
 <p class="fr-book-author">By M. C. Ricklefs</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: History, Indonesia, history, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ These distinctions matter. A missing archive should not automatically be treated
 <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
 </h4>
 <p class="fr-book-author">By Vincent Bevins</p>
-        
+
 <p class="fr-book-desc">First published 2020. Subjects: United states, history, United states, politics and government, history, Nonfiction, Politics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,7 +1393,7 @@ These distinctions matter. A missing archive should not automatically be treated
 <a href="https://www.amazon.com/s?k=Indonesia+etc+Elizabeth+Pisani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indonesia etc">Indonesia etc</a>
 </h4>
 <p class="fr-book-author">By Elizabeth Pisani</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Social conditions, Social life and customs, Travel, Description and travel, Indonesia, social conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Indonesia+etc+Elizabeth+Pisani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1410,7 +1410,7 @@ These distinctions matter. A missing archive should not automatically be treated
 <a href="https://www.amazon.com/s?k=Indonesia+Jean+Gelman+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indonesia">Indonesia</a>
 </h4>
 <p class="fr-book-author">By Jean Gelman Taylor</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: History, Ethnic relations, Indonesia, history, Histoire, Relations interethniques.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Indonesia+Jean+Gelman+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

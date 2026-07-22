@@ -365,7 +365,7 @@ That distinction explains why the case remains unresolved in public memory. The 
           <a href="https://www.amazon.com/s?k=Black+Box+Thinking+Matthew+Syed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Box Thinking">Black Box Thinking</a>
         </h4>
         <p class="fr-book-author">By Matthew Syed, Matthew Syed Consulting Ltd</p>
-        
+
         <p class="fr-book-desc">Relevant to evaluating competing explanations for aviation accidents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Black+Box+Thinking+Matthew+Syed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ That distinction explains why the case remains unresolved in public memory. The 
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
         </h4>
         <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
-        
+
         <p class="fr-book-desc">Explains the dynamics of authoritarian leadership and succession.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ That distinction explains why the case remains unresolved in public memory. The 
           <a href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Panama fever">Panama fever</a>
         </h4>
         <p class="fr-book-author">By Matthew Parker, Matthew Parker et al.</p>
-        
+
         <p class="fr-book-desc">Expands readers&#x27; understanding of Panama&#x27;s modern history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ That distinction explains why the case remains unresolved in public memory. The 
           <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
         </h4>
         <p class="fr-book-author">By David McCullough</p>
-        
+
         <p class="fr-book-desc">Provides essential historical context for Torrijos and the canal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1372,7 +1372,7 @@ That distinction matters. Treating documented atrocities as spooky legends weake
           <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
         </h4>
         <p class="fr-book-author">By Mark Danner</p>
-        
+
         <p class="fr-book-desc">Provides essential background to several enduring national mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1389,7 +1389,7 @@ That distinction matters. Treating documented atrocities as spooky legends weake
           <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One day of life">One day of life</a>
         </h4>
         <p class="fr-book-author">By Manlio Argueta</p>
-        
+
         <p class="fr-book-desc">Captures the human experience of conflict and disappearances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1406,7 +1406,7 @@ That distinction matters. Treating documented atrocities as spooky legends weake
           <a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oscar Romero and the communion of the saints">Oscar Romero and the communion of the saints</a>
         </h4>
         <p class="fr-book-author">By Scott Wright</p>
-        
+
         <p class="fr-book-desc">Relevant to one of the country&#x27;s defining unresolved crimes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1423,7 +1423,7 @@ That distinction matters. Treating documented atrocities as spooky legends weake
           <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Revolution in El Salvador">Revolution in El Salvador</a>
         </h4>
         <p class="fr-book-author">By Tommie Sue Montgomery</p>
-        
+
         <p class="fr-book-desc">Broad context for conflict-era mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

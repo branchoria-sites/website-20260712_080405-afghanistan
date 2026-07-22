@@ -411,7 +411,7 @@ Nearly ninety years after Earhart vanished, the Marshall Islands trail remains o
           <a href="https://www.amazon.com/s?k=Last+flight+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Last flight">Last flight</a>
         </h4>
         <p class="fr-book-author">By Amelia Earhart</p>
-        
+
         <p class="fr-book-desc">Primary source for understanding Earhart before her disappearance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Last+flight+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ Nearly ninety years after Earhart vanished, the Marshall Islands trail remains o
           <a href="https://www.amazon.com/s?k=Amelia+Earhart%27s+Shoes+King+Thomas+F.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amelia Earhart&#x27;s Shoes">Amelia Earhart&#x27;s Shoes</a>
         </h4>
         <p class="fr-book-author">By King Thomas F.</p>
-        
+
         <p class="fr-book-desc">Focuses on evidence-based analysis of disappearance theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Amelia+Earhart%27s+Shoes+King+Thomas+F.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ Nearly ninety years after Earhart vanished, the Marshall Islands trail remains o
           <a href="https://www.amazon.com/s?k=The+sound+of+wings+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sound of wings">The sound of wings</a>
         </h4>
         <p class="fr-book-author">By Mary S. Lovell</p>
-        
+
         <p class="fr-book-desc">Gives broader context to the final flight and enduring mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+sound+of+wings+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ Nearly ninety years after Earhart vanished, the Marshall Islands trail remains o
           <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amelia Earhart">Amelia Earhart</a>
         </h4>
         <p class="fr-book-author">By Mike Campbell</p>
-        
+
         <p class="fr-book-desc">Examines competing theories including Pacific evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

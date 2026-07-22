@@ -362,7 +362,7 @@ Its importance therefore lies not in any proven supernatural power but in the re
           <a href="https://www.amazon.com/s?k=Nuer+religion+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuer religion">Nuer religion</a>
         </h4>
         <p class="fr-book-author">By E. E. Evans-Pritchard</p>
-        
+
         <p class="fr-book-desc">Foundational source on Nuer beliefs connected with Ngundeng.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nuer+religion+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Its importance therefore lies not in any proven supernatural power but in the re
           <a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The root causes of Sudan&#x27;s civil wars">The root causes of Sudan&#x27;s civil wars</a>
         </h4>
         <p class="fr-book-author">By Douglas Hamilton Johnson, Douglas H. Johnson et al.</p>
-        
+
         <p class="fr-book-desc">Places Ngundeng&#x27;s legacy within Sudanese history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Its importance therefore lies not in any proven supernatural power but in the re
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Provides wider context for prophetic traditions and sacred objects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Its importance therefore lies not in any proven supernatural power but in the re
           <a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South Sudan">South Sudan</a>
         </h4>
         <p class="fr-book-author">By Edward Thomas</p>
-        
+
         <p class="fr-book-desc">Explains why historical symbols remain politically significant.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

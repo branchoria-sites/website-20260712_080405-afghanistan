@@ -348,7 +348,7 @@ For historians, the principal mystery is therefore not simply whether a coup was
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides regional context for coups and authoritarian rule.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ For historians, the principal mystery is therefore not simply whether a coup was
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Africa">A history of modern Africa</a>
         </h4>
         <p class="fr-book-author">By Richard J. Reid</p>
-        
+
         <p class="fr-book-desc">Explains broader post-independence military politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For historians, the principal mystery is therefore not simply whether a coup was
           <a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amilcar Cabral : revolutionary leadership and people&#x27;s war">Amilcar Cabral : revolutionary leadership and people&#x27;s war</a>
         </h4>
         <p class="fr-book-author">By Patrick Chabal</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the political legacy inherited by later governments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For historians, the principal mystery is therefore not simply whether a coup was
           <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Guinea-Bissau+Richard+A.+Lobban+Jr.+and+Peter+Karibe+Mendy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical Dictionary of Guinea-Bissau">Historical Dictionary of Guinea-Bissau</a>
         </h4>
         <p class="fr-book-author">By Richard A. Lobban Jr. and Peter Karibe Mendy</p>
-        
+
         <p class="fr-book-desc">Includes the Vieira era and the contested coup allegations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Guinea-Bissau+Richard+A.+Lobban+Jr.+and+Peter+Karibe+Mendy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

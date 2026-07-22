@@ -370,7 +370,7 @@ These uncertainties ensure that Manuscript 512 remains a genuine historical puzz
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z">The Lost City of Z</a>
         </h4>
         <p class="fr-book-author">By David Grann, James Gray</p>
-        
+
         <p class="fr-book-desc">Directly connects Manuscript 512 with later expeditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ These uncertainties ensure that Manuscript 512 remains a genuine historical puzz
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
         </h4>
         <p class="fr-book-author">By Charles C. Mann</p>
-        
+
         <p class="fr-book-desc">Explains real ancient societies of the Americas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ These uncertainties ensure that Manuscript 512 remains a genuine historical puzz
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Represents speculative lost-civilization interpretations discussed around such mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ These uncertainties ensure that Manuscript 512 remains a genuine historical puzz
           <a href="https://www.amazon.com/s?k=The+River+of+Doubt+Candice+Millard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Doubt">The River of Doubt</a>
         </h4>
         <p class="fr-book-author">By Candice Millard</p>
-        
+
         <p class="fr-book-desc">Adds historical context for expeditions into Brazil&#x27;s interior.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+River+of+Doubt+Candice+Millard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

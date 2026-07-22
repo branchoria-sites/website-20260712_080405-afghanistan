@@ -380,7 +380,7 @@ Rather than diminishing Green Castle Hill's importance, this interpretation make
           <a href="https://www.amazon.com/s?k=The+indigenous+people+of+the+Caribbean+Samuel+M.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The indigenous people of the Caribbean">The indigenous people of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Samuel M. Wilson</p>
-        
+
         <p class="fr-book-desc">Directly relevant to Indigenous occupation of Green Castle Hill.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+indigenous+people+of+the+Caribbean+Samuel+M.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ Rather than diminishing Green Castle Hill's importance, this interpretation make
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Explains the wider cultural background of pre-Columbian Antigua.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ Rather than diminishing Green Castle Hill's importance, this interpretation make
           <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire&#x27;s Crossroads">Empire&#x27;s Crossroads</a>
         </h4>
         <p class="fr-book-author">By Carrie Gibson</p>
-        
+
         <p class="fr-book-desc">Places Antigua&#x27;s archaeology in regional perspective.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

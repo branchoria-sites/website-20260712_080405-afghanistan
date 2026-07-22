@@ -391,7 +391,7 @@ The mystery also reminds historians that archaeological evidence rarely preserve
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Directly examines the collapse affecting Mycenaean palace society.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The mystery also reminds historians that archaeological evidence rarely preserve
           <a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The End of the Bronze Age">The End of the Bronze Age</a>
         </h4>
         <p class="fr-book-author">By Robert Drews</p>
-        
+
         <p class="fr-book-desc">Classic treatment of competing collapse theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The mystery also reminds historians that archaeological evidence rarely preserve
           <a href="https://www.amazon.com/s?k=The+Mycenaeans+Louise+Schofield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mycenaeans">The Mycenaeans</a>
         </h4>
         <p class="fr-book-author">By Louise Schofield</p>
-        
+
         <p class="fr-book-desc">Explains palace culture and archaeological evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mycenaeans+Louise+Schofield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ The mystery also reminds historians that archaeological evidence rarely preserve
           <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant">Decoding the Heavens: Solving the Mystery of the World&#x27;s Firs...</a>
         </h4>
         <p class="fr-book-author">By Jo Marchant</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Greece, history, Astronomical clocks, History, Antiquities, Technology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

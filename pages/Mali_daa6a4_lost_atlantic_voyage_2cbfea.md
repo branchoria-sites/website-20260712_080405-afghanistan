@@ -373,7 +373,7 @@ Viewed in that light, the lost Atlantic voyage remains one of Mali's most fascin
 <a href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa+David+C.+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of medieval West Africa">Empires of medieval West Africa</a>
 </h4>
 <p class="fr-book-author">By David C. Conrad</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Juvenile literature, History, Soninke (African people), Mandingo (African people), Ethnology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa+David+C.+Conrad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Viewed in that light, the lost Atlantic voyage remains one of Mali's most fascin
 <a href="https://www.amazon.com/s?k=Mansa+Musa+and+the+Empire+of+Mali+P.+James+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mansa Musa and the Empire of Mali">Mansa Musa and the Empire of Mali</a>
 </h4>
 <p class="fr-book-author">By P. James Oliver</p>
-        
+
 <p class="fr-book-desc">First published 2013.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mansa+Musa+and+the+Empire+of+Mali+P.+James+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Viewed in that light, the lost Atlantic voyage remains one of Mali's most fascin
 <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Rhinoceros">The Golden Rhinoceros</a>
 </h4>
 <p class="fr-book-author">By François-Xavier Fauvelle</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Africa, history, History, Civilization, Discovery and exploration.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ Viewed in that light, the lost Atlantic voyage remains one of Mali's most fascin
 <a href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sundiata">Sundiata</a>
 </h4>
 <p class="fr-book-author">By Djibril Tamsir Niane, DjiBril Tamsir Niane et al.</p>
-        
+
 <p class="fr-book-desc">First published 1960. Subjects: History, Kings and rulers, Legends, Mandingo (African people), Mandingo Folk literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

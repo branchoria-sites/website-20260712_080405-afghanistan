@@ -1326,7 +1326,7 @@ These cases remain culturally powerful because each concerns an absence: unread 
           <a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mohenjo-Daro and the Indus civilization">Mohenjo-Daro and the Indus civilization</a>
         </h4>
         <p class="fr-book-author">By Marshall, John Hubert Sir</p>
-        
+
         <p class="fr-book-desc">Foundational publication on Pakistan&#x27;s greatest archaeological site.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1343,7 +1343,7 @@ These cases remain culturally powerful because each concerns an absence: unread 
           <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of Early India">The Penguin History of Early India</a>
         </h4>
         <p class="fr-book-author">By Romila Thapar</p>
-        
+
         <p class="fr-book-desc">Provides broad historical context for ancient Pakistan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1360,7 +1360,7 @@ These cases remain culturally powerful because each concerns an absence: unread 
           <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indus Civilization">The Indus Civilization</a>
         </h4>
         <p class="fr-book-author">By Gregory L. Possehl</p>
-        
+
         <p class="fr-book-desc">Covers several of Pakistan&#x27;s major archaeological mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ These cases remain culturally powerful because each concerns an absence: unread 
           <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The wonder that was India">The wonder that was India</a>
         </h4>
         <p class="fr-book-author">By Basham, A. L.</p>
-        
+
         <p class="fr-book-desc">First published 1954. Subjects: History, Civilization, Civilisation, Histoire, India, civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

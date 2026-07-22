@@ -360,7 +360,7 @@ This delayed opening of the archives explains why the event occupies such an imp
           <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gates of Europe">The Gates of Europe</a>
         </h4>
         <p class="fr-book-author">By Serhii Plokhy</p>
-        
+
         <p class="fr-book-desc">Provides broader Soviet and regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ This delayed opening of the archives explains why the event occupies such an imp
           <a href="https://www.amazon.com/s?k=The+harvest+of+sorrow+Robert+Conquest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The harvest of sorrow">The harvest of sorrow</a>
         </h4>
         <p class="fr-book-author">By Robert Conquest</p>
-        
+
         <p class="fr-book-desc">Classic examination of collectivization and famine.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+harvest+of+sorrow+Robert+Conquest&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ This delayed opening of the archives explains why the event occupies such an imp
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain">Iron Curtain</a>
         </h4>
         <p class="fr-book-author">By Anne Applebaum</p>
-        
+
         <p class="fr-book-desc">Explains postwar Soviet domination affecting Moldova.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ This delayed opening of the archives explains why the event occupies such an imp
           <a href="https://www.amazon.com/s?k=Red+Famine+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Red Famine">Red Famine</a>
         </h4>
         <p class="fr-book-author">By Anne Applebaum</p>
-        
+
         <p class="fr-book-desc">Explores Soviet famine policy relevant to neighboring Moldova.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Red+Famine+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

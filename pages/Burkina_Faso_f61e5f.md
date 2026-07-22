@@ -1355,7 +1355,7 @@ These three mysteries therefore have different possible endings. The Sankara cas
           <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)">Thomas Sankara: An African Revolutionary (Ohio Short Historie...</a>
         </h4>
         <p class="fr-book-author">By Ernest Harsch</p>
-        
+
         <p class="fr-book-desc">Explores Sankara&#x27;s life, rule, assassination and legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ These three mysteries therefore have different possible endings. The Sankara cas
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places Burkina Faso&#x27;s political mysteries within continental history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1389,7 +1389,7 @@ These three mysteries therefore have different possible endings. The Sankara cas
           <a href="https://www.amazon.com/s?k=AFRICAN+SILENCES+By+PETER+MATTHIESSEN+1ST+EDITION+1991+PETER+MATTHIESSEN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AFRICAN SILENCES By PETER MATTHIESSEN 1ST EDITION 1991">AFRICAN SILENCES By PETER MATTHIESSEN 1ST EDITION 1991</a>
         </h4>
         <p class="fr-book-author">By PETER MATTHIESSEN</p>
-        
+
         <p class="fr-book-desc">First published 1991.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=AFRICAN+SILENCES+By+PETER+MATTHIESSEN+1ST+EDITION+1991+PETER+MATTHIESSEN&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1406,7 +1406,7 @@ These three mysteries therefore have different possible endings. The Sankara cas
           <a href="https://www.amazon.com/s?k=Thomas+Sankara+Speaks%3A+The+Burkina+Faso+Revolution+1983%E2%80%9387+Thomas+Sankara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thomas Sankara Speaks: The Burkina Faso Revolution 1983–87">Thomas Sankara Speaks: The Burkina Faso Revolution 1983–87</a>
         </h4>
         <p class="fr-book-author">By Thomas Sankara</p>
-        
+
         <p class="fr-book-desc">Essential for understanding Sankara and Burkina Faso&#x27;s modern political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thomas+Sankara+Speaks%3A+The+Burkina+Faso+Revolution+1983%E2%80%9387+Thomas+Sankara&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

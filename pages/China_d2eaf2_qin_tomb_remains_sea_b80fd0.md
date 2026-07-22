@@ -362,7 +362,7 @@ As a result, one of the world's most famous archaeological sites remains a rare 
           <a href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Terracotta Army">The Terracotta Army</a>
         </h4>
         <p class="fr-book-author">By John Man</p>
-        
+
         <p class="fr-book-desc">Directly addresses the First Emperor and his tomb.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ As a result, one of the world's most famous archaeological sites remains a rare 
           <a href="https://www.amazon.com/s?k=The+first+emperor+of+China+Jonathan+Clements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The first emperor of China">The first emperor of China</a>
         </h4>
         <p class="fr-book-author">By Jonathan Clements</p>
-        
+
         <p class="fr-book-desc">Explains the ruler behind the unopened tomb.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+first+emperor+of+China+Jonathan+Clements&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ As a result, one of the world's most famous archaeological sites remains a rare 
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
         </h4>
         <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
         <p class="fr-book-desc">Strong parent-topic recommendation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,16 +407,16 @@ As a result, one of the world's most famous archaeological sites remains a rare 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge illustrated history of China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101852-M.jpg" alt="Cover for The Cambridge illustrated history of China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open China A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7520402-M.jpg" alt="Cover for China A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
+          <a href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="China A History">China A History</a>
         </h4>
-        <p class="fr-book-author">By Ebrey, Patricia Buckley</p>
-        
-        <p class="fr-book-desc">Provides archaeological and imperial context.</p>
+        <p class="fr-book-author">By John Keay</p>
+
+        <p class="fr-book-desc">Broad background for readers exploring ancient China.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

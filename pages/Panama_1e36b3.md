@@ -1350,7 +1350,7 @@ Seen this way, Panama’s mysteries become more interesting rather than less. Th
           <a href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Wars">Ghost Wars</a>
         </h4>
         <p class="fr-book-author">By Steve Coll</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in intelligence and geopolitical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ Seen this way, Panama’s mysteries become more interesting rather than less. Th
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
         </h4>
         <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
-        
+
         <p class="fr-book-desc">Helps explain power struggles behind political mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1384,7 +1384,7 @@ Seen this way, Panama’s mysteries become more interesting rather than less. Th
           <a href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Panama fever">Panama fever</a>
         </h4>
         <p class="fr-book-author">By Matthew Parker, Matthew Parker et al.</p>
-        
+
         <p class="fr-book-desc">Explores Panama&#x27;s transformation and historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1401,7 +1401,7 @@ Seen this way, Panama’s mysteries become more interesting rather than less. Th
           <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
         </h4>
         <p class="fr-book-author">By David McCullough</p>
-        
+
         <p class="fr-book-desc">Essential background for Panama&#x27;s modern political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1370,7 +1370,7 @@ The most convincing Egyptian mysteries therefore occupy a middle ground. They ar
           <a href="https://www.amazon.com/s?k=Temples%2C+Tombs%2C+and+Hieroglyphs+Barbara+Mertz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Temples, Tombs, and Hieroglyphs">Temples, Tombs, and Hieroglyphs</a>
         </h4>
         <p class="fr-book-author">By Barbara Mertz, Barbara Michaels</p>
-        
+
         <p class="fr-book-desc">Introduces the archaeology and history behind Egypt&#x27;s famous enigmas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Temples%2C+Tombs%2C+and+Hieroglyphs+Barbara+Mertz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1387,7 +1387,7 @@ The most convincing Egyptian mysteries therefore occupy a middle ground. They ar
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Provides essential historical context behind many enduring mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1404,7 +1404,7 @@ The most convincing Egyptian mysteries therefore occupy a middle ground. They ar
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford history of ancient Egypt">The Oxford history of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Ian Shaw, Ian Shaw</p>
-        
+
         <p class="fr-book-desc">Explains the archaeological and historical evidence behind unresolved questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1421,7 +1421,7 @@ The most convincing Egyptian mysteries therefore occupy a middle ground. They ar
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Tutankhamun">The Complete Tutankhamun</a>
         </h4>
         <p class="fr-book-author">By Nicholas Reeves</p>
-        
+
         <p class="fr-book-desc">Covers many of Egypt&#x27;s biggest archaeological mysteries and discoveries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

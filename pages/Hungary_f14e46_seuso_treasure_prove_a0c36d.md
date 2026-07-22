@@ -374,7 +374,7 @@ That missing piece of evidence continues to shape every discussion of the Seuso 
 <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
 </h4>
 <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Historia, History, Rome, history, Histoire, Antike.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ That missing piece of evidence continues to shape every discussion of the Seuso 
 <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Habsburgs">Habsburgs</a>
 </h4>
 <p class="fr-book-author">By Martyn Rady</p>
-        
+
 <p class="fr-book-desc">First published 2020. Subjects: Europe, history, Habsburg, house of, Austria, history, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ That missing piece of evidence continues to shape every discussion of the Seuso 
 <a href="https://www.amazon.com/s?k=The+Hungarians+Paul+Lendvai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hungarians">The Hungarians</a>
 </h4>
 <p class="fr-book-author">By Paul Lendvai</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: History, Hungarians, Hungary, history, Hungary, biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hungarians+Paul+Lendvai&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ That missing piece of evidence continues to shape every discussion of the Seuso 
 <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The archaeology book">The archaeology book</a>
 </h4>
 <p class="fr-book-author">By David Down</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Juvenile literature, Archaeology, Christian education, Antiquities, Creationism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

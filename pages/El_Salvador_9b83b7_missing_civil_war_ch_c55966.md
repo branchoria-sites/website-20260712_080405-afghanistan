@@ -358,7 +358,7 @@ The mystery therefore survives not because historians doubt that children disapp
 <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
 </h4>
 <p class="fr-book-author">By Mark Danner</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Politics and government, Massacres, History, El salvador, politics and government, El salvador, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ The mystery therefore survives not because historians doubt that children disapp
 <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One day of life">One day of life</a>
 </h4>
 <p class="fr-book-author">By Manlio Argueta</p>
-        
+
 <p class="fr-book-desc">First published 1983. Subjects: war stories, fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ The mystery therefore survives not because historians doubt that children disapp
 <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Revolution in El Salvador">Revolution in El Salvador</a>
 </h4>
 <p class="fr-book-author">By Tommie Sue Montgomery</p>
-        
+
 <p class="fr-book-desc">First published 1982. Subjects: History, Insurgency, Politics and government, Economic conditions, Catholic Church.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ The mystery therefore survives not because historians doubt that children disapp
 <a href="https://www.amazon.com/s?k=El+Salvador+Tom+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="El Salvador">El Salvador</a>
 </h4>
 <p class="fr-book-author">By Tom Barry</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: El salvador, description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=El+Salvador+Tom+Barry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

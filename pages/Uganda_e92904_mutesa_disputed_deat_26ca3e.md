@@ -368,7 +368,7 @@ The balance of the evidence today favours the official conclusion that Edward Mu
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides context for the Obote and Amin eras.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ The balance of the evidence today favours the official conclusion that Edward Mu
           <a href="https://www.amazon.com/s?k=A+state+of+blood+Henry+Kyemba&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A state of blood">A state of blood</a>
         </h4>
         <p class="fr-book-author">By Henry Kyemba</p>
-        
+
         <p class="fr-book-desc">Explains Uganda&#x27;s political turmoil after Mutesa&#x27;s exile.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+state+of+blood+Henry+Kyemba&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The balance of the evidence today favours the official conclusion that Edward Mu
           <a href="https://www.amazon.com/s?k=Abyssinian+Chronicles+Moses+Isegawa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abyssinian Chronicles">Abyssinian Chronicles</a>
         </h4>
         <p class="fr-book-author">By Moses Isegawa</p>
-        
+
         <p class="fr-book-desc">Offers cultural and historical insight into modern Uganda.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abyssinian+Chronicles+Moses+Isegawa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ The balance of the evidence today favours the official conclusion that Edward Mu
           <a href="https://www.amazon.com/s?k=Sowing+the+Mustard+Seed+Yoweri+Kaguta+Museveni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sowing the Mustard Seed">Sowing the Mustard Seed</a>
         </h4>
         <p class="fr-book-author">By Yoweri Kaguta Museveni</p>
-        
+
         <p class="fr-book-desc">Covers Uganda&#x27;s political evolution after the constitutional crisis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sowing+the+Mustard+Seed+Yoweri+Kaguta+Museveni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

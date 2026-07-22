@@ -355,7 +355,7 @@ As a result, the "accident question" persists less because competing evidence ex
           <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Long Walk to Freedom">Long Walk to Freedom</a>
         </h4>
         <p class="fr-book-author">By Nelson Mandela</p>
-        
+
         <p class="fr-book-desc">Provides regional political context for the era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ As a result, the "accident question" persists less because competing evidence ex
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of South Africa">A history of South Africa</a>
         </h4>
         <p class="fr-book-author">By Leonard Monteath Thompson</p>
-        
+
         <p class="fr-book-desc">Explains the political environment surrounding Lesotho&#x27;s monarchy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ As a result, the "accident question" persists less because competing evidence ex
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ As a result, the "accident question" persists less because competing evidence ex
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">Provides deeper background on the colonial legacy influencing Lesotho.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

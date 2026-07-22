@@ -351,7 +351,7 @@ For Burkina Faso, the Zongo case has therefore become a symbol of the wider stru
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places the Zongo case in broader post-colonial politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ For Burkina Faso, the Zongo case has therefore become a symbol of the wider stru
           <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)">Thomas Sankara: An African Revolutionary (Ohio Short Historie...</a>
         </h4>
         <p class="fr-book-author">By Ernest Harsch</p>
-        
+
         <p class="fr-book-desc">Explains the political system that shaped the Zongo era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For Burkina Faso, the Zongo case has therefore become a symbol of the wider stru
           <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
         </h4>
         <p class="fr-book-author">By Paul Nugent</p>
-        
+
         <p class="fr-book-desc">Covers governance and political crises across Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,16 +396,16 @@ For Burkina Faso, the Zongo case has therefore become a symbol of the wider stru
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8110604-M.jpg" alt="Cover for Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420380-M.jpg" alt="Cover for Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
+          <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
         </h4>
-        <p class="fr-book-author">By Richard Dowden</p>
-        
-        <p class="fr-book-desc">First published 2008. Subjects: Social life and customs, Manners and customs, Civilization, History, Africa, social life and customs.</p>
+        <p class="fr-book-author">By John Reader</p>
+
+        <p class="fr-book-desc">First published 1997. Subjects: Geography, History, Pictorial works, Histoire, Bildband.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -368,7 +368,7 @@ Modern historians therefore distinguish between what is well established and wha
 <a href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the Irish saved civilization">How the Irish saved civilization</a>
 </h4>
 <p class="fr-book-author">By Thomas Cahill</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Learning and scholarship, Classical Civilization, Monastic libraries, Scriptoria, Civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Modern historians therefore distinguish between what is well established and wha
 <a href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Ireland in 250 Episodes">A History of Ireland in 250 Episodes</a>
 </h4>
 <p class="fr-book-author">By Jonathan Bardon</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Ireland, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Modern historians therefore distinguish between what is well established and wha
 <a href="https://www.amazon.com/s?k=The+graves+are+walking+John+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The graves are walking">The graves are walking</a>
 </h4>
 <p class="fr-book-author">By John Kelly</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Emigration and immigration, History, Migrations, Famines, Irish.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+graves+are+walking+John+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Modern historians therefore distinguish between what is well established and wha
 <a href="https://www.amazon.com/s?k=The+Theft+of+the+Irish+Crown+Jewels+Myles+Dungan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Theft of the Irish Crown Jewels">The Theft of the Irish Crown Jewels</a>
 </h4>
 <p class="fr-book-author">By Myles Dungan</p>
-        
+
 <p class="fr-book-desc">Focuses directly on the disappearance and investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Theft+of+the+Irish+Crown+Jewels+Myles+Dungan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

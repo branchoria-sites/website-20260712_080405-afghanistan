@@ -384,7 +384,7 @@ For Jordan, where the original scroll is preserved today, it remains one of the 
           <a href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The meaning of the Dead Sea scrolls">The meaning of the Dead Sea scrolls</a>
         </h4>
         <p class="fr-book-author">By James C. VanderKam, Peter Flint</p>
-        
+
         <p class="fr-book-desc">Explains the history, interpretation and significance of the scrolls.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For Jordan, where the original scroll is preserved today, it remains one of the 
           <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dead Sea Scrolls in English">The Complete Dead Sea Scrolls in English</a>
         </h4>
         <p class="fr-book-author">By Géza Vermès</p>
-        
+
         <p class="fr-book-desc">Includes the Copper Scroll tradition within the wider Qumran corpus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For Jordan, where the original scroll is preserved today, it remains one of the 
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Jordan">The Archaeology of Jordan</a>
         </h4>
         <p class="fr-book-author">By Burton MacDonald, Russell B. Adams et al.</p>
-        
+
         <p class="fr-book-desc">Places the Copper Scroll within Jordan&#x27;s archaeological landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ For Jordan, where the original scroll is preserved today, it remains one of the 
           <a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Bible+Martin+Abegg+Jr.%2C+Peter+Flint+and+Eugene+Ulrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Sea Scrolls Bible">The Dead Sea Scrolls Bible</a>
         </h4>
         <p class="fr-book-author">By Martin Abegg Jr., Peter Flint and Eugene Ulrich</p>
-        
+
         <p class="fr-book-desc">Provides context for the Qumran manuscripts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Bible+Martin+Abegg+Jr.%2C+Peter+Flint+and+Eugene+Ulrich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -373,7 +373,7 @@ For that reason, the unanswered question of where Lorca lies continues to stand 
           <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish Civil War">The Spanish Civil War</a>
         </h4>
         <p class="fr-book-author">By Antony Beevor</p>
-        
+
         <p class="fr-book-desc">Explains the circumstances that created thousands of unmarked graves.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ For that reason, the unanswered question of where Lorca lies continues to stand 
           <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Spain">Ghosts of Spain</a>
         </h4>
         <p class="fr-book-author">By Giles Tremlett</p>
-        
+
         <p class="fr-book-desc">Explores Civil War memory, mass graves and unresolved historical wounds.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ For that reason, the unanswered question of where Lorca lies continues to stand 
           <a href="https://www.amazon.com/s?k=Poet+in+New+York+Federico+Garc%C3%ADa+Lorca&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poet in New York">Poet in New York</a>
         </h4>
         <p class="fr-book-author">By Federico García Lorca, Greg Simon et al.</p>
-        
+
         <p class="fr-book-desc">Introduces readers to Lorca&#x27;s work while exploring interest in his life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Poet+in+New+York+Federico+Garc%C3%ADa+Lorca&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ For that reason, the unanswered question of where Lorca lies continues to stand 
           <a href="https://www.amazon.com/s?k=Lorca%3B+A+Dream+of+Life+Leslie+Stainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lorca; A Dream of Life">Lorca; A Dream of Life</a>
         </h4>
         <p class="fr-book-author">By Leslie Stainton</p>
-        
+
         <p class="fr-book-desc">Examines Lorca&#x27;s life, death and the enduring mystery of his burial.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lorca%3B+A+Dream+of+Life+Leslie+Stainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

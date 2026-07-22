@@ -356,7 +356,7 @@ After decades of investigations by judges, commissions and technical experts, th
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
         </h4>
         <p class="fr-book-author">By Philip Gourevitch</p>
-        
+
         <p class="fr-book-desc">Explains the events surrounding the plane attack and its aftermath.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ After decades of investigations by judges, commissions and technical experts, th
           <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shake hands with the devil">Shake hands with the devil</a>
         </h4>
         <p class="fr-book-author">By Roméo Dallaire</p>
-        
+
         <p class="fr-book-desc">Describes the immediate consequences of the assassination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ After decades of investigations by judges, commissions and technical experts, th
           <a href="https://www.amazon.com/s?k=The+graves+are+not+yet+full+Bill+Berkeley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The graves are not yet full">The graves are not yet full</a>
         </h4>
         <p class="fr-book-author">By Bill Berkeley</p>
-        
+
         <p class="fr-book-desc">Offers wider political background for understanding the dispute.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+graves+are+not+yet+full+Bill+Berkeley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ After decades of investigations by judges, commissions and technical experts, th
           <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Leave none to tell the story&quot;">&quot;Leave none to tell the story&quot;</a>
         </h4>
         <p class="fr-book-author">By Alison Liebhafsky Des Forges</p>
-        
+
         <p class="fr-book-desc">Provides detailed evidence surrounding the political context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

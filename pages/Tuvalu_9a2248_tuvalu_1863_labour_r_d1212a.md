@@ -372,7 +372,7 @@ Modern historical research has narrowed the numerical uncertainty and clarified 
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Introduces Tuvalu and neighboring islands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Modern historical research has narrowed the numerical uncertainty and clarified 
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We, the navigators">We, the navigators</a>
         </h4>
         <p class="fr-book-author">By David Lewis, Derek Oulton</p>
-        
+
         <p class="fr-book-desc">Provides historical background on Pacific societies before colonial disruption.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Modern historical research has narrowed the numerical uncertainty and clarified 
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
         </h4>
         <p class="fr-book-author">By Christina Thompson</p>
-        
+
         <p class="fr-book-desc">Places Tuvalu within wider Polynesian history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Modern historical research has narrowed the numerical uncertainty and clarified 
           <a href="https://www.amazon.com/s?k=Kanaka%3A+The+Untold+Story+of+Australian+South+Sea+Islanders+Clive+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kanaka: The Untold Story of Australian South Sea Islanders">Kanaka: The Untold Story of Australian South Sea Islanders</a>
         </h4>
         <p class="fr-book-author">By Clive Moore</p>
-        
+
         <p class="fr-book-desc">Explains the wider blackbirding system affecting Pacific islanders.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kanaka%3A+The+Untold+Story+of+Australian+South+Sea+Islanders+Clive+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

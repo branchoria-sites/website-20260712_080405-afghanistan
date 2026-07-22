@@ -369,7 +369,7 @@ In that sense, the greatest mystery is no longer the location of Levasseur's for
           <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The republic of pirates">The republic of pirates</a>
         </h4>
         <p class="fr-book-author">By Colin Woodard</p>
-        
+
         <p class="fr-book-desc">Explains the world that produced pirate legends like La Buse.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ In that sense, the greatest mystery is no longer the location of Levasseur's for
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the black flag">Under the black flag</a>
         </h4>
         <p class="fr-book-author">By David Cordingly</p>
-        
+
         <p class="fr-book-desc">Separates pirate history from later mythmaking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ In that sense, the greatest mystery is no longer the location of Levasseur's for
           <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pirate Hunters">Pirate Hunters</a>
         </h4>
         <p class="fr-book-author">By Robert Kurson</p>
-        
+
         <p class="fr-book-desc">Appeals to readers fascinated by lost pirate treasure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ In that sense, the greatest mystery is no longer the location of Levasseur's for
           <a href="https://www.amazon.com/s?k=The+pirate+hunter+Richard+Zacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pirate hunter">The pirate hunter</a>
         </h4>
         <p class="fr-book-author">By Richard Zacks</p>
-        
+
         <p class="fr-book-desc">Provides historical perspective on piracy rather than treasure folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+pirate+hunter+Richard+Zacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

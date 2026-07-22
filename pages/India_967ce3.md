@@ -1381,7 +1381,7 @@ These are not failures of history. They show how historical knowledge actually d
           <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The wonder that was India">The wonder that was India</a>
         </h4>
         <p class="fr-book-author">By Basham, A. L.</p>
-        
+
         <p class="fr-book-desc">Covers ancient Indian civilisation and enduring historical questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1398,7 +1398,7 @@ These are not failures of history. They show how historical knowledge actually d
           <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Indians">Early Indians</a>
         </h4>
         <p class="fr-book-author">By Tony Joseph</p>
-        
+
         <p class="fr-book-desc">Useful background for several archaeological mysteries including the Indus civilisation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1415,7 +1415,7 @@ These are not failures of history. They show how historical knowledge actually d
           <a href="https://www.amazon.com/s?k=The+Great+Partition+Yasmin+Khan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Partition">The Great Partition</a>
         </h4>
         <p class="fr-book-author">By Yasmin Khan</p>
-        
+
         <p class="fr-book-desc">Provides context for twentieth-century political mysteries including Bose.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Partition+Yasmin+Khan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1432,7 +1432,7 @@ These are not failures of history. They show how historical knowledge actually d
           <a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="India">India</a>
         </h4>
         <p class="fr-book-author">By John Keay</p>
-        
+
         <p class="fr-book-desc">First published 2000. Subjects: India, History, India, history, Ds451 .k365 2000b, 954.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

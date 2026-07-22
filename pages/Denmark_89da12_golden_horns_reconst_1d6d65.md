@@ -357,16 +357,16 @@ The horns have therefore become more than famous lost treasures. They are also a
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford illustrated history of the Vikings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/129290-M.jpg" alt="Cover for The Oxford illustrated history of the Vikings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Children of Ash and Elm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10401359-M.jpg" alt="Cover for Children of Ash and Elm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of the Vikings">The Oxford illustrated history of the Vikings</a>
+          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
         </h4>
-        <p class="fr-book-author">By Peter Sawyer</p>
-        
-        <p class="fr-book-desc">Broad historical background for the Golden Horns.</p>
+        <p class="fr-book-author">By Neil Price</p>
+
+        <p class="fr-book-desc">Provides cultural context for early Scandinavian artefacts.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -374,16 +374,16 @@ The horns have therefore become more than famous lost treasures. They are also a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Children of Ash and Elm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10401359-M.jpg" alt="Cover for Children of Ash and Elm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford illustrated history of the Vikings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/129290-M.jpg" alt="Cover for The Oxford illustrated history of the Vikings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
+          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of the Vikings">The Oxford illustrated history of the Vikings</a>
         </h4>
-        <p class="fr-book-author">By Neil Price</p>
-        
-        <p class="fr-book-desc">Provides cultural context for early Scandinavian artefacts.</p>
+        <p class="fr-book-author">By Peter Sawyer</p>
+
+        <p class="fr-book-desc">Broad historical background for the Golden Horns.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -397,7 +397,7 @@ The horns have therefore become more than famous lost treasures. They are also a
           <a href="https://www.amazon.com/s?k=Runes+Barnes%2C+Michael+P.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Runes">Runes</a>
         </h4>
         <p class="fr-book-author">By Barnes, Michael P.</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Runes, Handbooks, manuals, Inscriptions, runic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Runes+Barnes%2C+Michael+P.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The horns have therefore become more than famous lost treasures. They are also a
           <a href="https://www.amazon.com/s?k=Reading+The+Past+Ancient+Writing+From+Cuneiform+To+The+Alphabet+J.+T.+Hooker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading The Past Ancient Writing From Cuneiform To The Alphabet">Reading The Past Ancient Writing From Cuneiform To The Alphabet</a>
         </h4>
         <p class="fr-book-author">By J. T. Hooker</p>
-        
+
         <p class="fr-book-desc">First published 1990.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+The+Past+Ancient+Writing+From+Cuneiform+To+The+Alphabet+J.+T.+Hooker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The horns have therefore become more than famous lost treasures. They are also a
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of the Vikings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Children of Ash and Elm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Runes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Runes</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Children of Ash and Elm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of the Vikings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Runes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Runes</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

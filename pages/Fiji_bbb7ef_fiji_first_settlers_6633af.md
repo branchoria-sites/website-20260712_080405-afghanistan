@@ -337,7 +337,7 @@ Fiji occupies a crucial position in the story of Pacific exploration. It marks t
           <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Road of the Winds">On the Road of the Winds</a>
         </h4>
         <p class="fr-book-author">By Patrick Vinton Kirch</p>
-        
+
         <p class="fr-book-desc">Explains Lapita expansion and Fiji&#x27;s first settlers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ Fiji occupies a crucial position in the story of Pacific exploration. It marks t
           <a href="https://www.amazon.com/s?k=The+Lapita+Peoples+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lapita Peoples">The Lapita Peoples</a>
         </h4>
         <p class="fr-book-author">By Patrick Vinton Kirch</p>
-        
+
         <p class="fr-book-desc">Focuses directly on the culture associated with Fiji&#x27;s earliest settlers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lapita+Peoples+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Fiji occupies a crucial position in the story of Pacific exploration. It marks t
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">First published 1992. Subjects: Travel, Description and travel, Local History, Sea kayaking, Oceania, description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Fiji occupies a crucial position in the story of Pacific exploration. It marks t
           <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Fiji">A history of Fiji</a>
         </h4>
         <p class="fr-book-author">By R. A. Derrick</p>
-        
+
         <p class="fr-book-desc">Introduces Fiji&#x27;s prehistoric and historic development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

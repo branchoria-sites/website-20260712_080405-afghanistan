@@ -412,7 +412,7 @@ The 2022 convictions resolved the central question of domestic responsibility, b
           <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)">Thomas Sankara: An African Revolutionary (Ohio Short Historie...</a>
         </h4>
         <p class="fr-book-author">By Ernest Harsch</p>
-        
+
         <p class="fr-book-desc">Directly addresses Sankara&#x27;s rise, overthrow and assassination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ The 2022 convictions resolved the central question of domestic responsibility, b
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Explains regional politics surrounding the assassination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ The 2022 convictions resolved the central question of domestic responsibility, b
           <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
         </h4>
         <p class="fr-book-author">By Paul Nugent</p>
-        
+
         <p class="fr-book-desc">Places the coup within wider African political developments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

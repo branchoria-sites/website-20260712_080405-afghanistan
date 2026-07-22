@@ -1307,7 +1307,7 @@ Taken together, they show how a very small country can possess unusually layered
           <a href="https://www.amazon.com/s?k=The+Plantagenets+Dan+Jones+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Plantagenets">The Plantagenets</a>
         </h4>
         <p class="fr-book-author">By Dan Jones - undifferentiated</p>
-        
+
         <p class="fr-book-desc">Provides wider political background to late medieval Mediterranean power struggles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Plantagenets+Dan+Jones+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1324,7 +1324,7 @@ Taken together, they show how a very small country can possess unusually layered
           <a href="https://www.amazon.com/s?k=Grace+of+Monaco+Jeffrey+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grace of Monaco">Grace of Monaco</a>
         </h4>
         <p class="fr-book-author">By Jeffrey Robinson</p>
-        
+
         <p class="fr-book-desc">Provides context for Monaco&#x27;s modern myths and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Grace+of+Monaco+Jeffrey+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1341,7 +1341,7 @@ Taken together, they show how a very small country can possess unusually layered
           <a href="https://www.amazon.com/s?k=Grimaldis+of+Monaco+Anne+Edwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grimaldis of Monaco">Grimaldis of Monaco</a>
         </h4>
         <p class="fr-book-author">By Anne Edwards</p>
-        
+
         <p class="fr-book-desc">Covers Monaco&#x27;s ruling family and many historical episodes discussed on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Grimaldis+of+Monaco+Anne+Edwards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

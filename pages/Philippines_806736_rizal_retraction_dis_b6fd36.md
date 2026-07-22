@@ -384,7 +384,7 @@ The enduring mystery therefore lies less in whether a document existed than in h
           <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noli Me Tangere">Noli Me Tangere</a>
         </h4>
         <p class="fr-book-author">By José Rizal</p>
-        
+
         <p class="fr-book-desc">Essential primary work by Rizal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The enduring mystery therefore lies less in whether a document existed than in h
           <a href="https://www.amazon.com/s?k=Rizal+without+the+overcoat+Ambeth+R.+Ocampo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rizal without the overcoat">Rizal without the overcoat</a>
         </h4>
         <p class="fr-book-author">By Ambeth R. Ocampo</p>
-        
+
         <p class="fr-book-desc">Discusses Rizal as a historical figure beyond myth, including enduring debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rizal+without+the+overcoat+Ambeth+R.+Ocampo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The enduring mystery therefore lies less in whether a document existed than in h
           <a href="https://www.amazon.com/s?k=El+filibusterismo+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="El filibusterismo">El filibusterismo</a>
         </h4>
         <p class="fr-book-author">By José Rizal</p>
-        
+
         <p class="fr-book-desc">Provides insight into Rizal&#x27;s political and intellectual outlook.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=El+filibusterismo+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ The enduring mystery therefore lies less in whether a document existed than in h
           <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Philippines">A History of the Philippines</a>
         </h4>
         <p class="fr-book-author">By Luis H. Francia</p>
-        
+
         <p class="fr-book-desc">Places the retraction controversy into national historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

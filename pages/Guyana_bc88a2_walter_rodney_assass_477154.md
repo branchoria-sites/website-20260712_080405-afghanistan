@@ -354,30 +354,13 @@ For Guyana, the case has become more than the story of one political killing. It
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Guyanese working people, 1881-1905 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5296911-M.jpg" alt="Cover for A history of the Guyanese working people, 1881-1905" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Guyanese working people, 1881-1905">A history of the Guyanese working people, 1881-1905</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Demonstrates the nationally focused historical research Rodney pursued while becoming a major opponent of the Burnham government.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+groundings+with+my+brothers+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The groundings with my brothers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/722407-M.jpg" alt="Cover for The groundings with my brothers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+groundings+with+my+brothers+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The groundings with my brothers">The groundings with my brothers</a>
         </h4>
         <p class="fr-book-author">By Walter Rodney</p>
-        
+
         <p class="fr-book-desc">Shows Rodney&#x27;s organising philosophy and engagement with popular political education, central to understanding his influence and perceive...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+groundings+with+my+brothers+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +377,7 @@ For Guyana, the case has become more than the story of one political killing. It
           <a href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought+Rupert+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Walter Rodney&#x27;s intellectual and political thought">Walter Rodney&#x27;s intellectual and political thought</a>
         </h4>
         <p class="fr-book-author">By Rupert Lewis</p>
-        
+
         <p class="fr-book-desc">Examines the relationship between Rodney&#x27;s historical scholarship, revolutionary commitments and political activity in Guyana.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought+Rupert+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +394,7 @@ For Guyana, the case has become more than the story of one political killing. It
           <a href="https://www.amazon.com/s?k=Walter+Rodney+speaks+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Walter Rodney speaks">Walter Rodney speaks</a>
         </h4>
         <p class="fr-book-author">By Walter Rodney</p>
-        
+
         <p class="fr-book-desc">Provides Rodney&#x27;s own perspective on his political formation and intellectual work, helping readers understand the person targeted in 1980.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Walter+Rodney+speaks+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,9 +403,26 @@ For Guyana, the case has become more than the story of one political killing. It
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Guyanese working people, 1881-1905 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5296911-M.jpg" alt="Cover for A history of the Guyanese working people, 1881-1905" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Guyanese working people, 1881-1905">A history of the Guyanese working people, 1881-1905</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Demonstrates the nationally focused historical research Rodney pursued while becoming a major opponent of the Burnham government.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881+1905&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of the Guyanese working people, 1881 1905</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+groundings+with+my+brothers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The groundings with my brothers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Walter Rodney&#x27;s intellectual and political thought</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+groundings+with+my+brothers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The groundings with my brothers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Walter Rodney&#x27;s intellectual and political thought</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Walter+Rodney+speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Walter Rodney speaks</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

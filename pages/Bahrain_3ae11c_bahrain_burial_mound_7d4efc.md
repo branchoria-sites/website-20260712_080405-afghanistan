@@ -354,7 +354,7 @@ The best-supported answer combines economics, demography and social change. Bahr
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Supplies wider Bronze Age context for Gulf civilizations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ The best-supported answer combines economics, demography and social change. Bahr
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
         </h4>
         <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
         <p class="fr-book-desc">Explains excavation and interpretation of ancient cemeteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The best-supported answer combines economics, demography and social change. Bahr
           <a href="https://www.amazon.com/s?k=The+Sumerians%3A+their+history%2C+culture%2C+and+character+Samuel+Noah+Kramer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sumerians: their history, culture, and character">The Sumerians: their history, culture, and character</a>
         </h4>
         <p class="fr-book-author">By Samuel Noah Kramer</p>
-        
+
         <p class="fr-book-desc">Helps explain cultural connections with Dilmun.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sumerians%3A+their+history%2C+culture%2C+and+character+Samuel+Noah+Kramer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The best-supported answer combines economics, demography and social change. Bahr
           <a href="https://www.amazon.com/s?k=The+Arabian+Gulf+in+antiquity+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Gulf in antiquity">The Arabian Gulf in antiquity</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Potts</p>
-        
+
         <p class="fr-book-desc">First published 1990. Subjects: Antiquities, History, Persian gulf region, history, Persian gulf region, antiquities, Archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arabian+Gulf+in+antiquity+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

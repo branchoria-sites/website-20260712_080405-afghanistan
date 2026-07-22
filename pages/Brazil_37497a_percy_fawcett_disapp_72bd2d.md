@@ -336,7 +336,7 @@ At the same time, the case illustrates how historical mysteries can evolve. Earl
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z">The Lost City of Z</a>
         </h4>
         <p class="fr-book-author">By David Grann, James Gray</p>
-        
+
         <p class="fr-book-desc">Directly covers the disappearance and its legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ At the same time, the case illustrates how historical mysteries can evolve. Earl
           <a href="https://www.amazon.com/s?k=Exploration+Fawcett+Percy+Harrison+Fawcett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Exploration Fawcett">Exploration Fawcett</a>
         </h4>
         <p class="fr-book-author">By Percy Harrison Fawcett</p>
-        
+
         <p class="fr-book-desc">Essential firsthand account of his expeditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Exploration+Fawcett+Percy+Harrison+Fawcett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ At the same time, the case illustrates how historical mysteries can evolve. Earl
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
         </h4>
         <p class="fr-book-author">By Charles C. Mann</p>
-        
+
         <p class="fr-book-desc">Explains why Fawcett&#x27;s ideas about Amazonian civilizations gained new relevance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ At the same time, the case illustrates how historical mysteries can evolve. Earl
           <a href="https://www.amazon.com/s?k=The+River+of+Doubt+Candice+Millard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Doubt">The River of Doubt</a>
         </h4>
         <p class="fr-book-author">By Candice Millard</p>
-        
+
         <p class="fr-book-desc">Provides complementary context on exploration in Brazil.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+River+of+Doubt+Candice+Millard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -368,7 +368,7 @@ What remains uncertain is the missing chain of command. No surviving primary evi
 <a href="https://www.amazon.com/s?k=Jinnah+of+Pakistan+Stanley+A.+Wolpert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jinnah of Pakistan">Jinnah of Pakistan</a>
 </h4>
 <p class="fr-book-author">By Stanley A. Wolpert</p>
-        
+
 <p class="fr-book-desc">First published 1984. Subjects: Biography, Statesmen, History, Jinnah, mohamed ali, 1876-1948, Statesmen, biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Jinnah+of+Pakistan+Stanley+A.+Wolpert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ What remains uncertain is the missing chain of command. No surviving primary evi
 <a href="https://www.amazon.com/s?k=Shahab+nama+Qudrat+Ullah+Shahab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shahab nama">Shahab nama</a>
 </h4>
 <p class="fr-book-author">By Qudrat Ullah Shahab</p>
-        
+
 <p class="fr-book-desc">First published 1987.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Shahab+nama+Qudrat+Ullah+Shahab&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ What remains uncertain is the missing chain of command. No surviving primary evi
 <a href="https://www.amazon.com/s?k=The+murder+of+history+Khursheed+Kamal+Aziz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The murder of history">The murder of history</a>
 </h4>
 <p class="fr-book-author">By Khursheed Kamal Aziz</p>
-        
+
 <p class="fr-book-desc">First published 1993. Subjects: History, Historiography, Textbooks, Errors, inventions, Study and teaching.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+murder+of+history+Khursheed+Kamal+Aziz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ What remains uncertain is the missing chain of command. No surviving primary evi
 <a href="https://www.amazon.com/s?k=Pakistan+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pakistan">Pakistan</a>
 </h4>
 <p class="fr-book-author">By Anatol Lieven</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Politics and government, Social conditions, History, Political culture, Pakistan, politics and government.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Pakistan+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

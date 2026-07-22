@@ -377,7 +377,7 @@ For Guyana, the mystery endures not because a golden city remains hidden, but be
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z">The Lost City of Z</a>
         </h4>
         <p class="fr-book-author">By David Grann, James Gray</p>
-        
+
         <p class="fr-book-desc">Shows how fragmentary Indigenous information, European expectations and repeated expeditions created enduring belief in a lost South Amer...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For Guyana, the mystery endures not because a golden city remains hidden, but be
           <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The map that changed the world">The map that changed the world</a>
         </h4>
         <p class="fr-book-author">By Simon Winchester</p>
-        
+
         <p class="fr-book-desc">Explains the cultural authority of maps and how mapped claims can reshape accepted knowledge, directly supporting the page&#x27;s cartographic...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For Guyana, the mystery endures not because a golden city remains hidden, but be
           <a href="https://www.amazon.com/s?k=The+Phantom+Atlas+Edward+Brooke-Hitching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phantom Atlas">The Phantom Atlas</a>
         </h4>
         <p class="fr-book-author">By Edward Brooke-Hitching</p>
-        
+
         <p class="fr-book-desc">Places Lake Parime and El Dorado within the broader history of invented islands, misplaced lands and errors perpetuated by mapmakers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Phantom+Atlas+Edward+Brooke-Hitching&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For Guyana, the mystery endures not because a golden city remains hidden, but be
           <a href="https://www.amazon.com/s?k=The+island+of+lost+maps+Miles+Harvey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The island of lost maps">The island of lost maps</a>
         </h4>
         <p class="fr-book-author">By Miles Harvey</p>
-        
+
         <p class="fr-book-desc">Broadens the page&#x27;s central idea that maps are powerful cultural objects capable of making uncertain or false geography seem authoritative.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+island+of+lost+maps+Miles+Harvey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

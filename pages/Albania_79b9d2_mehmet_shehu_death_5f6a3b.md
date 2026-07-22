@@ -353,16 +353,16 @@ The enduring mystery therefore lies not only in whether he died by his own hand 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mud Sweeter Than Honey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14855800-M.jpg" alt="Cover for Mud Sweeter Than Honey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mud Sweeter Than Honey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14855800-M.jpg" alt="Cover for Mud Sweeter Than Honey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mud Sweeter Than Honey">Mud Sweeter Than Honey</a>
+          <a href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mud Sweeter Than Honey">Mud Sweeter Than Honey</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Describes the fear, secrecy and retrospective uncertainty of Hoxha&#x27;s Albania, explaining why witnesses and records surrounding elite deat...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -370,16 +370,16 @@ The enduring mystery therefore lies not only in whether he died by his own hand 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Albanians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Albanians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13774907-M.jpg" alt="Cover for The Albanians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Albanians+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Albanians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13774907-M.jpg" alt="Cover for The Albanians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Albanians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Albanians">The Albanians</a>
+          <a href="https://www.amazon.com/s?k=The+Albanians+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Albanians">The Albanians</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Covers the Hoxha era, factional struggles and Mehmet Shehu&#x27;s removal within the broader history of Albania&#x27;s communist state.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Albanians&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Albanians+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -393,7 +393,7 @@ The enduring mystery therefore lies not only in whether he died by his own hand 
           <a href="https://www.amazon.com/s?k=Enver+Hoxha%3A+The+Iron+Fist+of+Albania+Blendi+Fevziu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Enver Hoxha: The Iron Fist of Albania">Enver Hoxha: The Iron Fist of Albania</a>
         </h4>
         <p class="fr-book-author">By Blendi Fevziu</p>
-        
+
         <p class="fr-book-desc">Examines the political conflict, official suicide narrative and purge that followed Shehu&#x27;s death using archival evidence and interviews.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Enver+Hoxha%3A+The+Iron+Fist+of+Albania+Blendi+Fevziu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,16 +404,16 @@ The enduring mystery therefore lies not only in whether he died by his own hand 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Free%3A+A+Child+and+a+Country+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Free: A Child and a Country at the End of History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Artful+Albanian%3A+Memoirs+of+Enver+Hoxha+Enver+Hoxha%3B+edited+by+Jon+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Artful Albanian: Memoirs of Enver Hoxha on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Free%3A+A+Child+and+a+Country+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Free: A Child and a Country at the End of History">Free: A Child and a Country at the End of History</a>
+          <a href="https://www.amazon.com/s?k=The+Artful+Albanian%3A+Memoirs+of+Enver+Hoxha+Enver+Hoxha%3B+edited+by+Jon+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Artful Albanian: Memoirs of Enver Hoxha">The Artful Albanian: Memoirs of Enver Hoxha</a>
         </h4>
-        <p class="fr-book-author">By Lea Ypi</p>
-        
-        <p class="fr-book-desc">Shows how official truths, family histories and political identities were manufactured under the same dictatorship that controlled the in...</p>
+        <p class="fr-book-author">By Enver Hoxha; edited by Jon Halliday</p>
+
+        <p class="fr-book-desc">Contains Hoxha&#x27;s detailed and self-serving version of Mehmet Shehu&#x27;s &#x27;strange end,&#x27; making it central to understanding the regime&#x27;s narra...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Free%3A+A+Child+and+a+Country+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Artful+Albanian%3A+Memoirs+of+Enver+Hoxha+Enver+Hoxha%3B+edited+by+Jon+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

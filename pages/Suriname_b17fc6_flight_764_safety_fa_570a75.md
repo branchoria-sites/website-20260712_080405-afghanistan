@@ -352,7 +352,7 @@ For Suriname, Flight 764 remains both the country's worst aviation disaster and 
           <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
         </h4>
         <p class="fr-book-author">By Ernest K Gann</p>
-        
+
         <p class="fr-book-desc">Provides enduring insight into operational aviation risk.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For Suriname, Flight 764 remains both the country's worst aviation disaster and 
           <a href="https://www.amazon.com/s?k=The+killing+zone+Paul+A+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The killing zone">The killing zone</a>
         </h4>
         <p class="fr-book-author">By Paul A Craig</p>
-        
+
         <p class="fr-book-desc">Explains human factors and accident chains similar to Flight 764.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+killing+zone+Paul+A+Craig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For Suriname, Flight 764 remains both the country's worst aviation disaster and 
           <a href="https://www.amazon.com/s?k=Black+Box+Thinking+Matthew+Syed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Box Thinking">Black Box Thinking</a>
         </h4>
         <p class="fr-book-author">By Matthew Syed, Matthew Syed Consulting Ltd</p>
-        
+
         <p class="fr-book-desc">Explains systemic failures and safety culture relevant to the crash.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Black+Box+Thinking+Matthew+Syed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1339,7 +1339,7 @@ Together, these cases reveal a recurring feature of Suriname’s past. Uncertain
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Useful comparative reading on colonial violence and historical accountability.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1356,7 +1356,7 @@ Together, these cases reveal a recurring feature of Suriname’s past. Uncertain
           <a href="https://www.amazon.com/s?k=The+blood+never+dried+John+Newsinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The blood never dried">The blood never dried</a>
         </h4>
         <p class="fr-book-author">By John Newsinger, John Newsinger et al.</p>
-        
+
         <p class="fr-book-desc">Explains the colonial legacy shaping the Guianas and Suriname.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+blood+never+dried+John+Newsinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1373,7 +1373,7 @@ Together, these cases reveal a recurring feature of Suriname’s past. Uncertain
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Provides wider regional political and historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1390,7 +1390,7 @@ Together, these cases reveal a recurring feature of Suriname’s past. Uncertain
           <a href="https://www.amazon.com/s?k=Suriname+Odeen+Ishmael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suriname">Suriname</a>
         </h4>
         <p class="fr-book-author">By Odeen Ishmael</p>
-        
+
         <p class="fr-book-desc">Provides broad historical context for the country&#x27;s unresolved events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Suriname+Odeen+Ishmael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

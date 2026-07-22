@@ -365,7 +365,7 @@ For the [Czech Republic]({{ 'czech-republic/' | relative_url }}), the Voynich Ma
           <a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voynich manuscript">The Voynich manuscript</a>
         </h4>
         <p class="fr-book-author">By Gerry Kennedy, Rob Churchill</p>
-        
+
         <p class="fr-book-desc">Directly examines the manuscript&#x27;s history and theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For the [Czech Republic]({{ 'czech-republic/' | relative_url }}), the Voynich Ma
           <a href="https://www.amazon.com/s?k=The+Book+of+Symbols+Archive+for+Research+in+Archetypal+Symbolism.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Symbols">The Book of Symbols</a>
         </h4>
         <p class="fr-book-author">By Archive for Research in Archetypal Symbolism.</p>
-        
+
         <p class="fr-book-desc">Helps readers interpret symbolic imagery similar to that in the manuscript.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Symbols+Archive+for+Research+in+Archetypal+Symbolism.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For the [Czech Republic]({{ 'czech-republic/' | relative_url }}), the Voynich Ma
           <a href="https://www.amazon.com/s?k=The+Golden+Maze+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Maze">The Golden Maze</a>
         </h4>
         <p class="fr-book-author">By Richard Fidler</p>
-        
+
         <p class="fr-book-desc">Provides rich historical context for Rudolf II&#x27;s Prague.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Maze+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For the [Czech Republic]({{ 'czech-republic/' | relative_url }}), the Voynich Ma
           <a href="https://www.amazon.com/s?k=Prague+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague">Prague</a>
         </h4>
         <p class="fr-book-author">By Richard D. E. Burton</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Civilization, Description and travel, Prague (czech republic), description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Prague+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

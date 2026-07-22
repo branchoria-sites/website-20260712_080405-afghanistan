@@ -324,89 +324,89 @@ The deeper historical lesson is that Timbuktu's manuscript tradition survived no
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Were Timbuktu&#x27;s Manuscripts Really Destroyed?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Were Timbuktu&#x27;s Manuscripts Really Destroyed?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa+David+C.+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of medieval West Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1549723-M.jpg" alt="Cover for Empires of medieval West Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa+David+C.+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of medieval West Africa">Empires of medieval West Africa</a>
-</h4>
-<p class="fr-book-author">By David C. Conrad</p>
-        
-<p class="fr-book-desc">First published 2005. Subjects: Juvenile literature, History, Soninke (African people), Mandingo (African people), Ethnology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa+David+C.+Conrad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Rhinoceros on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8835652-M.jpg" alt="Cover for The Golden Rhinoceros" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Rhinoceros">The Golden Rhinoceros</a>
+        </h4>
+        <p class="fr-book-author">By François-Xavier Fauvelle</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Rhinoceros on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8835652-M.jpg" alt="Cover for The Golden Rhinoceros" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Rhinoceros">The Golden Rhinoceros</a>
-</h4>
-<p class="fr-book-author">By François-Xavier Fauvelle</p>
-        
-<p class="fr-book-desc">First published 2018. Subjects: Africa, history, History, Civilization, Discovery and exploration.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Highlights the manuscript traditions of medieval Africa.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sundiata on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/983994-M.jpg" alt="Cover for Sundiata" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sundiata">Sundiata</a>
-</h4>
-<p class="fr-book-author">By Djibril Tamsir Niane, DjiBril Tamsir Niane et al.</p>
-        
-<p class="fr-book-desc">First published 1960. Subjects: History, Kings and rulers, Legends, Mandingo (African people), Mandingo Folk literature.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa+David+C.+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of medieval West Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1549723-M.jpg" alt="Cover for Empires of medieval West Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa+David+C.+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of medieval West Africa">Empires of medieval West Africa</a>
+        </h4>
+        <p class="fr-book-author">By David C. Conrad</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Bad+Ass+Librarians+of+Timbuktu+Joshua+Hammer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bad-Ass Librarians of Timbuktu on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Bad+Ass+Librarians+of+Timbuktu+Joshua+Hammer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bad-Ass Librarians of Timbuktu">The Bad-Ass Librarians of Timbuktu</a>
-</h4>
-<p class="fr-book-author">By Joshua Hammer</p>
-        
-<p class="fr-book-desc">Direct account of the manuscript rescue during the 2012–13 conflict.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Bad+Ass+Librarians+of+Timbuktu+Joshua+Hammer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Timbuktu within the wider Mali and Songhay worlds.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa+David+C.+Conrad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of medieval West Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Rhinoceros&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Rhinoceros</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sundiata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sundiata</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sundiata on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/983994-M.jpg" alt="Cover for Sundiata" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sundiata">Sundiata</a>
+        </h4>
+        <p class="fr-book-author">By Djibril Tamsir Niane, DjiBril Tamsir Niane et al.</p>
+
+        <p class="fr-book-desc">First published 1960. Subjects: History, Kings and rulers, Legends, Mandingo (African people), Mandingo Folk literature.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Bad-Ass+Librarians+of+Timbuktu+Joshua+Hammer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bad-Ass Librarians of Timbuktu on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Bad-Ass+Librarians+of+Timbuktu+Joshua+Hammer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bad-Ass Librarians of Timbuktu">The Bad-Ass Librarians of Timbuktu</a>
+        </h4>
+        <p class="fr-book-author">By Joshua Hammer</p>
+
+        <p class="fr-book-desc">Direct account of the manuscript rescue during the 2012–13 conflict.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Bad-Ass+Librarians+of+Timbuktu+Joshua+Hammer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Rhinoceros&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Rhinoceros</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of medieval West Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sundiata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sundiata</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

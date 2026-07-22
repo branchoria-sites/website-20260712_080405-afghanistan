@@ -388,30 +388,13 @@ That combination of immense physical remains, fragmentary archives, enormous hum
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=God%27s+playground&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open God&#x27;s playground on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/133201-M.jpg" alt="Cover for God&#x27;s playground" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=God%27s+playground&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s playground">God&#x27;s playground</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Explains wartime Poland where Project Riese was constructed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=God%27s+playground&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rise and Fall of the Third Reich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6558536-M.jpg" alt="Cover for The Rise and Fall of the Third Reich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rise and Fall of the Third Reich">The Rise and Fall of the Third Reich</a>
         </h4>
         <p class="fr-book-author">By William L. Shirer</p>
-        
+
         <p class="fr-book-desc">Covers Nazi leadership and wartime decision-making behind projects like Riese.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +411,7 @@ That combination of immense physical remains, fragmentary archives, enormous hum
           <a href="https://www.amazon.com/s?k=KL%3A+a+history+of+the+Nazi+concentration+camps+Nikolaus+WACHSMANN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="KL: a history of the Nazi concentration camps">KL: a history of the Nazi concentration camps</a>
         </h4>
         <p class="fr-book-author">By Nikolaus WACHSMANN</p>
-        
+
         <p class="fr-book-desc">Explains the forced labour system used on projects like Riese.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=KL%3A+a+history+of+the+Nazi+concentration+camps+Nikolaus+WACHSMANN&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +428,7 @@ That combination of immense physical remains, fragmentary archives, enormous hum
           <a href="https://www.amazon.com/s?k=The+Third+Reich+at+war+Sir+Richard+J.+Evans+FBA+FRSL+FRHistS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Third Reich at war">The Third Reich at war</a>
         </h4>
         <p class="fr-book-author">By Sir Richard J. Evans FBA FRSL FRHistS</p>
-        
+
         <p class="fr-book-desc">Provides context for late-war German construction projects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Third+Reich+at+war+Sir+Richard+J.+Evans+FBA+FRSL+FRHistS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,9 +437,26 @@ That combination of immense physical remains, fragmentary archives, enormous hum
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=God%27s+playground+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open God&#x27;s playground on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/133201-M.jpg" alt="Cover for God&#x27;s playground" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=God%27s+playground+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s playground">God&#x27;s playground</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Explains wartime Poland where Project Riese was constructed.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=God%27s+playground+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=God%27s+playground&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">God&#x27;s playground</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Third Reich</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=KL%3A+a+history+of+the+Nazi+concentration+camps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">KL: a history of the Nazi concentration camps</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Third Reich</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=KL%3A+a+history+of+the+Nazi+concentration+camps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">KL: a history of the Nazi concentration camps</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Third+Reich+at+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Third Reich at war</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

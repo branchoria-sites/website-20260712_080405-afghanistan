@@ -376,7 +376,7 @@ For that reason, the Hinterkaifeck murders remain not simply an unsolved crime b
 <a href="https://www.amazon.com/s?k=In+Cold+Blood+Truman+Capote&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Cold Blood">In Cold Blood</a>
 </h4>
 <p class="fr-book-author">By Truman Capote</p>
-        
+
 <p class="fr-book-desc">First published 1965. Subjects: True, Crime, Murder, Mystery, Cas, Études de.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Cold+Blood+Truman+Capote&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For that reason, the Hinterkaifeck murders remain not simply an unsolved crime b
 <a href="https://www.amazon.com/s?k=Mindhunter+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindhunter">Mindhunter</a>
 </h4>
 <p class="fr-book-author">By John E. Douglas, Mark Olshaker</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Psychology, Serial murderers, Officials and employees, United States, Serial murder investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mindhunter+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For that reason, the Hinterkaifeck murders remain not simply an unsolved crime b
 <a href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five">The Five</a>
 </h4>
 <p class="fr-book-author">By Hallie Rubenhold, Louise Brealey</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: London (england), social conditions, London (england), history, Jack, the ripper, Victims of crimes, Work...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For that reason, the Hinterkaifeck murders remain not simply an unsolved crime b
 <a href="https://www.amazon.com/s?k=The+Man+from+the+Train+Bill+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man from the Train">The Man from the Train</a>
 </h4>
 <p class="fr-book-author">By Bill James, Rachel McCarthy James</p>
-        
+
 <p class="fr-book-desc">First published 2017.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Man+from+the+Train+Bill+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

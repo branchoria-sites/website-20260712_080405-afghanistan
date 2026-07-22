@@ -346,7 +346,7 @@ For descendants, these questions remain deeply personal because missing files ca
 <a href="https://www.amazon.com/s?k=Ordinary+Men+Christopher+R.+Browning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ordinary Men">Ordinary Men</a>
 </h4>
 <p class="fr-book-author">By Christopher R. Browning</p>
-        
+
 <p class="fr-book-desc">First published 1992. Subjects: Germany, Germany. Reserve-Polizei-Bataillon 101, Nationalsozialistische Deutsche Arbeiter-Partei, Nationa...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ordinary+Men+Christopher+R.+Browning&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ For descendants, these questions remain deeply personal because missing files ca
 <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Holocaust">The Holocaust</a>
 </h4>
 <p class="fr-book-author">By Laurence Rees, S. P. Bavin</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Jews, Interviews, History and criticism, Holocaust survivors, Sources.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For descendants, these questions remain deeply personal because missing files ca
 <a href="https://www.amazon.com/s?k=Vichy+France+Robert+O.+Paxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vichy France">Vichy France</a>
 </h4>
 <p class="fr-book-author">By Robert O. Paxton, R. O. Paxton</p>
-        
+
 <p class="fr-book-desc">First published 1972. Subjects: Politics and government, History, France, history, german occupation, 1940-1945, France, politics and gov...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vichy+France+Robert+O.+Paxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For descendants, these questions remain deeply personal because missing files ca
 <a href="https://www.amazon.com/s?k=Grimaldis+of+Monaco+Anne+Edwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grimaldis of Monaco">Grimaldis of Monaco</a>
 </h4>
 <p class="fr-book-author">By Anne Edwards</p>
-        
+
 <p class="fr-book-desc">First published 2017.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Grimaldis+of+Monaco+Anne+Edwards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

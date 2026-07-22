@@ -369,7 +369,7 @@ The enduring mystery is therefore not whether these forces existed—they are we
           <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fortunes of Africa">The fortunes of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places Adulis in the wider continental story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The enduring mystery is therefore not whether these forces existed—they are we
           <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical Dictionary of Eritrea">Historical Dictionary of Eritrea</a>
         </h4>
         <p class="fr-book-author">By Dan Connell</p>
-        
+
         <p class="fr-book-desc">Provides context for Adulis within Eritrean history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The enduring mystery is therefore not whether these forces existed—they are we
           <a href="https://www.amazon.com/s?k=Oxford+History+of+the+Ancient+near+East+Volume+V+Karen+Radner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford History of the Ancient near East Volume V">Oxford History of the Ancient near East Volume V</a>
         </h4>
         <p class="fr-book-author">By Karen Radner, Nadine Moeller et al.</p>
-        
+
         <p class="fr-book-desc">Provides wider late antique regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+History+of+the+Ancient+near+East+Volume+V+Karen+Radner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The enduring mystery is therefore not whether these forces existed—they are we
           <a href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aksum">Aksum</a>
         </h4>
         <p class="fr-book-author">By Stuart Munro-Hay</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: Africa, civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -381,7 +381,7 @@ The disappearance therefore represents more than a wartime art theft. It symboli
           <a href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rape of Europa">The Rape of Europa</a>
         </h4>
         <p class="fr-book-author">By Lynn H. Nicholas</p>
-        
+
         <p class="fr-book-desc">Strongest match for the disappearance of a major cultural treasure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The disappearance therefore represents more than a wartime art theft. It symboli
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
         </h4>
         <p class="fr-book-author">By Robert M. Edsel</p>
-        
+
         <p class="fr-book-desc">Explains recovery efforts for missing wartime cultural objects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ The disappearance therefore represents more than a wartime art theft. It symboli
           <a href="https://www.amazon.com/s?k=The+Hare+With+Amber+Eyes+A+Hidden+Inheritance+Edmund+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hare With Amber Eyes A Hidden Inheritance">The Hare With Amber Eyes A Hidden Inheritance</a>
         </h4>
         <p class="fr-book-author">By Edmund De Waal, Carles Miró Jordana et al.</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Jewish businesspeople, Jewish bankers, Art, Netsukes, Travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hare+With+Amber+Eyes+A+Hidden+Inheritance+Edmund+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ The disappearance therefore represents more than a wartime art theft. It symboli
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

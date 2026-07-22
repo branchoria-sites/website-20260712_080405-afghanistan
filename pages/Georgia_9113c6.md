@@ -1348,7 +1348,7 @@ These mysteries endure because each marks a vulnerable point in Georgia’s past
           <a href="https://www.amazon.com/s?k=Edge+of+Empires+Donald+Rayfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Edge of Empires">Edge of Empires</a>
         </h4>
         <p class="fr-book-author">By Donald Rayfield</p>
-        
+
         <p class="fr-book-desc">Provides essential historical context for all of the featured mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Edge+of+Empires+Donald+Rayfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ These mysteries endure because each marks a vulnerable point in Georgia’s past
           <a href="https://www.amazon.com/s?k=The+making+of+the+Georgian+nation+Ronald+Grigor+Suny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The making of the Georgian nation">The making of the Georgian nation</a>
         </h4>
         <p class="fr-book-author">By Ronald Grigor Suny</p>
-        
+
         <p class="fr-book-desc">Covers medieval through modern Georgia, including major historical figures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+making+of+the+Georgian+nation+Ronald+Grigor+Suny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1382,7 +1382,7 @@ These mysteries endure because each marks a vulnerable point in Georgia’s past
           <a href="https://www.amazon.com/s?k=Georgia+Peter+Nasmyth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Georgia">Georgia</a>
         </h4>
         <p class="fr-book-author">By Peter Nasmyth</p>
-        
+
         <p class="fr-book-desc">First published 1992. Subjects: Description and travel, History, Travel, Georgia (republic), description and travel, Georgia (republic),...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Georgia+Peter+Nasmyth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1399,7 +1399,7 @@ These mysteries endure because each marks a vulnerable point in Georgia’s past
           <a href="https://www.amazon.com/s?k=The+man+in+the+panther%27s+skin+Shota+Rustaveli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The man in the panther&#x27;s skin">The man in the panther&#x27;s skin</a>
         </h4>
         <p class="fr-book-author">By Shota Rustaveli</p>
-        
+
         <p class="fr-book-desc">Central primary literary source connected with Rustaveli and Queen Tamar&#x27;s era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+man+in+the+panther%27s+skin+Shota+Rustaveli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

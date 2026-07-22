@@ -352,7 +352,7 @@ Rather than searching for a single decisive battle or catastrophe, historians in
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Explains regional dynamics affecting Nubia and the Nile.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

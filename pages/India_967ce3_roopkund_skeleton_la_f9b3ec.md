@@ -380,7 +380,7 @@ As a result, Roopkund is no longer understood as the site of one mysterious cata
           <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The wonder that was India">The wonder that was India</a>
         </h4>
         <p class="fr-book-author">By Basham, A. L.</p>
-        
+
         <p class="fr-book-desc">Places Himalayan pilgrimage traditions in broader historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ As a result, Roopkund is no longer understood as the site of one mysterious cata
           <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Indians">Early Indians</a>
         </h4>
         <p class="fr-book-author">By Tony Joseph</p>
-        
+
         <p class="fr-book-desc">Provides scientific context for interpreting ancient human remains in India.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ As a result, Roopkund is no longer understood as the site of one mysterious cata
           <a href="https://www.amazon.com/s?k=The+adventure+of+archaeology+Brian+M.+Fagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The adventure of archaeology">The adventure of archaeology</a>
         </h4>
         <p class="fr-book-author">By Brian M. Fagan</p>
-        
+
         <p class="fr-book-desc">Introduces how archaeological mysteries are investigated.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+adventure+of+archaeology+Brian+M.+Fagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ As a result, Roopkund is no longer understood as the site of one mysterious cata
           <a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="India">India</a>
         </h4>
         <p class="fr-book-author">By John Keay</p>
-        
+
         <p class="fr-book-desc">First published 2000. Subjects: India, History, India, history, Ds451 .k365 2000b, 954.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -406,7 +406,7 @@ The surviving evidence supports neither complete scepticism nor dramatic conspir
 <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Long Walk to Freedom">Long Walk to Freedom</a>
 </h4>
 <p class="fr-book-author">By Nelson Mandela</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Biography, Politics and government, Presidents, African National Congress, Civil rights workers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ The surviving evidence supports neither complete scepticism nor dramatic conspir
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ The surviving evidence supports neither complete scepticism nor dramatic conspir
 <a href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The poisoner&#x27;s handbook">The poisoner&#x27;s handbook</a>
 </h4>
 <p class="fr-book-author">By Deborah Blum</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: History, Poisoning, Forensic science, Forensic toxicology, Forensic sciences.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ The surviving evidence supports neither complete scepticism nor dramatic conspir
 <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The kingdoms of Africa">The kingdoms of Africa</a>
 </h4>
 <p class="fr-book-author">By Peter S. Garlake</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: Excavations (Archaeology), Civilization, Antiquities, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

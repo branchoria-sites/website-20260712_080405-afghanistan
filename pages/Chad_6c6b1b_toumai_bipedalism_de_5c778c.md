@@ -329,7 +329,7 @@ For Chad, the discovery remains one of the country's greatest archaeological and
 <a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your inner fish">Your inner fish</a>
 </h4>
 <p class="fr-book-author">By Neil Shubin</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Human anatomy, Human evolution, Nature, Nonfiction, Popular works.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ For Chad, the discovery remains one of the country's greatest archaeological and
 <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COMPLETE WORLD OF HUMAN EVOLUTION">COMPLETE WORLD OF HUMAN EVOLUTION</a>
 </h4>
 <p class="fr-book-author">By CHRIS STRINGER, Chris Stringer et al.</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Human evolution, Evolution, Science/Mathematics, Life Sciences - Evolution, Science.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ For Chad, the discovery remains one of the country's greatest archaeological and
 <a href="https://www.amazon.com/s?k=The+Human+Career+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Career">The Human Career</a>
 </h4>
 <p class="fr-book-author">By Richard G. Klein</p>
-        
+
 <p class="fr-book-desc">First published 1989. Subjects: Origin, Human beings, Fossil hominids, Human evolution, Evolución humana.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Human+Career+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For Chad, the discovery remains one of the country's greatest archaeological and
 <a href="https://www.amazon.com/s?k=Almost+Human+Lee+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Almost Human">Almost Human</a>
 </h4>
 <p class="fr-book-author">By Lee Berger, John Hawks</p>
-        
+
 <p class="fr-book-desc">First published 2017.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Almost+Human+Lee+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

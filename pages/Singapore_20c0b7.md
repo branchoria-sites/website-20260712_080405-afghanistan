@@ -1326,7 +1326,7 @@ None of these cases needs an exaggerated conspiracy to remain compelling. Their 
 <a href="https://www.amazon.com/s?k=From+Third+World+to+First+%3A+The+Singapore+Story+Lee+Kuan+Yew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Third World to First : The Singapore Story">From Third World to First : The Singapore Story</a>
 </h4>
 <p class="fr-book-author">By Lee Kuan Yew</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Social conditions, Economic conditions, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=From+Third+World+to+First+%3A+The+Singapore+Story+Lee+Kuan+Yew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1343,7 +1343,7 @@ None of these cases needs an exaggerated conspiracy to remain compelling. Their 
 <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore">Singapore</a>
 </h4>
 <p class="fr-book-author">By Mark Ravinder Frost</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Biography, History, Singapore, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1360,7 +1360,7 @@ None of these cases needs an exaggerated conspiracy to remain compelling. Their 
 <a href="https://www.amazon.com/s?k=Seven+Hundred+Years%3A+A+History+of+Singapore+Kwa+Chong+Guan%2C+Derek+Heng+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Hundred Years: A History of Singapore">Seven Hundred Years: A History of Singapore</a>
 </h4>
 <p class="fr-book-author">By Kwa Chong Guan, Derek Heng and others</p>
-        
+
 <p class="fr-book-desc">Covers many historical episodes behind Singapore&#x27;s enduring mysteries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Seven+Hundred+Years%3A+A+History+of+Singapore+Kwa+Chong+Guan%2C+Derek+Heng+and+others&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ None of these cases needs an exaggerated conspiracy to remain compelling. Their 
 <a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost+and+Yu+Mei+Balasingamchow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore: A Biography">Singapore: A Biography</a>
 </h4>
 <p class="fr-book-author">By Mark Ravinder Frost and Yu-Mei Balasingamchow</p>
-        
+
 <p class="fr-book-desc">Provides rich historical context across centuries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost+and+Yu+Mei+Balasingamchow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

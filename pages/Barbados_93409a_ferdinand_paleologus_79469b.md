@@ -356,7 +356,7 @@ That uncertainty explains why his grave continues to fascinate historians. It re
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+The+Caribbean+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to The Caribbean">The Rough Guide to The Caribbean</a>
         </h4>
         <p class="fr-book-author">By Rough Guides, Nicky Agate</p>
-        
+
         <p class="fr-book-desc">Includes historical context for Barbados visitors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+The+Caribbean+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ That uncertainty explains why his grave continues to fascinate historians. It re
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Places seventeenth-century Barbados in context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ That uncertainty explains why his grave continues to fascinate historians. It re
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+Byzantium+Cyril+A.+Mango&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford history of Byzantium">The Oxford history of Byzantium</a>
         </h4>
         <p class="fr-book-author">By Cyril A. Mango</p>
-        
+
         <p class="fr-book-desc">Provides background on the Palaiologos dynasty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+Byzantium+Cyril+A.+Mango&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,8 +407,8 @@ That uncertainty explains why his grave continues to fascinate historians. It re
           <a href="https://www.amazon.com/s?k=The+Fall+of+Constantinople+1453+by+Runciman%2C+Steven+%5BCambridge+University+Press%2C+2012%5D+%28Paperback%29+%5BPaperback%5D+Steven+Runciman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fall of Constantinople 1453 by Runciman, Steven [Cambridge University Press, 2012] (Paperback) [Paperback]">The Fall of Constantinople 1453 by Runciman, Steven [Cambridg...</a>
         </h4>
         <p class="fr-book-author">By Steven Runciman</p>
-        
-        
+
+
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fall+of+Constantinople+1453+by+Runciman%2C+Steven+%5BCambridge+University+Press%2C+2012%5D+%28Paperback%29+%5BPaperback%5D+Steven+Runciman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

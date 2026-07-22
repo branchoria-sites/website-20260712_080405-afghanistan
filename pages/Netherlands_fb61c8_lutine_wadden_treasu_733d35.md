@@ -365,7 +365,7 @@ No conspiracy is required to explain why the answer remains elusive. The evidenc
 <a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ship of gold in the deep blue sea">Ship of gold in the deep blue sea</a>
 </h4>
 <p class="fr-book-author">By Gary Kinder</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Central America (Ship), Survival after airplane accidents, shipwrecks, Shipwrecks, Shipwreck survival, Su...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ No conspiracy is required to explain why the answer remains elusive. The evidenc
 <a href="https://www.amazon.com/s?k=Shadow+Divers+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shadow Divers">Shadow Divers</a>
 </h4>
 <p class="fr-book-author">By Robert Kurson</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: World War II Military History, Excavations (Archaeology), Underwater archaeology, Deep diving, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Shadow+Divers+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ No conspiracy is required to explain why the answer remains elusive. The evidenc
 <a href="https://www.amazon.com/s?k=Batavia%27s+Graveyard+Mike+Dash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Batavia&#x27;s Graveyard">Batavia&#x27;s Graveyard</a>
 </h4>
 <p class="fr-book-author">By Mike Dash</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: History, Nonfiction, Cornelisz, Jeronimus, Mutiny, Batavia (Ship).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Batavia%27s+Graveyard+Mike+Dash&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ No conspiracy is required to explain why the answer remains elusive. The evidenc
 <a href="https://www.amazon.com/s?k=The+Sea+Hunters+Clive+Cussler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Hunters">The Sea Hunters</a>
 </h4>
 <p class="fr-book-author">By Clive Cussler, Craig Dirgo</p>
-        
+
 <p class="fr-book-desc">First published 1996. Subjects: Underwater archaeology, Open Library Staff Picks, Personal Beauty, Shipwrecks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sea+Hunters+Clive+Cussler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

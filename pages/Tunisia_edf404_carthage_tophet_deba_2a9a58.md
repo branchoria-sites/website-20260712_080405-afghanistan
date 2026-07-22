@@ -379,7 +379,7 @@ The result is an enduring historical mystery built not on missing artefacts but 
           <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
         </h4>
         <p class="fr-book-author">By Richard Miles</p>
-        
+
         <p class="fr-book-desc">Examines the Tophet and the child sacrifice debate in depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ The result is an enduring historical mystery built not on missing artefacts but 
           <a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Punic wars">The Punic wars</a>
         </h4>
         <p class="fr-book-author">By Adrian Keith Goldsworthy</p>
-        
+
         <p class="fr-book-desc">Explains the conflict that shaped hostile ancient accounts of Carthage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,13 +407,13 @@ The result is an enduring historical mystery built not on missing artefacts but 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7390155-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
         </h4>
-        <p class="fr-book-author">By Mary Beard</p>
-        
+        <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
+
         <p class="fr-book-desc">Helps readers assess Roman literary evidence critically.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ The result is an enduring historical mystery built not on missing artefacts but 
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Phoenician+and+Punic+Mediterranean+Carolina+Lopez-Ruiz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Phoenician and Punic Mediterranean">Oxford Handbook of the Phoenician and Punic Mediterranean</a>
         </h4>
         <p class="fr-book-author">By Carolina Lopez-Ruiz, Brian R. Doak</p>
-        
+
         <p class="fr-book-desc">Provides scholarly treatment of Punic culture and religion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Phoenician+and+Punic+Mediterranean+Carolina+Lopez-Ruiz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

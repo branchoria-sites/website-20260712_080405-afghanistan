@@ -1334,7 +1334,7 @@ Those distinctions do not make the stories less compelling. They reveal the more
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
         </h4>
         <p class="fr-book-author">By Alfred Russel Wallace</p>
-        
+
         <p class="fr-book-desc">Adds historical context for Malaysia and the wider region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1351,7 +1351,7 @@ Those distinctions do not make the stories less compelling. They reveal the more
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
         </h4>
         <p class="fr-book-author">By Sam Kean</p>
-        
+
         <p class="fr-book-desc">Appeals to readers who enjoy intriguing real-world mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,7 +1368,7 @@ Those distinctions do not make the stories less compelling. They reveal the more
           <a href="https://www.amazon.com/s?k=The+Hunt+for+MH370+Ean+Higgins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for MH370">The Hunt for MH370</a>
         </h4>
         <p class="fr-book-author">By Ean Higgins</p>
-        
+
         <p class="fr-book-desc">Covers the disappearance, search and investigation of MH370.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+MH370+Ean+Higgins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1385,7 +1385,7 @@ Those distinctions do not make the stories less compelling. They reveal the more
           <a href="https://www.amazon.com/s?k=The+Silk+King%3A+The+Life+of+Jim+Thompson+William+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk King: The Life of Jim Thompson">The Silk King: The Life of Jim Thompson</a>
         </h4>
         <p class="fr-book-author">By William Warren</p>
-        
+
         <p class="fr-book-desc">Provides essential background on the Jim Thompson mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Silk+King%3A+The+Life+of+Jim+Thompson+William+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

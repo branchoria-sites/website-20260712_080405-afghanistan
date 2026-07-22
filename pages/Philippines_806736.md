@@ -1348,7 +1348,7 @@ These mysteries remain part of Philippine public memory because each asks a larg
 <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noli Me Tangere">Noli Me Tangere</a>
 </h4>
 <p class="fr-book-author">By José Rizal</p>
-        
+
 <p class="fr-book-desc">First published 1902. Subjects: Economics, Classic Literature, Fiction, Fiction, historical, general, Philippines, fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ These mysteries remain part of Philippine public memory because each asks a larg
 <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Philippines">A History of the Philippines</a>
 </h4>
 <p class="fr-book-author">By Luis H. Francia</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: History, Philippines, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1382,7 +1382,7 @@ These mysteries remain part of Philippine public memory because each asks a larg
 <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay">Barangay</a>
 </h4>
 <p class="fr-book-author">By William Henry Scott</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Ethnology, Civilization, Filipinos, Social life and customs, Bisaya (Philippine people).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1399,7 +1399,7 @@ These mysteries remain part of Philippine public memory because each asks a larg
 <a href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Our Image America&#x27;s Empire in the Philippines">In Our Image America&#x27;s Empire in the Philippines</a>
 </h4>
 <p class="fr-book-author">By Stanley Karnow</p>
-        
+
 <p class="fr-book-desc">First published 1989.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

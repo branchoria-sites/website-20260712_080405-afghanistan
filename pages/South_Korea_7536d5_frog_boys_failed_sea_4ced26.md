@@ -336,7 +336,7 @@ More than three decades after the disappearance, the identity of the killer, the
           <a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea&#x27;s Place in the Sun">Korea&#x27;s Place in the Sun</a>
         </h4>
         <p class="fr-book-author">By Bruce Cumings</p>
-        
+
         <p class="fr-book-desc">Provides political and social background for the period.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ More than three decades after the disappearance, the identity of the killer, the
           <a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Korea">A history of Korea</a>
         </h4>
         <p class="fr-book-author">By Kyung Moon Hwang</p>
-        
+
         <p class="fr-book-desc">Explains the era in which the investigation unfolded.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ More than three decades after the disappearance, the identity of the killer, the
           <a href="https://www.amazon.com/s?k=True+Crime+Harold+Schechter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="True Crime">True Crime</a>
         </h4>
         <p class="fr-book-author">By Harold Schechter</p>
-        
+
         <p class="fr-book-desc">Introduces investigative themes relevant to unresolved criminal cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=True+Crime+Harold+Schechter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ More than three decades after the disappearance, the identity of the killer, the
           <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes">Korea : The Impossible Country : South Korea&#x27;s Amazing Rise f...</a>
         </h4>
         <p class="fr-book-author">By Daniel Tudor</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Economic development, Korea, civilization, Civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -379,7 +379,7 @@ Each new discovery—whether a fragmentary inscription, an improved reading of a
           <a href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for Nefertiti">The Search for Nefertiti</a>
         </h4>
         <p class="fr-book-author">By Joann Fletcher</p>
-        
+
         <p class="fr-book-desc">Directly addresses Nefertiti&#x27;s identity and disappearance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Each new discovery—whether a fragmentary inscription, an improved reading of a
           <a href="https://www.amazon.com/s?k=Nefertiti%27s+Face+Joyce+A.+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nefertiti&#x27;s Face">Nefertiti&#x27;s Face</a>
         </h4>
         <p class="fr-book-author">By Joyce A. Tyldesley</p>
-        
+
         <p class="fr-book-desc">Explores the Amarna period and the evidence surrounding Nefertiti.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nefertiti%27s+Face+Joyce+A.+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Each new discovery—whether a fragmentary inscription, an improved reading of a
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Places the Amarna period within broader Egyptian history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ Each new discovery—whether a fragmentary inscription, an improved reading of a
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Tutankhamun">The Complete Tutankhamun</a>
         </h4>
         <p class="fr-book-author">By Nicholas Reeves</p>
-        
+
         <p class="fr-book-desc">Discusses royal family relationships and tomb discoveries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

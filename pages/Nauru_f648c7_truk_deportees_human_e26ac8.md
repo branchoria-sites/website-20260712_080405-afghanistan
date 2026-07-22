@@ -358,7 +358,7 @@ The enduring historical puzzle is therefore not whether the deportation occurred
           <a href="https://www.amazon.com/s?k=The+Knights+of+Bushido+Lord+Of+Liverpool+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knights of Bushido">The Knights of Bushido</a>
         </h4>
         <p class="fr-book-author">By Lord Of Liverpool Russell</p>
-        
+
         <p class="fr-book-desc">Discusses Japanese military conduct and responsibility.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Knights+of+Bushido+Lord+Of+Liverpool+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ The enduring historical puzzle is therefore not whether the deportation occurred
           <a href="https://www.amazon.com/s?k=Paradise+for+Sale+Carl+N.+McDaniel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paradise for Sale">Paradise for Sale</a>
         </h4>
         <p class="fr-book-author">By Carl N. McDaniel, John M. Gowdy</p>
-        
+
         <p class="fr-book-desc">Explains the wartime deportations and their aftermath.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Paradise+for+Sale+Carl+N.+McDaniel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ The enduring historical puzzle is therefore not whether the deportation occurred
           <a href="https://www.amazon.com/s?k=Hell+in+the+Pacific+Jim+McEnery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hell in the Pacific">Hell in the Pacific</a>
         </h4>
         <p class="fr-book-author">By Jim McEnery</p>
-        
+
         <p class="fr-book-desc">Illustrates survival conditions in occupied islands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hell+in+the+Pacific+Jim+McEnery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -369,7 +369,7 @@ Ironically, the greatest unresolved question may not concern buried gold at all.
           <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The republic of pirates">The republic of pirates</a>
         </h4>
         <p class="fr-book-author">By Colin Woodard</p>
-        
+
         <p class="fr-book-desc">Explains the pirate era in which Olivier Levasseur operated.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Ironically, the greatest unresolved question may not concern buried gold at all.
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the black flag">Under the black flag</a>
         </h4>
         <p class="fr-book-author">By David Cordingly</p>
-        
+
         <p class="fr-book-desc">Provides the strongest historical context for La Buse and pirate treasure legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Ironically, the greatest unresolved question may not concern buried gold at all.
           <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pirate Hunters">Pirate Hunters</a>
         </h4>
         <p class="fr-book-author">By Robert Kurson</p>
-        
+
         <p class="fr-book-desc">Focuses on the search for legendary pirate wrecks and treasure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Ironically, the greatest unresolved question may not concern buried gold at all.
           <a href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II+P.+J.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford History of the British Empire: Volume II">The Oxford History of the British Empire: Volume II</a>
         </h4>
         <p class="fr-book-author">By P. J. Marshall</p>
-        
+
         <p class="fr-book-desc">Provides imperial Indian Ocean context for the Seychelles region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II+P.+J.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

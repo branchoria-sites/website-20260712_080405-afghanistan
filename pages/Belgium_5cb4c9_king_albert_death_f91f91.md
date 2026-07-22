@@ -352,7 +352,7 @@ For that reason, King Albert I's death is best understood not as an unsolved roy
           <a href="https://www.amazon.com/s?k=George%2C+Nicholas+and+Wilhelm+Miranda+Carter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="George, Nicholas and Wilhelm">George, Nicholas and Wilhelm</a>
         </h4>
         <p class="fr-book-author">By Miranda Carter</p>
-        
+
         <p class="fr-book-desc">Offers context on European monarchies of Albert&#x27;s era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=George%2C+Nicholas+and+Wilhelm+Miranda+Carter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For that reason, King Albert I's death is best understood not as an unsolved roy
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
         </h4>
         <p class="fr-book-author">By Kate Summerscale</p>
-        
+
         <p class="fr-book-desc">Appeals to readers of historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For that reason, King Albert I's death is best understood not as an unsolved roy
           <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Mountain">Dead Mountain</a>
         </h4>
         <p class="fr-book-author">By Donnie Eichar</p>
-        
+
         <p class="fr-book-desc">Examines forensic reassessment of a famous death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ For that reason, King Albert I's death is best understood not as an unsolved roy
           <a href="https://www.amazon.com/s?k=The+Romanovs+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Romanovs">The Romanovs</a>
         </h4>
         <p class="fr-book-author">By Simon Sebag-Montefiore</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in royal history and contested deaths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Romanovs+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

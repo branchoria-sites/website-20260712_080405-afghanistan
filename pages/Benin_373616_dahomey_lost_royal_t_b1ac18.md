@@ -378,7 +378,7 @@ The enduring mystery is therefore not simply "where did the treasures go?" It is
           <a href="https://www.amazon.com/s?k=The+Brutish+Museums+Dan+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brutish Museums">The Brutish Museums</a>
         </h4>
         <p class="fr-book-author">By Dan Hicks</p>
-        
+
         <p class="fr-book-desc">Directly addresses colonial looting, museums and repatriation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Brutish+Museums+Dan+Hicks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The enduring mystery is therefore not simply "where did the treasures go?" It is
           <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The kingdoms of Africa">The kingdoms of Africa</a>
         </h4>
         <p class="fr-book-author">By Peter S. Garlake</p>
-        
+
         <p class="fr-book-desc">Explains the historical importance of Dahomey&#x27;s royal kingdom.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+kingdoms+of+Africa+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The enduring mystery is therefore not simply "where did the treasures go?" It is
           <a href="https://www.amazon.com/s?k=Whose+culture%3F+James+B.+Cuno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Whose culture?">Whose culture?</a>
         </h4>
         <p class="fr-book-author">By James B. Cuno</p>
-        
+
         <p class="fr-book-desc">Explores competing perspectives on cultural property and restitution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Whose+culture%3F+James+B.+Cuno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ The enduring mystery is therefore not simply "where did the treasures go?" It is
           <a href="https://www.amazon.com/s?k=Whole+Picture+Alice+Procter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Whole Picture">Whole Picture</a>
         </h4>
         <p class="fr-book-author">By Alice Procter</p>
-        
+
         <p class="fr-book-desc">Examines colonial collecting and museum interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Whole+Picture+Alice+Procter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

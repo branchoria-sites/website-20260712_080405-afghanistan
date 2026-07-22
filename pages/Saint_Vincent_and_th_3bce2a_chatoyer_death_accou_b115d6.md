@@ -377,7 +377,7 @@ For Saint Vincent and the Grenadines, Chatoyer's death therefore remains signifi
           <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Spartacus">Black Spartacus</a>
         </h4>
         <p class="fr-book-author">By Sudhir Hazareesingh</p>
-        
+
         <p class="fr-book-desc">Offers comparative insight into anti-colonial leadership in the Caribbean.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For Saint Vincent and the Grenadines, Chatoyer's death therefore remains signifi
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
         </h4>
         <p class="fr-book-author">By Michel-Rolph Trouillot</p>
-        
+
         <p class="fr-book-desc">Helps readers evaluate conflicting colonial and oral accounts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For Saint Vincent and the Grenadines, Chatoyer's death therefore remains signifi
           <a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Columbus and the Quest for Jerusalem">Columbus and the Quest for Jerusalem</a>
         </h4>
         <p class="fr-book-author">By Carol Delaney</p>
-        
+
         <p class="fr-book-desc">First published 2012.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For Saint Vincent and the Grenadines, Chatoyer's death therefore remains signifi
           <a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Caribs (Garifuna) of Honduras">The Black Caribs (Garifuna) of Honduras</a>
         </h4>
         <p class="fr-book-author">By Ruy Galvao de Andrade Coelho</p>
-        
+
         <p class="fr-book-desc">Explains the people and conflict associated with Chatoyer.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

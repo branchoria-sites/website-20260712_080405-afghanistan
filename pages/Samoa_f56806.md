@@ -1384,7 +1384,7 @@ These gaps should invite careful investigation rather than conspiracy. Samoa’s
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in Samoa">Coming of age in Samoa</a>
         </h4>
         <p class="fr-book-author">By Margaret Mead</p>
-        
+
         <p class="fr-book-desc">Provides cultural background for understanding Samoan history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1401,7 +1401,7 @@ These gaps should invite careful investigation rather than conspiracy. Samoa’s
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Introduces readers to the societies and history of the Pacific islands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1418,7 +1418,7 @@ These gaps should invite careful investigation rather than conspiracy. Samoa’s
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We, the navigators">We, the navigators</a>
         </h4>
         <p class="fr-book-author">By David Lewis, Derek Oulton</p>
-        
+
         <p class="fr-book-desc">Relevant to maritime history and Polynesian culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1435,7 +1435,7 @@ These gaps should invite careful investigation rather than conspiracy. Samoa’s
           <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Latitudes">Blue Latitudes</a>
         </h4>
         <p class="fr-book-author">By Tony Horwitz</p>
-        
+
         <p class="fr-book-desc">Adds historical perspective on Pacific exploration and encounters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

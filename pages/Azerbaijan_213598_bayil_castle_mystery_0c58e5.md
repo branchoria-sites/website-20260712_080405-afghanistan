@@ -373,16 +373,16 @@ For that reason, Bayil Castle remains one of Azerbaijan's most compelling histor
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8848108-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By Peter Frankopan</p>
+
         <p class="fr-book-desc">Explains the strategic importance of Caspian trade routes.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -396,7 +396,7 @@ For that reason, Bayil Castle remains one of Azerbaijan's most compelling histor
           <a href="https://www.amazon.com/s?k=A+Traveller%27s+History+of+Turkey+Richard+Stoneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Traveller&#x27;s History of Turkey">A Traveller&#x27;s History of Turkey</a>
         </h4>
         <p class="fr-book-author">By Richard Stoneman</p>
-        
+
         <p class="fr-book-desc">Helps explain the medieval world surrounding Azerbaijan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Traveller%27s+History+of+Turkey+Richard+Stoneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ For that reason, Bayil Castle remains one of Azerbaijan's most compelling histor
           <a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Silk Road">Empires of the Silk Road</a>
         </h4>
         <p class="fr-book-author">By Christopher I. Beckwith</p>
-        
+
         <p class="fr-book-desc">Places Bayil Castle within broader regional political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ For that reason, Bayil Castle remains one of Azerbaijan's most compelling histor
           <a href="https://www.amazon.com/s?k=Underwater+archaeology+Nautical+Archaeology+Society.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underwater archaeology">Underwater archaeology</a>
         </h4>
         <p class="fr-book-author">By Nautical Archaeology Society.</p>
-        
+
         <p class="fr-book-desc">Relevant to the excavation and interpretation of submerged ruins.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Underwater+archaeology+Nautical+Archaeology+Society.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

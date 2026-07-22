@@ -1392,7 +1392,7 @@ The most useful question is not whether a case is “solved” in an absolute se
           <a href="https://www.amazon.com/s?k=The+dark+heart+of+Italy+Tobias+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dark heart of Italy">The dark heart of Italy</a>
         </h4>
         <p class="fr-book-author">By Tobias Jones, Tobias Jones</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for Italy&#x27;s enduring controversies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dark+heart+of+Italy+Tobias+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1409,7 +1409,7 @@ The most useful question is not whether a case is “solved” in an absolute se
           <a href="https://www.amazon.com/s?k=Midnight+in+Sicily+Peter+Robb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Midnight in Sicily">Midnight in Sicily</a>
         </h4>
         <p class="fr-book-author">By Peter Robb</p>
-        
+
         <p class="fr-book-desc">Explores crime, politics and secrecy central to many Italian mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Midnight+in+Sicily+Peter+Robb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1426,7 +1426,7 @@ The most useful question is not whether a case is “solved” in an absolute se
           <a href="https://www.amazon.com/s?k=Cosa+Nostra+John+Dickie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosa Nostra">Cosa Nostra</a>
         </h4>
         <p class="fr-book-author">By John Dickie, Dickie, John</p>
-        
+
         <p class="fr-book-desc">Helps explain institutional and criminal influences behind several mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cosa+Nostra+John+Dickie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1443,7 +1443,7 @@ The most useful question is not whether a case is “solved” in an absolute se
           <a href="https://www.amazon.com/s?k=The+Monster+of+Florence+Magdalen+Nabb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Monster of Florence">The Monster of Florence</a>
         </h4>
         <p class="fr-book-author">By Magdalen Nabb, Douglas Preston et al.</p>
-        
+
         <p class="fr-book-desc">One of Italy&#x27;s best-known unsolved mystery cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Monster+of+Florence+Magdalen+Nabb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

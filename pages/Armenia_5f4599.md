@@ -1335,7 +1335,7 @@ These cases endure because they lie at the boundary between recovery and loss. M
           <a href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenia">Armenia</a>
         </h4>
         <p class="fr-book-author">By Robert H. Hewsen</p>
-        
+
         <p class="fr-book-desc">First published 2000. Subjects: Armenia (republic).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

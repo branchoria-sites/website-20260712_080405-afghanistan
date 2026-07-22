@@ -348,16 +348,16 @@ Its disappearance also illustrates the challenges historians face when reconstru
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Amber+Room+Cathy+Scott-Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Amber Room on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7993189-M.jpg" alt="Cover for The Amber Room" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Amber Room on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6872314-M.jpg" alt="Cover for The Amber Room" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Amber+Room+Cathy+Scott-Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Amber Room">The Amber Room</a>
+          <a href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Amber Room">The Amber Room</a>
         </h4>
-        <p class="fr-book-author">By Cathy Scott-Clark, Adrian Levy et al.</p>
-        
+        <p class="fr-book-author">By Steve Berry (conflated)</p>
+
         <p class="fr-book-desc">Directly investigates the Amber Room&#x27;s disappearance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Amber+Room+Cathy+Scott-Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -371,7 +371,7 @@ Its disappearance also illustrates the challenges historians face when reconstru
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
         </h4>
         <p class="fr-book-author">By Robert M. Edsel</p>
-        
+
         <p class="fr-book-desc">Explores wartime art recovery and Nazi cultural looting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Its disappearance also illustrates the challenges historians face when reconstru
           <a href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rape of Europa">The Rape of Europa</a>
         </h4>
         <p class="fr-book-author">By Lynn H. Nicholas</p>
-        
+
         <p class="fr-book-desc">Provides the broader context for the Amber Room mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Its disappearance also illustrates the challenges historians face when reconstru
           <a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shortest History of Germany">The Shortest History of Germany</a>
         </h4>
         <p class="fr-book-author">By James Hawes</p>
-        
+
         <p class="fr-book-desc">Places the Amber Room story within German history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

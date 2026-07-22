@@ -376,7 +376,7 @@ The grave's continued absence also reminds historians that the past is preserved
           <a href="https://www.amazon.com/s?k=Mau+Mau+and+Kenya+Wunyabari+O.+Maloba&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mau Mau and Kenya">Mau Mau and Kenya</a>
         </h4>
         <p class="fr-book-author">By Wunyabari O. Maloba</p>
-        
+
         <p class="fr-book-desc">Provides essential historical context for Kimathi, the uprising and colonial policy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mau+Mau+and+Kenya+Wunyabari+O.+Maloba&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ The grave's continued absence also reminds historians that the past is preserved
           <a href="https://www.amazon.com/s?k=Histories+of+the+Hanged+David+M.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Histories of the Hanged">Histories of the Hanged</a>
         </h4>
         <p class="fr-book-author">By David M. Anderson</p>
-        
+
         <p class="fr-book-desc">Covers the Mau Mau conflict, executions and colonial justice surrounding Kimathi.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Histories+of+the+Hanged+David+M.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ The grave's continued absence also reminds historians that the past is preserved
           <a href="https://www.amazon.com/s?k=Imperial+reckoning+Caroline+Elkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imperial reckoning">Imperial reckoning</a>
         </h4>
         <p class="fr-book-author">By Caroline Elkins</p>
-        
+
         <p class="fr-book-desc">Explains the wider system that shaped Kimathi&#x27;s imprisonment and burial.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imperial+reckoning+Caroline+Elkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ The grave's continued absence also reminds historians that the past is preserved
           <a href="https://www.amazon.com/s?k=Kenya+Charles+Hornsby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kenya">Kenya</a>
         </h4>
         <p class="fr-book-author">By Charles Hornsby</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Politics and government, Social conditions, Economic conditions, History, Kenya, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kenya+Charles+Hornsby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

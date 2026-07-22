@@ -1314,7 +1314,7 @@ Together, these mysteries show why national memory needs both imagination and re
           <a href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="LIECHTENSTEIN: A MODERN HISTORY">LIECHTENSTEIN: A MODERN HISTORY</a>
         </h4>
         <p class="fr-book-author">By David Beattie</p>
-        
+
         <p class="fr-book-desc">Broad coverage supporting multiple mystery topics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=LIECHTENSTEIN%3A+A+MODERN+HISTORY+David+Beattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1331,7 +1331,7 @@ Together, these mysteries show why national memory needs both imagination and re
           <a href="https://www.amazon.com/s?k=The+Thirty+Years+War+Peter+H.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Thirty Years War">The Thirty Years War</a>
         </h4>
         <p class="fr-book-author">By Peter H. Wilson</p>
-        
+
         <p class="fr-book-desc">Provides wider regional context for early modern Liechtenstein.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Thirty+Years+War+Peter+H.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1348,7 +1348,7 @@ Together, these mysteries show why national memory needs both imagination and re
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe : a history">Europe : a history</a>
         </h4>
         <p class="fr-book-author">By Norman Davies</p>
-        
+
         <p class="fr-book-desc">Situates Liechtenstein within continental history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ Together, these mysteries show why national memory needs both imagination and re
           <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Habsburgs">Habsburgs</a>
         </h4>
         <p class="fr-book-author">By Martyn Rady</p>
-        
+
         <p class="fr-book-desc">Places Liechtenstein within Central European political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

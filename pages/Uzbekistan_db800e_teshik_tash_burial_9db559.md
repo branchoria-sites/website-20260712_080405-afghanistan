@@ -387,16 +387,16 @@ At the same time, the controversy over the ibex horns has become a textbook less
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8848108-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By Peter Frankopan</p>
+
         <p class="fr-book-desc">Offers broader regional context for readers exploring Uzbekistan.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -410,7 +410,7 @@ At the same time, the controversy over the ibex horns has become a textbook less
           <a href="https://www.amazon.com/s?k=After+the+Ice+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Ice">After the Ice</a>
         </h4>
         <p class="fr-book-author">By Steven J. Mithen</p>
-        
+
         <p class="fr-book-desc">Explores Ice Age human societies and archaeological interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=After+the+Ice+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ At the same time, the controversy over the ibex horns has become a textbook less
           <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COMPLETE WORLD OF HUMAN EVOLUTION">COMPLETE WORLD OF HUMAN EVOLUTION</a>
         </h4>
         <p class="fr-book-author">By CHRIS STRINGER, Chris Stringer et al.</p>
-        
+
         <p class="fr-book-desc">Covers Neanderthals, human evolution and prehistoric archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ At the same time, the controversy over the ibex horns has become a textbook less
           <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kindred">Kindred</a>
         </h4>
         <p class="fr-book-author">By Rebecca Wragg Sykes</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Anthropology, Neanderthals, Human evolution, Fossil hominids, Human remains (Archaeology).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

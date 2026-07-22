@@ -362,7 +362,7 @@ Today the Lost City of the Caesars remains an important part of Argentina's hist
 <a href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Patagonia">In Patagonia</a>
 </h4>
 <p class="fr-book-author">By Bruce Chatwin</p>
-        
+
 <p class="fr-book-desc">First published 1977. Subjects: Description and travel, Travel, Journeys, Descriptions et voyages, Patagonia (argentina and chile).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Today the Lost City of the Caesars remains an important part of Argentina's hist
 <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Latin+America+Edwin+Williamson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin history of Latin America">The Penguin history of Latin America</a>
 </h4>
 <p class="fr-book-author">By Edwin Williamson</p>
-        
+
 <p class="fr-book-desc">First published 1992. Subjects: History, Latin america, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Latin+America+Edwin+Williamson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Today the Lost City of the Caesars remains an important part of Argentina's hist
 <a href="https://www.amazon.com/s?k=Patagonia+Chris+Moss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Patagonia">Patagonia</a>
 </h4>
 <p class="fr-book-author">By Chris Moss</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Description and travel, History, Argentina, description and travel, Chile, description and travel, Argent...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Patagonia+Chris+Moss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Today the Lost City of the Caesars remains an important part of Argentina's hist
 <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
 </h4>
 <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
 <p class="fr-book-desc">First published 2008.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

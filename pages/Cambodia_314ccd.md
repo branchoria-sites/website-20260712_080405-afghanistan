@@ -1350,30 +1350,13 @@ What makes these cases endure is the distance between a broad historical truth a
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Angkor and the Khmer Civilization (Ancient Peoples and Places) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316825-M.jpg" alt="Cover for Angkor and the Khmer Civilization (Ancient Peoples and Places)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Angkor and the Khmer Civilization (Ancient Peoples and Places)">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Excellent overview of Cambodia&#x27;s major historical mysteries and the Khmer Empire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=River+of+time+Jon+Swain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open River of time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/174578-M.jpg" alt="Cover for River of time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=River+of+time+Jon+Swain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River of time">River of time</a>
         </h4>
         <p class="fr-book-author">By Jon Swain</p>
-        
+
         <p class="fr-book-desc">Adds historical context for Cambodia&#x27;s twentieth-century upheavals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=River+of+time+Jon+Swain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1390,10 +1373,27 @@ What makes these cases endure is the distance between a broad historical truth a
           <a href="https://www.amazon.com/s?k=Cambodia%27s+Curse+Joel+Brinkley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cambodia&#x27;s Curse">Cambodia&#x27;s Curse</a>
         </h4>
         <p class="fr-book-author">By Joel Brinkley</p>
-        
+
         <p class="fr-book-desc">Provides context for Cambodia&#x27;s unresolved modern historical questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cambodia%27s+Curse+Joel+Brinkley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Angkor and the Khmer Civilization (Ancient Peoples and Places) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316825-M.jpg" alt="Cover for Angkor and the Khmer Civilization (Ancient Peoples and Places)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Angkor and the Khmer Civilization (Ancient Peoples and Places)">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Explains Angkor&#x27;s development and long decline.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1407,7 +1407,7 @@ What makes these cases endure is the distance between a broad historical truth a
           <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Angkor and the Khmer Civilization">Angkor and the Khmer Civilization</a>
         </h4>
         <p class="fr-book-author">By Michael D. Coe</p>
-        
+
         <p class="fr-book-desc">Excellent overview of Cambodia&#x27;s major historical mysteries and the Khmer Empire.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1418,7 +1418,7 @@ What makes these cases endure is the distance between a broad historical truth a
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=River+of+time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">River of time</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cambodia%27s+Curse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cambodia&#x27;s Curse</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=River+of+time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">River of time</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cambodia%27s+Curse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cambodia&#x27;s Curse</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

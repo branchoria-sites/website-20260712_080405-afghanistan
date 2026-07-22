@@ -378,7 +378,7 @@ For that reason, the mystery is largely solved in one sense but remains signific
 <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The house at Sugar Beach">The house at Sugar Beach</a>
 </h4>
 <p class="fr-book-author">By Helene Cooper, Helene Cooper</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Biography, Childhood and youth, Elite (Social sciences), History, Journalists.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For that reason, the mystery is largely solved in one sense but remains signific
 <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mask of anarchy">The mask of anarchy</a>
 </h4>
 <p class="fr-book-author">By Ellis, Stephen</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Liberia Civil War, 1989-, Religious aspects, Sande Society, Religion, Poro (Society).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ For that reason, the mystery is largely solved in one sense but remains signific
 <a href="https://www.amazon.com/s?k=African+Founders%3A+How+Enslaved+People+Expanded+American+Ideals+Abroad+Ousman+K.+Power+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Founders: How Enslaved People Expanded American Ideals Abroad">African Founders: How Enslaved People Expanded American Ideal...</a>
 </h4>
 <p class="fr-book-author">By Ousman K. Power-Greene</p>
-        
+
 <p class="fr-book-desc">Explains the early Liberian colony and its founding narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+Founders%3A+How+Enslaved+People+Expanded+American+Ideals+Abroad+Ousman+K.+Power+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For that reason, the mystery is largely solved in one sense but remains signific
 <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Liberia+D.+Elwood+Dunn%2C+Amos+J.+Beyan+and+Carl+Patrick+Burrowes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical Dictionary of Liberia">Historical Dictionary of Liberia</a>
 </h4>
 <p class="fr-book-author">By D. Elwood Dunn, Amos J. Beyan and Carl Patrick Burrowes</p>
-        
+
 <p class="fr-book-desc">Documents Matilda Newport and debates over the legend.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Liberia+D.+Elwood+Dunn%2C+Amos+J.+Beyan+and+Carl+Patrick+Burrowes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -337,7 +337,7 @@ For historians, the unresolved burial is therefore less a puzzle awaiting a sens
           <a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in blood and fire">Born in blood and fire</a>
         </h4>
         <p class="fr-book-author">By John Charles Chasteen</p>
-        
+
         <p class="fr-book-desc">Explains the Latin American independence movements that shaped Miranda&#x27;s legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ For historians, the unresolved burial is therefore less a puzzle awaiting a sens
           <a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The General in his Labyrinth">The General in his Labyrinth</a>
         </h4>
         <p class="fr-book-author">By Gabriel Garcia Marquez</p>
-        
+
         <p class="fr-book-desc">Broadens reader interest in the independence era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For historians, the unresolved burial is therefore less a puzzle awaiting a sens
           <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bolívar">Bolívar</a>
         </h4>
         <p class="fr-book-author">By Arana, Marie (Writer)</p>
-        
+
         <p class="fr-book-desc">Places Miranda within the wider independence movement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For historians, the unresolved burial is therefore less a puzzle awaiting a sens
           <a href="https://www.amazon.com/s?k=Miranda%3A+The+First+Venezuelan+Karen+Racine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miranda: The First Venezuelan">Miranda: The First Venezuelan</a>
         </h4>
         <p class="fr-book-author">By Karen Racine</p>
-        
+
         <p class="fr-book-desc">Best single-volume account of Miranda&#x27;s life, imprisonment and death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Miranda%3A+The+First+Venezuelan+Karen+Racine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

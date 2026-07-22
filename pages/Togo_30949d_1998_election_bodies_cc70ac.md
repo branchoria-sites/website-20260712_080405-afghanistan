@@ -397,7 +397,7 @@ For historians, lawyers and families of the missing, the unanswered questions ar
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
         </h4>
         <p class="fr-book-author">By Philip Gourevitch</p>
-        
+
         <p class="fr-book-desc">Helps readers understand documenting mass violence and contested evidence in Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ For historians, lawyers and families of the missing, the unanswered questions ar
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides political background to Togo&#x27;s disputed elections and repression.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ For historians, lawyers and families of the missing, the unanswered questions ar
           <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
         </h4>
         <p class="fr-book-author">By Paul Nugent</p>
-        
+
         <p class="fr-book-desc">Explains democratization and political conflict across Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ For historians, lawyers and families of the missing, the unanswered questions ar
           <a href="https://www.amazon.com/s?k=Politics+of+Fear+Michiel+Hofman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Politics of Fear">Politics of Fear</a>
         </h4>
         <p class="fr-book-author">By Michiel Hofman, Sokhieng Au</p>
-        
+
         <p class="fr-book-desc">Illustrates challenges of evidence gathering and international investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Politics+of+Fear+Michiel+Hofman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

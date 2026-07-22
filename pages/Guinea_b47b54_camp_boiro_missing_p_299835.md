@@ -367,7 +367,7 @@ For Guinea, this uncertainty is more than an archival problem. It continues to s
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places Camp Boiro within African post-independence history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For Guinea, this uncertainty is more than an archival problem. It continues to s
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Africa">A history of modern Africa</a>
         </h4>
         <p class="fr-book-author">By Richard J. Reid</p>
-        
+
         <p class="fr-book-desc">Provides political context for authoritarian rule.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For Guinea, this uncertainty is more than an archival problem. It continues to s
           <a href="https://www.amazon.com/s?k=Historical+dictionary+of+Guinea+Thomas+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical dictionary of Guinea">Historical dictionary of Guinea</a>
         </h4>
         <p class="fr-book-author">By Thomas O&#x27;Toole, Thomas O&#x27;Toole et al.</p>
-        
+
         <p class="fr-book-desc">Summarises Camp Boiro and Guinea&#x27;s political repression.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Historical+dictionary+of+Guinea+Thomas+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For Guinea, this uncertainty is more than an archival problem. It continues to s
           <a href="https://www.amazon.com/s?k=Camp+Boiro%3A+Parler+ou+p%C3%A9rir+Alpha+Abdoulaye+Diallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Camp Boiro: Parler ou périr">Camp Boiro: Parler ou périr</a>
         </h4>
         <p class="fr-book-author">By Alpha Abdoulaye Diallo</p>
-        
+
         <p class="fr-book-desc">Direct testimony about the prison system and disappearances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Camp+Boiro%3A+Parler+ou+p%C3%A9rir+Alpha+Abdoulaye+Diallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

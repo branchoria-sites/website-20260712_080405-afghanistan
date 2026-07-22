@@ -377,7 +377,7 @@ The case therefore remains a model historical mystery. The broad outline is wide
           <a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Daughter of Time">The Daughter of Time</a>
         </h4>
         <p class="fr-book-author">By Josephine Tey</p>
-        
+
         <p class="fr-book-desc">Famously re-examines the evidence surrounding Richard III.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ The case therefore remains a model historical mystery. The broad outline is wide
           <a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The princes in the tower">The princes in the tower</a>
         </h4>
         <p class="fr-book-author">By Alison Weir</p>
-        
+
         <p class="fr-book-desc">Directly examines the disappearance of the princes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ The case therefore remains a model historical mystery. The broad outline is wide
           <a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Richard III">Richard III</a>
         </h4>
         <p class="fr-book-author">By Michael Hicks</p>
-        
+
         <p class="fr-book-desc">Assesses Richard III&#x27;s role in the mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ The case therefore remains a model historical mystery. The broad outline is wide
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
         </h4>
         <p class="fr-book-author">By Ian Mortimer</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the world in which the events unfolded.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -390,7 +390,7 @@ Within Lesotho's modern history, these disappearances illustrate how the country
           <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Long Walk to Freedom">Long Walk to Freedom</a>
         </h4>
         <p class="fr-book-author">By Nelson Mandela</p>
-        
+
         <p class="fr-book-desc">Provides essential context for ANC exile networks and regional politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Within Lesotho's modern history, these disappearances illustrate how the country
           <a href="https://www.amazon.com/s?k=Country+of+my+skull+Antjie+Krog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Country of my skull">Country of my skull</a>
         </h4>
         <p class="fr-book-author">By Antjie Krog</p>
-        
+
         <p class="fr-book-desc">Explores investigations into apartheid-era abuses including unresolved disappearances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Country+of+my+skull+Antjie+Krog&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ Within Lesotho's modern history, these disappearances illustrate how the country
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of South Africa">A history of South Africa</a>
         </h4>
         <p class="fr-book-author">By Leonard Monteath Thompson</p>
-        
+
         <p class="fr-book-desc">Places Lesotho&#x27;s disappearances within the broader apartheid conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ Within Lesotho's modern history, these disappearances illustrate how the country
           <a href="https://www.amazon.com/s?k=The+Truth+Commission+Special+Report+Max+du+Preez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Truth Commission Special Report">The Truth Commission Special Report</a>
         </h4>
         <p class="fr-book-author">By Max du Preez</p>
-        
+
         <p class="fr-book-desc">Discusses Truth Commission findings relevant to cross-border operations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Truth+Commission+Special+Report+Max+du+Preez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

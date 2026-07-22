@@ -1342,7 +1342,7 @@ Venezuela’s historical enigmas are therefore most revealing when stripped of u
           <a href="https://www.amazon.com/s?k=The+search+for+El+Dorado+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for El Dorado">The search for El Dorado</a>
         </h4>
         <p class="fr-book-author">By Hemming, John</p>
-        
+
         <p class="fr-book-desc">Covers the El Dorado tradition and expeditions linked to Venezuela and Guiana.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+El+Dorado+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ Venezuela’s historical enigmas are therefore most revealing when stripped of u
           <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Days of the Incas">The Last Days of the Incas</a>
         </h4>
         <p class="fr-book-author">By Kim MacQuarrie</p>
-        
+
         <p class="fr-book-desc">Provides broader colonial South American context relevant to several Venezuelan historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ Venezuela’s historical enigmas are therefore most revealing when stripped of u
           <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bolívar">Bolívar</a>
         </h4>
         <p class="fr-book-author">By Arana, Marie (Writer)</p>
-        
+
         <p class="fr-book-desc">Explores Bolívar&#x27;s life, death and enduring historical controversies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,7 +1393,7 @@ Venezuela’s historical enigmas are therefore most revealing when stripped of u
           <a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The General in his Labyrinth">The General in his Labyrinth</a>
         </h4>
         <p class="fr-book-author">By Gabriel Garcia Marquez</p>
-        
+
         <p class="fr-book-desc">A celebrated fictional portrayal of Simón Bolívar&#x27;s final journey that encourages interest in the historical debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

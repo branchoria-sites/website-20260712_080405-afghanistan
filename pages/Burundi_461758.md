@@ -1365,7 +1365,7 @@ The lasting mystery is therefore institutional as much as personal. Burundi know
 <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
 </h4>
 <p class="fr-book-author">By Philip Gourevitch</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Ethnic relations, Genocide, History, Human rights, Personal narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1382,7 +1382,7 @@ The lasting mystery is therefore institutional as much as personal. Burundi know
 <a href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When victims become killers">When victims become killers</a>
 </h4>
 <p class="fr-book-author">By Mahmood Mamdani</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Politics and government, Hutu (African people), Rwanda Civil War, 1994, Insurgency, Ethnic relations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1399,7 +1399,7 @@ The lasting mystery is therefore institutional as much as personal. Burundi know
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1416,7 +1416,7 @@ The lasting mystery is therefore institutional as much as personal. Burundi know
 <a href="https://www.amazon.com/s?k=Burundi+Rene%CC%81+Lemarchand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burundi">Burundi</a>
 </h4>
 <p class="fr-book-author">By René Lemarchand</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Politics and government, Violence, Ethnic relations, Genocide, Political aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Burundi+Rene%CC%81+Lemarchand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

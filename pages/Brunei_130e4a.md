@@ -1318,7 +1318,7 @@ These uncertainties matter because they influence how Brunei understands its ant
           <a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Brunei">A history of Brunei</a>
         </h4>
         <p class="fr-book-author">By Graham E. Saunders</p>
-        
+
         <p class="fr-book-desc">Covers Brunei&#x27;s early kingdom, sultanate, archaeology and modern historical debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1335,7 +1335,7 @@ These uncertainties matter because they influence how Brunei understands its ant
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
         </h4>
         <p class="fr-book-author">By Alfred Russel Wallace</p>
-        
+
         <p class="fr-book-desc">Offers historical observations on Borneo and the wider region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1352,7 @@ These uncertainties matter because they influence how Brunei understands its ant
           <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Khersonese">The Golden Khersonese</a>
         </h4>
         <p class="fr-book-author">By Paul Wheatley</p>
-        
+
         <p class="fr-book-desc">Provides regional context for interpreting early Brunei and Chinese records.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,16 +1363,16 @@ These uncertainties matter because they influence how Brunei understands its ant
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+Malaysia+Barbara+Watson+Andaya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of Malaysia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/181306-M.jpg" alt="Cover for History of Malaysia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10464119-M.jpg" alt="Cover for Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=History+of+Malaysia+Barbara+Watson+Andaya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Malaysia">History of Malaysia</a>
+          <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula">Early Kingdoms of the Indonesian Archipelago and the Malay Pe...</a>
         </h4>
-        <p class="fr-book-author">By Barbara Watson Andaya, Leonard Y. Andaya</p>
-        
-        <p class="fr-book-desc">Places Brunei within the broader history of the Malay world.</p>
+        <p class="fr-book-author">By Paul Michel Munoz</p>
+
+        <p class="fr-book-desc">Explains the wider political world in which early Brunei emerged.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=History+of+Malaysia+Barbara+Watson+Andaya&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

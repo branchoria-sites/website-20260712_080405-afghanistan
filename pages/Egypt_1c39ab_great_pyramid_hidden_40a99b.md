@@ -416,7 +416,7 @@ Instead, the real mystery is arguably more interesting. The Great Pyramid remain
           <a href="https://www.amazon.com/s?k=The+Complete+Pyramids+Mark+Lehner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Pyramids">The Complete Pyramids</a>
         </h4>
         <p class="fr-book-author">By Mark Lehner</p>
-        
+
         <p class="fr-book-desc">Directly covers the Great Pyramid&#x27;s architecture and hidden spaces.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Pyramids+Mark+Lehner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ Instead, the real mystery is arguably more interesting. The Great Pyramid remain
           <a href="https://www.amazon.com/s?k=The+Pyramids+Miroslav+Verner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pyramids">The Pyramids</a>
         </h4>
         <p class="fr-book-author">By Miroslav Verner</p>
-        
+
         <p class="fr-book-desc">Explains construction, design and ongoing archaeological debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pyramids+Miroslav+Verner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ Instead, the real mystery is arguably more interesting. The Great Pyramid remain
           <a href="https://www.amazon.com/s?k=Temples%2C+Tombs%2C+and+Hieroglyphs+Barbara+Mertz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Temples, Tombs, and Hieroglyphs">Temples, Tombs, and Hieroglyphs</a>
         </h4>
         <p class="fr-book-author">By Barbara Mertz, Barbara Michaels</p>
-        
+
         <p class="fr-book-desc">Introduces pyramid archaeology for general readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Temples%2C+Tombs%2C+and+Hieroglyphs+Barbara+Mertz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -467,7 +467,7 @@ Instead, the real mystery is arguably more interesting. The Great Pyramid remain
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Provides Fourth Dynasty context for Khufu and pyramid building.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

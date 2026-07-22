@@ -364,7 +364,7 @@ The central mystery today is therefore no longer whether North Korea carried out
           <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without you, there is no us">Without you, there is no us</a>
         </h4>
         <p class="fr-book-author">By Suki Kim</p>
-        
+
         <p class="fr-book-desc">Explains the secretive system behind unresolved human rights cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The central mystery today is therefore no longer whether North Korea carried out
           <a href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The aquariums of Pyongyang">The aquariums of Pyongyang</a>
         </h4>
         <p class="fr-book-author">By Kang Chol-Hwan, Pierre Rigoulot et al.</p>
-        
+
         <p class="fr-book-desc">Illustrates the realities of captivity and repression.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The central mystery today is therefore no longer whether North Korea carried out
           <a href="https://www.amazon.com/s?k=Dear+Leader+Jang+Jin-sung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dear Leader">Dear Leader</a>
         </h4>
         <p class="fr-book-author">By Jang Jin-sung</p>
-        
+
         <p class="fr-book-desc">Provides insight into the regime responsible for the abductions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dear+Leader+Jang+Jin-sung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ The central mystery today is therefore no longer whether North Korea carried out
           <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
         </h4>
         <p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
-        
+
         <p class="fr-book-desc">Provides broader context for disappearances and state secrecy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

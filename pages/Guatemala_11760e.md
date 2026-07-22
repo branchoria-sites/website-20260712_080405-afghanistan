@@ -1349,7 +1349,7 @@ Guatemala’s enduring mysteries are therefore not curiosities sealed safely in 
 <a href="https://www.amazon.com/s?k=The+Blood+of+Guatemala+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Blood of Guatemala">The Blood of Guatemala</a>
 </h4>
 <p class="fr-book-author">By Greg Grandin</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Politics and government, Quiché Indians, Race relations, Social conditions, Mayas.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Blood+of+Guatemala+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ Guatemala’s enduring mysteries are therefore not curiosities sealed safely in 
 <a href="https://www.amazon.com/s?k=Bitter+fruit+Stephen+C.+Schlesinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bitter fruit">Bitter fruit</a>
 </h4>
 <p class="fr-book-author">By Stephen C. Schlesinger, Stephen Schlesinger et al.</p>
-        
+
 <p class="fr-book-desc">First published 1982. Subjects: United Fruit Company, Foreign relations, History, Guatemala, history, United states, foreign relations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bitter+fruit+Stephen+C.+Schlesinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ Guatemala’s enduring mysteries are therefore not curiosities sealed safely in 
 <a href="https://www.amazon.com/s?k=Popol+Vuh+Allen+J.+Christenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
 </h4>
 <p class="fr-book-author">By Allen J. Christenson</p>
-        
+
 <p class="fr-book-desc">First published 2000.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Popol+Vuh+Allen+J.+Christenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1400,7 +1400,7 @@ Guatemala’s enduring mysteries are therefore not curiosities sealed safely in 
 <a href="https://www.amazon.com/s?k=Rigoberta+Rigoberta+Menchu%CC%81&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rigoberta">Rigoberta</a>
 </h4>
 <p class="fr-book-author">By Rigoberta Menchú</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Indiani Quiché, Diari e memorie.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rigoberta+Rigoberta+Menchu%CC%81&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -372,7 +372,7 @@ Rather than weakening Tecun Uman's importance, this combination of history and l
           <a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The broken spears">The broken spears</a>
         </h4>
         <p class="fr-book-author">By Miguel León Portilla, Miguel Leon-Portilla et al.</p>
-        
+
         <p class="fr-book-desc">Provides Indigenous perspectives on the Spanish conquest era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Rather than weakening Tecun Uman's importance, this combination of history and l
           <a href="https://www.amazon.com/s?k=Fifth+Sun+Camilla+Townsend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fifth Sun">Fifth Sun</a>
         </h4>
         <p class="fr-book-author">By Camilla Townsend</p>
-        
+
         <p class="fr-book-desc">Shows how Indigenous conquest narratives are reconstructed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fifth+Sun+Camilla+Townsend&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Rather than weakening Tecun Uman's importance, this combination of history and l
           <a href="https://www.amazon.com/s?k=The+Blood+of+Guatemala+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Blood of Guatemala">The Blood of Guatemala</a>
         </h4>
         <p class="fr-book-author">By Greg Grandin</p>
-        
+
         <p class="fr-book-desc">Provides broader national historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Blood+of+Guatemala+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Rather than weakening Tecun Uman's importance, this combination of history and l
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Allen+J.+Christenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
         </h4>
         <p class="fr-book-author">By Allen J. Christenson</p>
-        
+
         <p class="fr-book-desc">Essential background for K&#x27;iche&#x27; traditions and identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Allen+J.+Christenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

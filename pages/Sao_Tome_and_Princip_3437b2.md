@@ -1336,7 +1336,7 @@ So Tom and Prncipes enduring enigmas therefore arise less from secret plots than
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
 </h4>
 <p class="fr-book-author">By Adam Hochschild</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Politics and government, Race relations, Forced labor, Human rights movements, Indigenous peoples.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1353,7 @@ So Tom and Prncipes enduring enigmas therefore arise less from secret plots than
 <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The slave trade">The slave trade</a>
 </h4>
 <p class="fr-book-author">By Hugh Thomas</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Slavenhandel, Slave-trade, Slave trade, Commerce, Esclaves.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ So Tom and Prncipes enduring enigmas therefore arise less from secret plots than
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in Blackness">Born in Blackness</a>
 </h4>
 <p class="fr-book-author">By Howard W. French</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Africa, history, Slave trade, History, African diaspora, Modern History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1387,7 +1387,7 @@ So Tom and Prncipes enduring enigmas therefore arise less from secret plots than
 <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
 </h4>
 <p class="fr-book-author">By John Reader</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Geography, History, Pictorial works, Histoire, Bildband.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

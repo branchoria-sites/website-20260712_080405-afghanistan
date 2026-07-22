@@ -386,7 +386,7 @@ Yet the final minutes of the hikers' lives will almost certainly never be fully 
           <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Mountain">Dead Mountain</a>
         </h4>
         <p class="fr-book-author">By Donnie Eichar</p>
-        
+
         <p class="fr-book-desc">Entirely devoted to the Dyatlov Pass mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Yet the final minutes of the hikers' lives will almost certainly never be fully 
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
         </h4>
         <p class="fr-book-author">By Jon Krakauer</p>
-        
+
         <p class="fr-book-desc">Provides insight into decision-making in lethal mountain environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Yet the final minutes of the hikers' lives will almost certainly never be fully 
           <a href="https://www.amazon.com/s?k=The+white+spider+Heinrich+Harrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The white spider">The white spider</a>
         </h4>
         <p class="fr-book-author">By Heinrich Harrer</p>
-        
+
         <p class="fr-book-desc">Useful background on extreme alpine hazards and climbing judgment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+white+spider+Heinrich+Harrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ Yet the final minutes of the hikers' lives will almost certainly never be fully 
           <a href="https://www.amazon.com/s?k=Mountain+of+the+Dead+Keith+McCloskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountain of the Dead">Mountain of the Dead</a>
         </h4>
         <p class="fr-book-author">By Keith McCloskey</p>
-        
+
         <p class="fr-book-desc">Examines evidence and competing explanations in detail.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mountain+of+the+Dead+Keith+McCloskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

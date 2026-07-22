@@ -354,7 +354,7 @@ That combination of extraordinary preservation and incomplete historical record 
           <a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost City of the Incas">Lost City of the Incas</a>
         </h4>
         <p class="fr-book-author">By Hiram Bingham</p>
-        
+
         <p class="fr-book-desc">Appeals to readers fascinated by rediscovered ancient cities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ That combination of extraordinary preservation and incomplete historical record 
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
         </h4>
         <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
         <p class="fr-book-desc">Explains how archaeologists interpret monuments with limited inscriptions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ That combination of extraordinary preservation and incomplete historical record 
           <a href="https://www.amazon.com/s?k=Petra+Christian+Aug%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Petra">Petra</a>
         </h4>
         <p class="fr-book-author">By Christian Augé, Jean-Marie Dentzer et al.</p>
-        
+
         <p class="fr-book-desc">Focuses on Petra&#x27;s monuments, tombs and Nabataean archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Petra+Christian+Aug%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ That combination of extraordinary preservation and incomplete historical record 
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Jordan">The Archaeology of Jordan</a>
         </h4>
         <p class="fr-book-author">By Burton MacDonald, Russell B. Adams et al.</p>
-        
+
         <p class="fr-book-desc">Places Petra within the broader archaeology of Jordan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -348,7 +348,7 @@ The mystery therefore extends beyond the translation of a lost language. A succe
           <a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of writing">The story of writing</a>
         </h4>
         <p class="fr-book-author">By Andrew Robinson</p>
-        
+
         <p class="fr-book-desc">Explains how scripts develop and why some remain unread.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ The mystery therefore extends beyond the translation of a lost language. A succe
           <a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s writing systems">The world&#x27;s writing systems</a>
         </h4>
         <p class="fr-book-author">By William Bright, Peter T. Daniels</p>
-        
+
         <p class="fr-book-desc">Provides scholarly background on ancient scripts and decipherment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ The mystery therefore extends beyond the translation of a lost language. A succe
           <a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyprus">Cyprus</a>
         </h4>
         <p class="fr-book-author">By William Mallinson</p>
-        
+
         <p class="fr-book-desc">First published 2005. Subjects: Cyprus, history, Cyprus, politics and government, International relations, History, Foreign relations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ The mystery therefore extends beyond the translation of a lost language. A succe
           <a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts">Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts</a>
         </h4>
         <p class="fr-book-author">By Andrew Robinson</p>
-        
+
         <p class="fr-book-desc">Includes undeciphered writing systems such as Cypro-Minoan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

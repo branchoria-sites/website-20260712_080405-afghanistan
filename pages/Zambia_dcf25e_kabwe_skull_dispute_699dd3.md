@@ -350,7 +350,7 @@ The Kabwe Skull therefore represents two unresolved legacies at once. One concer
 <a href="https://www.amazon.com/s?k=The+incredible+human+journey+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The incredible human journey">The incredible human journey</a>
 </h4>
 <p class="fr-book-author">By Alice M. Roberts</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Voyages and travels, Human beings, Travel, Migrations, Human evolution.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+incredible+human+journey+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ The Kabwe Skull therefore represents two unresolved legacies at once. One concer
 <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past">The Human Past</a>
 </h4>
 <p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Social life and customs, Prehistoric peoples, Economic conditions, Human evolution, Hunting and gathering...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ The Kabwe Skull therefore represents two unresolved legacies at once. One concer
 <a href="https://www.amazon.com/s?k=Lone+Survivors+Chris+Stringer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lone Survivors">Lone Survivors</a>
 </h4>
 <p class="fr-book-author">By Chris Stringer</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Human beings, origin, Human evolution.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lone+Survivors+Chris+Stringer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The Kabwe Skull therefore represents two unresolved legacies at once. One concer
 <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kindred">Kindred</a>
 </h4>
 <p class="fr-book-author">By Rebecca Wragg Sykes</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Anthropology, Neanderthals, Human evolution, Fossil hominids, Human remains (Archaeology).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

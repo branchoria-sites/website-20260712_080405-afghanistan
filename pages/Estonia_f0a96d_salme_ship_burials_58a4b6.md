@@ -374,13 +374,30 @@ The crucial unanswered questions are historical rather than archaeological. No c
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Children of Ash and Elm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10401359-M.jpg" alt="Cover for Children of Ash and Elm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
+        </h4>
+        <p class="fr-book-author">By Neil Price</p>
+
+        <p class="fr-book-desc">Explains the world of the Scandinavian warriors buried at Salme.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=River+Kings+Cat+Jarman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open River Kings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12428600-M.jpg" alt="Cover for River Kings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=River+Kings+Cat+Jarman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River Kings">River Kings</a>
         </h4>
         <p class="fr-book-author">By Cat Jarman</p>
-        
+
         <p class="fr-book-desc">Demonstrates how archaeology reconstructs Viking networks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=River+Kings+Cat+Jarman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,27 +414,10 @@ The crucial unanswered questions are historical rather than archaeological. No c
           <a href="https://www.amazon.com/s?k=The+Viking+Spirit+Daniel+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Viking Spirit">The Viking Spirit</a>
         </h4>
         <p class="fr-book-author">By Daniel McCoy</p>
-        
+
         <p class="fr-book-desc">Introduces Viking beliefs and culture relevant to the burials.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Viking+Spirit+Daniel+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Children of Ash and Elm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10401359-M.jpg" alt="Cover for Children of Ash and Elm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
-        </h4>
-        <p class="fr-book-author">By Neil Price</p>
-        
-        <p class="fr-book-desc">Explains the world of the Scandinavian warriors buried at Salme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -431,7 +431,7 @@ The crucial unanswered questions are historical rather than archaeological. No c
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
         </h4>
         <p class="fr-book-author">By Alan Warwick Palmer</p>
-        
+
         <p class="fr-book-desc">Provides Baltic historical background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ The crucial unanswered questions are historical rather than archaeological. No c
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=River+Kings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">River Kings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Viking+Spirit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Viking Spirit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Children of Ash and Elm</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Children of Ash and Elm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=River+Kings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">River Kings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Viking+Spirit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Viking Spirit</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

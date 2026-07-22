@@ -392,7 +392,7 @@ Its enduring mystery is not about whether people built the monument—they certa
           <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, myths, and mysteries">Frauds, myths, and mysteries</a>
         </h4>
         <p class="fr-book-author">By Kenneth L. Feder</p>
-        
+
         <p class="fr-book-desc">Useful for evaluating competing interpretations of ancient monuments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Its enduring mystery is not about whether people built the monument—they certa
           <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Road of the Winds">On the Road of the Winds</a>
         </h4>
         <p class="fr-book-author">By Patrick Vinton Kirch</p>
-        
+
         <p class="fr-book-desc">Best broad context for understanding monumental construction in Oceania.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Its enduring mystery is not about whether people built the monument—they certa
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
         </h4>
         <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
         <p class="fr-book-desc">Explains how archaeologists interpret sites like Badrulchau.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ Its enduring mystery is not about whether people built the monument—they certa
           <a href="https://www.amazon.com/s?k=Archaeology+of+Oceania+Ian+Lilley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology of Oceania">Archaeology of Oceania</a>
         </h4>
         <p class="fr-book-author">By Ian Lilley</p>
-        
+
         <p class="fr-book-desc">Covers archaeological methods and regional monument traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+of+Oceania+Ian+Lilley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

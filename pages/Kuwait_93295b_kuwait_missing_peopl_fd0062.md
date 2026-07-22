@@ -335,7 +335,7 @@ For Kuwait, the unresolved fate of its missing people remains more than an histo
 <a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Middle East">The Middle East</a>
 </h4>
 <p class="fr-book-author">By Bernard Lewis</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Civilization, Economic conditions, Forecasting, History, Politics and culture.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ For Kuwait, the unresolved fate of its missing people remains more than an histo
 <a href="https://www.amazon.com/s?k=Crusade+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crusade">Crusade</a>
 </h4>
 <p class="fr-book-author">By Rick Atkinson</p>
-        
+
 <p class="fr-book-desc">First published 1993. Subjects: Military History, Persian Gulf War, 1991, Golfoorlog (1991), Golfkrieg (1990-1991), United states, histor...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Crusade+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For Kuwait, the unresolved fate of its missing people remains more than an histo
 <a href="https://www.amazon.com/s?k=The+Iran-Iraq+war+Pierre+Razoux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Iran-Iraq war">The Iran-Iraq war</a>
 </h4>
 <p class="fr-book-author">By Pierre Razoux</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Geopolitics, Iran-Iraq War, 1980-1988, Iran-iraq war, 1980-1988, Middle east, politics and government, Pe...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Iran-Iraq+war+Pierre+Razoux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For Kuwait, the unresolved fate of its missing people remains more than an histo
 <a href="https://www.amazon.com/s?k=The+Gulf+War+John+Bulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulf War">The Gulf War</a>
 </h4>
 <p class="fr-book-author">By John Bulloch, Harvey Morris</p>
-        
+
 <p class="fr-book-desc">First published 1989. Subjects: Iran-Iraq War, 1980-1988, Conflit irako-iranien, 1980-1988, HISTORY, Modern.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Gulf+War+John+Bulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

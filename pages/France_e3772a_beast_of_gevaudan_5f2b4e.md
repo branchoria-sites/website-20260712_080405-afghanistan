@@ -354,7 +354,7 @@ That balance between certainty and uncertainty explains why the Beast of Gévaud
 <a href="https://www.amazon.com/s?k=Never+Cry+Wolf+Farley+Mowat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Never Cry Wolf">Never Cry Wolf</a>
 </h4>
 <p class="fr-book-author">By Farley Mowat</p>
-        
+
 <p class="fr-book-desc">First published 1963. Subjects: Animal behavior, Behavior, Gray wolf, Habits and behavior of Animals, Mammals.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Never+Cry+Wolf+Farley+Mowat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ That balance between certainty and uncertainty explains why the Beast of Gévaud
 <a href="https://www.amazon.com/s?k=Citizens+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Citizens">Citizens</a>
 </h4>
 <p class="fr-book-author">By Simon Schama</p>
-        
+
 <p class="fr-book-desc">First published 1989. Subjects: Französische Revolution, Histoire, Geschichte, Nonfiction, Franse Revolutie.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Citizens+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ That balance between certainty and uncertainty explains why the Beast of Gévaud
 <a href="https://www.amazon.com/s?k=The+Wolf+Nate+Blakeslee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wolf">The Wolf</a>
 </h4>
 <p class="fr-book-author">By Nate Blakeslee</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Wolves -- Yellowstone National Park, Endangered species -- Yellowstone National Park, Wildlife management...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Wolf+Nate+Blakeslee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ That balance between certainty and uncertainty explains why the Beast of Gévaud
 <a href="https://www.amazon.com/s?k=The+Beast+of+G%C3%A9vaudan+Jay+M.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beast of Gévaudan">The Beast of Gévaudan</a>
 </h4>
 <p class="fr-book-author">By Jay M. Smith</p>
-        
+
 <p class="fr-book-desc">Directly examines the attacks, evidence and competing explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Beast+of+G%C3%A9vaudan+Jay+M.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

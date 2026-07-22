@@ -372,7 +372,7 @@ Researchers have also shown that the story did not end with the executions. Offi
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of South Africa">A history of South Africa</a>
         </h4>
         <p class="fr-book-author">By Leonard Monteath Thompson</p>
-        
+
         <p class="fr-book-desc">Provides colonial southern African context for the Basutoland trials.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Researchers have also shown that the story did not end with the executions. Offi
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
         </h4>
         <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-        
+
         <p class="fr-book-desc">Helps readers understand ritual and belief without sensationalism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Researchers have also shown that the story did not end with the executions. Offi
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
         </h4>
         <p class="fr-book-author">By Adam Ashforth</p>
-        
+
         <p class="fr-book-desc">Examines beliefs and violence relevant to ritual killing debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Researchers have also shown that the story did not end with the executions. Offi
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

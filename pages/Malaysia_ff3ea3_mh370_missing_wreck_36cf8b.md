@@ -375,7 +375,7 @@ Each new search narrows the range of possibilities rather than resetting the inv
           <a href="https://www.amazon.com/s?k=The+killing+zone+Paul+A+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The killing zone">The killing zone</a>
         </h4>
         <p class="fr-book-author">By Paul A Craig</p>
-        
+
         <p class="fr-book-desc">Offers broader aviation safety background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+killing+zone+Paul+A+Craig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Each new search narrows the range of possibilities rather than resetting the inv
           <a href="https://www.amazon.com/s?k=%22Goodnight+Malaysian+370%22+Mr+Ewan+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Goodnight Malaysian 370&quot;">&quot;Goodnight Malaysian 370&quot;</a>
         </h4>
         <p class="fr-book-author">By Mr Ewan Wilson, Mr Geoff Taylor</p>
-        
+
         <p class="fr-book-desc">Explores evidence, search efforts and theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=%22Goodnight+Malaysian+370%22+Mr+Ewan+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Each new search narrows the range of possibilities rather than resetting the inv
           <a href="https://www.amazon.com/s?k=Why+planes+crash+David+Soucie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why planes crash">Why planes crash</a>
         </h4>
         <p class="fr-book-author">By David Soucie</p>
-        
+
         <p class="fr-book-desc">Explains investigative techniques relevant to MH370.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+planes+crash+David+Soucie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Each new search narrows the range of possibilities rather than resetting the inv
           <a href="https://www.amazon.com/s?k=Flight+232+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flight 232">Flight 232</a>
         </h4>
         <p class="fr-book-author">By Laurence Gonzales</p>
-        
+
         <p class="fr-book-desc">Provides context for accident investigation and aviation safety.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flight+232+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -344,7 +344,7 @@ Future discoveries could transform understanding of the inscription. Another tex
           <a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A concise history of Bulgaria">A concise history of Bulgaria</a>
         </h4>
         <p class="fr-book-author">By R. J. Crampton</p>
-        
+
         <p class="fr-book-desc">Provides historical background for Bulgaria&#x27;s archaeological heritage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Future discoveries could transform understanding of the inscription. Another tex
           <a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Riddle of the Labyrinth">Riddle of the Labyrinth</a>
         </h4>
         <p class="fr-book-author">By Margalit Fox</p>
-        
+
         <p class="fr-book-desc">Introduces the methods and challenges of deciphering short inscriptions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Future discoveries could transform understanding of the inscription. Another tex
           <a href="https://www.amazon.com/s?k=The+writing+systems+of+the+world+Florian+Coulmas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The writing systems of the world">The writing systems of the world</a>
         </h4>
         <p class="fr-book-author">By Florian Coulmas</p>
-        
+
         <p class="fr-book-desc">Explains how writing systems are classified and interpreted.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+writing+systems+of+the+world+Florian+Coulmas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,16 +389,16 @@ Future discoveries could transform understanding of the inscription. Another tex
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/918464-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
+          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
         </h4>
-        <p class="fr-book-author">By Misha Glenny</p>
-        
-        <p class="fr-book-desc">First published 2000. Subjects: Politics and government, Nationalism, Balkan peninsula, politics and government, Nationalisme, Politique...</p>
+        <p class="fr-book-author">By Mark Mazower</p>
+
+        <p class="fr-book-desc">First published 2000. Subjects: Histoire, History, Historia, New York Times reviewed, Balkan peninsula, history.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

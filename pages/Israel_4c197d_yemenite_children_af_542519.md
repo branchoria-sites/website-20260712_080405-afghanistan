@@ -366,7 +366,7 @@ As a result, the affair has become a lasting symbol of the challenges faced duri
           <a href="https://www.amazon.com/s?k=My+promised+land+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My promised land">My promised land</a>
         </h4>
         <p class="fr-book-author">By Ari Shavit</p>
-        
+
         <p class="fr-book-desc">Discusses the social tensions of early Israeli society.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=My+promised+land+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ As a result, the affair has become a lasting symbol of the challenges faced duri
           <a href="https://www.amazon.com/s?k=Like+dreamers+%3A+the+story+of+the+Israeli+paratroopers+who+reunited+Jerusalem+and+divided+a+nation+Yossi+Klein+Halevi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Like dreamers : the story of the Israeli paratroopers who reunited Jerusalem and divided a nation">Like dreamers : the story of the Israeli paratroopers who reu...</a>
         </h4>
         <p class="fr-book-author">By Yossi Klein Halevi</p>
-        
+
         <p class="fr-book-desc">Provides broader perspective on Israeli society after statehood.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Like+dreamers+%3A+the+story+of+the+Israeli+paratroopers+who+reunited+Jerusalem+and+divided+a+nation+Yossi+Klein+Halevi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ As a result, the affair has become a lasting symbol of the challenges faced duri
           <a href="https://www.amazon.com/s?k=A+history+of+Israel+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Israel">A history of Israel</a>
         </h4>
         <p class="fr-book-author">By Howard Morley Sachar</p>
-        
+
         <p class="fr-book-desc">Covers immigration, institutions and the state&#x27;s formative years.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Israel+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ As a result, the affair has become a lasting symbol of the challenges faced duri
           <a href="https://www.amazon.com/s?k=Israel+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Israel">Israel</a>
         </h4>
         <p class="fr-book-author">By Martin Gilbert</p>
-        
+
         <p class="fr-book-desc">First published 1998. Subjects: History, Arab-Israeli conflict, Jews, Geschichte, Israel, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Israel+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -376,7 +376,7 @@ When the available evidence is weighed as a whole, the reported death in the Tai
           <a href="https://www.amazon.com/s?k=His+majesty%27s+opponent+Sugata+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="His majesty&#x27;s opponent">His majesty&#x27;s opponent</a>
         </h4>
         <p class="fr-book-author">By Sugata Bose</p>
-        
+
         <p class="fr-book-desc">Explains Bose&#x27;s life, wartime activities and the circumstances of his disappearance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=His+majesty%27s+opponent+Sugata+Bose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ When the available evidence is weighed as a whole, the reported death in the Tai
           <a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="India">India</a>
         </h4>
         <p class="fr-book-author">By John Keay</p>
-        
+
         <p class="fr-book-desc">First published 2000. Subjects: India, History, India, history, Ds451 .k365 2000b, 954.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=India+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ When the available evidence is weighed as a whole, the reported death in the Tai
           <a href="https://www.amazon.com/s?k=The+Indian+struggle%2C+Subhas+Chandra+Bose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indian struggle,">The Indian struggle,</a>
         </h4>
         <p class="fr-book-author">By Subhas Chandra Bose</p>
-        
+
         <p class="fr-book-desc">Provides essential background to his political career.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Indian+struggle%2C+Subhas+Chandra+Bose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ When the available evidence is weighed as a whole, the reported death in the Tai
           <a href="https://www.amazon.com/s?k=India%27s+biggest+cover-up+Anuj+Dhar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="India&#x27;s biggest cover-up">India&#x27;s biggest cover-up</a>
         </h4>
         <p class="fr-book-author">By Anuj Dhar</p>
-        
+
         <p class="fr-book-desc">Presents one of the major alternative interpretations of Bose&#x27;s fate.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=India%27s+biggest+cover-up+Anuj+Dhar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

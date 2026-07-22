@@ -354,7 +354,7 @@ The most convincing interpretation is that the attack formed part of the Soviet 
 <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second World War">The Second World War</a>
 </h4>
 <p class="fr-book-author">By Antony Beevor</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: World War, 1939-1945, Sino-japanese war, 1937-1945, New York Times reviewed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ The most convincing interpretation is that the attack formed part of the Soviet 
 <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
 </h4>
 <p class="fr-book-author">By Alan Warwick Palmer</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: History, Baltic states, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The most convincing interpretation is that the attack formed part of the Soviet 
 <a href="https://www.amazon.com/s?k=Estonia+Neil+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Estonia">Estonia</a>
 </h4>
 <p class="fr-book-author">By Neil Taylor</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Estonia, history, Estonia, politics and government, Estonia, foreign relations, Politics and government,...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Estonia+Neil+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The most convincing interpretation is that the attack formed part of the Soviet 
 <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
 </h4>
 <p class="fr-book-author">By Timothy Snyder</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

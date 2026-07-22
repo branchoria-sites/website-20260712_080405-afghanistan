@@ -343,16 +343,16 @@ Their mystery lies not in hidden codes or spectacular conspiracies but in the in
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Persian+Empire+Kuhrt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Persian Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2415171-M.jpg" alt="Cover for The Persian Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Persian+empire+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Persian empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139489-M.jpg" alt="Cover for The Persian empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Persian+Empire+Kuhrt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Persian Empire">The Persian Empire</a>
+          <a href="https://www.amazon.com/s?k=The+Persian+empire+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Persian empire">The Persian empire</a>
         </h4>
-        <p class="fr-book-author">By Kuhrt, Amélie Kuhrt</p>
-        
+        <p class="fr-book-author">By Allen, Lindsay.</p>
+
         <p class="fr-book-desc">Collects and interprets Achaemenid sources, including administrative material essential to understanding Persepolis and imperial government.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Persian+Empire+Kuhrt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Persian+empire+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -366,7 +366,7 @@ Their mystery lies not in hidden codes or spectacular conspiracies but in the in
           <a href="https://www.amazon.com/s?k=Ancient+Persia+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Persia">Ancient Persia</a>
         </h4>
         <p class="fr-book-author">By Matt Waters</p>
-        
+
         <p class="fr-book-desc">Explains Achaemenid institutions, geography and sources while showing how archives reshape conventional accounts of the empire.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ancient+Persia+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,16 +377,16 @@ Their mystery lies not in hidden codes or spectacular conspiracies but in the in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Persians+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Persians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13455944-M.jpg" alt="Cover for Persians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Persians+Homa+Katouzian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Persians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10212512-M.jpg" alt="Cover for The Persians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Persians+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Persians">Persians</a>
+          <a href="https://www.amazon.com/s?k=The+Persians+Homa+Katouzian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Persians">The Persians</a>
         </h4>
-        <p class="fr-book-author">By Lloyd Llewellyn-Jones</p>
-        
-        <p class="fr-book-desc">First published 2022. Subjects: Persia, ancient history, Asian / Middle Eastern history.</p>
+        <p class="fr-book-author">By Homa Katouzian</p>
+
+        <p class="fr-book-desc">First published 2009. Subjects: History, Regions &amp; Countries - Asia &amp; the Middle East, History &amp; Archaeology, Middle East, General.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Persians+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Persians+Homa+Katouzian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -400,7 +400,7 @@ Their mystery lies not in hidden codes or spectacular conspiracies but in the in
           <a href="https://www.amazon.com/s?k=King+of+the+World+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King of the World">King of the World</a>
         </h4>
         <p class="fr-book-author">By Matt Waters</p>
-        
+
         <p class="fr-book-desc">Provides context for the creation of the Achaemenid imperial system later administered and documented at Persepolis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+of+the+World+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Their mystery lies not in hidden codes or spectacular conspiracies but in the in
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persian+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persian Empire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Persia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Persia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Persians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Persians</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persian+empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persian empire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Persia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Persia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persians</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -1347,7 +1347,7 @@ Sri Lanka’s enduring enigmas are therefore most revealing at the point where s
           <a href="https://www.amazon.com/s?k=The+Ramayana+Rasipuram+Krishnaswamy+Narayan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ramayana">The Ramayana</a>
         </h4>
         <p class="fr-book-author">By Rasipuram Krishnaswamy Narayan</p>
-        
+
         <p class="fr-book-desc">Relevant to traditions surrounding Adam&#x27;s Bridge.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ramayana+Rasipuram+Krishnaswamy+Narayan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1364,7 +1364,7 @@ Sri Lanka’s enduring enigmas are therefore most revealing at the point where s
           <a href="https://www.amazon.com/s?k=The+cage+Gordon+Weiss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cage">The cage</a>
         </h4>
         <p class="fr-book-author">By Gordon Weiss</p>
-        
+
         <p class="fr-book-desc">Essential for understanding disappearances and the civil war.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+cage+Gordon+Weiss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1381,7 +1381,7 @@ Sri Lanka’s enduring enigmas are therefore most revealing at the point where s
           <a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Historical Relation of the Island Ceylon in the East Indies">An Historical Relation of the Island Ceylon in the East Indies</a>
         </h4>
         <p class="fr-book-author">By Robert Knox</p>
-        
+
         <p class="fr-book-desc">First published 2006.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1398,7 +1398,7 @@ Sri Lanka’s enduring enigmas are therefore most revealing at the point where s
           <a href="https://www.amazon.com/s?k=the+sri+lanka+reader+history%2C+culture%2C+politics+ed+john+clifford+holt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="the sri lanka reader history, culture, politics">the sri lanka reader history, culture, politics</a>
         </h4>
         <p class="fr-book-author">By ed john clifford holt</p>
-        
+
         <p class="fr-book-desc">First published 2011.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=the+sri+lanka+reader+history%2C+culture%2C+politics+ed+john+clifford+holt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

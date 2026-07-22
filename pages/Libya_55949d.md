@@ -1321,7 +1321,7 @@ Libya’s historical mysteries endure because missing evidence was often produce
 <a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Modern Libya">A History of Modern Libya</a>
 </h4>
 <p class="fr-book-author">By Dirk Vandewalle</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Libya, history, Libya, politics and government, Liberia, economic conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1338,7 +1338,7 @@ Libya’s historical mysteries endure because missing evidence was often produce
 <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return: Fathers, Sons and the Land in Between">The Return: Fathers, Sons and the Land in Between</a>
 </h4>
 <p class="fr-book-author">By Hisham Matar</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Matar, Hisham, 1970-, Matar, Hisham, 1970- -- Travel -- Libya, Matar, Hisham, 1970- -- Family, Matar, Jab...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,7 +1355,7 @@ Libya’s historical mysteries endure because missing evidence was often produce
 <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya">Libya</a>
 </h4>
 <p class="fr-book-author">By Ronald Bruce St John</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Revolutions, Libya, history, Libya, politics and government, Libya, economic conditions, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ Libya’s historical mysteries endure because missing evidence was often produce
 <a href="https://www.amazon.com/s?k=Vision+David+Wilkerson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vision">Vision</a>
 </h4>
 <p class="fr-book-author">By David Wilkerson</p>
-        
+
 <p class="fr-book-desc">First published 1974. Subjects: Prophesy USA, Visions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vision+David+Wilkerson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

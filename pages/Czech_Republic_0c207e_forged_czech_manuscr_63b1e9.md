@@ -356,7 +356,7 @@ Finally, the affair illustrates the self-correcting nature of scholarship. Decad
           <a href="https://www.amazon.com/s?k=The+Forger%27s+Spell+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Forger&#x27;s Spell">The Forger&#x27;s Spell</a>
         </h4>
         <p class="fr-book-author">By Edward Dolnick</p>
-        
+
         <p class="fr-book-desc">Provides accessible context for famous historical deceptions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Forger%27s+Spell+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Finally, the affair illustrates the self-correcting nature of scholarship. Decad
           <a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret history of the world">The secret history of the world</a>
         </h4>
         <p class="fr-book-author">By Mark Booth</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in famous historical mysteries and myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Finally, the affair illustrates the self-correcting nature of scholarship. Decad
           <a href="https://www.amazon.com/s?k=The+Golden+Maze+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Maze">The Golden Maze</a>
         </h4>
         <p class="fr-book-author">By Richard Fidler</p>
-        
+
         <p class="fr-book-desc">Gives wider historical context for Czech cultural identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Maze+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Finally, the affair illustrates the self-correcting nature of scholarship. Decad
           <a href="https://www.amazon.com/s?k=Prague+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague">Prague</a>
         </h4>
         <p class="fr-book-author">By Richard D. E. Burton</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Civilization, Description and travel, Prague (czech republic), description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Prague+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

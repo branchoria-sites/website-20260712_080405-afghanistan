@@ -341,7 +341,7 @@ For that reason, Betty Stiven's tomb remains a genuine historical puzzle rather 
           <a href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago+Eric+Eustace+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of the people of Trinidad and Tobago">History of the people of Trinidad and Tobago</a>
         </h4>
         <p class="fr-book-author">By Eric Eustace Williams</p>
-        
+
         <p class="fr-book-desc">Provides background on Tobago&#x27;s colonial period.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago+Eric+Eustace+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -358,7 +358,7 @@ For that reason, Betty Stiven's tomb remains a genuine historical puzzle rather 
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Trinidad, 1783-1962">A history of modern Trinidad, 1783-1962</a>
         </h4>
         <p class="fr-book-author">By Bridget Brereton</p>
-        
+
         <p class="fr-book-desc">Explains the colonial society in which the Betty Stiven story emerged.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ For that reason, Betty Stiven's tomb remains a genuine historical puzzle rather 
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
         </h4>
         <p class="fr-book-author">By Kate Summerscale</p>
-        
+
         <p class="fr-book-desc">Explores how historical evidence and interpretation create enduring mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For that reason, Betty Stiven's tomb remains a genuine historical puzzle rather 
           <a href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five">The Five</a>
         </h4>
         <p class="fr-book-author">By Hallie Rubenhold, Louise Brealey</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in reconstructing historical identities from sparse evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Five+Hallie+Rubenhold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

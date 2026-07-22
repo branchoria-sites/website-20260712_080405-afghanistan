@@ -389,7 +389,7 @@ The enduring mystery of Le Morne is therefore not whether resistance occurred—
 <a href="https://www.amazon.com/s?k=Bury+My+Heart+at+Wounded+Knee+Dee+Alexander+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bury My Heart at Wounded Knee">Bury My Heart at Wounded Knee</a>
 </h4>
 <p class="fr-book-author">By Dee Alexander Brown</p>
-        
+
 <p class="fr-book-desc">First published 1672. Subjects: Indians of North America, History, Wars, West (United States), HISTORY / Native American.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bury+My+Heart+at+Wounded+Knee+Dee+Alexander+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ The enduring mystery of Le Morne is therefore not whether resistance occurred—
 <a href="https://www.amazon.com/s?k=The+Half+Has+Never+Been+Told+Edward+E.+Baptist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Half Has Never Been Told">The Half Has Never Been Told</a>
 </h4>
 <p class="fr-book-author">By Edward E. Baptist</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Social conditions, African Americans, Economic aspects, Slavery, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Half+Has+Never+Been+Told+Edward+E.+Baptist&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ The enduring mystery of Le Morne is therefore not whether resistance occurred—
 <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The slave trade">The slave trade</a>
 </h4>
 <p class="fr-book-author">By Hugh Thomas</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Slavenhandel, Slave-trade, Slave trade, Commerce, Esclaves.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ The enduring mystery of Le Morne is therefore not whether resistance occurred—
 <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interesting Narrative of the Life of Olaudah Equiano">Interesting Narrative of the Life of Olaudah Equiano</a>
 </h4>
 <p class="fr-book-author">By Olaudah Equiano</p>
-        
+
 <p class="fr-book-desc">First published 2009.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

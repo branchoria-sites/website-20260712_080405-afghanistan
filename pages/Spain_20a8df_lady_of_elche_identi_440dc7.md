@@ -371,7 +371,7 @@ Whether she represents a powerful woman, a priestess, an ancestral figure or a g
           <a href="https://www.amazon.com/s?k=Lives+of+the+Romans+Philip+Matyszak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lives of the Romans">Lives of the Romans</a>
         </h4>
         <p class="fr-book-author">By Philip Matyszak</p>
-        
+
         <p class="fr-book-desc">Provides accessible context for Roman-era Iberia and elite identities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lives+of+the+Romans+Philip+Matyszak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Whether she represents a powerful woman, a priestess, an ancestral figure or a g
           <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Spain">Ghosts of Spain</a>
         </h4>
         <p class="fr-book-author">By Giles Tremlett</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of Spain&#x27;s historical memory and heritage debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Whether she represents a powerful woman, a priestess, an ancestral figure or a g
           <a href="https://www.amazon.com/s?k=The+story+of+Spain+Mark+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of Spain">The story of Spain</a>
         </h4>
         <p class="fr-book-author">By Mark Williams</p>
-        
+
         <p class="fr-book-desc">Places the Lady of Elche within Spain&#x27;s wider historical development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+story+of+Spain+Mark+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Whether she represents a powerful woman, a priestess, an ancestral figure or a g
           <a href="https://www.amazon.com/s?k=The+Archaeology+Of+Iberia+M.+DiAz-Andreu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology Of Iberia">The Archaeology Of Iberia</a>
         </h4>
         <p class="fr-book-author">By M. DiAz-Andreu</p>
-        
+
         <p class="fr-book-desc">Explains the archaeological evidence used to interpret Iberian artifacts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+Of+Iberia+M.+DiAz-Andreu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

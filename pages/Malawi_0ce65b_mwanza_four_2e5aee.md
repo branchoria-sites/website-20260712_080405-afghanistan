@@ -347,7 +347,7 @@ For that reason, the enduring mystery is no longer whether the Mwanza Four were 
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
         </h4>
         <p class="fr-book-author">By Lawrence Wright</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in complex political investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ For that reason, the enduring mystery is no longer whether the Mwanza Four were 
           <a href="https://www.amazon.com/s?k=Malawi%3B+a+political+and+economic+history+John+G.+Pike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malawi; a political and economic history">Malawi; a political and economic history</a>
         </h4>
         <p class="fr-book-author">By John G. Pike</p>
-        
+
         <p class="fr-book-desc">Covers Malawi&#x27;s political history surrounding the Mwanza Four.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Malawi%3B+a+political+and+economic+history+John+G.+Pike&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For that reason, the enduring mystery is no longer whether the Mwanza Four were 
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Explains authoritarian politics across postcolonial Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For that reason, the enduring mystery is no longer whether the Mwanza Four were 
           <a href="https://www.amazon.com/s?k=Africa+since+1940+Frederick+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since 1940">Africa since 1940</a>
         </h4>
         <p class="fr-book-author">By Frederick Cooper, Frederick Cooper</p>
-        
+
         <p class="fr-book-desc">Places the case within regional political developments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+since+1940+Frederick+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

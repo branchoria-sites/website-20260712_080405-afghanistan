@@ -385,7 +385,7 @@ For Uruguay, both wrecks have become more than underwater ruins. They represent 
 <a href="https://www.amazon.com/s?k=The+Battle+of+the+River+Plate+Richard+Woodman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Battle of the River Plate">The Battle of the River Plate</a>
 </h4>
 <p class="fr-book-author">By Richard Woodman</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: River Plate, Battle of the, 1939, River plate, battle of the, 1939.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Battle+of+the+River+Plate+Richard+Woodman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For Uruguay, both wrecks have become more than underwater ruins. They represent 
 <a href="https://www.amazon.com/s?k=Underwater+archaeology+Nautical+Archaeology+Society.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underwater archaeology">Underwater archaeology</a>
 </h4>
 <p class="fr-book-author">By Nautical Archaeology Society.</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Handbooks, manuals, Handbooks, manuals, etc, Shipwrecks, Underwater archaeology, Methodology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Underwater+archaeology+Nautical+Archaeology+Society.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For Uruguay, both wrecks have become more than underwater ruins. They represent 
 <a href="https://www.amazon.com/s?k=Shipwreck+Sam+Willis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shipwreck">Shipwreck</a>
 </h4>
 <p class="fr-book-author">By Sam Willis</p>
-        
+
 <p class="fr-book-desc">First published 2008.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Shipwreck+Sam+Willis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ For Uruguay, both wrecks have become more than underwater ruins. They represent 
 <a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River Plate 1939">River Plate 1939</a>
 </h4>
 <p class="fr-book-author">By Angus Konstam, Tony Bryan</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: River plate, battle of the, 1939, Warships, Admiral Graf Spee (Battleship), River Plate, Battle of the (1...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

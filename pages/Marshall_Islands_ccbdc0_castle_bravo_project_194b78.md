@@ -357,7 +357,7 @@ Most modern scholarship reaches a cautious conclusion. Castle Bravo was almost c
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
         </h4>
         <p class="fr-book-author">By Eric Schlosser</p>
-        
+
         <p class="fr-book-desc">Explores nuclear weapons development and safety culture relevant to Castle Bravo.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ Most modern scholarship reaches a cautious conclusion. Castle Bravo was almost c
           <a href="https://www.amazon.com/s?k=Atomic+Accidents+%3A+A+History+of+Nuclear+Meltdowns+and+Disasters+James+Mahaffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Accidents : A History of Nuclear Meltdowns and Disasters">Atomic Accidents : A History of Nuclear Meltdowns and Disasters</a>
         </h4>
         <p class="fr-book-author">By James Mahaffey</p>
-        
+
         <p class="fr-book-desc">Includes Castle Bravo and its scientific consequences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Atomic+Accidents+%3A+A+History+of+Nuclear+Meltdowns+and+Disasters+James+Mahaffey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ Most modern scholarship reaches a cautious conclusion. Castle Bravo was almost c
           <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The making of the atomic bomb">The making of the atomic bomb</a>
         </h4>
         <p class="fr-book-author">By Richard Rhodes</p>
-        
+
         <p class="fr-book-desc">Essential background on the origins of the nuclear age.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Most modern scholarship reaches a cautious conclusion. Castle Bravo was almost c
           <a href="https://www.amazon.com/s?k=Surviving+paradise+Peter+Rudiak-Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Surviving paradise">Surviving paradise</a>
         </h4>
         <p class="fr-book-author">By Peter Rudiak-Gould</p>
-        
+
         <p class="fr-book-desc">Provides local context for the long-term legacy of testing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Surviving+paradise+Peter+Rudiak-Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

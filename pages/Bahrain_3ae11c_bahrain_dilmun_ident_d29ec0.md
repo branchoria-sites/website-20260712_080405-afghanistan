@@ -337,7 +337,7 @@ At the same time, the story remains incomplete. Bahrain is best understood not a
 <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Places Gulf trade within interconnected Bronze Age networks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ At the same time, the story remains incomplete. Bahrain is best understood not a
 <a href="https://www.amazon.com/s?k=The+Sumerians%3A+their+history%2C+culture%2C+and+character+Samuel+Noah+Kramer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sumerians: their history, culture, and character">The Sumerians: their history, culture, and character</a>
 </h4>
 <p class="fr-book-author">By Samuel Noah Kramer</p>
-        
+
 <p class="fr-book-desc">First published 1963. Subjects: Sumerians.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sumerians%3A+their+history%2C+culture%2C+and+character+Samuel+Noah+Kramer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ At the same time, the story remains incomplete. Bahrain is best understood not a
 <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
 </h4>
 <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Archaeology, Textbooks, Methodology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ At the same time, the story remains incomplete. Bahrain is best understood not a
 <a href="https://www.amazon.com/s?k=The+Arabian+Gulf+in+antiquity+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Gulf in antiquity">The Arabian Gulf in antiquity</a>
 </h4>
 <p class="fr-book-author">By Daniel T. Potts</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: Antiquities, History, Persian gulf region, history, Persian gulf region, antiquities, Archaeology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Arabian+Gulf+in+antiquity+Daniel+T.+Potts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

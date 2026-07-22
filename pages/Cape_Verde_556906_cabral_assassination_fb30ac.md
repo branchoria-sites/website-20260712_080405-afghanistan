@@ -412,7 +412,7 @@ For Cape Verde, the assassination remains more than an unresolved murder investi
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
         </h4>
         <p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
-        
+
         <p class="fr-book-desc">Introduces Cabral&#x27;s ideas and historical significance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For Cape Verde, the assassination remains more than an unresolved murder investi
           <a href="https://www.amazon.com/s?k=Unity+and+struggle+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unity and struggle">Unity and struggle</a>
         </h4>
         <p class="fr-book-author">By Amílcar Cabral, Basil Davidson</p>
-        
+
         <p class="fr-book-desc">Primary writings illuminate the political context before his assassination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unity+and+struggle+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ For Cape Verde, the assassination remains more than an unresolved murder investi
           <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire, 1415-1825">The Portuguese Seaborne Empire, 1415-1825</a>
         </h4>
         <p class="fr-book-author">By C.R. BOXER</p>
-        
+
         <p class="fr-book-desc">First published 1969.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

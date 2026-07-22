@@ -1355,7 +1355,7 @@ These mysteries endure because they concern more than curiosity. They shape who 
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Explores colonial Central and West African history relevant to regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ These mysteries endure because they concern more than curiosity. They shape who 
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places Sierra Leone&#x27;s unresolved historical questions in broader regional history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1389,7 +1389,7 @@ These mysteries endure because they concern more than curiosity. They shape who 
           <a href="https://www.amazon.com/s?k=A+dirty+war+in+West+Africa+Lansana+Gberie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dirty war in West Africa">A dirty war in West Africa</a>
         </h4>
         <p class="fr-book-author">By Lansana Gberie</p>
-        
+
         <p class="fr-book-desc">Provides context for several mysteries linked to the civil war and political uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+dirty+war+in+West+Africa+Lansana+Gberie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1406,7 +1406,7 @@ These mysteries endure because they concern more than curiosity. They shape who 
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Africa">The Archaeology of Africa</a>
         </h4>
         <p class="fr-book-author">By Thurstan Shaw</p>
-        
+
         <p class="fr-book-desc">Useful background for archaeological mysteries including ancient stone figures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -358,7 +358,7 @@ The case also occupies an important place within Mozambique's broader history of
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ The case also occupies an important place within Mozambique's broader history of
 <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
 </h4>
 <p class="fr-book-author">By Paul Nugent</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: History, Africa, history, Comparative government, Africa, politics and government, Politieke onafhankelij...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ The case also occupies an important place within Mozambique's broader history of
 <a href="https://www.amazon.com/s?k=A+history+of+Mozambique+M.+D.+D.+Newitt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Mozambique">A history of Mozambique</a>
 </h4>
 <p class="fr-book-author">By M. D. D. Newitt</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: History, Mozambique, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Mozambique+M.+D.+D.+Newitt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ The case also occupies an important place within Mozambique's broader history of
 <a href="https://www.amazon.com/s?k=Samora+Machel+Barry+Munslow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Samora Machel">Samora Machel</a>
 </h4>
 <p class="fr-book-author">By Barry Munslow, Samora Machel</p>
-        
+
 <p class="fr-book-desc">First published 1985. Subjects: FRELIMO, History, Mozambique Independence and Civil War, 1975-1994, Politics and government, Social condi...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Samora+Machel+Barry+Munslow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

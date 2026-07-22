@@ -374,7 +374,7 @@ For Iceland, the case therefore remains significant not because it has been solv
           <a href="https://www.amazon.com/s?k=Convicting+the+Innocent+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Convicting the Innocent">Convicting the Innocent</a>
         </h4>
         <p class="fr-book-author">By Brandon L. Garrett</p>
-        
+
         <p class="fr-book-desc">Directly examines how innocent people can be convicted despite weak evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Convicting+the+Innocent+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For Iceland, the case therefore remains significant not because it has been solv
           <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Iceland Changed the World">How Iceland Changed the World</a>
         </h4>
         <p class="fr-book-author">By Egill Bjarnason</p>
-        
+
         <p class="fr-book-desc">Provides historical and cultural background for understanding Iceland&#x27;s most famous criminal case.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For Iceland, the case therefore remains significant not because it has been solv
           <a href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Duped">Duped</a>
         </h4>
         <p class="fr-book-author">By Saul Kassin</p>
-        
+
         <p class="fr-book-desc">First published 2022.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

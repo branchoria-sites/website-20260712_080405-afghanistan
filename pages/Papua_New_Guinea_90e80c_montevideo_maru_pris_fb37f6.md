@@ -354,7 +354,7 @@ The *Montevideo Maru* also illustrates a broader feature of wartime historical m
 <a href="https://www.amazon.com/s?k=The+conquering+tide+Ian+W.+Toll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conquering tide">The conquering tide</a>
 </h4>
 <p class="fr-book-author">By Ian W. Toll</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Campaigns, Japanese Naval operations, American Naval operations, World War, 1939-1945, World war, 1939-19...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+conquering+tide+Ian+W.+Toll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ The *Montevideo Maru* also illustrates a broader feature of wartime historical m
 <a href="https://www.amazon.com/s?k=Prisoners+of+the+Japanese+Gavan+Daws&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prisoners of the Japanese">Prisoners of the Japanese</a>
 </h4>
 <p class="fr-book-author">By Gavan Daws</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Prisoners of war, Geallieerden, World War, 1939-1945, Krijgsgevangenen, Kriegsgefangener.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Prisoners+of+the+Japanese+Gavan+Daws&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The *Montevideo Maru* also illustrates a broader feature of wartime historical m
 <a href="https://www.amazon.com/s?k=Pacific+Crucible+Ian+W.+Toll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pacific Crucible">Pacific Crucible</a>
 </h4>
 <p class="fr-book-author">By Ian W. Toll</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Weltkrieg, Japanese Naval operations, Campaigns, American Naval operations, World War, 1939-1945.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Pacific+Crucible+Ian+W.+Toll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The *Montevideo Maru* also illustrates a broader feature of wartime historical m
 <a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kokoda">Kokoda</a>
 </h4>
 <p class="fr-book-author">By Paul Ham</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Campaigns, World War, 1939-1945, Papua new guinea, World war, 1939-1945, campaigns, new guinea, Military...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

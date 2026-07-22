@@ -394,7 +394,7 @@ For historians of French archaeology, Glozel remains a cautionary case. It demon
           <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, myths, and mysteries">Frauds, myths, and mysteries</a>
         </h4>
         <p class="fr-book-author">By Kenneth L. Feder</p>
-        
+
         <p class="fr-book-desc">Explains how disputed archaeological discoveries are evaluated.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For historians of French archaeology, Glozel remains a cautionary case. It demon
           <a href="https://www.amazon.com/s?k=Archaeological+theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeological theory">Archaeological theory</a>
         </h4>
         <p class="fr-book-author">By Matthew Johnson</p>
-        
+
         <p class="fr-book-desc">Provides tools for understanding controversies like Glozel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeological+theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For historians of French archaeology, Glozel remains a cautionary case. It demon
           <a href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paris">Paris</a>
         </h4>
         <p class="fr-book-author">By Colin Jones</p>
-        
+
         <p class="fr-book-desc">First published 2004.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ For historians of French archaeology, Glozel remains a cautionary case. It demon
           <a href="https://www.amazon.com/s?k=The+Wolf+Nate+Blakeslee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wolf">The Wolf</a>
         </h4>
         <p class="fr-book-author">By Nate Blakeslee</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Wolves -- Yellowstone National Park, Endangered species -- Yellowstone National Park, Wildlife management...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Wolf+Nate+Blakeslee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -371,7 +371,7 @@ Every newly excavated grave, newly identified victim or newly recovered document
 <a href="https://www.amazon.com/s?k=This+Divided+Island%3A+Stories+from+the+Sri+Lankan+War+Samanth+Subramanian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Divided Island: Stories from the Sri Lankan War">This Divided Island: Stories from the Sri Lankan War</a>
 </h4>
 <p class="fr-book-author">By Samanth Subramanian</p>
-        
+
 <p class="fr-book-desc">First published 1979. Subjects: Sri lanka, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=This+Divided+Island%3A+Stories+from+the+Sri+Lankan+War+Samanth+Subramanian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Every newly excavated grave, newly identified victim or newly recovered document
 <a href="https://www.amazon.com/s?k=Still+counting+the+dead+Frances+Harrison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Still counting the dead">Still counting the dead</a>
 </h4>
 <p class="fr-book-author">By Frances Harrison</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Personal narratives, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Still+counting+the+dead+Frances+Harrison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Every newly excavated grave, newly identified victim or newly recovered document
 <a href="https://www.amazon.com/s?k=The+cage+Gordon+Weiss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cage">The cage</a>
 </h4>
 <p class="fr-book-author">By Gordon Weiss</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Politics and government, Tamil̲īl̲a Viṭutalaippulikaḷ (Association), Civilian war casualties, Casualties,...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+cage+Gordon+Weiss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Every newly excavated grave, newly identified victim or newly recovered document
 <a href="https://www.amazon.com/s?k=the+sri+lanka+reader+history%2C+culture%2C+politics+ed+john+clifford+holt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="the sri lanka reader history, culture, politics">the sri lanka reader history, culture, politics</a>
 </h4>
 <p class="fr-book-author">By ed john clifford holt</p>
-        
+
 <p class="fr-book-desc">First published 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=the+sri+lanka+reader+history%2C+culture%2C+politics+ed+john+clifford+holt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -364,7 +364,7 @@ That makes Charles the Bold's treasure an unusual historical mystery. Rather tha
           <a href="https://www.amazon.com/s?k=A+Distant+Mirror+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Distant Mirror">A Distant Mirror</a>
         </h4>
         <p class="fr-book-author">By Barbara Tuchman</p>
-        
+
         <p class="fr-book-desc">Broad historical background for Burgundy and Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Distant+Mirror+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ That makes Charles the Bold's treasure an unusual historical mystery. Rather tha
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
         </h4>
         <p class="fr-book-author">By Ian Mortimer</p>
-        
+
         <p class="fr-book-desc">Accessible context for fifteenth-century life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ That makes Charles the Bold's treasure an unusual historical mystery. Rather tha
           <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
         </h4>
         <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
-        
+
         <p class="fr-book-desc">Provides context for late medieval Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ That makes Charles the Bold's treasure an unusual historical mystery. Rather tha
           <a href="https://www.amazon.com/s?k=Charles+the+Bold%3B+the+last+Valois+Duke+of+Burgundy+Richard+Vaughan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Charles the Bold; the last Valois Duke of Burgundy">Charles the Bold; the last Valois Duke of Burgundy</a>
         </h4>
         <p class="fr-book-author">By Richard Vaughan</p>
-        
+
         <p class="fr-book-desc">First published 1973. Subjects: History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Charles+the+Bold%3B+the+last+Valois+Duke+of+Burgundy+Richard+Vaughan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

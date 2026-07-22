@@ -337,7 +337,7 @@ Their fate also illustrates how colonial history can erase individual lives. His
 <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The slave trade">The slave trade</a>
 </h4>
 <p class="fr-book-author">By Hugh Thomas</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Slavenhandel, Slave-trade, Slave trade, Commerce, Esclaves.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ Their fate also illustrates how colonial history can erase individual lives. His
 <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Jews">A history of the Jews</a>
 </h4>
 <p class="fr-book-author">By Paul Bede Johnson</p>
-        
+
 <p class="fr-book-desc">First published 1987. Subjects: Jews, History, Historia, Judíos, Nonfiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Their fate also illustrates how colonial history can erase individual lives. His
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in Blackness">Born in Blackness</a>
 </h4>
 <p class="fr-book-author">By Howard W. French</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Africa, history, Slave trade, History, African diaspora, Modern History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Their fate also illustrates how colonial history can erase individual lives. His
 <a href="https://www.amazon.com/s?k=Story+of+the+Jews+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Story of the Jews">Story of the Jews</a>
 </h4>
 <p class="fr-book-author">By Simon Schama</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: Jews, history, Jews, civilization, Jews, social conditions, Jews, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Story+of+the+Jews+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

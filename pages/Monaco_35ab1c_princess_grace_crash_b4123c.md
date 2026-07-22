@@ -352,7 +352,7 @@ For Monaco, the crash remains significant not because its cause is unknown, but 
           <a href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood+Donald+Spoto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Society: Grace Kelly and Hollywood">High Society: Grace Kelly and Hollywood</a>
         </h4>
         <p class="fr-book-author">By Donald Spoto</p>
-        
+
         <p class="fr-book-desc">Provides substantial context on Grace Kelly before and after becoming Princess of Monaco.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=High+Society%3A+Grace+Kelly+and+Hollywood+Donald+Spoto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For Monaco, the crash remains significant not because its cause is unknown, but 
           <a href="https://www.amazon.com/s?k=Grace+of+Monaco+Jeffrey+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grace of Monaco">Grace of Monaco</a>
         </h4>
         <p class="fr-book-author">By Jeffrey Robinson</p>
-        
+
         <p class="fr-book-desc">Covers Princess Grace&#x27;s life, final years and the circumstances surrounding her death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Grace+of+Monaco+Jeffrey+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For Monaco, the crash remains significant not because its cause is unknown, but 
           <a href="https://www.amazon.com/s?k=Once+Upon+a+Time+J.+Randy+Taraborrelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Once Upon a Time">Once Upon a Time</a>
         </h4>
         <p class="fr-book-author">By J. Randy Taraborrelli</p>
-        
+
         <p class="fr-book-desc">Examines the Monaco royal marriage and the events shaping its public image.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Once+Upon+a+Time+J.+Randy+Taraborrelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ For Monaco, the crash remains significant not because its cause is unknown, but 
           <a href="https://www.amazon.com/s?k=Grace+Kelly+Jay+Jorgensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grace Kelly">Grace Kelly</a>
         </h4>
         <p class="fr-book-author">By Jay Jorgensen</p>
-        
+
         <p class="fr-book-desc">Explores Grace Kelly&#x27;s career and royal life leading up to the crash.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Grace+Kelly+Jay+Jorgensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

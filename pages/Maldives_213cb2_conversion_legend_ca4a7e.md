@@ -338,7 +338,7 @@ The enduring mystery, therefore, is not whether the Maldives became Islamic—it
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
 </h4>
 <p class="fr-book-author">By Peter Frankopan</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: East and West, HISTORY / World, Trade routes, Acculturation, TRAVEL / Asia / China.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ The enduring mystery, therefore, is not whether the Maldives became Islamic—it
 <a href="https://www.amazon.com/s?k=Destiny+disrupted+Mir+Tamim+Ansary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Destiny disrupted">Destiny disrupted</a>
 </h4>
 <p class="fr-book-author">By Mir Tamim Ansary, Tamim Ansary</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: History, Nonfiction, World history, Islamic civilization, East and West.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Destiny+disrupted+Mir+Tamim+Ansary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ The enduring mystery, therefore, is not whether the Maldives became Islamic—it
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maldives">The Maldives</a>
 </h4>
 <p class="fr-book-author">By J.J. Robinson</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Democracy, Maldives, Politics and government, Social conditions, Islam.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ The enduring mystery, therefore, is not whether the Maldives became Islamic—it
 <a href="https://www.amazon.com/s?k=Folk+Tales+of+the+Maldives+Romero+Frias+Xavier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Tales of the Maldives">Folk Tales of the Maldives</a>
 </h4>
 <p class="fr-book-author">By Romero Frias Xavier</p>
-        
+
 <p class="fr-book-desc">First published 2021.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folk+Tales+of+the+Maldives+Romero+Frias+Xavier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -341,16 +341,16 @@ The enduring question is therefore no longer, "Were any relics of Queen Ketevan 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8848108-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By Peter Frankopan</p>
+
         <p class="fr-book-desc">Places Georgia, Persia and Goa within wider early modern connections.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -364,7 +364,7 @@ The enduring question is therefore no longer, "Were any relics of Queen Ketevan 
           <a href="https://www.amazon.com/s?k=Edge+of+Empires+Donald+Rayfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Edge of Empires">Edge of Empires</a>
         </h4>
         <p class="fr-book-author">By Donald Rayfield</p>
-        
+
         <p class="fr-book-desc">Explains Queen Ketevan&#x27;s life and the Safavid-Georgian conflicts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Edge+of+Empires+Donald+Rayfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The enduring question is therefore no longer, "Were any relics of Queen Ketevan 
           <a href="https://www.amazon.com/s?k=The+making+of+the+Georgian+nation+Ronald+Grigor+Suny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The making of the Georgian nation">The making of the Georgian nation</a>
         </h4>
         <p class="fr-book-author">By Ronald Grigor Suny</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: History, Georgia (republic), history, Histoire, Geschichte, Soviet union, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+making+of+the+Georgian+nation+Ronald+Grigor+Suny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The enduring question is therefore no longer, "Were any relics of Queen Ketevan 
           <a href="https://www.amazon.com/s?k=Shah+Abbas+David+Blow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shah Abbas">Shah Abbas</a>
         </h4>
         <p class="fr-book-author">By David Blow</p>
-        
+
         <p class="fr-book-desc">Covers the ruler responsible for Queen Ketevan&#x27;s imprisonment and execution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shah+Abbas+David+Blow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

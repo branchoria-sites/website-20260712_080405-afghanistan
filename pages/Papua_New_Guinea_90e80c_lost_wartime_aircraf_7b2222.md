@@ -377,7 +377,7 @@ For many families, identifying a wreck does not simply solve an aviation mystery
           <a href="https://www.amazon.com/s?k=The+conquering+tide+Ian+W.+Toll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conquering tide">The conquering tide</a>
         </h4>
         <p class="fr-book-author">By Ian W. Toll</p>
-        
+
         <p class="fr-book-desc">Covers air operations affecting New Guinea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conquering+tide+Ian+W.+Toll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For many families, identifying a wreck does not simply solve an aviation mystery
           <a href="https://www.amazon.com/s?k=Pacific+Crucible+Ian+W.+Toll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pacific Crucible">Pacific Crucible</a>
         </h4>
         <p class="fr-book-author">By Ian W. Toll</p>
-        
+
         <p class="fr-book-desc">Provides operational context for wartime losses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pacific+Crucible+Ian+W.+Toll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For many families, identifying a wreck does not simply solve an aviation mystery
           <a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kokoda">Kokoda</a>
         </h4>
         <p class="fr-book-author">By Paul Ham</p>
-        
+
         <p class="fr-book-desc">Explains why so many aircraft were lost.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For many families, identifying a wreck does not simply solve an aviation mystery
           <a href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Sky">Empires of the Sky</a>
         </h4>
         <p class="fr-book-author">By Alexander Rose</p>
-        
+
         <p class="fr-book-desc">Introduces aviation history relevant to aircraft investigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

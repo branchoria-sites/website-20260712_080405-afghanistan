@@ -380,7 +380,7 @@ These cases continue to matter because they reveal how historical uncertainty is
           <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark star safari">Dark star safari</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Provides broader perspective on modern African political realities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ These cases continue to matter because they reveal how historical uncertainty is
           <a href="https://www.amazon.com/s?k=The+man+died+Wole+Soyinka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The man died">The man died</a>
         </h4>
         <p class="fr-book-author">By Wole Soyinka</p>
-        
+
         <p class="fr-book-desc">Offers insight into Nigeria&#x27;s political climate and contested historical narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+man+died+Wole+Soyinka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ These cases continue to matter because they reveal how historical uncertainty is
           <a href="https://www.amazon.com/s?k=Into+Africa+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Africa">Into Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Dugard</p>
-        
+
         <p class="fr-book-desc">Relevant to readers interested in Mungo Park and exploration history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Into+Africa+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ These cases continue to matter because they reveal how historical uncertainty is
           <a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Things Fall Apart">Things Fall Apart</a>
         </h4>
         <p class="fr-book-author">By Chinua Achebe</p>
-        
+
         <p class="fr-book-desc">First published 1958. Subjects: 20th century literature, Christianity, masculinity, British colonialism, LANGUAGE &amp; LITERARY STUDIES.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

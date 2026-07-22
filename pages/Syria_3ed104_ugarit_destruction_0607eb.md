@@ -363,7 +363,7 @@ That balance between remarkable documentation and unanswered questions explains 
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Ugarit&#x27;s destruction is one of the book&#x27;s central case studies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ That balance between remarkable documentation and unanswered questions explains 
           <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horse, the Wheel, and Language">The Horse, the Wheel, and Language</a>
         </h4>
         <p class="fr-book-author">By David W. Anthony</p>
-        
+
         <p class="fr-book-desc">Adds wider prehistoric context to eastern Mediterranean societies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ That balance between remarkable documentation and unanswered questions explains 
           <a href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ancient Near East: History, Society and Economy">The Ancient Near East: History, Society and Economy</a>
         </h4>
         <p class="fr-book-author">By Mario Liverani</p>
-        
+
         <p class="fr-book-desc">Explains Ugarit&#x27;s political and economic world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ That balance between remarkable documentation and unanswered questions explains 
           <a href="https://www.amazon.com/s?k=After+the+Prophet+Lesley+Hazleton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Prophet">After the Prophet</a>
         </h4>
         <p class="fr-book-author">By Lesley Hazleton</p>
-        
+
         <p class="fr-book-desc">First published 2009. Subjects: Sunnites, Shīʻah, History, Relations, Death and burial.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=After+the+Prophet+Lesley+Hazleton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

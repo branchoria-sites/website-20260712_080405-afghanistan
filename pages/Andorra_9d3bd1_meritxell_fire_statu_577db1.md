@@ -377,7 +377,7 @@ In that sense, the Meritxell mystery differs from many famous historical enigmas
           <a href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of art">The story of art</a>
         </h4>
         <p class="fr-book-author">By E. H. Gombrich</p>
-        
+
         <p class="fr-book-desc">Helps readers understand medieval religious sculpture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ In that sense, the Meritxell mystery differs from many famous historical enigmas
           <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Spain">Ghosts of Spain</a>
         </h4>
         <p class="fr-book-author">By Giles Tremlett</p>
-        
+
         <p class="fr-book-desc">Provides wider historical context for Iberian religious heritage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ In that sense, the Meritxell mystery differs from many famous historical enigmas
           <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish Civil War">The Spanish Civil War</a>
         </h4>
         <p class="fr-book-author">By Antony Beevor</p>
-        
+
         <p class="fr-book-desc">First published 1982. Subjects: History, History of Spain, Spanish Civil War, Historia, Spain, history, civil war, 1936-1939.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ In that sense, the Meritxell mystery differs from many famous historical enigmas
           <a href="https://www.amazon.com/s?k=The+rough+guide+to+the+Pyrenees+Marc+Dubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rough guide to the Pyrenees">The rough guide to the Pyrenees</a>
         </h4>
         <p class="fr-book-author">By Marc Dubin</p>
-        
+
         <p class="fr-book-desc">First published 2007. Subjects: Guidebooks, Mountains, Nonfiction, Travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rough+guide+to+the+Pyrenees+Marc+Dubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

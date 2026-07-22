@@ -377,7 +377,7 @@ Guatemala's disappeared therefore remain both a human tragedy and an archival my
 <a href="https://www.amazon.com/s?k=The+Art+of+Political+Murder+Francisco+Goldman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Political Murder">The Art of Political Murder</a>
 </h4>
 <p class="fr-book-author">By Francisco Goldman, Francisco Goldman</p>
-        
+
 <p class="fr-book-desc">First published 2007. Subjects: Politics and government, Trials (Murder), Bishops, Assassination, Catholic Church.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Art+of+Political+Murder+Francisco+Goldman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Guatemala's disappeared therefore remain both a human tragedy and an archival my
 <a href="https://www.amazon.com/s?k=The+Blood+of+Guatemala+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Blood of Guatemala">The Blood of Guatemala</a>
 </h4>
 <p class="fr-book-author">By Greg Grandin</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Politics and government, Quiché Indians, Race relations, Social conditions, Mayas.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Blood+of+Guatemala+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Guatemala's disappeared therefore remain both a human tragedy and an archival my
 <a href="https://www.amazon.com/s?k=Buried+Secrets+Victoria+Sanford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buried Secrets">Buried Secrets</a>
 </h4>
 <p class="fr-book-author">By Victoria Sanford</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Crimes against, Genocide, Government relations, Human rights, Mayas.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Buried+Secrets+Victoria+Sanford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ Guatemala's disappeared therefore remain both a human tragedy and an archival my
 <a href="https://www.amazon.com/s?k=Bitter+fruit+Stephen+C.+Schlesinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bitter fruit">Bitter fruit</a>
 </h4>
 <p class="fr-book-author">By Stephen C. Schlesinger, Stephen Schlesinger et al.</p>
-        
+
 <p class="fr-book-desc">First published 1982. Subjects: United Fruit Company, Foreign relations, History, Guatemala, history, United states, foreign relations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bitter+fruit+Stephen+C.+Schlesinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

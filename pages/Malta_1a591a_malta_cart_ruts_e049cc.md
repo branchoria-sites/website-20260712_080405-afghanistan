@@ -399,7 +399,7 @@ That distinction matters because it changes how archaeologists understand Malta'
           <a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malta, prehistory and temples">Malta, prehistory and temples</a>
         </h4>
         <p class="fr-book-author">By David H. Trump</p>
-        
+
         <p class="fr-book-desc">Discusses the archaeological setting of the cart ruts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ That distinction matters because it changes how archaeologists understand Malta'
           <a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of Malta">The story of Malta</a>
         </h4>
         <p class="fr-book-author">By Brian Blouet</p>
-        
+
         <p class="fr-book-desc">Places the cart ruts within Malta&#x27;s long history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ That distinction matters because it changes how archaeologists understand Malta'
           <a href="https://www.amazon.com/s?k=Temples+of+Malta+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Temples of Malta">Temples of Malta</a>
         </h4>
         <p class="fr-book-author">By David H. Trump</p>
-        
+
         <p class="fr-book-desc">Provides context for prehistoric landscapes including transport features.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Temples+of+Malta+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ That distinction matters because it changes how archaeologists understand Malta'
           <a href="https://www.amazon.com/s?k=Megalith+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Megalith">Megalith</a>
         </h4>
         <p class="fr-book-author">By Crowhurst Newman, Francis Heath et al.</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Megalithic monuments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Megalith+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1328,7 +1328,7 @@ The enduring appeal of these cases comes from Namibia’s landscape: an arid coa
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ The enduring appeal of these cases comes from Namibia’s landscape: an arid coa
 <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skeleton Coast">Skeleton Coast</a>
 </h4>
 <p class="fr-book-author">By John Henry Marsh</p>
-        
+
 <p class="fr-book-desc">First published 1967.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ The enduring appeal of these cases comes from Namibia’s landscape: an arid coa
 <a href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Namibia">Namibia</a>
 </h4>
 <p class="fr-book-author">By Chris McIntyre</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Guidebooks, Namibia, description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ The enduring appeal of these cases comes from Namibia’s landscape: an arid coa
 <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
 </h4>
 <p class="fr-book-author">By John Reader</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Geography, History, Pictorial works, Histoire, Bildband.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

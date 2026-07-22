@@ -1328,7 +1328,7 @@ These distinctions preserve what makes the stories compelling without treating e
           <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Mountain">Dead Mountain</a>
         </h4>
         <p class="fr-book-author">By Donnie Eichar</p>
-        
+
         <p class="fr-book-desc">Covers Russia&#x27;s best-known unsolved mystery while exploring evidence and competing theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ These distinctions preserve what makes the stories compelling without treating e
           <a href="https://www.amazon.com/s?k=The+Romanovs+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Romanovs">The Romanovs</a>
         </h4>
         <p class="fr-book-author">By Simon Sebag-Montefiore</p>
-        
+
         <p class="fr-book-desc">Provides essential context for one of Russia&#x27;s enduring historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Romanovs+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ These distinctions preserve what makes the stories compelling without treating e
           <a href="https://www.amazon.com/s?k=The+last+days+of+the+Romanovs+Helen+Rappaport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The last days of the Romanovs">The last days of the Romanovs</a>
         </h4>
         <p class="fr-book-author">By Helen Rappaport</p>
-        
+
         <p class="fr-book-desc">Explores one of Russia&#x27;s most discussed historical enigmas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+last+days+of+the+Romanovs+Helen+Rappaport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ These distinctions preserve what makes the stories compelling without treating e
           <a href="https://www.amazon.com/s?k=Chernobyl+History+of+a+Tragedy+By+Serhii+Plokhy+%26+Midnight+in+Chernobyl+By+Adam+Higginbotham+2+Books+Collection+Set+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chernobyl History of a Tragedy By Serhii Plokhy &amp; Midnight in Chernobyl By Adam Higginbotham 2 Books Collection Set">Chernobyl History of a Tragedy By Serhii Plokhy &amp; Midnight in...</a>
         </h4>
         <p class="fr-book-author">By Serhii Plokhy, Adam Higginbotham et al.</p>
-        
+
         <p class="fr-book-desc">First published 2020.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Chernobyl+History+of+a+Tragedy+By+Serhii+Plokhy+%26+Midnight+in+Chernobyl+By+Adam+Higginbotham+2+Books+Collection+Set+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

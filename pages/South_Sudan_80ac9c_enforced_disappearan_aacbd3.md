@@ -354,7 +354,7 @@ For families, the mystery is deeply personal: confirmation of death, recovery of
           <a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The root causes of Sudan&#x27;s civil wars">The root causes of Sudan&#x27;s civil wars</a>
         </h4>
         <p class="fr-book-author">By Douglas Hamilton Johnson, Douglas H. Johnson et al.</p>
-        
+
         <p class="fr-book-desc">Explains the conflicts behind enforced disappearances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For families, the mystery is deeply personal: confirmation of death, recovery of
           <a href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is the What">What Is the What</a>
         </h4>
         <p class="fr-book-author">By Dave Eggers</p>
-        
+
         <p class="fr-book-desc">Introduces themes of displacement and political violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For families, the mystery is deeply personal: confirmation of death, recovery of
           <a href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky+Alphonsion+Deng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Poured Fire on Us from the Sky">They Poured Fire on Us from the Sky</a>
         </h4>
         <p class="fr-book-author">By Alphonsion Deng, Benson Deng et al.</p>
-        
+
         <p class="fr-book-desc">Shows the human consequences of prolonged war.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky+Alphonsion+Deng&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For families, the mystery is deeply personal: confirmation of death, recovery of
           <a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South Sudan">South Sudan</a>
         </h4>
         <p class="fr-book-author">By Edward Thomas</p>
-        
+
         <p class="fr-book-desc">Provides context for state violence and accountability.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

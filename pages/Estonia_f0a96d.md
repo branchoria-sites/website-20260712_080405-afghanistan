@@ -1338,7 +1338,7 @@ The most durable Estonian mysteries are compelling precisely because they stand 
 <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the World">The Ends of the World</a>
 </h4>
 <p class="fr-book-author">By Peter Brannen</p>
-        
+
 <p class="fr-book-desc">Offers accessible context for meteor impacts and catastrophic natural events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,7 +1355,7 @@ The most durable Estonian mysteries are compelling precisely because they stand 
 <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
 </h4>
 <p class="fr-book-author">By Alan Warwick Palmer</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: History, Baltic states, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ The most durable Estonian mysteries are compelling precisely because they stand 
 <a href="https://www.amazon.com/s?k=Estonia+Neil+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Estonia">Estonia</a>
 </h4>
 <p class="fr-book-author">By Neil Taylor</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Estonia, history, Estonia, politics and government, Estonia, foreign relations, Politics and government,...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Estonia+Neil+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1389,7 +1389,7 @@ The most durable Estonian mysteries are compelling precisely because they stand 
 <a href="https://www.amazon.com/s?k=The+Viking+World+Stefan+Brink+and+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Viking World">The Viking World</a>
 </h4>
 <p class="fr-book-author">By Stefan Brink and Neil Price</p>
-        
+
 <p class="fr-book-desc">Supports understanding of Salme ship burials and early Scandinavian history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Viking+World+Stefan+Brink+and+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

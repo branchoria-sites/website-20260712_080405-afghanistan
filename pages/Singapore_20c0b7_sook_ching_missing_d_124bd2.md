@@ -347,7 +347,7 @@ For that reason, the central mystery is not whether Sook Ching happened but how 
           <a href="https://www.amazon.com/s?k=Singapore+Burning+Colin+Smith+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore Burning">Singapore Burning</a>
         </h4>
         <p class="fr-book-author">By Colin Smith undifferentiated</p>
-        
+
         <p class="fr-book-desc">Explains the fall of Singapore preceding the massacres.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Singapore+Burning+Colin+Smith+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ For that reason, the central mystery is not whether Sook Ching happened but how 
           <a href="https://www.amazon.com/s?k=The+rising+sun+John+Willard+Toland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rising sun">The rising sun</a>
         </h4>
         <p class="fr-book-author">By John Willard Toland</p>
-        
+
         <p class="fr-book-desc">Provides wider wartime context for Japanese policy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rising+sun+John+Willard+Toland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For that reason, the central mystery is not whether Sook Ching happened but how 
           <a href="https://www.amazon.com/s?k=The+Syonan+years+Lee%2C+Geok+Boi.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Syonan years">The Syonan years</a>
         </h4>
         <p class="fr-book-author">By Lee, Geok Boi.</p>
-        
+
         <p class="fr-book-desc">Directly covers Sook Ching and the occupation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Syonan+years+Lee%2C+Geok+Boi.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For that reason, the central mystery is not whether Sook Ching happened but how 
           <a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Hundred Years">Seven Hundred Years</a>
         </h4>
         <p class="fr-book-author">By Kwa Chong Guan, Derek Thiam Soon Heng et al.</p>
-        
+
         <p class="fr-book-desc">Places Sook Ching within Singapore&#x27;s historical narrative.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

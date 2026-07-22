@@ -391,7 +391,7 @@ The result is an unusual national memory. Filipinos commemorate Bonifacio throug
           <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Philippines">A History of the Philippines</a>
         </h4>
         <p class="fr-book-author">By Luis H. Francia</p>
-        
+
         <p class="fr-book-desc">Places the Bonifacio controversy within the Philippine Revolution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The result is an unusual national memory. Filipinos commemorate Bonifacio throug
           <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay">Barangay</a>
         </h4>
         <p class="fr-book-author">By William Henry Scott</p>
-        
+
         <p class="fr-book-desc">First published 1994. Subjects: Ethnology, Civilization, Filipinos, Social life and customs, Bisaya (Philippine people).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The result is an unusual national memory. Filipinos commemorate Bonifacio throug
           <a href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Our Image America&#x27;s Empire in the Philippines">In Our Image America&#x27;s Empire in the Philippines</a>
         </h4>
         <p class="fr-book-author">By Stanley Karnow</p>
-        
+
         <p class="fr-book-desc">First published 1989.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ The result is an unusual national memory. Filipinos commemorate Bonifacio throug
           <a href="https://www.amazon.com/s?k=Bonifacio%3A+The+First+President+Milagros+C.+Guerrero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bonifacio: The First President">Bonifacio: The First President</a>
         </h4>
         <p class="fr-book-author">By Milagros C. Guerrero</p>
-        
+
         <p class="fr-book-desc">Directly addresses Bonifacio&#x27;s life, death and historical legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bonifacio%3A+The+First+President+Milagros+C.+Guerrero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

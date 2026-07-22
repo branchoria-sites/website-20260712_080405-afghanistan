@@ -353,7 +353,7 @@ Rather than presenting unsolvable riddles, Ukraine's disputed burials show how t
           <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gates of Europe">The Gates of Europe</a>
         </h4>
         <p class="fr-book-author">By Serhii Plokhy</p>
-        
+
         <p class="fr-book-desc">Introduces key historical figures whose burials remain uncertain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Rather than presenting unsolvable riddles, Ukraine's disputed burials show how t
           <a href="https://www.amazon.com/s?k=Ukraine+Orest+Subtelny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ukraine">Ukraine</a>
         </h4>
         <p class="fr-book-author">By Orest Subtelny</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: History, Histoire, Ukraine, Textbook, Ukraine, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ukraine+Orest+Subtelny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Rather than presenting unsolvable riddles, Ukraine's disputed burials show how t
           <a href="https://www.amazon.com/s?k=Russo-Ukrainian+War+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Russo-Ukrainian War">Russo-Ukrainian War</a>
         </h4>
         <p class="fr-book-author">By Serhii Plokhy</p>
-        
+
         <p class="fr-book-desc">First published 2023.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Russo-Ukrainian+War+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Rather than presenting unsolvable riddles, Ukraine's disputed burials show how t
           <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The archaeology book">The archaeology book</a>
         </h4>
         <p class="fr-book-author">By David Down</p>
-        
+
         <p class="fr-book-desc">Introduces archaeological methods used in burial investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

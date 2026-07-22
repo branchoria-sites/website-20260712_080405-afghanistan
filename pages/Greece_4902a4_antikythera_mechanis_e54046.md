@@ -378,7 +378,7 @@ These uncertainties explain why reconstruction remains an active scientific fiel
           <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant">Decoding the Heavens: Solving the Mystery of the World&#x27;s Firs...</a>
         </h4>
         <p class="fr-book-author">By Jo Marchant</p>
-        
+
         <p class="fr-book-desc">Focused entirely on the mechanism and its discovery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ These uncertainties explain why reconstruction remains an active scientific fiel
           <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
         </h4>
         <p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: Bronze age, Mediterranean region, history, Civilization, Sea Peoples, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ These uncertainties explain why reconstruction remains an active scientific fiel
           <a href="https://www.amazon.com/s?k=A+portable+cosmos+Alexander+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A portable cosmos">A portable cosmos</a>
         </h4>
         <p class="fr-book-author">By Alexander Jones</p>
-        
+
         <p class="fr-book-desc">Explains evidence for missing components and function.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+portable+cosmos+Alexander+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ These uncertainties explain why reconstruction remains an active scientific fiel
           <a href="https://www.amazon.com/s?k=The+Antikythera+Mechanism%3A+The+Story+Behind+the+Genius+of+the+Greek+Computer+and+its+Demise+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Antikythera Mechanism: The Story Behind the Genius of the Greek Computer and its Demise">The Antikythera Mechanism: The Story Behind the Genius of the...</a>
         </h4>
         <p class="fr-book-author">By Jo Marchant</p>
-        
+
         <p class="fr-book-desc">Directly explains the device, research and reconstruction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Antikythera+Mechanism%3A+The+Story+Behind+the+Genius+of+the+Greek+Computer+and+its+Demise+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

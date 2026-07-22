@@ -1325,7 +1325,7 @@ France’s enduring enigmas are compelling precisely because they occupy differe
 <a href="https://www.amazon.com/s?k=Citizens+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Citizens">Citizens</a>
 </h4>
 <p class="fr-book-author">By Simon Schama</p>
-        
+
 <p class="fr-book-desc">First published 1989. Subjects: Französische Revolution, Histoire, Geschichte, Nonfiction, Franse Revolutie.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Citizens+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1342,7 +1342,7 @@ France’s enduring enigmas are compelling precisely because they occupy differe
 <a href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paris">Paris</a>
 </h4>
 <p class="fr-book-author">By Colin Jones</p>
-        
+
 <p class="fr-book-desc">First published 2004.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Paris+Colin+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ France’s enduring enigmas are compelling precisely because they occupy differe
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Mysteries+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unsolved Mysteries">The Mammoth Book of Unsolved Mysteries</a>
 </h4>
 <p class="fr-book-author">By Peter Haining</p>
-        
+
 <p class="fr-book-desc">Covers famous unresolved historical mysteries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Mysteries+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ France’s enduring enigmas are compelling precisely because they occupy differe
 <a href="https://www.amazon.com/s?k=The+Skeleton+in+God%27s+Closet+Paul+L.+Maier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeleton in God&#x27;s Closet">The Skeleton in God&#x27;s Closet</a>
 </h4>
 <p class="fr-book-author">By Paul L. Maier</p>
-        
+
 <p class="fr-book-desc">Introduces historical investigation of enduring mysteries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Skeleton+in+God%27s+Closet+Paul+L.+Maier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

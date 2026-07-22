@@ -355,7 +355,7 @@ That combination is not a flaw that renders the *Rihla* useless. Instead, it rem
           <a href="https://www.amazon.com/s?k=The+Travels+of+Ibn+Battuta+Ibn+Battuta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Travels of Ibn Battuta">The Travels of Ibn Battuta</a>
         </h4>
         <p class="fr-book-author">By Ibn Battuta</p>
-        
+
         <p class="fr-book-desc">The essential work behind debates over Ibn Battuta&#x27;s journeys.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Travels+of+Ibn+Battuta+Ibn+Battuta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That combination is not a flaw that renders the *Rihla* useless. Instead, it rem
           <a href="https://www.amazon.com/s?k=A+history+of+the+Arab+peoples+Albert+Habib+Hourani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Arab peoples">A history of the Arab peoples</a>
         </h4>
         <p class="fr-book-author">By Albert Habib Hourani, Albert Hourani et al.</p>
-        
+
         <p class="fr-book-desc">Explains the cultural world through which Ibn Battuta travelled.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+the+Arab+peoples+Albert+Habib+Hourani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That combination is not a flaw that renders the *Rihla* useless. Instead, it rem
           <a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great sea">The great sea</a>
         </h4>
         <p class="fr-book-author">By David Abulafia</p>
-        
+
         <p class="fr-book-desc">Provides wider context for medieval travel and trade.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+great+sea+David+Abulafia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That combination is not a flaw that renders the *Rihla* useless. Instead, it rem
           <a href="https://www.amazon.com/s?k=The+adventures+of+Ibn+Battuta%2C+a+Muslim+traveler+of+the+fourteenth+century+Ross+E.+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The adventures of Ibn Battuta, a Muslim traveler of the fourteenth century">The adventures of Ibn Battuta, a Muslim traveler of the fourt...</a>
         </h4>
         <p class="fr-book-author">By Ross E. Dunn</p>
-        
+
         <p class="fr-book-desc">First published 1986. Subjects: Biography, Medieval Travel, Travelers, Ibn batuta, 1304-1377, Travel, medieval.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+adventures+of+Ibn+Battuta%2C+a+Muslim+traveler+of+the+fourteenth+century+Ross+E.+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

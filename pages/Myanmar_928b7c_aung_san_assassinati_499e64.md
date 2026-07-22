@@ -350,7 +350,7 @@ The enduring mystery, therefore, is not whether U Saw bore responsibility. That 
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
 </h4>
 <p class="fr-book-author">By Amitav Ghosh</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Fiction, History, Historical fiction, Love stories, Domestic fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ The enduring mystery, therefore, is not whether U Saw bore responsibility. That 
 <a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finding George Orwell in Burma">Finding George Orwell in Burma</a>
 </h4>
 <p class="fr-book-author">By Emma Larkin</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Travel, Politics and government, Description and travel, Nonfiction, Orwell, george, 1903-1950.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ The enduring mystery, therefore, is not whether U Saw bore responsibility. That 
 <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Lost Footsteps: Histories of Burma">The River of Lost Footsteps: Histories of Burma</a>
 </h4>
 <p class="fr-book-author">By Thant Myint-U</p>
-        
+
 <p class="fr-book-desc">Explains Aung San&#x27;s career and the political context of his assassination.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The enduring mystery, therefore, is not whether U Saw bore responsibility. That 
 <a href="https://www.amazon.com/s?k=Burma%3A+The+Longest+War+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burma: The Longest War">Burma: The Longest War</a>
 </h4>
 <p class="fr-book-author">By Thant Myint-U</p>
-        
+
 <p class="fr-book-desc">Places the assassination within Burma&#x27;s broader political trajectory.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Burma%3A+The+Longest+War+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

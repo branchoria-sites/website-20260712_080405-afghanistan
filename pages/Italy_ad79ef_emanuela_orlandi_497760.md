@@ -394,7 +394,7 @@ For historians, the case illustrates how missing records, institutional opacity,
 <a href="https://www.amazon.com/s?k=The+dark+heart+of+Italy+Tobias+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dark heart of Italy">The dark heart of Italy</a>
 </h4>
 <p class="fr-book-author">By Tobias Jones, Tobias Jones</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Politics and government, Social life and customs, Description and travel, Political corruption, Travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+dark+heart+of+Italy+Tobias+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For historians, the case illustrates how missing records, institutional opacity,
 <a href="https://www.amazon.com/s?k=Cosa+Nostra+John+Dickie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosa Nostra">Cosa Nostra</a>
 </h4>
 <p class="fr-book-author">By John Dickie, Dickie, John</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Mafia, History, United States, Historia, Sicily.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cosa+Nostra+John+Dickie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For historians, the case illustrates how missing records, institutional opacity,
 <a href="https://www.amazon.com/s?k=Midnight+in+Sicily+Peter+Robb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Midnight in Sicily">Midnight in Sicily</a>
 </h4>
 <p class="fr-book-author">By Peter Robb</p>
-        
+
 <p class="fr-book-desc">First published 1996. Subjects: Political corruption, Politics and government, Mafia, Organized crime investigation, Criminal investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Midnight+in+Sicily+Peter+Robb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ For historians, the case illustrates how missing records, institutional opacity,
 <a href="https://www.amazon.com/s?k=Absolute+monarchs+John+Julius+Norwich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Absolute monarchs">Absolute monarchs</a>
 </h4>
 <p class="fr-book-author">By John Julius Norwich</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Papacy, History, New York Times bestseller, nyt:hardcover_nonfiction=2011-07-16, Historia.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Absolute+monarchs+John+Julius+Norwich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -370,7 +370,7 @@ The enduring mystery is therefore not an archaeological puzzle or a lost treasur
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+Time+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of Time">A Brief History of Time</a>
         </h4>
         <p class="fr-book-author">By Stephen Hawking</p>
-        
+
         <p class="fr-book-desc">Provides accessible background on cosmology and fundamental particles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+Time+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The enduring mystery is therefore not an archaeological puzzle or a lost treasur
           <a href="https://www.amazon.com/s?k=Neutrino+Frank+Close&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neutrino">Neutrino</a>
         </h4>
         <p class="fr-book-author">By Frank Close</p>
-        
+
         <p class="fr-book-desc">Directly explains neutrinos and why deposits like Allchar matter.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Neutrino+Frank+Close&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The enduring mystery is therefore not an archaeological puzzle or a lost treasur
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
         </h4>
         <p class="fr-book-author">By Sam Kean</p>
-        
+
         <p class="fr-book-desc">Includes engaging stories about unusual chemical elements including thallium.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ The enduring mystery is therefore not an archaeological puzzle or a lost treasur
           <a href="https://www.amazon.com/s?k=The+Particle+at+the+End+of+the+Universe+Sean+M.+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Particle at the End of the Universe">The Particle at the End of the Universe</a>
         </h4>
         <p class="fr-book-author">By Sean M. Carroll</p>
-        
+
         <p class="fr-book-desc">Explains modern particle physics relevant to neutrino research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Particle+at+the+End+of+the+Universe+Sean+M.+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

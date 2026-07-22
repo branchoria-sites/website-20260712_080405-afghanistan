@@ -361,7 +361,7 @@ The mystery of Begho is therefore no longer simply why an important trading town
           <a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asante in the nineteenth century">Asante in the nineteenth century</a>
         </h4>
         <p class="fr-book-author">By Ivor Wilks</p>
-        
+
         <p class="fr-book-desc">Helps explain the broader historical landscape surrounding Begho.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ The mystery of Begho is therefore no longer simply why an important trading town
           <a href="https://www.amazon.com/s?k=A+history+of+Ghana+W.+E.+F.+Ward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Ghana">A history of Ghana</a>
         </h4>
         <p class="fr-book-author">By W. E. F. Ward</p>
-        
+
         <p class="fr-book-desc">Adds historical context for Begho&#x27;s development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Ghana+W.+E.+F.+Ward&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The mystery of Begho is therefore no longer simply why an important trading town
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Africa">The Archaeology of Africa</a>
         </h4>
         <p class="fr-book-author">By Thurstan Shaw</p>
-        
+
         <p class="fr-book-desc">Covers settlement archaeology and trade networks relevant to Begho.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The mystery of Begho is therefore no longer simply why an important trading town
           <a href="https://www.amazon.com/s?k=Africa+in+History+by+Basil+Davidson+%281995-01-01%29+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa in History by Basil Davidson (1995-01-01)">Africa in History by Basil Davidson (1995-01-01)</a>
         </h4>
         <p class="fr-book-author">By Basil Davidson</p>
-        
+
         <p class="fr-book-desc">First published 1656.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+in+History+by+Basil+Davidson+%281995-01-01%29+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

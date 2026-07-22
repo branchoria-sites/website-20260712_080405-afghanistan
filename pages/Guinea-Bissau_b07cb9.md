@@ -1329,7 +1329,7 @@ These mysteries matter because they shaped more than historical memory. Unresolv
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides accessible background for readers exploring the country&#x27;s modern history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1346,7 +1346,7 @@ These mysteries matter because they shaped more than historical memory. Unresolv
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Africa">A history of modern Africa</a>
         </h4>
         <p class="fr-book-author">By Richard J. Reid</p>
-        
+
         <p class="fr-book-desc">Places Guinea-Bissau&#x27;s crises within wider African political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ These mysteries matter because they shaped more than historical memory. Unresolv
           <a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amilcar Cabral : revolutionary leadership and people&#x27;s war">Amilcar Cabral : revolutionary leadership and people&#x27;s war</a>
         </h4>
         <p class="fr-book-author">By Patrick Chabal</p>
-        
+
         <p class="fr-book-desc">Explains the personalities and political tensions behind several featured cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1380,7 +1380,7 @@ These mysteries matter because they shaped more than historical memory. Unresolv
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
         </h4>
         <p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
-        
+
         <p class="fr-book-desc">Provides context for the country&#x27;s liberation struggle and political conflicts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

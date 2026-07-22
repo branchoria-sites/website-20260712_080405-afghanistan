@@ -387,7 +387,7 @@ That balance is why the case still matters in Belgium. It is not a mystery susta
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
         </h4>
         <p class="fr-book-author">By Robert M. Edsel</p>
-        
+
         <p class="fr-book-desc">Appeals to readers fascinated by missing masterpieces.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ That balance is why the case still matters in Belgium. It is not a mystery susta
           <a href="https://www.amazon.com/s?k=The+Gardner+Heist+Ulrich+Boser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gardner Heist">The Gardner Heist</a>
         </h4>
         <p class="fr-book-author">By Ulrich Boser</p>
-        
+
         <p class="fr-book-desc">Examines another famous unresolved art theft.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gardner+Heist+Ulrich+Boser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ That balance is why the case still matters in Belgium. It is not a mystery susta
           <a href="https://www.amazon.com/s?k=Stealing+Rembrandts+Anthony+A.+Amore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing Rembrandts">Stealing Rembrandts</a>
         </h4>
         <p class="fr-book-author">By Anthony A. Amore, Tom Mashberg</p>
-        
+
         <p class="fr-book-desc">Focuses on major art theft investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Stealing+Rembrandts+Anthony+A.+Amore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ That balance is why the case still matters in Belgium. It is not a mystery susta
           <a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Adversary">The Adversary</a>
         </h4>
         <p class="fr-book-author">By Emmanuel Carrère</p>
-        
+
         <p class="fr-book-desc">First published 2001. Subjects: Swindlers and swindling, Murder, france, Murderers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

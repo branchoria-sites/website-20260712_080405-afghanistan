@@ -382,7 +382,7 @@ For now, the Indus script remains one of Pakistan's most enduring historical mys
           <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of Early India">The Penguin History of Early India</a>
         </h4>
         <p class="fr-book-author">By Romila Thapar</p>
-        
+
         <p class="fr-book-desc">Places the script within broader early South Asian history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For now, the Indus script remains one of Pakistan's most enduring historical mys
           <a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mohenjo-Daro and the Indus civilization">Mohenjo-Daro and the Indus civilization</a>
         </h4>
         <p class="fr-book-author">By Marshall, John Hubert Sir</p>
-        
+
         <p class="fr-book-desc">Documents the archaeological discoveries bearing inscriptions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For now, the Indus script remains one of Pakistan's most enduring historical mys
           <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indus Civilization">The Indus Civilization</a>
         </h4>
         <p class="fr-book-author">By Gregory L. Possehl</p>
-        
+
         <p class="fr-book-desc">Explains the evidence surrounding the undeciphered Indus script.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ For now, the Indus script remains one of Pakistan's most enduring historical mys
           <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The wonder that was India">The wonder that was India</a>
         </h4>
         <p class="fr-book-author">By Basham, A. L.</p>
-        
+
         <p class="fr-book-desc">First published 1954. Subjects: History, Civilization, Civilisation, Histoire, India, civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

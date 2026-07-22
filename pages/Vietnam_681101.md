@@ -1340,7 +1340,7 @@ The result is not a hidden alternative history waiting to replace the accepted o
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
         </h4>
         <p class="fr-book-author">By Stanley Karnow</p>
-        
+
         <p class="fr-book-desc">Provides broad context for multiple Vietnamese historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1357,7 +1357,7 @@ The result is not a hidden alternative history waiting to replace the accepted o
           <a href="https://www.amazon.com/s?k=The+birth+of+Vietnam+Keith+Weller+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The birth of Vietnam">The birth of Vietnam</a>
         </h4>
         <p class="fr-book-author">By Keith Weller Taylor</p>
-        
+
         <p class="fr-book-desc">Covers Vietnam&#x27;s early state formation including the era of Cổ Loa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+birth+of+Vietnam+Keith+Weller+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1374,7 +1374,7 @@ The result is not a hidden alternative history waiting to replace the accepted o
           <a href="https://www.amazon.com/s?k=Embers+of+War+Fredrik+Logevall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embers of War">Embers of War</a>
         </h4>
         <p class="fr-book-author">By Fredrik Logevall</p>
-        
+
         <p class="fr-book-desc">Essential background for twentieth-century wartime mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Embers+of+War+Fredrik+Logevall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1391,7 +1391,7 @@ The result is not a hidden alternative history waiting to replace the accepted o
           <a href="https://www.amazon.com/s?k=A+dragon+apparent+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dragon apparent">A dragon apparent</a>
         </h4>
         <p class="fr-book-author">By Norman Lewis</p>
-        
+
         <p class="fr-book-desc">Offers historical observations about Vietnam before major conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+dragon+apparent+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

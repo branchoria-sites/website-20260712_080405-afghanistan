@@ -1340,7 +1340,7 @@ The best approach is therefore not to ask whether each mystery is solved or unso
           <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish Civil War">The Spanish Civil War</a>
         </h4>
         <p class="fr-book-author">By Antony Beevor</p>
-        
+
         <p class="fr-book-desc">Foundational background for many modern Spanish historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1357,7 +1357,7 @@ The best approach is therefore not to ask whether each mystery is solved or unso
           <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Spain">Ghosts of Spain</a>
         </h4>
         <p class="fr-book-author">By Giles Tremlett</p>
-        
+
         <p class="fr-book-desc">Explores memory, the Civil War and unresolved historical questions that underpin several Spanish mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1374,7 +1374,7 @@ The best approach is therefore not to ask whether each mystery is solved or unso
           <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ornament of the world">The ornament of the world</a>
         </h4>
         <p class="fr-book-author">By Maria Rosa Menocal</p>
-        
+
         <p class="fr-book-desc">Illuminates medieval Spain and the cultural background behind several historical enigmas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1391,7 +1391,7 @@ The best approach is therefore not to ask whether each mystery is solved or unso
           <a href="https://www.amazon.com/s?k=The+Basque+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Basque">The Basque</a>
         </h4>
         <p class="fr-book-author">By Mark Kurlansky</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: History, Basques, Nonfiction, Geschichte, Nationalismus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Basque+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

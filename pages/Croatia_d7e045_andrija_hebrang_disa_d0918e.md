@@ -358,50 +358,6 @@ More than seventy-five years after Hebrang disappeared into state custody, the u
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell fr-section-shell-fallback">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">No matched book cards were available for What Happened to Andrija Hebrang in Prison?, so this fallback keeps a direct Amazon reading path visible.</p>
-</div>
-<div class="fr-search-grid">
-
-<article class="fr-search-card">
-<p class="fr-search-kicker">Topical books</p>
-<h4 class="fr-search-title">Andrija Hebrang guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Andrija+Hebrang+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-
-<article class="fr-search-card">
-<p class="fr-search-kicker">Related search</p>
-<h4 class="fr-search-title">Glavnjača prison guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Glavnja%C4%8Da+prison+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-
-<article class="fr-search-card">
-<p class="fr-search-kicker">Related search</p>
-<h4 class="fr-search-title">Croatian communist history</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Croatian+communist+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-</div>
-<div class="fr-section-footer">
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -419,7 +375,7 @@ More than seventy-five years after Hebrang disappeared into state custody, the u
           <a href="https://www.amazon.com/s?k=With+Stalin+Against+Tito+Ivo+Banac&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="With Stalin Against Tito">With Stalin Against Tito</a>
         </h4>
         <p class="fr-book-author">By Ivo Banac</p>
-        
+
         <p class="fr-book-desc">Examines the political purge environment created by Yugoslavia&#x27;s break with Stalin, the immediate context of Hebrang&#x27;s arrest and alleged...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=With+Stalin+Against+Tito+Ivo+Banac&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +392,7 @@ More than seventy-five years after Hebrang disappeared into state custody, the u
           <a href="https://www.amazon.com/s?k=The+Balkans+1804-2012+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans 1804-2012">The Balkans 1804-2012</a>
         </h4>
         <p class="fr-book-author">By Misha Glenny</p>
-        
+
         <p class="fr-book-desc">Supplies the wider regional and ideological background behind Yugoslavia&#x27;s creation, wartime resistance and communist state.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Balkans+1804-2012+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +409,7 @@ More than seventy-five years after Hebrang disappeared into state custody, the u
           <a href="https://www.amazon.com/s?k=Tito+and+the+Rise+and+Fall+of+Yugoslavia+Richard+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tito and the Rise and Fall of Yugoslavia">Tito and the Rise and Fall of Yugoslavia</a>
         </h4>
         <p class="fr-book-author">By Richard West</p>
-        
+
         <p class="fr-book-desc">Discusses Tito&#x27;s regime, post-war power struggles and Hebrang&#x27;s place among the communist leadership.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tito+and+the+Rise+and+Fall+of+Yugoslavia+Richard+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -470,7 +426,7 @@ More than seventy-five years after Hebrang disappeared into state custody, the u
           <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Croatia: A History from the Middle Ages to the Present Day">Croatia: A History from the Middle Ages to the Present Day</a>
         </h4>
         <p class="fr-book-author">By Marcus Tanner</p>
-        
+
         <p class="fr-book-desc">Situates Hebrang within modern Croatian politics, the Second World War and socialist Yugoslavia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -486,6 +442,8 @@ More than seventy-five years after Hebrang disappeared into state custody, the u
     </div>
   </div>
 </section>
+
+
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
 <div class="fr-section-shell">

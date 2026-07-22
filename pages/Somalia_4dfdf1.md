@@ -1329,7 +1329,7 @@ These are genuine mysteries because the available evidence permits several inter
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides broad context for Somalia&#x27;s historical development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1346,7 +1346,7 @@ These are genuine mysteries because the available evidence permits several inter
           <a href="https://www.amazon.com/s?k=Empires+of+the+monsoon+Richard+Seymour+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the monsoon">Empires of the monsoon</a>
         </h4>
         <p class="fr-book-author">By Richard Seymour Hall</p>
-        
+
         <p class="fr-book-desc">Covers maritime trade central to Somali history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empires+of+the+monsoon+Richard+Seymour+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ These are genuine mysteries because the available evidence permits several inter
           <a href="https://www.amazon.com/s?k=The+Horn+of+Africa+Christopher+CLAPHAM&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horn of Africa">The Horn of Africa</a>
         </h4>
         <p class="fr-book-author">By Christopher CLAPHAM</p>
-        
+
         <p class="fr-book-desc">Places Somalia within the wider Horn of Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Horn+of+Africa+Christopher+CLAPHAM&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1380,7 +1380,7 @@ These are genuine mysteries because the available evidence permits several inter
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

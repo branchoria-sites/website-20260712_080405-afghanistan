@@ -369,7 +369,7 @@ Today the Haggadah is recognised on UNESCO's Memory of the World Register and re
           <a href="https://www.amazon.com/s?k=People+of+the+book+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="People of the book">People of the book</a>
         </h4>
         <p class="fr-book-author">By Geraldine Brooks</p>
-        
+
         <p class="fr-book-desc">Introduces the manuscript&#x27;s remarkable historical journey through fiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=People+of+the+book+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Today the Haggadah is recognised on UNESCO's Memory of the World Register and re
           <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Jews">A history of the Jews</a>
         </h4>
         <p class="fr-book-author">By Paul Bede Johnson</p>
-        
+
         <p class="fr-book-desc">Provides background on Sephardic Jewish migrations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Today the Haggadah is recognised on UNESCO's Memory of the World Register and re
           <a href="https://www.amazon.com/s?k=Jews+of+Spain+Jane+S.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jews of Spain">Jews of Spain</a>
         </h4>
         <p class="fr-book-author">By Jane S. Gerber</p>
-        
+
         <p class="fr-book-desc">Explains the historical movements behind the Haggadah&#x27;s likely route.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jews+of+Spain+Jane+S.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Today the Haggadah is recognised on UNESCO's Memory of the World Register and re
           <a href="https://www.amazon.com/s?k=The+Sarajevo+Haggadah+Shalom+Sabar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sarajevo Haggadah">The Sarajevo Haggadah</a>
         </h4>
         <p class="fr-book-author">By Shalom Sabar</p>
-        
+
         <p class="fr-book-desc">Directly addresses the Haggadah&#x27;s origins, artistry and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sarajevo+Haggadah+Shalom+Sabar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

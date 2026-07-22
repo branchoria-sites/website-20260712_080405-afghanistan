@@ -378,27 +378,10 @@ For Austria's history, the case illustrates an important distinction between doc
           <a href="https://www.amazon.com/s?k=Mozart+Jan+Swafford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mozart">Mozart</a>
         </h4>
         <p class="fr-book-author">By Jan Swafford</p>
-        
+
         <p class="fr-book-desc">Discusses competing medical explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mozart+Jan+Swafford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Twilight+of+empire+Greg+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Twilight of empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13193574-M.jpg" alt="Cover for Twilight of empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Twilight+of+empire+Greg+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Twilight of empire">Twilight of empire</a>
-        </h4>
-        <p class="fr-book-author">By Greg King</p>
-        
-        <p class="fr-book-desc">First published 2017. Subjects: Politics and government, Princes, Biography, Rudolf, crown prince of austria, 1858-1889, Habsburg, house of.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Twilight+of+empire+Greg+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -412,10 +395,27 @@ For Austria's history, the case illustrates an important distinction between doc
           <a href="https://www.amazon.com/s?k=1791+H.+C.+Robbins+Landon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1791">1791</a>
         </h4>
         <p class="fr-book-author">By H. C. Robbins Landon</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Mozart, wolfgang amadeus, 1756-1791, Composers, Biography, Last years.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1791+H.+C.+Robbins+Landon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Twilight+of+empire+Greg+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Twilight of empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13193574-M.jpg" alt="Cover for Twilight of empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Twilight+of+empire+Greg+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Twilight of empire">Twilight of empire</a>
+        </h4>
+        <p class="fr-book-author">By Greg King</p>
+
+        <p class="fr-book-desc">First published 2017. Subjects: Politics and government, Princes, Biography, Rudolf, crown prince of austria, 1858-1889, Habsburg, house of.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Twilight+of+empire+Greg+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -429,7 +429,7 @@ For Austria's history, the case illustrates an important distinction between doc
           <a href="https://www.amazon.com/s?k=mozart+a+life+maynard+solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="mozart a life">mozart a life</a>
         </h4>
         <p class="fr-book-author">By maynard solomon</p>
-        
+
         <p class="fr-book-desc">Carefully examines Mozart&#x27;s final illness and death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=mozart+a+life+maynard+solomon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ For Austria's history, the case illustrates an important distinction between doc
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mozart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mozart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Twilight+of+empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Twilight of empire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1791&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1791</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mozart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mozart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1791&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1791</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Twilight+of+empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Twilight of empire</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

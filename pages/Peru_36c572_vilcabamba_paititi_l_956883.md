@@ -404,7 +404,7 @@ Vilcabamba demonstrates that careful archaeological work can solve long-standing
           <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Days of the Incas">The Last Days of the Incas</a>
         </h4>
         <p class="fr-book-author">By Kim MacQuarrie</p>
-        
+
         <p class="fr-book-desc">Covers the fall of Vilcabamba and the last Inca resistance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Vilcabamba demonstrates that careful archaeological work can solve long-standing
           <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Right at Machu Picchu">Turn Right at Machu Picchu</a>
         </h4>
         <p class="fr-book-author">By Mark Adams, Mark Adams</p>
-        
+
         <p class="fr-book-desc">Explores the search for lost Inca sites and modern archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ Vilcabamba demonstrates that careful archaeological work can solve long-standing
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z">The Lost City of Z</a>
         </h4>
         <p class="fr-book-author">By David Grann, James Gray</p>
-        
+
         <p class="fr-book-desc">Captures the history of South American lost-city exploration and myth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ Vilcabamba demonstrates that careful archaeological work can solve long-standing
           <a href="https://www.amazon.com/s?k=The+ancient+kingdoms+of+Peru+Nigel+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ancient kingdoms of Peru">The ancient kingdoms of Peru</a>
         </h4>
         <p class="fr-book-author">By Nigel Davies</p>
-        
+
         <p class="fr-book-desc">Provides context for Inca expansion and collapse.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+ancient+kingdoms+of+Peru+Nigel+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

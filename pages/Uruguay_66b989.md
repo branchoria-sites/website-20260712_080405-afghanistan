@@ -1328,13 +1328,30 @@ The most important lesson is that historical mysteries do not endure merely beca
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Condor+years+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Condor years on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/805243-M.jpg" alt="Cover for The Condor years" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Condor+years+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Condor years">The Condor years</a>
+        </h4>
+        <p class="fr-book-author">By John Dinges</p>
+
+        <p class="fr-book-desc">Explains the regional background to Uruguay&#x27;s disappearances.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Condor+years+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open River Plate 1939 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River Plate 1939">River Plate 1939</a>
         </h4>
         <p class="fr-book-author">By Angus Konstam, Tony Bryan</p>
-        
+
         <p class="fr-book-desc">Covers the Graf Spee and River Plate story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1351,27 +1368,10 @@ The most important lesson is that historical mysteries do not endure merely beca
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Provides historical context for many regional events and controversies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Condor+years+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Condor years on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/805243-M.jpg" alt="Cover for The Condor years" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Condor+years+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Condor years">The Condor years</a>
-        </h4>
-        <p class="fr-book-author">By John Dinges</p>
-        
-        <p class="fr-book-desc">Explains the regional background to Uruguay&#x27;s disappearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Condor+years+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1385,7 +1385,7 @@ The most important lesson is that historical mysteries do not endure merely beca
           <a href="https://www.amazon.com/s?k=Carlos+Gardel%3A+The+Life%2C+the+Music%2C+the+Legend+Simon+Collier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carlos Gardel: The Life, the Music, the Legend">Carlos Gardel: The Life, the Music, the Legend</a>
         </h4>
         <p class="fr-book-author">By Simon Collier</p>
-        
+
         <p class="fr-book-desc">Addresses the birthplace controversy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Carlos+Gardel%3A+The+Life%2C+the+Music%2C+the+Legend+Simon+Collier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1396,7 +1396,7 @@ The most important lesson is that historical mysteries do not endure merely beca
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=River+Plate+1939&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">River Plate 1939</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Veins Of Latin America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Condor+years&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Condor years</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Condor+years&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Condor years</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=River+Plate+1939&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">River Plate 1939</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Veins Of Latin America</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

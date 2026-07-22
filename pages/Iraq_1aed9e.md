@@ -1360,7 +1360,7 @@ Iraq’s enduring enigmas matter because they expose the difference between poss
 <a href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rape of Mesopotamia">The rape of Mesopotamia</a>
 </h4>
 <p class="fr-book-author">By Lawrence Rothfield</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Sociology, Antiquities, Archaeological thefts, Iraq War, 2003-2011, Nonfiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ Iraq’s enduring enigmas matter because they expose the difference between poss
 <a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Babylon">Babylon</a>
 </h4>
 <p class="fr-book-author">By Paul Kriwaczek</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Politics and government, Civilization, History, Iraq, history, to 634, Middle east, civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1394,7 +1394,7 @@ Iraq’s enduring enigmas matter because they expose the difference between poss
 <a href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weavers, Scribes, and Kings">Weavers, Scribes, and Kings</a>
 </h4>
 <p class="fr-book-author">By Amanda H. Podany</p>
-        
+
 <p class="fr-book-desc">First published 2022.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1411,7 +1411,7 @@ Iraq’s enduring enigmas matter because they expose the difference between poss
 <a href="https://www.amazon.com/s?k=Between+Two+Rivers+Moudhy+Al-Rashid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Between Two Rivers">Between Two Rivers</a>
 </h4>
 <p class="fr-book-author">By Moudhy Al-Rashid</p>
-        
+
 <p class="fr-book-desc">First published 2025.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Between+Two+Rivers+Moudhy+Al-Rashid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

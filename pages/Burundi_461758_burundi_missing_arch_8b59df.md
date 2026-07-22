@@ -384,7 +384,7 @@ The central mystery is therefore broader than any single disappearance or politi
 <a href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When victims become killers">When victims become killers</a>
 </h4>
 <p class="fr-book-author">By Mahmood Mamdani</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Politics and government, Hutu (African people), Rwanda Civil War, 1994, Insurgency, Ethnic relations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The central mystery is therefore broader than any single disappearance or politi
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The central mystery is therefore broader than any single disappearance or politi
 <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
 </h4>
 <p class="fr-book-author">By Paul Nugent</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: History, Africa, history, Comparative government, Africa, politics and government, Politieke onafhankelij...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ The central mystery is therefore broader than any single disappearance or politi
 <a href="https://www.amazon.com/s?k=Burundi+Rene%CC%81+Lemarchand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burundi">Burundi</a>
 </h4>
 <p class="fr-book-author">By René Lemarchand</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Politics and government, Violence, Ethnic relations, Genocide, Political aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Burundi+Rene%CC%81+Lemarchand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

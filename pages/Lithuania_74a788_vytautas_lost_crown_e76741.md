@@ -371,7 +371,7 @@ Current evidence does not justify claiming that a completed royal crown was conc
           <a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of Lithuania">The History of Lithuania</a>
         </h4>
         <p class="fr-book-author">By Zigmantas Kiaupa</p>
-        
+
         <p class="fr-book-desc">Covers Vytautas and the failed coronation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Current evidence does not justify claiming that a completed royal crown was conc
           <a href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reconstruction of Nations">The Reconstruction of Nations</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
-        
+
         <p class="fr-book-desc">Places the coronation dispute within longer national history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Current evidence does not justify claiming that a completed royal crown was conc
           <a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lithuania ascending">Lithuania ascending</a>
         </h4>
         <p class="fr-book-author">By S. C. Rowell</p>
-        
+
         <p class="fr-book-desc">First published 1994. Subjects: History, Lithuania, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Current evidence does not justify claiming that a completed royal crown was conc
           <a href="https://www.amazon.com/s?k=The+Oxford+History+of+Poland-Lithuania%2C+Volume+I+Robert+I.+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford History of Poland-Lithuania, Volume I">The Oxford History of Poland-Lithuania, Volume I</a>
         </h4>
         <p class="fr-book-author">By Robert I. Frost</p>
-        
+
         <p class="fr-book-desc">Explains Vytautas, the union with Poland and coronation politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+History+of+Poland-Lithuania%2C+Volume+I+Robert+I.+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

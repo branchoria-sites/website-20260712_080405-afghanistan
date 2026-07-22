@@ -348,7 +348,7 @@ These recoveries also illustrate the growing importance of forensic science in h
 <a href="https://www.amazon.com/s?k=Into+Thin+Air+by+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
 </h4>
 <p class="fr-book-author">By Jon Krakauer</p>
-        
+
 <p class="fr-book-desc">Natural crossover for readers interested in mountain tragedies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Into+Thin+Air+by+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ These recoveries also illustrate the growing importance of forensic science in h
 <a href="https://www.amazon.com/s?k=The+Ice+Master+Jennifer+Niven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ice Master">The Ice Master</a>
 </h4>
 <p class="fr-book-author">By Jennifer Niven</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Canadian Arctic Expedition, Discovery and exploration, Nonfiction, Karluk (Ship), Canadian Arctic Expedit...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ice+Master+Jennifer+Niven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ These recoveries also illustrate the growing importance of forensic science in h
 <a href="https://www.amazon.com/s?k=The+Third+Pole+Mark+Synnott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Third Pole">The Third Pole</a>
 </h4>
 <p class="fr-book-author">By Mark Synnott, Rosa Fernández-Arroyo</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: New York Times reviewed, Recreation, Mountaineering expeditions, Mountaineers, Mountaineering.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Third+Pole+Mark+Synnott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ These recoveries also illustrate the growing importance of forensic science in h
 <a href="https://www.amazon.com/s?k=Frozen+in+time+Owen+Beattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frozen in time">Frozen in time</a>
 </h4>
 <p class="fr-book-author">By Owen Beattie, O. Beattie et al.</p>
-        
+
 <p class="fr-book-desc">First published 1987. Subjects: Archaeological expeditions, Biography, British, Discovery and exploration, Découverte et exploration angl...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Frozen+in+time+Owen+Beattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

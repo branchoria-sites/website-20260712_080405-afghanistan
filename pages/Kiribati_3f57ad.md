@@ -1313,16 +1313,16 @@ What links these cases is not a single hidden history, but the fragile path by w
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle+Robert+Sherrod&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tarawa the Story of a Battle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13504545-M.jpg" alt="Cover for Tarawa the Story of a Battle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Finding+Amelia+Ric+Gillespie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Finding Amelia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/862944-M.jpg" alt="Cover for Finding Amelia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle+Robert+Sherrod&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tarawa the Story of a Battle">Tarawa the Story of a Battle</a>
+          <a href="https://www.amazon.com/s?k=Finding+Amelia+Ric+Gillespie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finding Amelia">Finding Amelia</a>
         </h4>
-        <p class="fr-book-author">By Robert Sherrod</p>
-        
-        <p class="fr-book-desc">Provides context for Tarawa&#x27;s missing war graves.</p>
+        <p class="fr-book-author">By Ric Gillespie</p>
+
+        <p class="fr-book-desc">Directly addresses the Kiribati castaway theory.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle+Robert+Sherrod&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Finding+Amelia+Ric+Gillespie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1330,16 +1330,16 @@ What links these cases is not a single hidden history, but the fragile path by w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Finding+Amelia+Ric+Gillespie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Finding Amelia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/862944-M.jpg" alt="Cover for Finding Amelia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle+Robert+Sherrod&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tarawa the Story of a Battle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13504545-M.jpg" alt="Cover for Tarawa the Story of a Battle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Finding+Amelia+Ric+Gillespie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finding Amelia">Finding Amelia</a>
+          <a href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle+Robert+Sherrod&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tarawa the Story of a Battle">Tarawa the Story of a Battle</a>
         </h4>
-        <p class="fr-book-author">By Ric Gillespie</p>
-        
-        <p class="fr-book-desc">Directly addresses the Kiribati castaway theory.</p>
+        <p class="fr-book-author">By Robert Sherrod</p>
+
+        <p class="fr-book-desc">Provides context for Tarawa&#x27;s missing war graves.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Finding+Amelia+Ric+Gillespie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle+Robert+Sherrod&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1353,7 +1353,7 @@ What links these cases is not a single hidden history, but the fragile path by w
           <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amelia Earhart">Amelia Earhart</a>
         </h4>
         <p class="fr-book-author">By Mike Campbell</p>
-        
+
         <p class="fr-book-desc">Covers Kiribati&#x27;s most famous historical mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ What links these cases is not a single hidden history, but the fragile path by w
           <a href="https://www.amazon.com/s?k=AMELIA+EARHART+THE+MYSTERY+SOLVED+Elgen+M.+And+Marie+K.+Long+Long&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AMELIA EARHART THE MYSTERY SOLVED">AMELIA EARHART THE MYSTERY SOLVED</a>
         </h4>
         <p class="fr-book-author">By Elgen M. And Marie K. Long Long</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Earhart, amelia, 1898-1937, Aeronautics, flights.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=AMELIA+EARHART+THE+MYSTERY+SOLVED+Elgen+M.+And+Marie+K.+Long+Long&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1381,7 +1381,7 @@ What links these cases is not a single hidden history, but the fragile path by w
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tarawa the Story of a Battle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Finding+Amelia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Finding Amelia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amelia Earhart</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Finding+Amelia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Finding Amelia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tarawa+the+Story+of+a+Battle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tarawa the Story of a Battle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amelia Earhart</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

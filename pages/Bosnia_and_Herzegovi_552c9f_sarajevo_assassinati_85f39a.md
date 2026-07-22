@@ -377,7 +377,7 @@ For [Bosnia and Herzegovina]({{ 'bosnia-and-herzegovina/' | relative_url }}), th
           <a href="https://www.amazon.com/s?k=The+Guns+of+August+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Guns of August">The Guns of August</a>
         </h4>
         <p class="fr-book-author">By Barbara Tuchman</p>
-        
+
         <p class="fr-book-desc">Introduces the chain of events following the assassination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Guns+of+August+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For [Bosnia and Herzegovina]({{ 'bosnia-and-herzegovina/' | relative_url }}), th
           <a href="https://www.amazon.com/s?k=The+Sleepwalkers+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleepwalkers">The Sleepwalkers</a>
         </h4>
         <p class="fr-book-author">By Christopher Clark</p>
-        
+
         <p class="fr-book-desc">Examines responsibility and the Sarajevo assassination in depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sleepwalkers+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For [Bosnia and Herzegovina]({{ 'bosnia-and-herzegovina/' | relative_url }}), th
           <a href="https://www.amazon.com/s?k=July+1914+Sean+McMeekin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="July 1914">July 1914</a>
         </h4>
         <p class="fr-book-author">By Sean McMeekin</p>
-        
+
         <p class="fr-book-desc">Explores competing theories about direction of the conspiracy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=July+1914+Sean+McMeekin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For [Bosnia and Herzegovina]({{ 'bosnia-and-herzegovina/' | relative_url }}), th
           <a href="https://www.amazon.com/s?k=Catastrophe+1914+Max+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Catastrophe 1914">Catastrophe 1914</a>
         </h4>
         <p class="fr-book-author">By Max Hastings</p>
-        
+
         <p class="fr-book-desc">Places the assassination within the wider crisis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Catastrophe+1914+Max+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

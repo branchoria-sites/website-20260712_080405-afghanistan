@@ -349,7 +349,7 @@ The enduring questions are therefore narrower than popular accounts often sugges
 <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Gordon+L.+Dillow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
 </h4>
 <p class="fr-book-author">By Gordon L. Dillow</p>
-        
+
 <p class="fr-book-desc">Places Tunguska within the wider history of impact hazards.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Gordon+L.+Dillow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ The enduring questions are therefore narrower than popular accounts often sugges
 <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
 </h4>
 <p class="fr-book-author">By Lewis, John S.</p>
-        
+
 <p class="fr-book-desc">First published 1996. Subjects: Impact, Comets, Environmental aspects, Asteroids, Environmental aspects of Comets.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ The enduring questions are therefore narrower than popular accounts often sugges
 <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Mountain">Dead Mountain</a>
 </h4>
 <p class="fr-book-author">By Donnie Eichar</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: Travel, Mountaineering accidents, Hiking, History, Mountaineering.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ The enduring questions are therefore narrower than popular accounts often sugges
 <a href="https://www.amazon.com/s?k=Asteroid+hunters+Carrie+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asteroid hunters">Asteroid hunters</a>
 </h4>
 <p class="fr-book-author">By Carrie Nugent</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Space flight to asteroids, Asteroids, Exploration.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Asteroid+hunters+Carrie+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

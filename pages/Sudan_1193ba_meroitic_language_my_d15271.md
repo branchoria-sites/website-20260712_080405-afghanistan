@@ -410,7 +410,7 @@ For Sudan's history, this means that thousands of inscriptions still preserve in
           <a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts">Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts</a>
         </h4>
         <p class="fr-book-author">By Andrew Robinson</p>
-        
+
         <p class="fr-book-desc">Explains how scripts are deciphered and why some languages remain elusive.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For Sudan's history, this means that thousands of inscriptions still preserve in
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Civilization, History, Egypt, history, to 640 a.d..</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ For Sudan's history, this means that thousands of inscriptions still preserve in
           <a href="https://www.amazon.com/s?k=Ancient+Nubia%3A+African+Kingdoms+on+the+Nile+Marisa+J.+A.+J.+de+Voogt+and+Geoff+Emberling+%28eds.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Nubia: African Kingdoms on the Nile">Ancient Nubia: African Kingdoms on the Nile</a>
         </h4>
         <p class="fr-book-author">By Marisa J. A. J. de Voogt and Geoff Emberling (eds.)</p>
-        
+
         <p class="fr-book-desc">Introduces Meroitic culture and the surviving written evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ancient+Nubia%3A+African+Kingdoms+on+the+Nile+Marisa+J.+A.+J.+de+Voogt+and+Geoff+Emberling+%28eds.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +461,7 @@ For Sudan's history, this means that thousands of inscriptions still preserve in
           <a href="https://www.amazon.com/s?k=The+Kingdom+of+Kush%3A+Handbook+of+the+Napatan-Meroitic+Civilization+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdom of Kush: Handbook of the Napatan-Meroitic Civilization">The Kingdom of Kush: Handbook of the Napatan-Meroitic Civiliz...</a>
         </h4>
         <p class="fr-book-author">By László Török</p>
-        
+
         <p class="fr-book-desc">Contains substantial discussion of Meroitic inscriptions and scholarship.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kingdom+of+Kush%3A+Handbook+of+the+Napatan-Meroitic+Civilization+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

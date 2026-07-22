@@ -359,7 +359,7 @@ That uncertainty makes Mohenjo-daro's decline one of [Pakistan]({{ 'what-really-
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Introduces broader debates about ancient societal collapse.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ That uncertainty makes Mohenjo-daro's decline one of [Pakistan]({{ 'what-really-
           <a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mohenjo-Daro and the Indus civilization">Mohenjo-Daro and the Indus civilization</a>
         </h4>
         <p class="fr-book-author">By Marshall, John Hubert Sir</p>
-        
+
         <p class="fr-book-desc">Documents the site&#x27;s excavation history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ That uncertainty makes Mohenjo-daro's decline one of [Pakistan]({{ 'what-really-
           <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of Early India">The Penguin History of Early India</a>
         </h4>
         <p class="fr-book-author">By Romila Thapar</p>
-        
+
         <p class="fr-book-desc">Provides context for the transition after the Indus Civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ That uncertainty makes Mohenjo-daro's decline one of [Pakistan]({{ 'what-really-
           <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indus Civilization">The Indus Civilization</a>
         </h4>
         <p class="fr-book-author">By Gregory L. Possehl</p>
-        
+
         <p class="fr-book-desc">Discusses Mohenjo-daro&#x27;s decline using current archaeological evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

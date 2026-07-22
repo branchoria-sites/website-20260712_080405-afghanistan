@@ -371,7 +371,7 @@ The core facts are now much clearer than they once were: Salaspils was a Nazi ca
           <a href="https://www.amazon.com/s?k=Ordinary+Men+Christopher+R.+Browning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ordinary Men">Ordinary Men</a>
         </h4>
         <p class="fr-book-author">By Christopher R. Browning</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the mechanisms of Nazi occupation violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ordinary+Men+Christopher+R.+Browning&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The core facts are now much clearer than they once were: Salaspils was a Nazi ca
           <a href="https://www.amazon.com/s?k=KL%3A+a+history+of+the+Nazi+concentration+camps+Nikolaus+WACHSMANN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="KL: a history of the Nazi concentration camps">KL: a history of the Nazi concentration camps</a>
         </h4>
         <p class="fr-book-author">By Nikolaus WACHSMANN</p>
-        
+
         <p class="fr-book-desc">Places Salaspils within the broader system of Nazi imprisonment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=KL%3A+a+history+of+the+Nazi+concentration+camps+Nikolaus+WACHSMANN&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The core facts are now much clearer than they once were: Salaspils was a Nazi ca
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
         </h4>
         <p class="fr-book-author">By Alan Warwick Palmer</p>
-        
+
         <p class="fr-book-desc">Adds Latvian historical context beyond the camp itself.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The core facts are now much clearer than they once were: Salaspils was a Nazi ca
           <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Holocaust">The Holocaust</a>
         </h4>
         <p class="fr-book-author">By Laurence Rees, S. P. Bavin</p>
-        
+
         <p class="fr-book-desc">Explains occupation policies and the historical evidence behind Holocaust research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

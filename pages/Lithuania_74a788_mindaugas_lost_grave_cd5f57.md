@@ -382,7 +382,7 @@ For now, Vilnius Cathedral remains the strongest archaeological candidate, but i
           <a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of Lithuania">The History of Lithuania</a>
         </h4>
         <p class="fr-book-author">By Zigmantas Kiaupa</p>
-        
+
         <p class="fr-book-desc">Explains the reign, assassination and historical evidence surrounding Mindaugas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For now, Vilnius Cathedral remains the strongest archaeological candidate, but i
           <a href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reconstruction of Nations">The Reconstruction of Nations</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
-        
+
         <p class="fr-book-desc">Adds broader context for Lithuanian historical identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For now, Vilnius Cathedral remains the strongest archaeological candidate, but i
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Medieval+Europe+James+Graham-Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Medieval Europe">The Archaeology of Medieval Europe</a>
         </h4>
         <p class="fr-book-author">By James Graham-Campbell</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Excavations (Archaeology), Antiquities, Medieval Archaeology, 15.35 medieval and post-medieval archaeolog...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Medieval+Europe+James+Graham-Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ For now, Vilnius Cathedral remains the strongest archaeological candidate, but i
           <a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lithuania ascending">Lithuania ascending</a>
         </h4>
         <p class="fr-book-author">By S. C. Rowell</p>
-        
+
         <p class="fr-book-desc">First published 1994. Subjects: History, Lithuania, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

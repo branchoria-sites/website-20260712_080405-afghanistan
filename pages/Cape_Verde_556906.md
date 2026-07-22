@@ -1334,7 +1334,7 @@ That distinction is essential. Cape Verde’s history is mysterious not because 
           <a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fortunate Isles">The Fortunate Isles</a>
         </h4>
         <p class="fr-book-author">By Basil Davidson</p>
-        
+
         <p class="fr-book-desc">Places Cape Verde within wider Atlantic and African history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1351,7 +1351,7 @@ That distinction is essential. Cape Verde’s history is mysterious not because 
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
         </h4>
         <p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
-        
+
         <p class="fr-book-desc">Provides primary-source context for Cape Verde&#x27;s independence history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,7 +1368,7 @@ That distinction is essential. Cape Verde’s history is mysterious not because 
           <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire, 1415-1825">The Portuguese Seaborne Empire, 1415-1825</a>
         </h4>
         <p class="fr-book-author">By C.R. BOXER</p>
-        
+
         <p class="fr-book-desc">Essential background to Cape Verde&#x27;s colonial origins.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1385,7 +1385,7 @@ That distinction is essential. Cape Verde’s history is mysterious not because 
           <a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Cape Verde">A History of Cape Verde</a>
         </h4>
         <p class="fr-book-author">By Richard A. Lobban Jr. and Paul Khalil Saucier</p>
-        
+
         <p class="fr-book-desc">Broad coverage of the archipelago&#x27;s major historical debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

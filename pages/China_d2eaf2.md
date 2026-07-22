@@ -1351,7 +1351,7 @@ None benefits from exaggeration. The strongest explanations are generally ground
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
         </h4>
         <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
         <p class="fr-book-desc">Provides broad historical context for multiple mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,7 +1368,7 @@ None benefits from exaggeration. The strongest explanations are generally ground
           <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
         </h4>
         <p class="fr-book-author">By Ebrey, Patricia Buckley</p>
-        
+
         <p class="fr-book-desc">Introduces the eras behind the featured mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1385,7 +1385,7 @@ None benefits from exaggeration. The strongest explanations are generally ground
           <a href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Terracotta Army">The Terracotta Army</a>
         </h4>
         <p class="fr-book-author">By John Man</p>
-        
+
         <p class="fr-book-desc">Covers Qin Shi Huang and his mausoleum.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1402,7 +1402,7 @@ None benefits from exaggeration. The strongest explanations are generally ground
           <a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chronicle of the Chinese emperors">Chronicle of the Chinese emperors</a>
         </h4>
         <p class="fr-book-author">By Ann Paludan</p>
-        
+
         <p class="fr-book-desc">Useful for imperial mysteries including the Jianwen Emperor.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

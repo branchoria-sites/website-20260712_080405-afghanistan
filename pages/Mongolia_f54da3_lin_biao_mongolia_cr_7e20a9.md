@@ -370,7 +370,7 @@ The physical evidence recovered in Mongolia has therefore solved one mystery whi
 <a href="https://www.amazon.com/s?k=Wild+Swans+Jung+Chang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wild Swans">Wild Swans</a>
 </h4>
 <p class="fr-book-author">By Jung Chang</p>
-        
+
 <p class="fr-book-desc">First published 1989. Subjects: Mujeres en China, Biography, History, Women, Social conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Wild+Swans+Jung+Chang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The physical evidence recovered in Mongolia has therefore solved one mystery whi
 <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
 </h4>
 <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: History, Historia, Histoire, Qing Dynasty (China), China, history, qing dynasty, 1644-1912.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The physical evidence recovered in Mongolia has therefore solved one mystery whi
 <a href="https://www.amazon.com/s?k=The+cultural+revolution+Frank+Diko%CC%88tter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cultural revolution">The cultural revolution</a>
 </h4>
 <p class="fr-book-author">By Frank Dikötter</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Personal narratives, Atrocities, History, China, history, cultural revolution, 1966-1969, New York Times...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+cultural+revolution+Frank+Diko%CC%88tter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ The physical evidence recovered in Mongolia has therefore solved one mystery whi
 <a href="https://www.amazon.com/s?k=Mao+Jung+Chang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mao">Mao</a>
 </h4>
 <p class="fr-book-author">By Jung Chang, Jon Halliday et al.</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Biography, Heads of state, Politics and government, China, politics and government, 1949-, Communism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mao+Jung+Chang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

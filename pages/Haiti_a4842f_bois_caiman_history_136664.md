@@ -343,7 +343,7 @@ The mystery, therefore, is not whether resistance began in August 1791. It is ho
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Provides the broad revolutionary narrative necessary to understand why the pre-uprising meeting became a foundational Haitian story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ The mystery, therefore, is not whether resistance began in August 1791. It is ho
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Avengers of the New World">Avengers of the New World</a>
         </h4>
         <p class="fr-book-author">By Laurent Dubois</p>
-        
+
         <p class="fr-book-desc">Places the gathering within the organisation of the 1791 uprising while carefully treating the limits of surviving evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ The mystery, therefore, is not whether resistance began in August 1791. It is ho
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
         </h4>
         <p class="fr-book-author">By Michel-Rolph Trouillot</p>
-        
+
         <p class="fr-book-desc">Offers a powerful framework for analysing why Bois Caïman&#x27;s poorly documented details became both historically disputed and nationally si...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ The mystery, therefore, is not whether resistance began in August 1791. It is ho
           <a href="https://www.amazon.com/s?k=Vodou+in+Haitian+life+and+culture+Claudine+Michel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vodou in Haitian life and culture">Vodou in Haitian life and culture</a>
         </h4>
         <p class="fr-book-author">By Claudine Michel, Patrick Bellegarde-Smith</p>
-        
+
         <p class="fr-book-desc">Helps readers distinguish Haitian religious practice from the devil-pact mythology later imposed on accounts of Bois Caïman.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vodou+in+Haitian+life+and+culture+Claudine+Michel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

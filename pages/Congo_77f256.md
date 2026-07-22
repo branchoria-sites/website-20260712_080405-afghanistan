@@ -1349,7 +1349,7 @@ What keeps these mysteries alive is their connection to unresolved questions of 
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Essential background on the Congo&#x27;s colonial legacy behind later crises.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ What keeps these mysteries alive is their connection to unresolved questions of 
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides broad context for Congo&#x27;s major political mysteries and post-independence history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ What keeps these mysteries alive is their connection to unresolved questions of 
           <a href="https://www.amazon.com/s?k=Africa%27s+world+war+Ge%CC%81rard+Prunier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa&#x27;s world war">Africa&#x27;s world war</a>
         </h4>
         <p class="fr-book-author">By Gérard Prunier</p>
-        
+
         <p class="fr-book-desc">Covers the regional wars shaping unresolved Congolese political questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa%27s+world+war+Ge%CC%81rard+Prunier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1400,7 +1400,7 @@ What keeps these mysteries alive is their connection to unresolved questions of 
           <a href="https://www.amazon.com/s?k=The+Lumumba+Plot+Stuart+A.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lumumba Plot">The Lumumba Plot</a>
         </h4>
         <p class="fr-book-author">By Stuart A. Reid</p>
-        
+
         <p class="fr-book-desc">Explores the assassination of Lumumba and wider Congo Crisis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lumumba+Plot+Stuart+A.+Reid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

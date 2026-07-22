@@ -349,7 +349,7 @@ The village name Massacre keeps the episode alive in Dominica's historical lands
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of resistance and colonial power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ The village name Massacre keeps the episode alive in Dominica's historical lands
           <a href="https://www.amazon.com/s?k=Empire+of+Blue+Water+Stephan+Talty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire of Blue Water">Empire of Blue Water</a>
         </h4>
         <p class="fr-book-author">By Stephan Talty</p>
-        
+
         <p class="fr-book-desc">Captures the violent colonial world surrounding Warner&#x27;s death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empire+of+Blue+Water+Stephan+Talty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ The village name Massacre keeps the episode alive in Dominica's historical lands
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Explains seventeenth-century Caribbean conflicts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ The village name Massacre keeps the episode alive in Dominica's historical lands
           <a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in blood and fire">Born in blood and fire</a>
         </h4>
         <p class="fr-book-author">By John Charles Chasteen</p>
-        
+
         <p class="fr-book-desc">Provides wider colonial context for readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

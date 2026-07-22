@@ -370,7 +370,7 @@ More than a century later, the event continues to illustrate the strengths and w
           <a href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="fatima in lucia&#x27;s own words">fatima in lucia&#x27;s own words</a>
         </h4>
         <p class="fr-book-author">By sister lucia</p>
-        
+
         <p class="fr-book-desc">Primary account from one of the visionaries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ More than a century later, the event continues to illustrate the strengths and w
           <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles">Miracles</a>
         </h4>
         <p class="fr-book-author">By C. S. Lewis</p>
-        
+
         <p class="fr-book-desc">Explores philosophical questions surrounding miraculous claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ More than a century later, the event continues to illustrate the strengths and w
           <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Portugal And The Portuguese Empire">A History Of Portugal And The Portuguese Empire</a>
         </h4>
         <p class="fr-book-author">By A. R. Disney</p>
-        
+
         <p class="fr-book-desc">Places the Fatima events within Portuguese history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ More than a century later, the event continues to illustrate the strengths and w
           <a href="https://www.amazon.com/s?k=Meet+the+Witnesses+of+the+Miracles+of+the+Sun+John+M.+Haffert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meet the Witnesses of the Miracles of the Sun">Meet the Witnesses of the Miracles of the Sun</a>
         </h4>
         <p class="fr-book-author">By John M. Haffert</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: Our Lady of Fatima.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meet+the+Witnesses+of+the+Miracles+of+the+Sun+John+M.+Haffert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

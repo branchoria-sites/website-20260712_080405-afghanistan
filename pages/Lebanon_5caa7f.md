@@ -1350,7 +1350,7 @@ The most responsible approach is neither to dismiss every mystery nor to accept 
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Supplies wider eastern Mediterranean archaeological context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ The most responsible approach is neither to dismiss every mystery nor to accept 
           <a href="https://www.amazon.com/s?k=A+History+of+the+Middle+East+Peter+Mansfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Middle East">A History of the Middle East</a>
         </h4>
         <p class="fr-book-author">By Peter Mansfield</p>
-        
+
         <p class="fr-book-desc">Places Lebanon within its broader historical setting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+the+Middle+East+Peter+Mansfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1384,7 +1384,7 @@ The most responsible approach is neither to dismiss every mystery nor to accept 
           <a href="https://www.amazon.com/s?k=The+Phoenicians+Glenn+Markoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenicians">The Phoenicians</a>
         </h4>
         <p class="fr-book-author">By Glenn Markoe</p>
-        
+
         <p class="fr-book-desc">Covers many of the ancient sites and mysteries discussed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Phoenicians+Glenn+Markoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

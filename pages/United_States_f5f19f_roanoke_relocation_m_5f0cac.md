@@ -396,7 +396,7 @@ Recent archaeological discoveries on Hatteras Island and at inland locations hav
           <a href="https://www.amazon.com/s?k=The+secret+token+Andrew+Lawler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret token">The secret token</a>
         </h4>
         <p class="fr-book-author">By Andrew Lawler</p>
-        
+
         <p class="fr-book-desc">Explores evidence, archaeology and competing explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+secret+token+Andrew+Lawler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Recent archaeological discoveries on Hatteras Island and at inland locations hav
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
         </h4>
         <p class="fr-book-author">By Charles C. Mann</p>
-        
+
         <p class="fr-book-desc">Provides Indigenous context relevant to relocation theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ Recent archaeological discoveries on Hatteras Island and at inland locations hav
           <a href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke+Jean+Fritz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost Colony of Roanoke">The Lost Colony of Roanoke</a>
         </h4>
         <p class="fr-book-author">By Jean Fritz</p>
-        
+
         <p class="fr-book-desc">Introduces the enduring mystery clearly.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke+Jean+Fritz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ Recent archaeological discoveries on Hatteras Island and at inland locations hav
           <a href="https://www.amazon.com/s?k=Roanoke+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roanoke">Roanoke</a>
         </h4>
         <p class="fr-book-author">By Lee Miller, Lee G. Miller et al.</p>
-        
+
         <p class="fr-book-desc">First published 2000. Subjects: Juvenile literature, History, Elementary Literature, Roanoke Island (N.C.), Roanoke Colony.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Roanoke+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

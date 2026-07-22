@@ -375,7 +375,7 @@ For Suriname, that distinction has lasting importance. The appellate judgment en
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Places Suriname within wider regional political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For Suriname, that distinction has lasting importance. The appellate judgment en
           <a href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa+Richard+A.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Politics of Truth and Reconciliation in South Africa">Politics of Truth and Reconciliation in South Africa</a>
         </h4>
         <p class="fr-book-author">By Richard A. Wilson</p>
-        
+
         <p class="fr-book-desc">Offers comparative insight into accountability after state violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa+Richard+A.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For Suriname, that distinction has lasting importance. The appellate judgment en
           <a href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Globalizing Transitional Justice">Globalizing Transitional Justice</a>
         </h4>
         <p class="fr-book-author">By Ruti G. Teitel</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: Justice, Human rights, Criminal justice, administration of, Transitional justice, Administration of Crimi...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For Suriname, that distinction has lasting importance. The appellate judgment en
           <a href="https://www.amazon.com/s?k=The+blood+never+dried+John+Newsinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The blood never dried">The blood never dried</a>
         </h4>
         <p class="fr-book-author">By John Newsinger, John Newsinger et al.</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: History, Colonies, Imperialism, Great britain, colonies, history, Commonwealth countries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+blood+never+dried+John+Newsinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

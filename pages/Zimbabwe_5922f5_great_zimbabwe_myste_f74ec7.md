@@ -352,7 +352,7 @@ These unanswered questions continue to attract research because they illuminate 
           <a href="https://www.amazon.com/s?k=Great+Zimbabwe+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Great Zimbabwe">Great Zimbabwe</a>
         </h4>
         <p class="fr-book-author">By Peter S. Garlake</p>
-        
+
         <p class="fr-book-desc">Examines the city&#x27;s archaeology, trade, political organisation and the colonial distortion of its African origins.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Great+Zimbabwe+Peter+S.+Garlake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ These unanswered questions continue to attract research because they illuminate 
           <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Rhinoceros">The Golden Rhinoceros</a>
         </h4>
         <p class="fr-book-author">By François-Xavier Fauvelle</p>
-        
+
         <p class="fr-book-desc">Illuminates the wealthy, interconnected African world in which Great Zimbabwe flourished and traded.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ These unanswered questions continue to attract research because they illuminate 
           <a href="https://www.amazon.com/s?k=When+a+crocodile+eats+the+sun+Peter+Godwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When a crocodile eats the sun">When a crocodile eats the sun</a>
         </h4>
         <p class="fr-book-author">By Peter Godwin</p>
-        
+
         <p class="fr-book-desc">First published 2007. Subjects: Family secrets, Journalists, Family, Whites, Travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+a+crocodile+eats+the+sun+Peter+Godwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ These unanswered questions continue to attract research because they illuminate 
           <a href="https://www.amazon.com/s?k=Archaeology+of+Knowledge+Traditions+of+the+Indian+Ocean+World+Himanshu+Prabha+Ray&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology of Knowledge Traditions of the Indian Ocean World">Archaeology of Knowledge Traditions of the Indian Ocean World</a>
         </h4>
         <p class="fr-book-author">By Himanshu Prabha Ray</p>
-        
+
         <p class="fr-book-desc">Provides wider context for the maritime trade routes through which Great Zimbabwe acquired imported goods and prestige materials.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+of+Knowledge+Traditions+of+the+Indian+Ocean+World+Himanshu+Prabha+Ray&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

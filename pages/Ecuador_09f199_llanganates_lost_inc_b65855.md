@@ -386,7 +386,7 @@ For that reason, the Llanganates Treasure occupies an unusual place in Ecuador's
           <a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost City of the Incas">Lost City of the Incas</a>
         </h4>
         <p class="fr-book-author">By Hiram Bingham</p>
-        
+
         <p class="fr-book-desc">Captures the tradition of searching for legendary Inca sites.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ For that reason, the Llanganates Treasure occupies an unusual place in Ecuador's
           <a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conquest of the Incas">The conquest of the Incas</a>
         </h4>
         <p class="fr-book-author">By Hemming, John</p>
-        
+
         <p class="fr-book-desc">Explains Atahualpa&#x27;s ransom and the origins of the treasure legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ For that reason, the Llanganates Treasure occupies an unusual place in Ecuador's
           <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Right at Machu Picchu">Turn Right at Machu Picchu</a>
         </h4>
         <p class="fr-book-author">By Mark Adams, Mark Adams</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in lost Inca treasures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ For that reason, the Llanganates Treasure occupies an unusual place in Ecuador's
           <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Days of the Incas">The Last Days of the Incas</a>
         </h4>
         <p class="fr-book-author">By Kim MacQuarrie</p>
-        
+
         <p class="fr-book-desc">Explains events surrounding Atahualpa and the conquest.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

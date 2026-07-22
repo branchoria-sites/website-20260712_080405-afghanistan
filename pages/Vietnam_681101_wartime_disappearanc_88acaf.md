@@ -372,7 +372,7 @@ Each successful identification closes one family's chapter while highlighting ho
           <a href="https://www.amazon.com/s?k=Embers+of+War+Fredrik+Logevall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embers of War">Embers of War</a>
         </h4>
         <p class="fr-book-author">By Fredrik Logevall</p>
-        
+
         <p class="fr-book-desc">Explains the conflicts that created many unresolved disappearances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Embers+of+War+Fredrik+Logevall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,27 +389,10 @@ Each successful identification closes one family's chapter while highlighting ho
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
         </h4>
         <p class="fr-book-author">By Stanley Karnow</p>
-        
+
         <p class="fr-book-desc">Provides the historical framework for wartime losses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Matterhorn+Karl+Marlantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Matterhorn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6744306-M.jpg" alt="Cover for Matterhorn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Matterhorn+Karl+Marlantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Matterhorn">Matterhorn</a>
-        </h4>
-        <p class="fr-book-author">By Karl Marlantes</p>
-        
-        <p class="fr-book-desc">Illustrates battlefield realities that contributed to missing personnel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Matterhorn+Karl+Marlantes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -423,7 +406,7 @@ Each successful identification closes one family's chapter while highlighting ho
           <a href="https://www.amazon.com/s?k=Nothing+ever+dies+Viet+Thanh+Nguyen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing ever dies">Nothing ever dies</a>
         </h4>
         <p class="fr-book-author">By Viet Thanh Nguyen</p>
-        
+
         <p class="fr-book-desc">Explores remembrance, loss and unresolved wartime legacies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nothing+ever+dies+Viet+Thanh+Nguyen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,9 +415,26 @@ Each successful identification closes one family's chapter while highlighting ho
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Matterhorn+Karl+Marlantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Matterhorn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6744306-M.jpg" alt="Cover for Matterhorn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Matterhorn+Karl+Marlantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Matterhorn">Matterhorn</a>
+        </h4>
+        <p class="fr-book-author">By Karl Marlantes</p>
+
+        <p class="fr-book-desc">Illustrates battlefield realities that contributed to missing personnel.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Matterhorn+Karl+Marlantes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Embers+of+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Embers of War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vietnam%2C+a+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vietnam, a history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Matterhorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Matterhorn</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Embers+of+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Embers of War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vietnam%2C+a+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vietnam, a history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nothing+ever+dies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nothing ever dies</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

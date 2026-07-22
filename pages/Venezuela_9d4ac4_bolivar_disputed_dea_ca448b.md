@@ -340,7 +340,7 @@ That uncertainty explains why Bolívar's death remains one of [Venezuela]({{ 've
           <a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Emperor of All Maladies">The Emperor of All Maladies</a>
         </h4>
         <p class="fr-book-author">By Siddhartha Mukherjee</p>
-        
+
         <p class="fr-book-desc">Helps readers understand historical diagnosis and disease interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ That uncertainty explains why Bolívar's death remains one of [Venezuela]({{ 've
           <a href="https://www.amazon.com/s?k=Sim%C3%B3n+Bol%C3%ADvar+John+Lynch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Simón Bolívar">Simón Bolívar</a>
         </h4>
         <p class="fr-book-author">By John Lynch</p>
-        
+
         <p class="fr-book-desc">Provides detailed analysis of Bolívar&#x27;s career and death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sim%C3%B3n+Bol%C3%ADvar+John+Lynch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ That uncertainty explains why Bolívar's death remains one of [Venezuela]({{ 've
           <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bolívar">Bolívar</a>
         </h4>
         <p class="fr-book-author">By Arana, Marie (Writer)</p>
-        
+
         <p class="fr-book-desc">Discusses Bolívar&#x27;s final illness and competing interpretations of his death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ That uncertainty explains why Bolívar's death remains one of [Venezuela]({{ 've
           <a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The General in his Labyrinth">The General in his Labyrinth</a>
         </h4>
         <p class="fr-book-author">By Gabriel Garcia Marquez</p>
-        
+
         <p class="fr-book-desc">Focuses on Bolívar&#x27;s final months, inspiring readers to explore the historical record.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+General+in+his+Labyrinth+Gabriel+Garcia+Marquez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

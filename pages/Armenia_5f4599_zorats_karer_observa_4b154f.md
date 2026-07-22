@@ -353,7 +353,7 @@ What has not been demonstrated is the stronger claim that the monument functione
 <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past">The Human Past</a>
 </h4>
 <p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Social life and customs, Prehistoric peoples, Economic conditions, Human evolution, Hunting and gathering...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ What has not been demonstrated is the stronger claim that the monument functione
 <a href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenia">Armenia</a>
 </h4>
 <p class="fr-book-author">By Robert H. Hewsen</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Armenia (republic).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ What has not been demonstrated is the stronger claim that the monument functione
 <a href="https://www.amazon.com/s?k=Ancient+Astronomies+Clive+Ruggles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Astronomies">Ancient Astronomies</a>
 </h4>
 <p class="fr-book-author">By Clive Ruggles</p>
-        
+
 <p class="fr-book-desc">Helps readers assess observatory claims critically.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ancient+Astronomies+Clive+Ruggles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ What has not been demonstrated is the stronger claim that the monument functione
 <a href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Megalith: Studies in Stone">Megalith: Studies in Stone</a>
 </h4>
 <p class="fr-book-author">By Francis Pryor</p>
-        
+
 <p class="fr-book-desc">Provides balanced discussion of stone monuments and interpretation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

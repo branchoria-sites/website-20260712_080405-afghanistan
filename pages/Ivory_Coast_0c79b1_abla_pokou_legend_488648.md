@@ -350,7 +350,7 @@ For historians, the real puzzle is therefore not simply whether the sacrifice ha
 <a href="https://www.amazon.com/s?k=Oral+tradition+as+history+Jan+Vansina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oral tradition as history">Oral tradition as history</a>
 </h4>
 <p class="fr-book-author">By Jan Vansina, J. Vansina et al.</p>
-        
+
 <p class="fr-book-desc">First published 1985. Subjects: Oral tradition, Methodology, History, Histoire, Methodologie.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Oral+tradition+as+history+Jan+Vansina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ For historians, the real puzzle is therefore not simply whether the sacrifice ha
 <a href="https://www.amazon.com/s?k=Queen+Pokou+V%C3%A9ronique+Tadjo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Queen Pokou">Queen Pokou</a>
 </h4>
 <p class="fr-book-author">By Véronique Tadjo</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Baule (African people), Slave trade, Queens, History, Mother and child.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Queen+Pokou+V%C3%A9ronique+Tadjo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For historians, the real puzzle is therefore not simply whether the sacrifice ha
 <a href="https://www.amazon.com/s?k=Awura+Abena+Pokua%3A+Asante+Royal+and+Baule+Queen+Letitia+Degraft+Okyere&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Awura Abena Pokua: Asante Royal and Baule Queen">Awura Abena Pokua: Asante Royal and Baule Queen</a>
 </h4>
 <p class="fr-book-author">By Letitia Degraft Okyere</p>
-        
+
 <p class="fr-book-desc">Focuses specifically on the Asante royal woman remembered as the founder of the Baoulé kingdom and on her legendary sacrifice.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Awura+Abena+Pokua%3A+Asante+Royal+and+Baule+Queen+Letitia+Degraft+Okyere&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For historians, the real puzzle is therefore not simply whether the sacrifice ha
 <a href="https://www.amazon.com/s?k=West+Africa+Before+the+Colonial+Era&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="West Africa Before the Colonial Era">West Africa Before the Colonial Era</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Explains the wider history of West African states, migrations and political traditions behind the Baoulé founding narrative.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=West+Africa+Before+the+Colonial+Era&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

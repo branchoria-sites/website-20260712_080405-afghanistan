@@ -335,7 +335,7 @@ The real historical lesson is therefore more subtle than the popular myth sugges
 <a href="https://www.amazon.com/s?k=The+ascent+of+money+Niall+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ascent of money">The ascent of money</a>
 </h4>
 <p class="fr-book-author">By Niall Ferguson</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Economic history, Economics, Finance, History, International finance.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ascent+of+money+Niall+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ The real historical lesson is therefore more subtle than the popular myth sugges
 <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Road of the Winds">On the Road of the Winds</a>
 </h4>
 <p class="fr-book-author">By Patrick Vinton Kirch</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Prehistoric peoples, Antiquities, Oceania, antiquities, Préhistoire, Homme préhistorique.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ The real historical lesson is therefore more subtle than the popular myth sugges
 <a href="https://www.amazon.com/s?k=Money+Jacob+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Money">Money</a>
 </h4>
 <p class="fr-book-author">By Jacob Goldstein</p>
-        
+
 <p class="fr-book-desc">First published 2020. Subjects: Finance, New York Times reviewed, Money, history, Money, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Money+Jacob+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The real historical lesson is therefore more subtle than the popular myth sugges
 <a href="https://www.amazon.com/s?k=The+Island+of+Stone+Money%3A+Uap+of+the+Carolines+William+Henry+Furness+III&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Island of Stone Money: Uap of the Carolines">The Island of Stone Money: Uap of the Carolines</a>
 </h4>
 <p class="fr-book-author">By William Henry Furness III</p>
-        
+
 <p class="fr-book-desc">Directly covers rai stones and the famous sunken stone story.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Island+of+Stone+Money%3A+Uap+of+the+Carolines+William+Henry+Furness+III&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

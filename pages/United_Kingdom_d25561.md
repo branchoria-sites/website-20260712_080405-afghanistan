@@ -1389,7 +1389,7 @@ That uncertainty should be preserved without being exaggerated. Historical inves
 <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
 </h4>
 <p class="fr-book-author">By Ian Mortimer</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Social conditions, Social life and customs, History, Great britain, history, medieval period, 1066-1485,...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1406,7 +1406,7 @@ That uncertainty should be preserved without being exaggerated. Historical inves
 <a href="https://www.amazon.com/s?k=The+Norman+Conquest+Marc+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Norman Conquest">The Norman Conquest</a>
 </h4>
 <p class="fr-book-author">By Marc Morris</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Great britain, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Norman+Conquest+Marc+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1423,7 +1423,7 @@ That uncertainty should be preserved without being exaggerated. Historical inves
 <a href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Britain BC">Britain BC</a>
 </h4>
 <p class="fr-book-author">By Francis Pryor</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Antiquities, Excavations (Archaeology), Prehistoric peoples, Antiquities, prehistoric, Prehistoric people...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1440,7 +1440,7 @@ That uncertainty should be preserved without being exaggerated. Historical inves
 <a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celts">The Celts</a>
 </h4>
 <p class="fr-book-author">By Alice M. Roberts</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Celts, Celtic Civilization, History, Civilisation celtique, Celtes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

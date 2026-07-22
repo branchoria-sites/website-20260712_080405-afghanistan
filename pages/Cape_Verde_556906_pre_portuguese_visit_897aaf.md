@@ -388,7 +388,7 @@ For now, however, the evidence points in a different direction. Portuguese settl
           <a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fortunate Isles">The Fortunate Isles</a>
         </h4>
         <p class="fr-book-author">By Basil Davidson</p>
-        
+
         <p class="fr-book-desc">Places Cape Verde in wider regional historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For now, however, the evidence points in a different direction. Portuguese settl
           <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors">Conquerors</a>
         </h4>
         <p class="fr-book-author">By Roger Crowley</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Portugal, history, period of discoveries, 1385-1580, Imperialism, Portugal, colonies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For now, however, the evidence points in a different direction. Portuguese settl
           <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire, 1415-1825">The Portuguese Seaborne Empire, 1415-1825</a>
         </h4>
         <p class="fr-book-author">By C.R. BOXER</p>
-        
+
         <p class="fr-book-desc">Provides context for Portuguese exploration of the Atlantic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ For now, however, the evidence points in a different direction. Portuguese settl
           <a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Cape Verde">A History of Cape Verde</a>
         </h4>
         <p class="fr-book-author">By Richard A. Lobban Jr. and Paul Khalil Saucier</p>
-        
+
         <p class="fr-book-desc">Explains evidence surrounding the islands before Portuguese settlement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

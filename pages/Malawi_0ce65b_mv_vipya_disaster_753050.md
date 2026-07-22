@@ -351,7 +351,7 @@ For Malawi's historical memory, the *Vipya* remains an enduring puzzle because n
           <a href="https://www.amazon.com/s?k=Heavy+weather+sailing+K.+Adlard+Coles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heavy weather sailing">Heavy weather sailing</a>
         </h4>
         <p class="fr-book-author">By K. Adlard Coles, Peter Bruce et al.</p>
-        
+
         <p class="fr-book-desc">Explains storm seamanship, vessel handling and decisions relevant to passenger vessel losses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Heavy+weather+sailing+K.+Adlard+Coles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ For Malawi's historical memory, the *Vipya* remains an enduring puzzle because n
           <a href="https://www.amazon.com/s?k=The+last+voyage+of+the+Lusitania+A.+A.+Hoehling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The last voyage of the Lusitania">The last voyage of the Lusitania</a>
         </h4>
         <p class="fr-book-author">By A. A. Hoehling, Mary Hoeling</p>
-        
+
         <p class="fr-book-desc">Provides context for investigations into major passenger ship losses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+last+voyage+of+the+Lusitania+A.+A.+Hoehling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For Malawi's historical memory, the *Vipya* remains an enduring puzzle because n
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For Malawi's historical memory, the *Vipya* remains an enduring puzzle because n
           <a href="https://www.amazon.com/s?k=A+Night+to+Remember+and+The+Night+Lives+On+Walter+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Night to Remember and The Night Lives On">A Night to Remember and The Night Lives On</a>
         </h4>
         <p class="fr-book-author">By Walter Lord</p>
-        
+
         <p class="fr-book-desc">First published 1990. Subjects: Titanic (steamship), Shipwrecks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Night+to+Remember+and+The+Night+Lives+On+Walter+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

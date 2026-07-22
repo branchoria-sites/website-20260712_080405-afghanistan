@@ -363,7 +363,7 @@ The enduring fascination of the Hanging Gardens lies precisely in this uncertain
           <a href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World+Bettany+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Wonders of the Ancient World">Seven Wonders of the Ancient World</a>
         </h4>
         <p class="fr-book-author">By Bettany Hughes</p>
-        
+
         <p class="fr-book-desc">Places the Hanging Gardens among the Seven Wonders and assesses the stories, evidence and cultural memory surrounding them.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World+Bettany+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The enduring fascination of the Hanging Gardens lies precisely in this uncertain
           <a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Babylon">Babylon</a>
         </h4>
         <p class="fr-book-author">By Paul Kriwaczek</p>
-        
+
         <p class="fr-book-desc">Examines the city&#x27;s history, material remains and later reputation, helping readers assess the traditional Babylon location.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The enduring fascination of the Hanging Gardens lies precisely in this uncertain
           <a href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mystery Of The Hanging Garden Of Babylon An Elusive World Wonder Traced">The Mystery Of The Hanging Garden Of Babylon An Elusive World...</a>
         </h4>
         <p class="fr-book-author">By Stephanie Dalley</p>
-        
+
         <p class="fr-book-desc">First published 2013. Subjects: Archaeology and history, Ancient History, History, Seven Wonders of the World, Gardens.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The enduring fascination of the Hanging Gardens lies precisely in this uncertain
           <a href="https://www.amazon.com/s?k=From+Egypt+to+Babylon+Paul+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Egypt to Babylon">From Egypt to Babylon</a>
         </h4>
         <p class="fr-book-author">By Paul Collins</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: History, Middle east, history, to 622.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=From+Egypt+to+Babylon+Paul+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

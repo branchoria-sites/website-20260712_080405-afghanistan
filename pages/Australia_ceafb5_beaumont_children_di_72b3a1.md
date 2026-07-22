@@ -353,7 +353,7 @@ The enduring mystery is therefore not merely the identity of the offender. It is
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
         </h4>
         <p class="fr-book-author">By Roger Wilkes</p>
-        
+
         <p class="fr-book-desc">Provides wider context for famous unsolved disappearances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ The enduring mystery is therefore not merely the identity of the offender. It is
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
         </h4>
         <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
-        
+
         <p class="fr-book-desc">Explains investigative approaches to notorious unsolved crimes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The enduring mystery is therefore not merely the identity of the offender. It is
           <a href="https://www.amazon.com/s?k=Suspect+Kent+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspect">Suspect</a>
         </h4>
         <p class="fr-book-author">By Kent Alexander, Kevin Salwen</p>
-        
+
         <p class="fr-book-desc">Examines a major Beaumont Children suspect.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Suspect+Kent+Alexander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The enduring mystery is therefore not merely the identity of the offender. It is
           <a href="https://www.amazon.com/s?k=The+Satin+Man+Alan+Whitcker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Satin Man">The Satin Man</a>
         </h4>
         <p class="fr-book-author">By Alan Whitcker, Stuart Mullins</p>
-        
+
         <p class="fr-book-desc">Investigates suspects and competing theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Satin+Man+Alan+Whitcker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

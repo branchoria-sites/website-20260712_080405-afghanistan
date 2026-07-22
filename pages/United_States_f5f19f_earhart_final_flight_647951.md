@@ -383,7 +383,7 @@ The result is a rare historical mystery in which the key facts are well document
           <a href="https://www.amazon.com/s?k=Last+flight+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Last flight">Last flight</a>
         </h4>
         <p class="fr-book-author">By Amelia Earhart</p>
-        
+
         <p class="fr-book-desc">Provides Earhart&#x27;s own account before the disappearance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Last+flight+Amelia+Earhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,27 +400,10 @@ The result is a rare historical mystery in which the key facts are well document
           <a href="https://www.amazon.com/s?k=East+to+the+dawn+Susan+Butler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East to the dawn">East to the dawn</a>
         </h4>
         <p class="fr-book-author">By Susan Butler</p>
-        
+
         <p class="fr-book-desc">Places the disappearance in the context of Earhart&#x27;s career.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=East+to+the+dawn+Susan+Butler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amelia+Lost+Candace+Fleming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amelia Lost on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11050320-M.jpg" alt="Cover for Amelia Lost" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Amelia+Lost+Candace+Fleming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amelia Lost">Amelia Lost</a>
-        </h4>
-        <p class="fr-book-author">By Candace Fleming</p>
-        
-        <p class="fr-book-desc">Focuses on Earhart&#x27;s life and final flight mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Amelia+Lost+Candace+Fleming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -434,7 +417,7 @@ The result is a rare historical mystery in which the key facts are well document
           <a href="https://www.amazon.com/s?k=Finding+Amelia+Ric+Gillespie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finding Amelia">Finding Amelia</a>
         </h4>
         <p class="fr-book-author">By Ric Gillespie</p>
-        
+
         <p class="fr-book-desc">Explores the Nikumaroro hypothesis in depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Finding+Amelia+Ric+Gillespie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,9 +426,26 @@ The result is a rare historical mystery in which the key facts are well document
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amelia+Lost+Candace+Fleming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amelia Lost on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11050320-M.jpg" alt="Cover for Amelia Lost" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Amelia+Lost+Candace+Fleming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amelia Lost">Amelia Lost</a>
+        </h4>
+        <p class="fr-book-author">By Candace Fleming</p>
+
+        <p class="fr-book-desc">Focuses on Earhart&#x27;s life and final flight mystery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Amelia+Lost+Candace+Fleming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Last+flight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Last flight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=East+to+the+dawn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East to the dawn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amelia+Lost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amelia Lost</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Last+flight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Last flight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=East+to+the+dawn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East to the dawn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Finding+Amelia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Finding Amelia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

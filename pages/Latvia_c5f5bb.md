@@ -1331,7 +1331,7 @@ Yet some questions will probably remain open because the people who could answer
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
         </h4>
         <p class="fr-book-author">By Alan Warwick Palmer</p>
-        
+
         <p class="fr-book-desc">Provides essential historical context for Latvia&#x27;s enduring mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1348,7 +1348,7 @@ Yet some questions will probably remain open because the people who could answer
           <a href="https://www.amazon.com/s?k=The+Northern+Crusades+Eric+Christiansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Northern Crusades">The Northern Crusades</a>
         </h4>
         <p class="fr-book-author">By Eric Christiansen</p>
-        
+
         <p class="fr-book-desc">Covers the early historical background behind Livonia and Latvia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Northern+Crusades+Eric+Christiansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ Yet some questions will probably remain open because the people who could answer
           <a href="https://www.amazon.com/s?k=The+Baltic+Revolution+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic Revolution">The Baltic Revolution</a>
         </h4>
         <p class="fr-book-author">By Anatol Lieven</p>
-        
+
         <p class="fr-book-desc">Explains the political legacy shaping many unresolved historical questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Baltic+Revolution+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1382,7 +1382,7 @@ Yet some questions will probably remain open because the people who could answer
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

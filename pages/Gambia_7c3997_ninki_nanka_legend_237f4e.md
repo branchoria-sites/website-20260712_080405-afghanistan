@@ -340,7 +340,7 @@ The real mystery, therefore, is not whether a giant river monster exists. It is 
           <a href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Africa">History of Africa</a>
         </h4>
         <p class="fr-book-author">By Kevin Shillington</p>
-        
+
         <p class="fr-book-desc">Provides cultural and historical background for Gambian traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ The real mystery, therefore, is not whether a giant river monster exists. It is 
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
         <p class="fr-book-desc">Provides broad folklore context for legendary beings like Ninki Nanka.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ The real mystery, therefore, is not whether a giant river monster exists. It is 
           <a href="https://www.amazon.com/s?k=%C3%81frica+John+Iliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="África">África</a>
         </h4>
         <p class="fr-book-author">By John Iliffe, JOHN ILIFFE et al.</p>
-        
+
         <p class="fr-book-desc">First published 1995. Subjects: Africa, history, Nonfiction, History, Histoire, Historia da africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=%C3%81frica+John+Iliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The real mystery, therefore, is not whether a giant river monster exists. It is 
           <a href="https://www.amazon.com/s?k=A+treasury+of+African+folklore+Harold+Courlander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A treasury of African folklore">A treasury of African folklore</a>
         </h4>
         <p class="fr-book-author">By Harold Courlander</p>
-        
+
         <p class="fr-book-desc">First published 1975. Subjects: Africa, Sub-Saharan, African Folklore, Folklore, Folklore, African, Social life and customs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+treasury+of+African+folklore+Harold+Courlander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

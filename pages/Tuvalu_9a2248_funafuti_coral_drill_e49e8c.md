@@ -374,7 +374,7 @@ For Tuvalu, the drilling left an unusual legacy: one of the country's most signi
           <a href="https://www.amazon.com/s?k=The+structure+and+distribution+of+coral+reefs+Charles+Darwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The structure and distribution of coral reefs">The structure and distribution of coral reefs</a>
         </h4>
         <p class="fr-book-author">By Charles Darwin</p>
-        
+
         <p class="fr-book-desc">Directly explains the atoll theory tested by the Funafuti drilling expeditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+structure+and+distribution+of+coral+reefs+Charles+Darwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For Tuvalu, the drilling left an unusual legacy: one of the country's most signi
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Provides wider context for Pacific islands including Tuvalu.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For Tuvalu, the drilling left an unusual legacy: one of the country's most signi
           <a href="https://www.amazon.com/s?k=Reef+A+Passionate+History+Iain+McCalman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reef A Passionate History">Reef A Passionate History</a>
         </h4>
         <p class="fr-book-author">By Iain McCalman</p>
-        
+
         <p class="fr-book-desc">Explores the scientific quest to understand coral reefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reef+A+Passionate+History+Iain+McCalman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ For Tuvalu, the drilling left an unusual legacy: one of the country's most signi
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
         </h4>
         <p class="fr-book-author">By Christina Thompson</p>
-        
+
         <p class="fr-book-desc">Adds historical context for the Pacific world surrounding Funafuti.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

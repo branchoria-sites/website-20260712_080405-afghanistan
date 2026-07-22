@@ -366,7 +366,7 @@ Finally, the case remains a reminder that historical mysteries are not always so
 <a href="https://www.amazon.com/s?k=Roger+Casement+Brian+Inglis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roger Casement">Roger Casement</a>
 </h4>
 <p class="fr-book-author">By Brian Inglis</p>
-        
+
 <p class="fr-book-desc">First published 1973. Subjects: Nationalists, Biography, History, Consuls, Casement, roger, sir, 1864-1916.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Roger+Casement+Brian+Inglis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Finally, the case remains a reminder that historical mysteries are not always so
 <a href="https://www.amazon.com/s?k=Say+Nothing+Patrick+Radden+Keefe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Say Nothing">Say Nothing</a>
 </h4>
 <p class="fr-book-author">By Patrick Radden Keefe, Ariel Font Prades</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: European World History, Troubles, true crime, murder, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Say+Nothing+Patrick+Radden+Keefe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Finally, the case remains a reminder that historical mysteries are not always so
 <a href="https://www.amazon.com/s?k=The+crime+against+Europe+Casement%2C+Roger+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The crime against Europe">The crime against Europe</a>
 </h4>
 <p class="fr-book-author">By Casement, Roger Sir</p>
-        
+
 <p class="fr-book-desc">First published 1915. Subjects: Prophecies, World War, 1914-1918, Propaganda, Causes, Irish question.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+crime+against+Europe+Casement%2C+Roger+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

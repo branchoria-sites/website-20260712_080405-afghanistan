@@ -358,27 +358,10 @@ That distinction is important. Flight 19 is a real historical mystery because th
           <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
         </h4>
         <p class="fr-book-author">By Ernest K Gann</p>
-        
+
         <p class="fr-book-desc">Provides realistic insight into aviation risks and navigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Into the Bermuda Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2129264-M.jpg" alt="Cover for Into the Bermuda Triangle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into the Bermuda Triangle">Into the Bermuda Triangle</a>
-        </h4>
-        <p class="fr-book-author">By Gian J. Quasar</p>
-        
-        <p class="fr-book-desc">Focuses on evidence-based investigation of Flight 19 and related cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -392,10 +375,27 @@ That distinction is important. Flight 19 is a real historical mystery because th
           <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Over the Edge of the World">Over the Edge of the World</a>
         </h4>
         <p class="fr-book-author">By Laurence Bergreen</p>
-        
-        <p class="fr-book-desc">First published 2003. Subjects: Primera circunnavegación, Expedición Magallanes-Elcano, Biografías, 1520-1529, Open Library Staff Picks.</p>
+
+        <p class="fr-book-desc">Explains early European voyages and navigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Into the Bermuda Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2129264-M.jpg" alt="Cover for Into the Bermuda Triangle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into the Bermuda Triangle">Into the Bermuda Triangle</a>
+        </h4>
+        <p class="fr-book-author">By Gian J. Quasar</p>
+
+        <p class="fr-book-desc">Focuses on evidence-based investigation of Flight 19 and related cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -409,7 +409,7 @@ That distinction is important. Flight 19 is a real historical mystery because th
           <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bermuda Triangle / Charles Berlitz.">The Bermuda Triangle / Charles Berlitz.</a>
         </h4>
         <p class="fr-book-author">By Charles Berlitz</p>
-        
+
         <p class="fr-book-desc">First published 1974.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ That distinction is important. Flight 19 is a real historical mystery because th
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Into the Bermuda Triangle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Over the Edge of the World</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Over the Edge of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Into the Bermuda Triangle</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

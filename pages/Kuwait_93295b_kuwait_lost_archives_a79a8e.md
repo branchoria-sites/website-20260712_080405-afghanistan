@@ -366,7 +366,7 @@ The result is that Kuwait's missing treasures are measured not only in priceless
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
         </h4>
         <p class="fr-book-author">By Robert M. Edsel</p>
-        
+
         <p class="fr-book-desc">Focuses on recovering looted cultural treasures after war.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ The result is that Kuwait's missing treasures are measured not only in priceless
           <a href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Destruction of Memory">The Destruction of Memory</a>
         </h4>
         <p class="fr-book-author">By Robert Bevan</p>
-        
+
         <p class="fr-book-desc">Examines destruction and theft of cultural heritage during conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ The result is that Kuwait's missing treasures are measured not only in priceless
           <a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Middle East">The Middle East</a>
         </h4>
         <p class="fr-book-author">By Bernard Lewis</p>
-        
+
         <p class="fr-book-desc">First published 1995. Subjects: Civilization, Economic conditions, Forecasting, History, Politics and culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,16 +411,16 @@ The result is that Kuwait's missing treasures are measured not only in priceless
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Kleptopia+How+Dirty+Money+is+Conquering+the+World+%26+The+Looting+Machine+By+Tom+Burgis+2+Books+Collection+Set+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kleptopia How Dirty Money is Conquering the World &amp; The Looting Machine By Tom Burgis 2 Books Collection Set on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gulf+War+John+Bulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulf War on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Kleptopia+How+Dirty+Money+is+Conquering+the+World+%26+The+Looting+Machine+By+Tom+Burgis+2+Books+Collection+Set+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kleptopia How Dirty Money is Conquering the World &amp; The Looting Machine By Tom Burgis 2 Books Collection Set">Kleptopia How Dirty Money is Conquering the World &amp; The Looti...</a>
+          <a href="https://www.amazon.com/s?k=The+Gulf+War+John+Bulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulf War">The Gulf War</a>
         </h4>
-        <p class="fr-book-author">By Tom Burgis</p>
-        
-        <p class="fr-book-desc">First published 2020.</p>
+        <p class="fr-book-author">By John Bulloch, Harvey Morris</p>
+
+        <p class="fr-book-desc">Provides historical context for Iraq&#x27;s occupation of Kuwait.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Kleptopia+How+Dirty+Money+is+Conquering+the+World+%26+The+Looting+Machine+By+Tom+Burgis+2+Books+Collection+Set+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Gulf+War+John+Bulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

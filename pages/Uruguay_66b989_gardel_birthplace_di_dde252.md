@@ -370,7 +370,7 @@ Rather than a conventional unsolved mystery with missing evidence, the Gardel co
           <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predatory States">Predatory States</a>
         </h4>
         <p class="fr-book-author">By J. Patrice McSherry, J. Patrice McSherry</p>
-        
+
         <p class="fr-book-desc">First published 2005. Subjects: State-sponsored terrorism, Operación Cóndor (South American countersubversion association), Political cri...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Rather than a conventional unsolved mystery with missing evidence, the Gardel co
           <a href="https://www.amazon.com/s?k=Tango+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tango">Tango</a>
         </h4>
         <p class="fr-book-author">By Robert Farris Thompson</p>
-        
+
         <p class="fr-book-desc">First published 2005. Subjects: Tango (Dance), History and criticism, Tangos, Hobbies and Games.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tango+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Rather than a conventional unsolved mystery with missing evidence, the Gardel co
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Offers historical context for regional identity debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Rather than a conventional unsolved mystery with missing evidence, the Gardel co
           <a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River Plate 1939">River Plate 1939</a>
         </h4>
         <p class="fr-book-author">By Angus Konstam, Tony Bryan</p>
-        
+
         <p class="fr-book-desc">First published 2016. Subjects: River plate, battle of the, 1939, Warships, Admiral Graf Spee (Battleship), River Plate, Battle of the (1...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

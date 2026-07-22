@@ -360,16 +360,16 @@ The mystery also illustrates how authoritarian governments can erase people not 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mud Sweeter Than Honey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14855800-M.jpg" alt="Cover for Mud Sweeter Than Honey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Whisperers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1520009-M.jpg" alt="Cover for The Whisperers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mud Sweeter Than Honey">Mud Sweeter Than Honey</a>
+          <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Whisperers">The Whisperers</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Preserves testimony about imprisonment, executions, disappearances and families denied reliable information about victims of the communis...</p>
+        <p class="fr-book-author">By Orlando Figes</p>
+
+        <p class="fr-book-desc">Shows how secret police, denunciations, executions and concealed burials affected families in a closely related Stalinist system, helping...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -377,16 +377,16 @@ The mystery also illustrates how authoritarian governments can erase people not 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Whisperers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1520009-M.jpg" alt="Cover for The Whisperers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mud Sweeter Than Honey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14855800-M.jpg" alt="Cover for Mud Sweeter Than Honey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Whisperers">The Whisperers</a>
+          <a href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mud Sweeter Than Honey">Mud Sweeter Than Honey</a>
         </h4>
-        <p class="fr-book-author">By Orlando Figes</p>
-        
-        <p class="fr-book-desc">Shows how secret police, denunciations, executions and concealed burials affected families in a closely related Stalinist system, helping...</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Preserves testimony about imprisonment, executions, disappearances and families denied reliable information about victims of the communis...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -400,7 +400,7 @@ The mystery also illustrates how authoritarian governments can erase people not 
           <a href="https://www.amazon.com/s?k=Enver+Hoxha%3A+The+Iron+Fist+of+Albania+Blendi+Fevziu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Enver Hoxha: The Iron Fist of Albania">Enver Hoxha: The Iron Fist of Albania</a>
         </h4>
         <p class="fr-book-author">By Blendi Fevziu</p>
-        
+
         <p class="fr-book-desc">Details Hoxha&#x27;s political terror, secret policing and elimination of perceived enemies, providing essential context for the thousands sti...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Enver+Hoxha%3A+The+Iron+Fist+of+Albania+Blendi+Fevziu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ The mystery also illustrates how authoritarian governments can erase people not 
           <a href="https://www.amazon.com/s?k=Free%3A+A+Child+and+a+Country+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Free: A Child and a Country at the End of History">Free: A Child and a Country at the End of History</a>
         </h4>
         <p class="fr-book-author">By Lea Ypi</p>
-        
+
         <p class="fr-book-desc">Explores the personal legacies of dictatorship, political persecution and concealed family histories that persisted after communism colla...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Free%3A+A+Child+and+a+Country+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ The mystery also illustrates how authoritarian governments can erase people not 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mud Sweeter Than Honey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Whisperers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Whisperers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Enver+Hoxha%3A+The+Iron+Fist+of+Albania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Enver Hoxha: The Iron Fist of Albania</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Whisperers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Whisperers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mud+Sweeter+Than+Honey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mud Sweeter Than Honey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Enver+Hoxha%3A+The+Iron+Fist+of+Albania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Enver Hoxha: The Iron Fist of Albania</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

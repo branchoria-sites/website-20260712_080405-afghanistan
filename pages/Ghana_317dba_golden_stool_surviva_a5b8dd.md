@@ -373,7 +373,7 @@ The genuine historical mystery therefore lies not in the object's survival but i
           <a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asante in the nineteenth century">Asante in the nineteenth century</a>
         </h4>
         <p class="fr-book-author">By Ivor Wilks</p>
-        
+
         <p class="fr-book-desc">Explains colonial conflict and Asante political institutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Asante+in+the+nineteenth+century+Ivor+Wilks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The genuine historical mystery therefore lies not in the object's survival but i
           <a href="https://www.amazon.com/s?k=A+history+of+Ghana+W.+E.+F.+Ward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Ghana">A history of Ghana</a>
         </h4>
         <p class="fr-book-author">By W. E. F. Ward</p>
-        
+
         <p class="fr-book-desc">Places the War of the Golden Stool into national history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Ghana+W.+E.+F.+Ward&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The genuine historical mystery therefore lies not in the object's survival but i
           <a href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="`The History of Ashanti Kings and the Whole Country Itself&#x27; and Other Writings, by Agyeman Prempeh">`The History of Ashanti Kings and the Whole Country Itself&#x27; a...</a>
         </h4>
         <p class="fr-book-author">By Agyeman Prempeh, E. Akyeampong et al.</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Ashanti (african people), history, Ghana, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=%60The+History+of+Ashanti+Kings+and+the+Whole+Country+Itself%27+and+Other+Writings%2C+by+Agyeman+Prempeh+Agyeman+Prempeh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The genuine historical mystery therefore lies not in the object's survival but i
           <a href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden stool">The Golden stool</a>
         </h4>
         <p class="fr-book-author">By Enid Schildkrout, Carol Gelber</p>
-        
+
         <p class="fr-book-desc">Focuses directly on the object, its symbolism and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+stool+Enid+Schildkrout&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -369,7 +369,7 @@ For historians, the unresolved question is no longer simply whether a lone hiker
           <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pinochet File">The Pinochet File</a>
         </h4>
         <p class="fr-book-author">By Peter Kornbluh</p>
-        
+
         <p class="fr-book-desc">Essential context for the Weisfeiler disappearance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For historians, the unresolved question is no longer simply whether a lone hiker
           <a href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Patagonia">In Patagonia</a>
         </h4>
         <p class="fr-book-author">By Bruce Chatwin</p>
-        
+
         <p class="fr-book-desc">First published 1977. Subjects: Description and travel, Travel, Journeys, Descriptions et voyages, Patagonia (argentina and chile).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ For historians, the unresolved question is no longer simply whether a lone hiker
           <a href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neruda">Neruda</a>
         </h4>
         <p class="fr-book-author">By Mark Eisner</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Neruda, pablo, 1904-1973, Poets, biography, Chilean Authors, Biography, BIOGRAPHY &amp; AUTOBIOGRAPHY / Liter...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ For historians, the unresolved question is no longer simply whether a lone hiker
           <a href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My Invented Country">My Invented Country</a>
         </h4>
         <p class="fr-book-author">By Isabel Allende</p>
-        
+
         <p class="fr-book-desc">Background on Chilean society and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

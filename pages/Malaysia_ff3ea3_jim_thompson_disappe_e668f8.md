@@ -377,7 +377,7 @@ The disappearance has become woven into the cultural identity of the Cameron Hig
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
         </h4>
         <p class="fr-book-author">By Jon Krakauer</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in disappearances and difficult terrain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ The disappearance has become woven into the cultural identity of the Cameron Hig
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
         </h4>
         <p class="fr-book-author">By Alfred Russel Wallace</p>
-        
+
         <p class="fr-book-desc">Evokes the landscapes and history of the region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ The disappearance has become woven into the cultural identity of the Cameron Hig
           <a href="https://www.amazon.com/s?k=Jim+Thompson+Warren%2C+William&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jim Thompson">Jim Thompson</a>
         </h4>
         <p class="fr-book-author">By Warren, William, William Warren</p>
-        
+
         <p class="fr-book-desc">Examines evidence and competing theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jim+Thompson+Warren%2C+William&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ The disappearance has become woven into the cultural identity of the Cameron Hig
           <a href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malayan emergency">The Malayan emergency</a>
         </h4>
         <p class="fr-book-author">By Robert Jackson</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: History, Malaya, history, Borneo, history, Counterinsurgency.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

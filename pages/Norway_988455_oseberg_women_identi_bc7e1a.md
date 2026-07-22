@@ -331,7 +331,7 @@ Their anonymity has become part of their significance. The Oseberg women remain 
           <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
         </h4>
         <p class="fr-book-author">By Neil Price</p>
-        
+
         <p class="fr-book-desc">Excellent context for elite Viking burials including Oseberg.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ Their anonymity has become part of their significance. The Oseberg women remain 
           <a href="https://www.amazon.com/s?k=River+Kings+Cat+Jarman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River Kings">River Kings</a>
         </h4>
         <p class="fr-book-author">By Cat Jarman</p>
-        
+
         <p class="fr-book-desc">Demonstrates how archaeology reconstructs Viking identities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=River+Kings+Cat+Jarman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ Their anonymity has become part of their significance. The Oseberg women remain 
           <a href="https://www.amazon.com/s?k=The+Viking+way+Neil+S.+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Viking way">The Viking way</a>
         </h4>
         <p class="fr-book-author">By Neil S. Price</p>
-        
+
         <p class="fr-book-desc">Explores ritual and belief relevant to interpreting the Oseberg burial.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Viking+way+Neil+S.+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Their anonymity has become part of their significance. The Oseberg women remain 
           <a href="https://www.amazon.com/s?k=The+Viking+Spirit+Daniel+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Viking Spirit">The Viking Spirit</a>
         </h4>
         <p class="fr-book-author">By Daniel McCoy</p>
-        
+
         <p class="fr-book-desc">Provides cultural background for interpreting Oseberg.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Viking+Spirit+Daniel+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

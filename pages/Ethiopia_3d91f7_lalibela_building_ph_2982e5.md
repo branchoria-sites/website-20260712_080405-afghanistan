@@ -375,7 +375,7 @@ Rather than diminishing the achievement, the possibility of centuries of constru
           <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Ethiopia">A history of Ethiopia</a>
         </h4>
         <p class="fr-book-author">By Harold G. Marcus</p>
-        
+
         <p class="fr-book-desc">Explains the Zagwe dynasty and Lalibela era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Rather than diminishing the achievement, the possibility of centuries of constru
           <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ethiopians">The Ethiopians</a>
         </h4>
         <p class="fr-book-author">By Pankhurst, Richard.</p>
-        
+
         <p class="fr-book-desc">Covers Lalibela and medieval Ethiopia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Rather than diminishing the achievement, the possibility of centuries of constru
           <a href="https://www.amazon.com/s?k=The+Prester+quest+Nicholas+Jubber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Prester quest">The Prester quest</a>
         </h4>
         <p class="fr-book-author">By Nicholas Jubber</p>
-        
+
         <p class="fr-book-desc">Explores Ethiopia&#x27;s medieval legends and heritage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Prester+quest+Nicholas+Jubber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Rather than diminishing the achievement, the possibility of centuries of constru
           <a href="https://www.amazon.com/s?k=Ethiopia+Philip+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ethiopia">Ethiopia</a>
         </h4>
         <p class="fr-book-author">By Philip Briggs</p>
-        
+
         <p class="fr-book-desc">First published 2002. Subjects: Guidebooks, Ethiopia, description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ethiopia+Philip+Briggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

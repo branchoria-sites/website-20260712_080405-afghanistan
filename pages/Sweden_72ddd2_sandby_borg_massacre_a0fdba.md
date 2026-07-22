@@ -355,7 +355,7 @@ That combination of exceptional physical evidence and enduring historical silenc
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Examines violence and collapse in the ancient world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That combination of exceptional physical evidence and enduring historical silenc
           <a href="https://www.amazon.com/s?k=The+dig+John+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dig">The dig</a>
         </h4>
         <p class="fr-book-author">By John Preston</p>
-        
+
         <p class="fr-book-desc">Captures the excitement of major archaeological discoveries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dig+John+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That combination of exceptional physical evidence and enduring historical silenc
           <a href="https://www.amazon.com/s?k=After+the+Ice+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Ice">After the Ice</a>
         </h4>
         <p class="fr-book-author">By Steven J. Mithen</p>
-        
+
         <p class="fr-book-desc">Provides context for interpreting ancient European societies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=After+the+Ice+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That combination of exceptional physical evidence and enduring historical silenc
           <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kindred">Kindred</a>
         </h4>
         <p class="fr-book-author">By Rebecca Wragg Sykes</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Anthropology, Neanderthals, Human evolution, Fossil hominids, Human remains (Archaeology).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kindred+Rebecca+Wragg+Sykes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

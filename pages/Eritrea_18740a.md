@@ -1317,7 +1317,7 @@ What would resolve these cases is equally concrete: sustained excavation at Adul
           <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical Dictionary of Eritrea">Historical Dictionary of Eritrea</a>
         </h4>
         <p class="fr-book-author">By Dan Connell</p>
-        
+
         <p class="fr-book-desc">Covers archaeology, politics and historical controversies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1334,7 +1334,7 @@ What would resolve these cases is equally concrete: sustained excavation at Adul
           <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fortunes of Africa">The fortunes of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Explains long-term historical development across Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1351,7 +1351,7 @@ What would resolve these cases is equally concrete: sustained excavation at Adul
           <a href="https://www.amazon.com/s?k=Against+all+odds+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Against all odds">Against all odds</a>
         </h4>
         <p class="fr-book-author">By Dan Connell</p>
-        
+
         <p class="fr-book-desc">Essential background on modern Eritrea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Against+all+odds+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,7 +1368,7 @@ What would resolve these cases is equally concrete: sustained excavation at Adul
           <a href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aksum">Aksum</a>
         </h4>
         <p class="fr-book-author">By Stuart Munro-Hay</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: Africa, civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

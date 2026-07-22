@@ -1345,10 +1345,27 @@ Germany’s historical mysteries matter because they reveal more than missing ob
           <a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shortest History of Germany">The Shortest History of Germany</a>
         </h4>
         <p class="fr-book-author">By James Hawes</p>
-        
+
         <p class="fr-book-desc">Provides context for multiple German historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Amber Room on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6872314-M.jpg" alt="Cover for The Amber Room" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Amber Room">The Amber Room</a>
+        </h4>
+        <p class="fr-book-author">By Steve Berry (conflated)</p>
+
+        <p class="fr-book-desc">Covers one of Germany&#x27;s best-known unresolved wartime mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1362,27 +1379,10 @@ Germany’s historical mysteries matter because they reveal more than missing ob
           <a href="https://www.amazon.com/s?k=The+German+Genius+Peter+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The German Genius">The German Genius</a>
         </h4>
         <p class="fr-book-author">By Peter Watson</p>
-        
+
         <p class="fr-book-desc">Explores the intellectual and historical background behind many famous figures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+German+Genius+Peter+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Amber+Room+Cathy+Scott-Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Amber Room on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7993189-M.jpg" alt="Cover for The Amber Room" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Amber+Room+Cathy+Scott-Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Amber Room">The Amber Room</a>
-        </h4>
-        <p class="fr-book-author">By Cathy Scott-Clark, Adrian Levy et al.</p>
-        
-        <p class="fr-book-desc">Covers one of Germany&#x27;s best-known unresolved wartime mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Amber+Room+Cathy+Scott-Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1396,7 +1396,7 @@ Germany’s historical mysteries matter because they reveal more than missing ob
           <a href="https://www.amazon.com/s?k=Iron+Kingdom+-+the+Rise+and+Downfall+of+Prussia+1600+-+1947+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Kingdom - the Rise and Downfall of Prussia 1600 - 1947">Iron Kingdom - the Rise and Downfall of Prussia 1600 - 1947</a>
         </h4>
         <p class="fr-book-author">By Christopher Clark</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: Prussia (germany), history, Germany, history, New York Times reviewed, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Iron+Kingdom+-+the+Rise+and+Downfall+of+Prussia+1600+-+1947+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1407,7 +1407,7 @@ Germany’s historical mysteries matter because they reveal more than missing ob
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shortest History of Germany</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+German+Genius&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The German Genius</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Amber+Room&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Amber Room</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shortest History of Germany</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Amber+Room&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Amber Room</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+German+Genius&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The German Genius</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

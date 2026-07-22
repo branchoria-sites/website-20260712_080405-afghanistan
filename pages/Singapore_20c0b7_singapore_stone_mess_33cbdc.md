@@ -353,7 +353,7 @@ The enduring importance of the Singapore Stone lies less in what it says than in
           <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula">Early Kingdoms of the Indonesian Archipelago and the Malay Pe...</a>
         </h4>
         <p class="fr-book-author">By Paul Michel Munoz</p>
-        
+
         <p class="fr-book-desc">Provides context for inscriptions and early states.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ The enduring importance of the Singapore Stone lies less in what it says than in
           <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Khersonese">The Golden Khersonese</a>
         </h4>
         <p class="fr-book-author">By Paul Wheatley</p>
-        
+
         <p class="fr-book-desc">Relevant to ancient Singapore and regional inscriptions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The enduring importance of the Singapore Stone lies less in what it says than in
           <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore">Singapore</a>
         </h4>
         <p class="fr-book-author">By Mark Ravinder Frost</p>
-        
+
         <p class="fr-book-desc">First published 2009. Subjects: Biography, History, Singapore, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The enduring importance of the Singapore Stone lies less in what it says than in
           <a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Hundred Years">Seven Hundred Years</a>
         </h4>
         <p class="fr-book-author">By Kwa Chong Guan, Derek Thiam Soon Heng et al.</p>
-        
+
         <p class="fr-book-desc">Covers the Singapore Stone and early history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

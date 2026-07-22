@@ -371,30 +371,13 @@ The search therefore continues to combine archaeology, conservation science, arc
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Angkor and the Khmer Civilization (Ancient Peoples and Places) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316825-M.jpg" alt="Cover for Angkor and the Khmer Civilization (Ancient Peoples and Places)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Angkor and the Khmer Civilization (Ancient Peoples and Places)">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Explains the original context of Khmer temple sculpture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179948-M.jpg" alt="Cover for Stealing history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing history">Stealing history</a>
         </h4>
         <p class="fr-book-author">By Roger Atwood</p>
-        
+
         <p class="fr-book-desc">Explains the global trade affecting Cambodian sculptures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,16 +388,16 @@ The search therefore continues to combine archaeology, conservation science, arc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cambodia%27s+Curse+Joel+Brinkley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cambodia&#x27;s Curse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14747286-M.jpg" alt="Cover for Cambodia&#x27;s Curse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Angkor and the Khmer Civilization (Ancient Peoples and Places) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316825-M.jpg" alt="Cover for Angkor and the Khmer Civilization (Ancient Peoples and Places)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cambodia%27s+Curse+Joel+Brinkley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cambodia&#x27;s Curse">Cambodia&#x27;s Curse</a>
+          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Angkor and the Khmer Civilization (Ancient Peoples and Places)">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a>
         </h4>
-        <p class="fr-book-author">By Joel Brinkley</p>
-        
-        <p class="fr-book-desc">First published 2011. Subjects: Cambodia, history, Cambodia, politics and government, Democracy, Social change, New York Times reviewed.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Explains Angkor&#x27;s development and long decline.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cambodia%27s+Curse+Joel+Brinkley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -428,7 +411,7 @@ The search therefore continues to combine archaeology, conservation science, arc
           <a href="https://www.amazon.com/s?k=Khmer+Empire+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Khmer Empire">Khmer Empire</a>
         </h4>
         <p class="fr-book-author">By Charles River Charles River Editors</p>
-        
+
         <p class="fr-book-desc">Provides historical context for Khmer religious monuments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Khmer+Empire+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,9 +420,26 @@ The search therefore continues to combine archaeology, conservation science, arc
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Angkor and the Khmer Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Angkor and the Khmer Civilization">Angkor and the Khmer Civilization</a>
+        </h4>
+        <p class="fr-book-author">By Michael D. Coe</p>
+
+        <p class="fr-book-desc">Explains the original context of Khmer temple sculpture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stealing+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stealing history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cambodia%27s+Curse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cambodia&#x27;s Curse</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stealing+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stealing history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Angkor+and+the+Khmer+Civilization+%28Ancient+Peoples+and+Places%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Angkor and the Khmer Civilization (Ancient Peoples and Places)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Khmer+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Khmer Empire</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

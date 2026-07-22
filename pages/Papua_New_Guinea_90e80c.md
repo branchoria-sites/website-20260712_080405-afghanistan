@@ -1316,7 +1316,7 @@ Papua New Guinea’s historical enigmas therefore matter less as invitations to 
           <a href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for Amelia Earhart">The search for Amelia Earhart</a>
         </h4>
         <p class="fr-book-author">By Fred G. Goerner</p>
-        
+
         <p class="fr-book-desc">Foundational investigation into Earhart&#x27;s disappearance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+Amelia+Earhart+Fred+G.+Goerner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1333,7 +1333,7 @@ Papua New Guinea’s historical enigmas therefore matter less as invitations to 
           <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amelia Earhart">Amelia Earhart</a>
         </h4>
         <p class="fr-book-author">By Mike Campbell</p>
-        
+
         <p class="fr-book-desc">Covers the most famous unresolved mystery linked to Papua New Guinea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Amelia+Earhart+Mike+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1350,7 +1350,7 @@ Papua New Guinea’s historical enigmas therefore matter less as invitations to 
           <a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kokoda">Kokoda</a>
         </h4>
         <p class="fr-book-author">By Paul Ham</p>
-        
+
         <p class="fr-book-desc">Explains the wartime landscape behind many unresolved cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kokoda+Paul+Ham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ Papua New Guinea’s historical enigmas therefore matter less as invitations to 
           <a href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Sky">Empires of the Sky</a>
         </h4>
         <p class="fr-book-author">By Alexander Rose</p>
-        
+
         <p class="fr-book-desc">Places long-distance pioneering flights into historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empires+of+the+Sky+Alexander+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

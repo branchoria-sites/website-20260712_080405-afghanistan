@@ -339,7 +339,7 @@ That unresolved human question is what makes the Death Pits of Ur enduringly sig
 <a href="https://www.amazon.com/s?k=The+Sumerians%3A+their+history%2C+culture%2C+and+character+Samuel+Noah+Kramer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sumerians: their history, culture, and character">The Sumerians: their history, culture, and character</a>
 </h4>
 <p class="fr-book-author">By Samuel Noah Kramer</p>
-        
+
 <p class="fr-book-desc">First published 1963. Subjects: Sumerians.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sumerians%3A+their+history%2C+culture%2C+and+character+Samuel+Noah+Kramer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ That unresolved human question is what makes the Death Pits of Ur enduringly sig
 <a href="https://www.amazon.com/s?k=Ur+of+the+Chaldees+a+Record+of+Seven+Years+of+Excavation+C.+Leonard+Woolley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ur of the Chaldees a Record of Seven Years of Excavation">Ur of the Chaldees a Record of Seven Years of Excavation</a>
 </h4>
 <p class="fr-book-author">By C. Leonard Woolley</p>
-        
+
 <p class="fr-book-desc">First published 1930.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ur+of+the+Chaldees+a+Record+of+Seven+Years+of+Excavation+C.+Leonard+Woolley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ That unresolved human question is what makes the Death Pits of Ur enduringly sig
 <a href="https://www.amazon.com/s?k=Ancient+Iraq+%28Pelican+books%29+by+Georges+Roux+%281976-04-30%29+Georges+Roux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Iraq (Pelican books) by Georges Roux (1976-04-30)">Ancient Iraq (Pelican books) by Georges Roux (1976-04-30)</a>
 </h4>
 <p class="fr-book-author">By Georges Roux</p>
-        
+
 <p class="fr-book-desc">First published 1626.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ancient+Iraq+%28Pelican+books%29+by+Georges+Roux+%281976-04-30%29+Georges+Roux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ That unresolved human question is what makes the Death Pits of Ur enduringly sig
 <a href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weavers, Scribes, and Kings">Weavers, Scribes, and Kings</a>
 </h4>
 <p class="fr-book-author">By Amanda H. Podany</p>
-        
+
 <p class="fr-book-desc">First published 2022.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

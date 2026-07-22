@@ -375,7 +375,7 @@ Until substantially more archival material becomes available, the true number of
           <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Whisperers">The Whisperers</a>
         </h4>
         <p class="fr-book-author">By Orlando Figes</p>
-        
+
         <p class="fr-book-desc">Explains Stalin-era repression affecting sites like Kurapaty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Whisperers+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Until substantially more archival material becomes available, the true number of
           <a href="https://www.amazon.com/s?k=The+great+terror+Robert+Conquest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great terror">The great terror</a>
         </h4>
         <p class="fr-book-author">By Robert Conquest, Robert Conquest</p>
-        
+
         <p class="fr-book-desc">Foundational work on the historical context of Kurapaty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+great+terror+Robert+Conquest&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Until substantially more archival material becomes available, the true number of
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain">Iron Curtain</a>
         </h4>
         <p class="fr-book-author">By Anne Applebaum</p>
-        
+
         <p class="fr-book-desc">Adds post-war context to Belarusian memory politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Until substantially more archival material becomes available, the true number of
           <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
         </h4>
         <p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
-        
+
         <p class="fr-book-desc">First published 1973.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

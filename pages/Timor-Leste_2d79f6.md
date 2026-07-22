@@ -1324,7 +1324,7 @@ That is why Balibo, Santa Cruz, the disappeared children and the events of Febru
           <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
         </h4>
         <p class="fr-book-author">By Jill Jolliffe</p>
-        
+
         <p class="fr-book-desc">Provides comprehensive background to all major unresolved cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1341,7 +1341,7 @@ That is why Balibo, Santa Cruz, the disappeared children and the events of Febru
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
         </h4>
         <p class="fr-book-author">By Joseph Nevins</p>
-        
+
         <p class="fr-book-desc">Explores violence, disappearances and international responses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1358,7 +1358,7 @@ That is why Balibo, Santa Cruz, the disappeared children and the events of Febru
           <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Not on our watch">Not on our watch</a>
         </h4>
         <p class="fr-book-author">By Don Cheadle, John Prendergast</p>
-        
+
         <p class="fr-book-desc">Includes East Timor within a broader investigation of atrocities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

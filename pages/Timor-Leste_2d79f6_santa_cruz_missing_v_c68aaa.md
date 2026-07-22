@@ -370,7 +370,7 @@ For Timor-Leste, Santa Cruz is remembered both as a tragedy and as a turning poi
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
         </h4>
         <p class="fr-book-author">By Joseph Nevins</p>
-        
+
         <p class="fr-book-desc">Covers the violence and its human consequences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ For Timor-Leste, Santa Cruz is remembered both as a tragedy and as a turning poi
           <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
         </h4>
         <p class="fr-book-author">By Jill Jolliffe</p>
-        
+
         <p class="fr-book-desc">Provides the essential context for the Santa Cruz massacre.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For Timor-Leste, Santa Cruz is remembered both as a tragedy and as a turning poi
           <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Not on our watch">Not on our watch</a>
         </h4>
         <p class="fr-book-author">By Don Cheadle, John Prendergast</p>
-        
+
         <p class="fr-book-desc">Examines East Timor&#x27;s international significance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

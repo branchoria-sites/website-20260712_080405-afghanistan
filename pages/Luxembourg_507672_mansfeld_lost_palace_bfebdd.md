@@ -378,7 +378,7 @@ The mystery of La Fontaine therefore lies less in its disappearance than in its 
           <a href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of art">The story of art</a>
         </h4>
         <p class="fr-book-author">By E. H. Gombrich</p>
-        
+
         <p class="fr-book-desc">Explains Renaissance artistic influences reflected in princely residences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+story+of+art+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The mystery of La Fontaine therefore lies less in its disappearance than in its 
           <a href="https://www.amazon.com/s?k=Brunelleschi%27s+dome+Ross+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brunelleschi&#x27;s dome">Brunelleschi&#x27;s dome</a>
         </h4>
         <p class="fr-book-author">By Ross King</p>
-        
+
         <p class="fr-book-desc">Illustrates Renaissance building culture and historical reconstruction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Brunelleschi%27s+dome+Ross+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The mystery of La Fontaine therefore lies less in its disappearance than in its 
           <a href="https://www.amazon.com/s?k=A+World+History+of+Architecture+Michael+Fazio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A World History of Architecture">A World History of Architecture</a>
         </h4>
         <p class="fr-book-author">By Michael Fazio, Marian Moffett et al.</p>
-        
+
         <p class="fr-book-desc">Provides Renaissance architectural context for understanding Mansfeld&#x27;s lost palace.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+World+History+of+Architecture+Michael+Fazio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ The mystery of La Fontaine therefore lies less in its disappearance than in its 
           <a href="https://www.amazon.com/s?k=The+Renaissance+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Renaissance">The Renaissance</a>
         </h4>
         <p class="fr-book-author">By Paul Bede Johnson</p>
-        
+
         <p class="fr-book-desc">Places Mansfeld&#x27;s palace within its wider cultural era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Renaissance+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

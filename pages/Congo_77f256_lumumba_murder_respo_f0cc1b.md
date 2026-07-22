@@ -391,7 +391,7 @@ The remaining uncertainty concerns the highest level of political accountability
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Provides the colonial background to the independence crisis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The remaining uncertainty concerns the highest level of political accountability
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places Lumumba within decolonisation and Cold War politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The remaining uncertainty concerns the highest level of political accountability
           <a href="https://www.amazon.com/s?k=The+Lumumba+Plot+Stuart+A.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lumumba Plot">The Lumumba Plot</a>
         </h4>
         <p class="fr-book-author">By Stuart A. Reid</p>
-        
+
         <p class="fr-book-desc">Directly investigates responsibility for Lumumba&#x27;s killing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lumumba+Plot+Stuart+A.+Reid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ The remaining uncertainty concerns the highest level of political accountability
           <a href="https://www.amazon.com/s?k=Congo+David+van+Reybrouck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Congo">Congo</a>
         </h4>
         <p class="fr-book-author">By David van Reybrouck</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: History, Congo (democratic republic), history, Histoire.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Congo+David+van+Reybrouck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

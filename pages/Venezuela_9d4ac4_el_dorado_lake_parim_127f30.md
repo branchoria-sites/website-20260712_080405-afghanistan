@@ -357,7 +357,7 @@ The enduring mystery, therefore, is not where Lake Parime disappeared. It is how
           <a href="https://www.amazon.com/s?k=The+search+for+El+Dorado+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for El Dorado">The search for El Dorado</a>
         </h4>
         <p class="fr-book-author">By Hemming, John</p>
-        
+
         <p class="fr-book-desc">Directly examines El Dorado, Lake Parime traditions and exploration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+El+Dorado+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ The enduring mystery, therefore, is not where Lake Parime disappeared. It is how
           <a href="https://www.amazon.com/s?k=The+discoverie+of+the+large%2C+rich%2C+and+bewtiful+Empyre+of+Guiana+Walter+Raleigh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discoverie of the large, rich, and bewtiful Empyre of Guiana">The discoverie of the large, rich, and bewtiful Empyre of Guiana</a>
         </h4>
         <p class="fr-book-author">By Walter Raleigh</p>
-        
+
         <p class="fr-book-desc">Foundational account that helped spread belief in El Dorado and Guiana myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+discoverie+of+the+large%2C+rich%2C+and+bewtiful+Empyre+of+Guiana+Walter+Raleigh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The enduring mystery, therefore, is not where Lake Parime disappeared. It is how
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
         </h4>
         <p class="fr-book-author">By Charles C. Mann</p>
-        
+
         <p class="fr-book-desc">Provides context for Indigenous societies behind European legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The enduring mystery, therefore, is not where Lake Parime disappeared. It is how
           <a href="https://www.amazon.com/s?k=Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquistadors">Conquistadors</a>
         </h4>
         <p class="fr-book-author">By Fernando Cervantes</p>
-        
+
         <p class="fr-book-desc">Explains the exploration era that produced the El Dorado legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

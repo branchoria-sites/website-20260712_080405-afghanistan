@@ -360,7 +360,7 @@ For that reason, Thomson's death occupies a distinctive place among Canada's his
           <a href="https://www.amazon.com/s?k=Tom+Thomson+Thomson%2C+Tom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tom Thomson">Tom Thomson</a>
         </h4>
         <p class="fr-book-author">By Thomson, Tom, Harold Town et al.</p>
-        
+
         <p class="fr-book-desc">Retells the enduring mystery surrounding Thomson.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tom+Thomson+Thomson%2C+Tom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For that reason, Thomson's death occupies a distinctive place among Canada's his
           <a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Canada in Ten Maps">A History of Canada in Ten Maps</a>
         </h4>
         <p class="fr-book-author">By Adam Shoalts</p>
-        
+
         <p class="fr-book-desc">Places Thomson within the broader Canadian landscape and identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For that reason, Thomson's death occupies a distinctive place among Canada's his
           <a href="https://www.amazon.com/s?k=Northern+light+Roy+MacGregor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Northern light">Northern light</a>
         </h4>
         <p class="fr-book-author">By Roy MacGregor</p>
-        
+
         <p class="fr-book-desc">Focused examination of Thomson&#x27;s life and controversial death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Northern+light+Roy+MacGregor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For that reason, Thomson's death occupies a distinctive place among Canada's his
           <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arctic Grail">The Arctic Grail</a>
         </h4>
         <p class="fr-book-author">By Pierre Berton</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Discovery and exploration, Northwest Passage, North pole, Arctic regions, discovery and exploration, Déco...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -329,7 +329,7 @@ The city's decline also serves as a reminder that ancient civilisations rarely d
           <a href="https://www.amazon.com/s?k=Ancient+Mexico+and+Central+America+Susan+Toby+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Mexico and Central America">Ancient Mexico and Central America</a>
         </h4>
         <p class="fr-book-author">By Susan Toby Evans</p>
-        
+
         <p class="fr-book-desc">Provides strong context for Teotihuacan&#x27;s rise, influence and decline.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ancient+Mexico+and+Central+America+Susan+Toby+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,27 +346,10 @@ The city's decline also serves as a reminder that ancient civilisations rarely d
           <a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The broken spears">The broken spears</a>
         </h4>
         <p class="fr-book-author">By Miguel León Portilla, Miguel Leon-Portilla et al.</p>
-        
+
         <p class="fr-book-desc">First published 1959. Subjects: Nahuatl literature, History, Sources, Translations into English, English literature.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquistador+Buddy+Levy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquistador on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8246067-M.jpg" alt="Cover for Conquistador" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conquistador+Buddy+Levy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquistador">Conquistador</a>
-        </h4>
-        <p class="fr-book-author">By Buddy Levy</p>
-        
-        <p class="fr-book-desc">First published 2008. Subjects: History, Nonfiction, Cortés, Hernán, -- 1485-1547, First contact with Europeans, Spaniards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conquistador+Buddy+Levy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -380,7 +363,7 @@ The city's decline also serves as a reminder that ancient civilisations rarely d
           <a href="https://www.amazon.com/s?k=Fifth+Sun+Camilla+Townsend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fifth Sun">Fifth Sun</a>
         </h4>
         <p class="fr-book-author">By Camilla Townsend</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Aztecs, Mexico, history, conquest, 1519-1540, America, history, History, First contact with Europeans.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fifth+Sun+Camilla+Townsend&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,9 +372,26 @@ The city's decline also serves as a reminder that ancient civilisations rarely d
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquistador+Buddy+Levy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquistador on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8246067-M.jpg" alt="Cover for Conquistador" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Conquistador+Buddy+Levy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquistador">Conquistador</a>
+        </h4>
+        <p class="fr-book-author">By Buddy Levy</p>
+
+        <p class="fr-book-desc">First published 2008. Subjects: History, Nonfiction, Cortés, Hernán, -- 1485-1547, First contact with Europeans, Spaniards.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Conquistador+Buddy+Levy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Mexico+and+Central+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Mexico and Central America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+broken+spears&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The broken spears</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conquistador&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conquistador</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Mexico+and+Central+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Mexico and Central America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+broken+spears&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The broken spears</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fifth+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fifth Sun</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

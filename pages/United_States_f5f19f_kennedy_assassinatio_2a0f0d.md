@@ -345,7 +345,7 @@ For many Americans, the lasting mystery is therefore not simply whether another 
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Case closed">Case closed</a>
         </h4>
         <p class="fr-book-author">By Gerald L. Posner</p>
-        
+
         <p class="fr-book-desc">Argues the evidence for Oswald acting alone.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ For many Americans, the lasting mystery is therefore not simply whether another 
           <a href="https://www.amazon.com/s?k=JFK+and+the+unspeakable+James+W.+Douglass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="JFK and the unspeakable">JFK and the unspeakable</a>
         </h4>
         <p class="fr-book-author">By James W. Douglass</p>
-        
+
         <p class="fr-book-desc">Represents a major contrasting viewpoint in the debate.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=JFK+and+the+unspeakable+James+W.+Douglass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For many Americans, the lasting mystery is therefore not simply whether another 
           <a href="https://www.amazon.com/s?k=Reclaiming+History+Vincent+Bugliosi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reclaiming History">Reclaiming History</a>
         </h4>
         <p class="fr-book-author">By Vincent Bugliosi</p>
-        
+
         <p class="fr-book-desc">Comprehensive examination of the evidence and competing claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reclaiming+History+Vincent+Bugliosi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For many Americans, the lasting mystery is therefore not simply whether another 
           <a href="https://www.amazon.com/s?k=The+death+of+a+president%2C+November+20-November+25%2C+1963+William+Manchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of a president, November 20-November 25, 1963">The death of a president, November 20-November 25, 1963</a>
         </h4>
         <p class="fr-book-author">By William Manchester</p>
-        
+
         <p class="fr-book-desc">First published 1967. Subjects: Death and burial, Politics and government, Transition periods, Presidents, Assassination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+death+of+a+president%2C+November+20-November+25%2C+1963+William+Manchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

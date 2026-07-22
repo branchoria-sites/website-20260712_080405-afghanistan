@@ -338,7 +338,7 @@ That unanswered question continues to shape debates about judicial independence,
 <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
 </h4>
 <p class="fr-book-author">By Vincent Bevins</p>
-        
+
 <p class="fr-book-desc">First published 2020. Subjects: United states, history, United states, politics and government, history, Nonfiction, Politics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ That unanswered question continues to shape debates about judicial independence,
 <a href="https://www.amazon.com/s?k=A+nation+in+waiting+Adam+Schwarz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A nation in waiting">A nation in waiting</a>
 </h4>
 <p class="fr-book-author">By Adam Schwarz</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Politics and government, Economic conditions, Indonesia, politics and government, Indonesia, economic con...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+nation+in+waiting+Adam+Schwarz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That unanswered question continues to shape debates about judicial independence,
 <a href="https://www.amazon.com/s?k=We+Have+Tired+of+Violence+Matt+Easton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We Have Tired of Violence">We Have Tired of Violence</a>
 </h4>
 <p class="fr-book-author">By Matt Easton</p>
-        
+
 <p class="fr-book-desc">First published 2022.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=We+Have+Tired+of+Violence+Matt+Easton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That unanswered question continues to shape debates about judicial independence,
 <a href="https://www.amazon.com/s?k=The+killing+season+Robinson%2C+Geoffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The killing season">The killing season</a>
 </h4>
 <p class="fr-book-author">By Robinson, Geoffrey</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Politics and government, Political prisoners, Political violence, Political atrocities, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+killing+season+Robinson%2C+Geoffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

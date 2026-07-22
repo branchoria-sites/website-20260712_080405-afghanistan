@@ -370,7 +370,7 @@ That makes the disc an important reminder that archaeology often advances throug
           <a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Riddle of the Labyrinth">Riddle of the Labyrinth</a>
         </h4>
         <p class="fr-book-author">By Margalit Fox</p>
-        
+
         <p class="fr-book-desc">Excellent entry point for understanding why the Phaistos Disc remains unread.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Riddle+of+the+Labyrinth+Margalit+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ That makes the disc an important reminder that archaeology often advances throug
           <a href="https://www.amazon.com/s?k=The+decipherment+of+linear+B+John+Chadwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The decipherment of linear B">The decipherment of linear B</a>
         </h4>
         <p class="fr-book-author">By John Chadwick</p>
-        
+
         <p class="fr-book-desc">Shows why the Phaistos Disc has resisted similar success.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+decipherment+of+linear+B+John+Chadwick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ That makes the disc an important reminder that archaeology often advances throug
           <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding the Heavens: Solving the Mystery of the World&#x27;s First Computer. by Jo Marchant">Decoding the Heavens: Solving the Mystery of the World&#x27;s Firs...</a>
         </h4>
         <p class="fr-book-author">By Jo Marchant</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Greece, history, Astronomical clocks, History, Antiquities, Technology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Decoding+the+Heavens%3A+Solving+the+Mystery+of+the+World%27s+First+Computer.+by+Jo+Marchant+Jo+Marchant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ That makes the disc an important reminder that archaeology often advances throug
           <a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The End of the Bronze Age">The End of the Bronze Age</a>
         </h4>
         <p class="fr-book-author">By Robert Drews</p>
-        
+
         <p class="fr-book-desc">First published 1995. Subjects: Bronze age, Prehistoric Warfare, Chariot warfare, Prehistoric Weapons, Antiquities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+End+of+the+Bronze+Age+Robert+Drews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

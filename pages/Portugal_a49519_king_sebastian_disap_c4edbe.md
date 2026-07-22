@@ -372,7 +372,7 @@ The enduring fascination therefore rests on two intertwined questions. The histo
 <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Portugal And The Portuguese Empire">A History Of Portugal And The Portuguese Empire</a>
 </h4>
 <p class="fr-book-author">By A. R. Disney</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Portugal, history, Portugal, colonies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ The enduring fascination therefore rests on two intertwined questions. The histo
 <a href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre+Natalie+Zemon+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return of Martin Guerre">The Return of Martin Guerre</a>
 </h4>
 <p class="fr-book-author">By Natalie Zemon Davis, Jean-Claude Carrière et al.</p>
-        
+
 <p class="fr-book-desc">First published 1982. Subjects: Impostors and imposture, Social conditions, Early works to 1800, Trials, litigation, Moral conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre+Natalie+Zemon+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ The enduring fascination therefore rests on two intertwined questions. The histo
 <a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese">The Portuguese</a>
 </h4>
 <p class="fr-book-author">By Barry Hatton</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Portuguese National characteristics, History, National characteristics, Portugal, history, Civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ The enduring fascination therefore rests on two intertwined questions. The histo
 <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors">Conquerors</a>
 </h4>
 <p class="fr-book-author">By Roger Crowley</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Portugal, history, period of discoveries, 1385-1580, Imperialism, Portugal, colonies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

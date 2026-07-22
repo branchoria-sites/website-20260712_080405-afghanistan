@@ -1348,16 +1348,16 @@ The best accounts do not try to make these mysteries larger than the evidence al
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=BLOOD+OF+BROTHERS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open BLOOD OF BROTHERS on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13282192-M.jpg" alt="Cover for BLOOD OF BROTHERS" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jaguar+Smile+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jaguar Smile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8304189-M.jpg" alt="Cover for The Jaguar Smile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=BLOOD+OF+BROTHERS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="BLOOD OF BROTHERS">BLOOD OF BROTHERS</a>
+          <a href="https://www.amazon.com/s?k=The+Jaguar+Smile+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jaguar Smile">The Jaguar Smile</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides essential historical context for Sandino’s murder, the Somoza dynasty, the Sandinista revolution and the Contra war.</p>
+        <p class="fr-book-author">By Salman Rushdie</p>
+
+        <p class="fr-book-desc">Explores Nicaragua during the Contra war and highlights the conflicting political narratives surrounding the Sandinista government.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=BLOOD+OF+BROTHERS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Jaguar+Smile+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1365,16 +1365,16 @@ The best accounts do not try to make these mysteries larger than the evidence al
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jaguar+Smile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jaguar Smile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/195509-M.jpg" alt="Cover for Jaguar Smile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Blood+of+Brothers+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blood of Brothers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1336296-M.jpg" alt="Cover for Blood of Brothers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jaguar+Smile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jaguar Smile">Jaguar Smile</a>
+          <a href="https://www.amazon.com/s?k=Blood+of+Brothers+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blood of Brothers">Blood of Brothers</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Explores Nicaragua during the Contra war and highlights the conflicting political narratives surrounding the Sandinista government.</p>
+        <p class="fr-book-author">By Stephen Kinzer</p>
+
+        <p class="fr-book-desc">Provides essential historical context for Sandino’s murder, the Somoza dynasty, the Sandinista revolution and the Contra war.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jaguar+Smile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Blood+of+Brothers+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1388,7 +1388,7 @@ The best accounts do not try to make these mysteries larger than the evidence al
           <a href="https://www.amazon.com/s?k=The+Country+Under+My+Skin+Gioconda+Belli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Country Under My Skin">The Country Under My Skin</a>
         </h4>
         <p class="fr-book-author">By Gioconda Belli</p>
-        
+
         <p class="fr-book-desc">Offers an insider’s account of Nicaragua’s clandestine politics, revolutionary struggle and contested national memory.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Country+Under+My+Skin+Gioconda+Belli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1405,7 +1405,7 @@ The best accounts do not try to make these mysteries larger than the evidence al
           <a href="https://www.amazon.com/s?k=Sandino%27s+Daughters%3A+Testimonies+of+Nicaraguan+Women+in+Struggle+Margaret+Randall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandino&#x27;s Daughters: Testimonies of Nicaraguan Women in Struggle">Sandino&#x27;s Daughters: Testimonies of Nicaraguan Women in Struggle</a>
         </h4>
         <p class="fr-book-author">By Margaret Randall</p>
-        
+
         <p class="fr-book-desc">Documents how Nicaraguans experienced the Somoza dictatorship and interpreted Sandino’s political legacy during the revolution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sandino%27s+Daughters%3A+Testimonies+of+Nicaraguan+Women+in+Struggle+Margaret+Randall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1416,7 +1416,7 @@ The best accounts do not try to make these mysteries larger than the evidence al
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=BLOOD+OF+BROTHERS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">BLOOD OF BROTHERS</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jaguar+Smile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jaguar Smile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Country+Under+My+Skin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Country Under My Skin</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jaguar+Smile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jaguar Smile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Blood+of+Brothers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blood of Brothers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Country+Under+My+Skin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Country Under My Skin</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

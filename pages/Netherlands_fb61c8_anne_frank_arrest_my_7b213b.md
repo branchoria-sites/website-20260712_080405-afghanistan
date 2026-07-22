@@ -344,30 +344,13 @@ The most responsible historical conclusion today is therefore a measured one: An
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anne+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anne Frank on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369276-M.jpg" alt="Cover for Anne Frank" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Anne+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anne Frank">Anne Frank</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides historical background and investigation context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Anne+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hiding+Place+Corrie+Ten+Boom+with+John+and+Elizabeth+Sherrill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hiding Place on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14978381-M.jpg" alt="Cover for The Hiding Place" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Hiding+Place+Corrie+Ten+Boom+with+John+and+Elizabeth+Sherrill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hiding Place">The Hiding Place</a>
         </h4>
         <p class="fr-book-author">By Corrie Ten Boom with John and Elizabeth Sherrill</p>
-        
+
         <p class="fr-book-desc">Offers broader context on hiding from Nazi occupation in the Netherlands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hiding+Place+Corrie+Ten+Boom+with+John+and+Elizabeth+Sherrill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,10 +367,27 @@ The most responsible historical conclusion today is therefore a measured one: An
           <a href="https://www.amazon.com/s?k=The+Betrayal+of+Anne+Frank+CD+Rosemary+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Betrayal of Anne Frank CD">The Betrayal of Anne Frank CD</a>
         </h4>
         <p class="fr-book-author">By Rosemary Sullivan</p>
-        
+
         <p class="fr-book-desc">First published 2022.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Betrayal+of+Anne+Frank+CD+Rosemary+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anne+Frank+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anne Frank on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369276-M.jpg" alt="Cover for Anne Frank" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Anne+Frank+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anne Frank">Anne Frank</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Provides historical background and investigation context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Anne+Frank+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -401,7 +401,7 @@ The most responsible historical conclusion today is therefore a measured one: An
           <a href="https://www.amazon.com/s?k=The+Diary+of+a+Young+Girl+Anne+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Diary of a Young Girl">The Diary of a Young Girl</a>
         </h4>
         <p class="fr-book-author">By Anne Frank</p>
-        
+
         <p class="fr-book-desc">The primary firsthand account connected to the case.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Diary+of+a+Young+Girl+Anne+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The most responsible historical conclusion today is therefore a measured one: An
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anne+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anne Frank</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hiding+Place&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hiding Place</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Betrayal+of+Anne+Frank+CD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Betrayal of Anne Frank CD</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hiding+Place&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hiding Place</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Betrayal+of+Anne+Frank+CD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Betrayal of Anne Frank CD</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anne+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anne Frank</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

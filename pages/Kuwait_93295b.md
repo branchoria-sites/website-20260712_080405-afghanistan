@@ -1332,7 +1332,7 @@ The strongest conclusion is not that Kuwait hides one great secret. It is that s
           <a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Middle East">The Middle East</a>
         </h4>
         <p class="fr-book-author">By Bernard Lewis</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of Kuwait&#x27;s regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Middle+East+Bernard+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ The strongest conclusion is not that Kuwait hides one great secret. It is that s
           <a href="https://www.amazon.com/s?k=Crusade+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crusade">Crusade</a>
         </h4>
         <p class="fr-book-author">By Rick Atkinson</p>
-        
+
         <p class="fr-book-desc">First published 1993. Subjects: Military History, Persian Gulf War, 1991, Golfoorlog (1991), Golfkrieg (1990-1991), United states, histor...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crusade+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ The strongest conclusion is not that Kuwait hides one great secret. It is that s
           <a href="https://www.amazon.com/s?k=The+Gulf+War+John+Bulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulf War">The Gulf War</a>
         </h4>
         <p class="fr-book-author">By John Bulloch, Harvey Morris</p>
-        
+
         <p class="fr-book-desc">Explains the conflict behind Kuwait&#x27;s major historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gulf+War+John+Bulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ The strongest conclusion is not that Kuwait hides one great secret. It is that s
           <a href="https://www.amazon.com/s?k=Kuwait%3A+A+Modern+History+Mary+Ann+Tetreault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kuwait: A Modern History">Kuwait: A Modern History</a>
         </h4>
         <p class="fr-book-author">By Mary Ann Tetreault</p>
-        
+
         <p class="fr-book-desc">Provides political and historical context for the featured mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kuwait%3A+A+Modern+History+Mary+Ann+Tetreault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

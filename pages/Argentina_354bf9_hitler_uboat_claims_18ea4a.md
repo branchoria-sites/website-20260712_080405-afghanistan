@@ -353,30 +353,13 @@ What remains unsupported is the central claim that either submarine carried Hitl
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Real+Odessa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Real Odessa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/918738-M.jpg" alt="Cover for The Real Odessa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Real+Odessa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Real Odessa">The Real Odessa</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Directly addresses the real history behind Hitler escape myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Real+Odessa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hitler%27s+Death+Luke+Daly-Groves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hitler&#x27;s Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9172746-M.jpg" alt="Cover for Hitler&#x27;s Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Hitler%27s+Death+Luke+Daly-Groves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hitler&#x27;s Death">Hitler&#x27;s Death</a>
         </h4>
         <p class="fr-book-author">By Luke Daly-Groves</p>
-        
+
         <p class="fr-book-desc">Summarizes documentary evidence for Hitler&#x27;s death in Berlin.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hitler%27s+Death+Luke+Daly-Groves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +376,7 @@ What remains unsupported is the central claim that either submarine carried Hitl
           <a href="https://www.amazon.com/s?k=Hunting+evil+Guy+Walters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting evil">Hunting evil</a>
         </h4>
         <p class="fr-book-author">By Guy Walters</p>
-        
+
         <p class="fr-book-desc">Explains genuine post-war escapes without endorsing myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunting+evil+Guy+Walters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +393,7 @@ What remains unsupported is the central claim that either submarine carried Hitl
           <a href="https://www.amazon.com/s?k=After+Hitler+Michael+K.+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After Hitler">After Hitler</a>
         </h4>
         <p class="fr-book-author">By Michael K. Jones</p>
-        
+
         <p class="fr-book-desc">Provides context for the chaotic post-war period fueling rumors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=After+Hitler+Michael+K.+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,9 +402,26 @@ What remains unsupported is the central claim that either submarine carried Hitl
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Real+Odessa+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Real Odessa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/918738-M.jpg" alt="Cover for The Real Odessa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Real+Odessa+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Real Odessa">The Real Odessa</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Directly addresses the real history behind Hitler escape myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Real+Odessa+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Real+Odessa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Real Odessa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hitler%27s+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hitler&#x27;s Death</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+evil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting evil</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hitler%27s+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hitler&#x27;s Death</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+evil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting evil</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+Hitler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After Hitler</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

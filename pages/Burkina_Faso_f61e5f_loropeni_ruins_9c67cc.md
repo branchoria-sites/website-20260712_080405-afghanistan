@@ -370,7 +370,7 @@ As further excavations continue across Loropéni and neighbouring stone enclosur
           <a href="https://www.amazon.com/s?k=The+golden+trade+of+the+Moors+E.+W.+Bovill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The golden trade of the Moors">The golden trade of the Moors</a>
         </h4>
         <p class="fr-book-author">By E. W. Bovill</p>
-        
+
         <p class="fr-book-desc">Explains the economic world connected to Loropéni.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+golden+trade+of+the+Moors+E.+W.+Bovill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ As further excavations continue across Loropéni and neighbouring stone enclosur
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Supplies broader historical background for the region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ As further excavations continue across Loropéni and neighbouring stone enclosur
           <a href="https://www.amazon.com/s?k=Ancient+Ghana+and+Mali+Nehemia+Levtzion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Ghana and Mali">Ancient Ghana and Mali</a>
         </h4>
         <p class="fr-book-author">By Nehemia Levtzion</p>
-        
+
         <p class="fr-book-desc">Provides context for medieval West African states and trade.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ancient+Ghana+and+Mali+Nehemia+Levtzion&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ As further excavations continue across Loropéni and neighbouring stone enclosur
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Africa">The Archaeology of Africa</a>
         </h4>
         <p class="fr-book-author">By Thurstan Shaw</p>
-        
+
         <p class="fr-book-desc">Covers archaeological interpretation relevant to sites like Loropéni.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

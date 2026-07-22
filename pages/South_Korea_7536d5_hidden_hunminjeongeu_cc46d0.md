@@ -371,7 +371,7 @@ Unlike stories of lost treasure that depend largely on legend, this mystery revo
           <a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea&#x27;s Place in the Sun">Korea&#x27;s Place in the Sun</a>
         </h4>
         <p class="fr-book-author">By Bruce Cumings</p>
-        
+
         <p class="fr-book-desc">Explains the historical significance of Korean cultural identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Unlike stories of lost treasure that depend largely on legend, this mystery revo
           <a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Korea">A history of Korea</a>
         </h4>
         <p class="fr-book-author">By Kyung Moon Hwang</p>
-        
+
         <p class="fr-book-desc">Provides historical context for King Sejong&#x27;s era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Unlike stories of lost treasure that depend largely on legend, this mystery revo
           <a href="https://www.amazon.com/s?k=The+Korean+alphabet+Young-Key+Kim-Renaud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Korean alphabet">The Korean alphabet</a>
         </h4>
         <p class="fr-book-author">By Young-Key Kim-Renaud</p>
-        
+
         <p class="fr-book-desc">Explains the creation and importance of the Hunminjeongeum manuscript.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Korean+alphabet+Young-Key+Kim-Renaud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Unlike stories of lost treasure that depend largely on legend, this mystery revo
           <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes">Korea : The Impossible Country : South Korea&#x27;s Amazing Rise f...</a>
         </h4>
         <p class="fr-book-author">By Daniel Tudor</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Economic development, Korea, civilization, Civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

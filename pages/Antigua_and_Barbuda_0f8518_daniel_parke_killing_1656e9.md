@@ -333,7 +333,7 @@ Equally important is the unresolved aftermath. The absence of successful prosecu
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
 </h4>
 <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ Equally important is the unresolved aftermath. The absence of successful prosecu
 <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1493">1493</a>
 </h4>
 <p class="fr-book-author">By Charles C. Mann</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: New York Times bestseller, Economic history, Commerce, History, Ecology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ Equally important is the unresolved aftermath. The absence of successful prosecu
 <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire&#x27;s Crossroads">Empire&#x27;s Crossroads</a>
 </h4>
 <p class="fr-book-author">By Carrie Gibson</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Caribbean area, history, Caribbean area, social conditions, New York Times reviewed, History, Social cond...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Equally important is the unresolved aftermath. The absence of successful prosecu
 <a href="https://www.amazon.com/s?k=A+History+of+Antigua%3A+The+Unsuspected+Isle+Christopher+K.+Dobson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Antigua: The Unsuspected Isle">A History of Antigua: The Unsuspected Isle</a>
 </h4>
 <p class="fr-book-author">By Christopher K. Dobson</p>
-        
+
 <p class="fr-book-desc">Covers colonial Antigua and the Parke episode.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Antigua%3A+The+Unsuspected+Isle+Christopher+K.+Dobson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -354,7 +354,7 @@ That paradox has helped keep the case alive in public memory. Renewed investigat
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
         </h4>
         <p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in Cold War spy theories surrounding the case.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ That paradox has helped keep the case alive in public memory. Renewed investigat
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
         </h4>
         <p class="fr-book-author">By Kate Summerscale</p>
-        
+
         <p class="fr-book-desc">Appeals to readers fascinated by enduring unsolved investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ That paradox has helped keep the case alive in public memory. Renewed investigat
           <a href="https://www.amazon.com/s?k=Unmasked+Paul+Holes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unmasked">Unmasked</a>
         </h4>
         <p class="fr-book-author">By Paul Holes, Ryan Doherty</p>
-        
+
         <p class="fr-book-desc">Explains modern forensic techniques relevant to unidentified persons.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unmasked+Paul+Holes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ That paradox has helped keep the case alive in public memory. Renewed investigat
           <a href="https://www.amazon.com/s?k=The+Killer+of+Little+Shepherds+Douglas+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Killer of Little Shepherds">The Killer of Little Shepherds</a>
         </h4>
         <p class="fr-book-author">By Douglas Starr</p>
-        
+
         <p class="fr-book-desc">Shows how scientific investigation evolves in difficult cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Killer+of+Little+Shepherds+Douglas+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

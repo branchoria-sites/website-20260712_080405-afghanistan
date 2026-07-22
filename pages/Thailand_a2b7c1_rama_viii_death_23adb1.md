@@ -373,7 +373,7 @@ The narrowest conclusion supported by the surviving evidence remains the most de
 <a href="https://www.amazon.com/s?k=A+history+of+Thailand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Thailand">A history of Thailand</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Covers the political environment surrounding the 1946 tragedy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Thailand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The narrowest conclusion supported by the surviving evidence remains the most de
 <a href="https://www.amazon.com/s?k=Thailand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thailand">Thailand</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Explains the broader historical period of the case.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thailand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The narrowest conclusion supported by the surviving evidence remains the most de
 <a href="https://www.amazon.com/s?k=The+King+Never+Smiles+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King Never Smiles">The King Never Smiles</a>
 </h4>
 <p class="fr-book-author">By Paul M. Handley</p>
-        
+
 <p class="fr-book-desc">Essential background for understanding the aftermath of Rama VIII&#x27;s death.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+King+Never+Smiles+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The narrowest conclusion supported by the surviving evidence remains the most de
 <a href="https://www.amazon.com/s?k=Kingdom+in+Crisis+Andrew+MacGregor+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kingdom in Crisis">Kingdom in Crisis</a>
 </h4>
 <p class="fr-book-author">By Andrew MacGregor Marshall</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Democracy, Thailand, politics and government, Politics and government, Kings and rulers, Lese majesty.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Kingdom+in+Crisis+Andrew+MacGregor+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

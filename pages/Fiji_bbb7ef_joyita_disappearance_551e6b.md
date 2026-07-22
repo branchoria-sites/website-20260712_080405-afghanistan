@@ -384,7 +384,7 @@ More than seventy years later, the central mystery remains unchanged: the *Joyit
           <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+mystery--solved+Larry+Kusche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bermuda Triangle mystery--solved">The Bermuda Triangle mystery--solved</a>
         </h4>
         <p class="fr-book-author">By Larry Kusche</p>
-        
+
         <p class="fr-book-desc">Demonstrates evidence-based analysis of sea disappearances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+mystery--solved+Larry+Kusche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ More than seventy years later, the central mystery remains unchanged: the *Joyit
           <a href="https://www.amazon.com/s?k=Ghost+Ship+Brian+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Ship">Ghost Ship</a>
         </h4>
         <p class="fr-book-author">By Brian Hicks</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: History, Mary Celeste (Brig), Nonfiction, Abandoning of, Missing persons.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghost+Ship+Brian+Hicks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ More than seventy years later, the central mystery remains unchanged: the *Joyit
           <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Fiji">A history of Fiji</a>
         </h4>
         <p class="fr-book-author">By R. A. Derrick</p>
-        
+
         <p class="fr-book-desc">Provides historical context for the region where the mystery unfolded.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ More than seventy years later, the central mystery remains unchanged: the *Joyit
           <a href="https://www.amazon.com/s?k=Great+Sea+Mysteries+Graham+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Great Sea Mysteries">Great Sea Mysteries</a>
         </h4>
         <p class="fr-book-author">By Graham Booth</p>
-        
+
         <p class="fr-book-desc">Includes famous unexplained sea disappearances like the Joyita.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Great+Sea+Mysteries+Graham+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

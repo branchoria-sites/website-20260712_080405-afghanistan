@@ -365,7 +365,7 @@ For historians and criminal investigators, the case illustrates the limits of re
           <a href="https://www.amazon.com/s?k=The+Monster+of+Florence+Magdalen+Nabb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Monster of Florence">The Monster of Florence</a>
         </h4>
         <p class="fr-book-author">By Magdalen Nabb, Douglas Preston et al.</p>
-        
+
         <p class="fr-book-desc">The definitive popular account of the case.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Monster+of+Florence+Magdalen+Nabb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For historians and criminal investigators, the case illustrates the limits of re
           <a href="https://www.amazon.com/s?k=Hannibal+Thomas+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hannibal">Hannibal</a>
         </h4>
         <p class="fr-book-author">By Thomas Harris</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in Florence and dark crime fiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hannibal+Thomas+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For historians and criminal investigators, the case illustrates the limits of re
           <a href="https://www.amazon.com/s?k=The+dark+heart+of+Italy+Tobias+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dark heart of Italy">The dark heart of Italy</a>
         </h4>
         <p class="fr-book-author">By Tobias Jones, Tobias Jones</p>
-        
+
         <p class="fr-book-desc">Explores the institutional backdrop of modern Italy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dark+heart+of+Italy+Tobias+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For historians and criminal investigators, the case illustrates the limits of re
           <a href="https://www.amazon.com/s?k=Midnight+in+Sicily+Peter+Robb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Midnight in Sicily">Midnight in Sicily</a>
         </h4>
         <p class="fr-book-author">By Peter Robb</p>
-        
+
         <p class="fr-book-desc">Examines justice and corruption themes relevant to the investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Midnight+in+Sicily+Peter+Robb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
