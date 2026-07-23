@@ -1325,16 +1325,16 @@ Yet some questions will probably remain open because the people who could answer
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baltic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/851023-M.jpg" alt="Cover for The Baltic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baltic%3A+A+History+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baltic: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/851023-M.jpg" alt="Cover for The Baltic: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
+          <a href="https://www.amazon.com/s?k=The+Baltic%3A+A+History+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic: A History">The Baltic: A History</a>
         </h4>
         <p class="fr-book-author">By Alan Warwick Palmer</p>
 
         <p class="fr-book-desc">Provides essential historical context for Latvia&#x27;s enduring mysteries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Baltic%3A+A+History+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1359,16 +1359,16 @@ Yet some questions will probably remain open because the people who could answer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baltic+Revolution+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baltic Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/160012-M.jpg" alt="Cover for The Baltic Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands: Europe Between Hitler and Stalin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands: Europe Between Hitler and Stalin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Baltic+Revolution+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic Revolution">The Baltic Revolution</a>
+          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands: Europe Between Hitler and Stalin">Bloodlands: Europe Between Hitler and Stalin</a>
         </h4>
-        <p class="fr-book-author">By Anatol Lieven</p>
+        <p class="fr-book-author">By Timothy Snyder</p>
 
-        <p class="fr-book-desc">Explains the political legacy shaping many unresolved historical questions.</p>
+        <p class="fr-book-desc">Illuminates the occupations and violence that produced many Latvian historical mysteries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Baltic+Revolution+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1376,16 +1376,16 @@ Yet some questions will probably remain open because the people who could answer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/160012-M.jpg" alt="Cover for The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
+          <a href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence">The Baltic Revolution: Estonia, Latvia, Lithuania and the Pat...</a>
         </h4>
-        <p class="fr-book-author">By Timothy Snyder</p>
+        <p class="fr-book-author">By Anatol Lieven</p>
 
-        <p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
+        <p class="fr-book-desc">Explains the political legacy shaping many unresolved historical questions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1393,7 +1393,7 @@ Yet some questions will probably remain open because the people who could answer
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Baltic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Baltic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Northern+Crusades&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Northern Crusades</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Baltic+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Baltic Revolution</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Baltic%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Baltic: A History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Northern+Crusades&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Northern Crusades</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bloodlands: Europe Between Hitler and Stalin</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

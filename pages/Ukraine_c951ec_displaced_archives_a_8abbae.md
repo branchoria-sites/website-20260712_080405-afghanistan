@@ -350,16 +350,16 @@ The central puzzle is therefore not whether Ukraine lost parts of its documentar
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gates of Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8872269-M.jpg" alt="Cover for The Gates of Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gates of Europe: A History of Ukraine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8872269-M.jpg" alt="Cover for The Gates of Europe: A History of Ukraine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gates of Europe">The Gates of Europe</a>
+          <a href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gates of Europe: A History of Ukraine">The Gates of Europe: A History of Ukraine</a>
         </h4>
         <p class="fr-book-author">By Serhii Plokhy</p>
 
         <p class="fr-book-desc">Explains the historical forces behind displaced archives and collections.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -367,16 +367,33 @@ The central puzzle is therefore not whether Ukraine lost parts of its documentar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Destruction of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/917560-M.jpg" alt="Cover for The Destruction of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Destruction+of+Memory%3A+Architecture+at+War+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Destruction of Memory: Architecture at War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/917560-M.jpg" alt="Cover for The Destruction of Memory: Architecture at War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Destruction of Memory">The Destruction of Memory</a>
+          <a href="https://www.amazon.com/s?k=The+Destruction+of+Memory%3A+Architecture+at+War+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Destruction of Memory: Architecture at War">The Destruction of Memory: Architecture at War</a>
         </h4>
         <p class="fr-book-author">By Robert Bevan</p>
 
         <p class="fr-book-desc">Explores how war affects cultural heritage and archives.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Destruction+of+Memory+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Destruction+of+Memory%3A+Architecture+at+War+Robert+Bevan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ukraine%3A+What+Everyone+Needs+to+Know+Serhy+Yekelchyk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ukraine: What Everyone Needs to Know on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1128629-M.jpg" alt="Cover for Ukraine: What Everyone Needs to Know" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ukraine%3A+What+Everyone+Needs+to+Know+Serhy+Yekelchyk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ukraine: What Everyone Needs to Know">Ukraine: What Everyone Needs to Know</a>
+        </h4>
+        <p class="fr-book-author">By Serhy Yekelchyk</p>
+
+        <p class="fr-book-desc">Provides historical context for heritage disputes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ukraine%3A+What+Everyone+Needs+to+Know+Serhy+Yekelchyk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -399,26 +416,9 @@ The central puzzle is therefore not whether Ukraine lost parts of its documentar
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Who+Owns+Antiquity%3F+James+Cuno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Who Owns Antiquity? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2549318-M.jpg" alt="Cover for Who Owns Antiquity?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Who+Owns+Antiquity%3F+James+Cuno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Who Owns Antiquity?">Who Owns Antiquity?</a>
-        </h4>
-        <p class="fr-book-author">By James Cuno</p>
-
-        <p class="fr-book-desc">First published 2008. Subjects: Acquisitions, Collection and preservation, Repatriation, Philosophy, Antiquities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Who+Owns+Antiquity%3F+James+Cuno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gates+of+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gates of Europe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Destruction+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Destruction of Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ukraine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ukraine</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gates of Europe: A History of Ukraine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Destruction+of+Memory%3A+Architecture+at+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Destruction of Memory: Architecture at War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ukraine%3A+What+Everyone+Needs+to+Know&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ukraine: What Everyone Needs to Know</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

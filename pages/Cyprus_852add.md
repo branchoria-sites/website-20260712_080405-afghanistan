@@ -1338,16 +1338,33 @@ The island’s unresolved past is therefore not a catalogue of strange tales. It
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cyprus+problem+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cyprus problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12183165-M.jpg" alt="Cover for The Cyprus problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cyprus+Problem%3A+What+Everyone+Needs+to+Know+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cyprus Problem: What Everyone Needs to Know on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12183165-M.jpg" alt="Cover for The Cyprus Problem: What Everyone Needs to Know" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cyprus+problem+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyprus problem">The Cyprus problem</a>
+          <a href="https://www.amazon.com/s?k=The+Cyprus+Problem%3A+What+Everyone+Needs+to+Know+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyprus Problem: What Everyone Needs to Know">The Cyprus Problem: What Everyone Needs to Know</a>
         </h4>
         <p class="fr-book-author">By James Ker-Lindsay</p>
 
         <p class="fr-book-desc">Explains the island&#x27;s division and modern unresolved issues.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cyprus+problem+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Cyprus+Problem%3A+What+Everyone+Needs+to+Know+James+Ker-Lindsay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyprus%3A+A+History+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyprus: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2042031-M.jpg" alt="Cover for Cyprus: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cyprus%3A+A+History+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyprus: A History">Cyprus: A History</a>
+        </h4>
+        <p class="fr-book-author">By William Mallinson</p>
+
+        <p class="fr-book-desc">Introduces the historical background to Cyprus&#x27;s major unresolved questions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cyprus%3A+A+History+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1387,26 +1404,9 @@ The island’s unresolved past is therefore not a catalogue of strange tales. It
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cyprus%3A+A+History+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyprus: A History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyprus%3A+A+History+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyprus: A History">Cyprus: A History</a>
-        </h4>
-        <p class="fr-book-author">By William Mallinson</p>
-
-        <p class="fr-book-desc">Introduces the historical background to Cyprus&#x27;s major unresolved questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyprus%3A+A+History+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cyprus+problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cyprus problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+Of+Cyprus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History Of Cyprus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyprus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyprus</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cyprus+Problem%3A+What+Everyone+Needs+to+Know&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cyprus Problem: What Everyone Needs to Know</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyprus%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyprus: A History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+Of+Cyprus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History Of Cyprus</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

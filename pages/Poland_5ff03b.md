@@ -1348,16 +1348,16 @@ The dividing line is evidence. A mystery deserves serious attention when records
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Poland+Adam+Zamoyski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Poland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2555546-M.jpg" alt="Cover for Poland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Poland%3A+A+History+Adam+Zamoyski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Poland: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2555546-M.jpg" alt="Cover for Poland: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Poland+Adam+Zamoyski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poland">Poland</a>
+          <a href="https://www.amazon.com/s?k=Poland%3A+A+History+Adam+Zamoyski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poland: A History">Poland: A History</a>
         </h4>
         <p class="fr-book-author">By Adam Zamoyski</p>
 
-        <p class="fr-book-desc">First published 2001. Subjects: History, Guidebooks, Poland, history, Gazetteers.</p>
+        <p class="fr-book-desc">Introduces the political and cultural background for Poland&#x27;s enduring mysteries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Poland+Adam+Zamoyski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Poland%3A+A+History+Adam+Zamoyski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1365,16 +1365,16 @@ The dividing line is evidence. A mystery deserves serious attention when records
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=God%27s+playground+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open God&#x27;s playground on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/133201-M.jpg" alt="Cover for God&#x27;s playground" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=God%27s+Playground%3A+A+History+of+Poland%2C+Volume+II+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open God&#x27;s Playground: A History of Poland, Volume II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/133201-M.jpg" alt="Cover for God&#x27;s Playground: A History of Poland, Volume II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=God%27s+playground+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s playground">God&#x27;s playground</a>
+          <a href="https://www.amazon.com/s?k=God%27s+Playground%3A+A+History+of+Poland%2C+Volume+II+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s Playground: A History of Poland, Volume II">God&#x27;s Playground: A History of Poland, Volume II</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
 
         <p class="fr-book-desc">Explains the historical background behind many enduring Polish mysteries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=God%27s+playground+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=God%27s+Playground%3A+A+History+of+Poland%2C+Volume+II+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1382,7 +1382,7 @@ The dividing line is evidence. A mystery deserves serious attention when records
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heart+of+Europe%3A+The+Past+in+Poland%27s+Present&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heart of Europe: The Past in Poland&#x27;s Present</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reconstruction of Nations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Poland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Poland</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heart+of+Europe%3A+The+Past+in+Poland%27s+Present&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heart of Europe: The Past in Poland&#x27;s Present</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reconstruction of Nations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Poland%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Poland: A History</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

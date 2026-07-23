@@ -371,89 +371,89 @@ The result is a genuine historical mystery rather than a solved case. The enviro
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Who Reached the Azores Before the Portuguese?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Who Reached the Azores Before the Portuguese?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History Of Portugal And The Portuguese Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7581573-M.jpg" alt="Cover for A History Of Portugal And The Portuguese Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Portugal And The Portuguese Empire">A History Of Portugal And The Portuguese Empire</a>
-</h4>
-<p class="fr-book-author">By A. R. Disney</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History Of Portugal And The Portuguese Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7581573-M.jpg" alt="Cover for A History Of Portugal And The Portuguese Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Portugal And The Portuguese Empire">A History Of Portugal And The Portuguese Empire</a>
+        </h4>
+        <p class="fr-book-author">By A. R. Disney</p>
 
-<p class="fr-book-desc">First published 2009. Subjects: Portugal, history, Portugal, colonies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains Portuguese exploration of the Atlantic.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Brendan+voyage+Tim+Severin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Brendan voyage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2405730-M.jpg" alt="Cover for The Brendan voyage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Brendan+voyage+Tim+Severin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brendan voyage">The Brendan voyage</a>
-</h4>
-<p class="fr-book-author">By Tim Severin, Timothy Severin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Brendan+voyage+Tim+Severin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Brendan voyage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2405730-M.jpg" alt="Cover for The Brendan voyage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Brendan+voyage+Tim+Severin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brendan voyage">The Brendan voyage</a>
+        </h4>
+        <p class="fr-book-author">By Tim Severin, Timothy Severin</p>
 
-<p class="fr-book-desc">First published 1978. Subjects: Travel, Ocean travel, Description and travel, Voyages and travels.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Brendan+voyage+Tim+Severin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores the feasibility of early Atlantic voyages before the Age of Discovery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Brendan+voyage+Tim+Severin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Across+Atlantic+ice+Dennis+J.+Stanford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Across Atlantic ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10092494-M.jpg" alt="Cover for Across Atlantic ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Across+Atlantic+ice+Dennis+J.+Stanford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Across Atlantic ice">Across Atlantic ice</a>
-</h4>
-<p class="fr-book-author">By Dennis J. Stanford</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Across+Atlantic+ice+Dennis+J.+Stanford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Across Atlantic ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10092494-M.jpg" alt="Cover for Across Atlantic ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Across+Atlantic+ice+Dennis+J.+Stanford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Across Atlantic ice">Across Atlantic ice</a>
+        </h4>
+        <p class="fr-book-author">By Dennis J. Stanford</p>
 
-<p class="fr-book-desc">First published 2012. Subjects: Origin, Indians of North America, Migrations, Clovis culture, Human beings.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Across+Atlantic+ice+Dennis+J.+Stanford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces evidence-based debates about prehistoric ocean crossings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Across+Atlantic+ice+Dennis+J.+Stanford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors">Conquerors</a>
-</h4>
-<p class="fr-book-author">By Roger Crowley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors: How Portugal Forged the First Global Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors: How Portugal Forged the First Global Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors: How Portugal Forged the First Global Empire">Conquerors: How Portugal Forged the First Global Empire</a>
+        </h4>
+        <p class="fr-book-author">By Roger Crowley</p>
 
-<p class="fr-book-desc">First published 2015. Subjects: Portugal, history, period of discoveries, 1385-1580, Imperialism, Portugal, colonies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for Portuguese discovery and settlement of Atlantic islands.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History Of Portugal And The Portuguese Empire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Brendan+voyage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Brendan voyage</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Across+Atlantic+ice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Across Atlantic ice</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History Of Portugal And The Portuguese Empire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Brendan+voyage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Brendan voyage</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Across+Atlantic+ice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Across Atlantic ice</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

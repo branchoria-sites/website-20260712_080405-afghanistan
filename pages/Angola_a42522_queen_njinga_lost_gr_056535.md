@@ -387,16 +387,16 @@ Future archaeological work in regions associated with the former capital of Mata
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Njinga+of+Angola+Linda+Marinda+Heywood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Njinga of Angola on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8802402-M.jpg" alt="Cover for Njinga of Angola" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Njinga+of+Angola%3A+Africa%27s+Warrior+Queen+Linda+Marinda+Heywood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Njinga of Angola: Africa&#x27;s Warrior Queen on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8802402-M.jpg" alt="Cover for Njinga of Angola: Africa&#x27;s Warrior Queen" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Njinga+of+Angola+Linda+Marinda+Heywood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Njinga of Angola">Njinga of Angola</a>
+          <a href="https://www.amazon.com/s?k=Njinga+of+Angola%3A+Africa%27s+Warrior+Queen+Linda+Marinda+Heywood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Njinga of Angola: Africa&#x27;s Warrior Queen">Njinga of Angola: Africa&#x27;s Warrior Queen</a>
         </h4>
         <p class="fr-book-author">By Linda Marinda Heywood</p>
 
         <p class="fr-book-desc">The strongest source on Njinga&#x27;s life, death and legacy.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Njinga+of+Angola+Linda+Marinda+Heywood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Njinga+of+Angola%3A+Africa%27s+Warrior+Queen+Linda+Marinda+Heywood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -421,16 +421,16 @@ Future archaeological work in regions associated with the former capital of Mata
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: A Biography of the Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420380-M.jpg" alt="Cover for Africa: A Biography of the Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
+          <a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: A Biography of the Continent">Africa: A Biography of the Continent</a>
         </h4>
-        <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
+        <p class="fr-book-author">By John Reader</p>
 
-        <p class="fr-book-desc">Offers broader colonial context for readers exploring Angola.</p>
+        <p class="fr-book-desc">Expands understanding of the historical world Njinga inhabited.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -438,7 +438,7 @@ Future archaeological work in regions associated with the former capital of Mata
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s ghost</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Njinga+of+Angola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Njinga of Angola</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876+1912&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The scramble for Africa, 1876 1912</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s ghost</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Njinga+of+Angola%3A+Africa%27s+Warrior+Queen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Njinga of Angola: Africa&#x27;s Warrior Queen</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876+1912&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The scramble for Africa, 1876 1912</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -327,16 +327,16 @@ Most modern assessments therefore distinguish between two separate questions. Th
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legacy of Ashes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=obptf9pGlbUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Legacy of Ashes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legacy of Ashes: The History of the CIA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=obptf9pGlbUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Legacy of Ashes: The History of the CIA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes">Legacy of Ashes</a>
+          <a href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes: The History of the CIA">Legacy of Ashes: The History of the CIA</a>
         </h4>
         <p class="fr-book-author">By Tim Weiner</p>
 
         <p class="fr-book-desc">Explains the culture and history of covert operations that form the wider intelligence backdrop to competing claims about La Penca.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -344,16 +344,16 @@ Most modern assessments therefore distinguish between two separate questions. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jaguar+Smile+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jaguar Smile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8304189-M.jpg" alt="Cover for The Jaguar Smile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jaguar Smile: A Nicaraguan Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8304189-M.jpg" alt="Cover for The Jaguar Smile: A Nicaraguan Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Jaguar+Smile+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jaguar Smile">The Jaguar Smile</a>
+          <a href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jaguar Smile: A Nicaraguan Journey">The Jaguar Smile: A Nicaraguan Journey</a>
         </h4>
         <p class="fr-book-author">By Salman Rushdie</p>
 
         <p class="fr-book-desc">Provides political and social context for Sandinista Nicaragua during the same turbulent decade as the La Penca bombing.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Jaguar+Smile+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -361,16 +361,16 @@ Most modern assessments therefore distinguish between two separate questions. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Killing+Hope+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Killing Hope on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3050368-M.jpg" alt="Cover for Killing Hope" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Killing Hope: U.S. Military and CIA Interventions Since World War II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3050368-M.jpg" alt="Cover for Killing Hope: U.S. Military and CIA Interventions Since World War II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Killing+Hope+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Killing Hope">Killing Hope</a>
+          <a href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Killing Hope: U.S. Military and CIA Interventions Since World War II">Killing Hope: U.S. Military and CIA Interventions Since World...</a>
         </h4>
         <p class="fr-book-author">By William Blum</p>
 
         <p class="fr-book-desc">Includes Nicaragua within a broader account of United States covert operations and disputed intervention abroad.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Killing+Hope+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -378,16 +378,16 @@ Most modern assessments therefore distinguish between two separate questions. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Overthrow+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overthrow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581579-M.jpg" alt="Cover for Overthrow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581579-M.jpg" alt="Cover for Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Overthrow+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overthrow">Overthrow</a>
+          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq">Overthrow: America&#x27;s Century of Regime Change from Hawaii to...</a>
         </h4>
         <p class="fr-book-author">By Stephen Kinzer, Stephen Kinzer et al.</p>
 
-        <p class="fr-book-desc">First published 2006. Subjects: Legitimacy of governments, Iraq War, 2003-, Iraq War, 2003-2011, Intervention (International law), Foreig...</p>
+        <p class="fr-book-desc">Places Nicaragua within the longer history of United States-backed political and military intervention in other countries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Overthrow+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,7 +395,7 @@ Most modern assessments therefore distinguish between two separate questions. Th
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Legacy+of+Ashes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legacy of Ashes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jaguar+Smile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jaguar Smile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Killing+Hope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Killing Hope</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legacy of Ashes: The History of the CIA</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jaguar Smile: A Nicaraguan Journey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Killing Hope: U.S. Military and CIA Interventions Since World War II</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

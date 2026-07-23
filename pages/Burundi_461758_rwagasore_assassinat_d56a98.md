@@ -398,16 +398,16 @@ The mystery therefore no longer centres on identifying the killer. That question
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa since independence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1180045-M.jpg" alt="Cover for Africa since independence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Burundi%3A+Ethnic+Conflict+and+Genocide+Rene%CC%81+Lemarchand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Burundi: Ethnic Conflict and Genocide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346416-M.jpg" alt="Cover for Burundi: Ethnic Conflict and Genocide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
+          <a href="https://www.amazon.com/s?k=Burundi%3A+Ethnic+Conflict+and+Genocide+Rene%CC%81+Lemarchand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burundi: Ethnic Conflict and Genocide">Burundi: Ethnic Conflict and Genocide</a>
         </h4>
-        <p class="fr-book-author">By Paul Nugent</p>
+        <p class="fr-book-author">By René Lemarchand</p>
 
-        <p class="fr-book-desc">Provides background on post-colonial political transitions.</p>
+        <p class="fr-book-desc">Directly examines Rwagasore&#x27;s assassination and its consequences.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Burundi%3A+Ethnic+Conflict+and+Genocide+Rene%CC%81+Lemarchand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

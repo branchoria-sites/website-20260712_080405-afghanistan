@@ -364,6 +364,23 @@ Rather than a conventional unsolved mystery with missing evidence, the Gardel co
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tango: The Art History of Love on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226090-M.jpg" alt="Cover for Tango: The Art History of Love" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tango: The Art History of Love">Tango: The Art History of Love</a>
+        </h4>
+        <p class="fr-book-author">By Robert Farris Thompson</p>
+
+        <p class="fr-book-desc">Provides broader context for Gardel&#x27;s legacy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predatory States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/470902-M.jpg" alt="Cover for Predatory States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -374,23 +391,6 @@ Rather than a conventional unsolved mystery with missing evidence, the Gardel co
         <p class="fr-book-desc">First published 2005. Subjects: State-sponsored terrorism, Operación Cóndor (South American countersubversion association), Political cri...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tango+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tango on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226090-M.jpg" alt="Cover for Tango" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tango+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tango">Tango</a>
-        </h4>
-        <p class="fr-book-author">By Robert Farris Thompson</p>
-
-        <p class="fr-book-desc">First published 2005. Subjects: Tango (Dance), History and criticism, Tangos, Hobbies and Games.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tango+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -432,7 +432,7 @@ Rather than a conventional unsolved mystery with missing evidence, the Gardel co
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Predatory+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predatory States</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tango&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tango</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Veins Of Latin America</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tango: The Art History of Love</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Predatory+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predatory States</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Veins Of Latin America</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

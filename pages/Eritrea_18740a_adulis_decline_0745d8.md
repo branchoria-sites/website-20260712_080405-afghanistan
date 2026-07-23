@@ -414,16 +414,16 @@ The enduring mystery is therefore not whether these forces existed—they are we
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aksum on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1392299-M.jpg" alt="Cover for Aksum" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aksum: An African Civilization of Late Antiquity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1392299-M.jpg" alt="Cover for Aksum: An African Civilization of Late Antiquity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aksum">Aksum</a>
+          <a href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aksum: An African Civilization of Late Antiquity">Aksum: An African Civilization of Late Antiquity</a>
         </h4>
         <p class="fr-book-author">By Stuart Munro-Hay</p>
 
-        <p class="fr-book-desc">First published 1991. Subjects: Africa, civilization.</p>
+        <p class="fr-book-desc">Directly relevant to Adulis and Red Sea trade.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

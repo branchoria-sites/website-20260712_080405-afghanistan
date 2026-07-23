@@ -1343,16 +1343,16 @@ The strongest conclusion is not that Kuwait hides one great secret. It is that s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crusade+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crusade on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/256524-M.jpg" alt="Cover for Crusade" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crusade%3A+The+Untold+Story+of+the+Persian+Gulf+War+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crusade: The Untold Story of the Persian Gulf War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/256524-M.jpg" alt="Cover for Crusade: The Untold Story of the Persian Gulf War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crusade+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crusade">Crusade</a>
+          <a href="https://www.amazon.com/s?k=Crusade%3A+The+Untold+Story+of+the+Persian+Gulf+War+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crusade: The Untold Story of the Persian Gulf War">Crusade: The Untold Story of the Persian Gulf War</a>
         </h4>
         <p class="fr-book-author">By Rick Atkinson</p>
 
-        <p class="fr-book-desc">First published 1993. Subjects: Military History, Persian Gulf War, 1991, Golfoorlog (1991), Golfkrieg (1990-1991), United states, histor...</p>
+        <p class="fr-book-desc">Details the invasion and liberation of Kuwait.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crusade+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Crusade%3A+The+Untold+Story+of+the+Persian+Gulf+War+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1394,7 +1394,7 @@ The strongest conclusion is not that Kuwait hides one great secret. It is that s
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Middle+East&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Middle East</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crusade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crusade</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gulf+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gulf War</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Middle+East&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Middle East</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crusade%3A+The+Untold+Story+of+the+Persian+Gulf+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crusade: The Untold Story of the Persian Gulf War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gulf+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gulf War</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

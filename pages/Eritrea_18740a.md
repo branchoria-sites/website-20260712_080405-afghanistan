@@ -1345,16 +1345,16 @@ What would resolve these cases is equally concrete: sustained excavation at Adul
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Against+all+odds+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Against all odds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1911491-M.jpg" alt="Cover for Against all odds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aksum: An African Civilization of Late Antiquity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1392299-M.jpg" alt="Cover for Aksum: An African Civilization of Late Antiquity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Against+all+odds+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Against all odds">Against all odds</a>
+          <a href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aksum: An African Civilization of Late Antiquity">Aksum: An African Civilization of Late Antiquity</a>
         </h4>
-        <p class="fr-book-author">By Dan Connell</p>
+        <p class="fr-book-author">By Stuart Munro-Hay</p>
 
-        <p class="fr-book-desc">Essential background on modern Eritrea.</p>
+        <p class="fr-book-desc">Important for Eritrea&#x27;s ancient history.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Against+all+odds+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1362,16 +1362,16 @@ What would resolve these cases is equally concrete: sustained excavation at Adul
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aksum on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1392299-M.jpg" alt="Cover for Aksum" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Against+All+Odds%3A+A+Chronicle+of+the+Eritrean+Revolution+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Against All Odds: A Chronicle of the Eritrean Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1911491-M.jpg" alt="Cover for Against All Odds: A Chronicle of the Eritrean Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aksum">Aksum</a>
+          <a href="https://www.amazon.com/s?k=Against+All+Odds%3A+A+Chronicle+of+the+Eritrean+Revolution+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Against All Odds: A Chronicle of the Eritrean Revolution">Against All Odds: A Chronicle of the Eritrean Revolution</a>
         </h4>
-        <p class="fr-book-author">By Stuart Munro-Hay</p>
+        <p class="fr-book-author">By Dan Connell</p>
 
-        <p class="fr-book-desc">First published 1991. Subjects: Africa, civilization.</p>
+        <p class="fr-book-desc">Essential background on modern Eritrea.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Aksum+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Against+All+Odds%3A+A+Chronicle+of+the+Eritrean+Revolution+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1379,7 +1379,7 @@ What would resolve these cases is equally concrete: sustained excavation at Adul
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Historical Dictionary of Eritrea</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fortunes+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fortunes of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Against+all+odds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Against all odds</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Historical Dictionary of Eritrea</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fortunes+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fortunes of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aksum: An African Civilization of Late Antiquity</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

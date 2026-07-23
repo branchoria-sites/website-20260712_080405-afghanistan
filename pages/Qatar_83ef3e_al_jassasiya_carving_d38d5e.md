@@ -377,16 +377,33 @@ Rather than pointing towards a forgotten civilisation or hidden message, the sit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rock+art+studies+Paul+G.+Bahn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rock art studies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2988416-M.jpg" alt="Cover for Rock art studies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Qatar%3A+A+Modern+History+Allen+J.+Fromherz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Qatar: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8850420-M.jpg" alt="Cover for Qatar: A Modern History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rock+art+studies+Paul+G.+Bahn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rock art studies">Rock art studies</a>
+          <a href="https://www.amazon.com/s?k=Qatar%3A+A+Modern+History+Allen+J.+Fromherz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Qatar: A Modern History">Qatar: A Modern History</a>
+        </h4>
+        <p class="fr-book-author">By Allen J. Fromherz</p>
+
+        <p class="fr-book-desc">Introduces Qatar&#x27;s historical development and archaeological heritage.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Qatar%3A+A+Modern+History+Allen+J.+Fromherz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rock+Art+Studies%3A+News+of+the+World+Paul+G.+Bahn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rock Art Studies: News of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2988416-M.jpg" alt="Cover for Rock Art Studies: News of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Rock+Art+Studies%3A+News+of+the+World+Paul+G.+Bahn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rock Art Studies: News of the World">Rock Art Studies: News of the World</a>
         </h4>
         <p class="fr-book-author">By Paul G. Bahn</p>
 
         <p class="fr-book-desc">Introduces methods archaeologists use to study petroglyphs.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rock+art+studies+Paul+G.+Bahn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Rock+Art+Studies%3A+News+of+the+World+Paul+G.+Bahn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -394,33 +411,16 @@ Rather than pointing towards a forgotten civilisation or hidden message, the sit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Qatar+Allen+J.+Fromherz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Qatar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8850420-M.jpg" alt="Cover for Qatar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs: From the Bronze Age to the Coming of Islam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs: From the Bronze Age to the Coming of Islam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Qatar+Allen+J.+Fromherz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Qatar">Qatar</a>
-        </h4>
-        <p class="fr-book-author">By Allen J. Fromherz</p>
-
-        <p class="fr-book-desc">First published 2012. Subjects: Middle east, history, Petroleum industry and trade, Gas industry, History, Economic conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Qatar+Allen+J.+Fromherz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs">Arabia and the Arabs</a>
+          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs: From the Bronze Age to the Coming of Islam">Arabia and the Arabs: From the Bronze Age to the Coming of Islam</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
 
         <p class="fr-book-desc">Explains the broader cultural world in which the carvings were created.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -428,7 +428,7 @@ Rather than pointing towards a forgotten civilisation or hidden message, the sit
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persian+Gulf+in+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persian Gulf in History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rock+art+studies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rock art studies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Qatar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Qatar</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persian+Gulf+in+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persian Gulf in History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Qatar%3A+A+Modern+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Qatar: A Modern History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rock+Art+Studies%3A+News+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rock Art Studies: News of the World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

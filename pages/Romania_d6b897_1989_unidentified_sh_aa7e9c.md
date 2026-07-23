@@ -430,16 +430,16 @@ The enduring mystery is therefore not simply "Who pulled the trigger?" It is how
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Iron Curtain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7251296-M.jpg" alt="Cover for Iron Curtain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Iron Curtain: The Crushing of Eastern Europe, 1944–1956 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7251296-M.jpg" alt="Cover for Iron Curtain: The Crushing of Eastern Europe, 1944–1956" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain">Iron Curtain</a>
+          <a href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain: The Crushing of Eastern Europe, 1944–1956">Iron Curtain: The Crushing of Eastern Europe, 1944–1956</a>
         </h4>
         <p class="fr-book-author">By Anne Applebaum</p>
 
         <p class="fr-book-desc">Background on communist systems later challenged in 1989.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -464,16 +464,16 @@ The enduring mystery is therefore not simply "Who pulled the trigger?" It is how
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands: Europe Between Hitler and Stalin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands: Europe Between Hitler and Stalin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
+          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands: Europe Between Hitler and Stalin">Bloodlands: Europe Between Hitler and Stalin</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
 
-        <p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
+        <p class="fr-book-desc">Provides twentieth-century regional context.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -481,7 +481,7 @@ The enduring mystery is therefore not simply "Who pulled the trigger?" It is how
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Romanian Revolution of December 1989</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Iron+Curtain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Iron Curtain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Concise+History+of+Romania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Concise History of Romania</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Romanian Revolution of December 1989</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Iron Curtain: The Crushing of Eastern Europe, 1944–1956</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Concise+History+of+Romania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Concise History of Romania</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

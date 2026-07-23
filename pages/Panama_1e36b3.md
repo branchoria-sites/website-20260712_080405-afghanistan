@@ -1344,23 +1344,6 @@ Seen this way, Panama’s mysteries become more interesting rather than less. Th
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8Qxf-33dxMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Wars">Ghost Wars</a>
-        </h4>
-        <p class="fr-book-author">By Steve Coll</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in intelligence and geopolitical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictator&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8114194-M.jpg" alt="Cover for The dictator&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -1378,16 +1361,16 @@ Seen this way, Panama’s mysteries become more interesting rather than less. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Panama fever on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8046983-M.jpg" alt="Cover for Panama fever" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Panama Fever: The Epic Story of the Building of the Panama Canal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8046983-M.jpg" alt="Cover for Panama Fever: The Epic Story of the Building of the Panama Canal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Panama fever">Panama fever</a>
+          <a href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Panama Fever: The Epic Story of the Building of the Panama Canal">Panama Fever: The Epic Story of the Building of the Panama Canal</a>
         </h4>
         <p class="fr-book-author">By Matthew Parker, Matthew Parker et al.</p>
 
         <p class="fr-book-desc">Explores Panama&#x27;s transformation and historical context.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1395,16 +1378,33 @@ Seen this way, Panama’s mysteries become more interesting rather than less. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581579-M.jpg" alt="Cover for Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
+          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq">Overthrow: America&#x27;s Century of Regime Change from Hawaii to...</a>
+        </h4>
+        <p class="fr-book-author">By Stephen Kinzer, Stephen Kinzer et al.</p>
+
+        <p class="fr-book-desc">Provides broader context for Cold War-era Latin American politics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas%3A+The+Creation+of+the+Panama+Canal%2C+1870-1914+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas: The Creation of the Panama Canal, 1870-1914 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas%3A+The+Creation+of+the+Panama+Canal%2C+1870-1914+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas: The Creation of the Panama Canal, 1870-1914">The Path Between the Seas: The Creation of the Panama Canal,...</a>
         </h4>
         <p class="fr-book-author">By David McCullough</p>
 
         <p class="fr-book-desc">Essential background for Panama&#x27;s modern political history.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas%3A+The+Creation+of+the+Panama+Canal%2C+1870-1914+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1412,7 +1412,7 @@ Seen this way, Panama’s mysteries become more interesting rather than less. Th
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Wars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Panama+fever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Panama fever</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Panama Fever: The Epic Story of the Building of the Panama Canal</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

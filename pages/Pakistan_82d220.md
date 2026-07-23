@@ -1354,16 +1354,16 @@ These cases remain culturally powerful because each concerns an absence: unread 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Indus Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5418156-M.jpg" alt="Cover for The Indus Civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Indus+Civilization%3A+A+Contemporary+Perspective+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Indus Civilization: A Contemporary Perspective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5418156-M.jpg" alt="Cover for The Indus Civilization: A Contemporary Perspective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indus Civilization">The Indus Civilization</a>
+          <a href="https://www.amazon.com/s?k=The+Indus+Civilization%3A+A+Contemporary+Perspective+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indus Civilization: A Contemporary Perspective">The Indus Civilization: A Contemporary Perspective</a>
         </h4>
         <p class="fr-book-author">By Gregory L. Possehl</p>
 
         <p class="fr-book-desc">Covers several of Pakistan&#x27;s major archaeological mysteries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Indus+Civilization%3A+A+Contemporary+Perspective+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1371,16 +1371,16 @@ These cases remain culturally powerful because each concerns an absence: unread 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The wonder that was India on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9299587-M.jpg" alt="Cover for The wonder that was India" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pakistan: A Hard Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10355209-M.jpg" alt="Cover for Pakistan: A Hard Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The wonder that was India">The wonder that was India</a>
+          <a href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pakistan: A Hard Country">Pakistan: A Hard Country</a>
         </h4>
-        <p class="fr-book-author">By Basham, A. L.</p>
+        <p class="fr-book-author">By Anatol Lieven</p>
 
-        <p class="fr-book-desc">First published 1954. Subjects: History, Civilization, Civilisation, Histoire, India, civilization.</p>
+        <p class="fr-book-desc">Provides context for Pakistan&#x27;s unresolved political mysteries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+wonder+that+was+India+Basham%2C+A.+L.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1388,7 +1388,7 @@ These cases remain culturally powerful because each concerns an absence: unread 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mohenjo+Daro+and+the+Indus+civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mohenjo Daro and the Indus civilization</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin History of Early India</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Indus+Civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Indus Civilization</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mohenjo+Daro+and+the+Indus+civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mohenjo Daro and the Indus civilization</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin History of Early India</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Indus+Civilization%3A+A+Contemporary+Perspective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Indus Civilization: A Contemporary Perspective</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

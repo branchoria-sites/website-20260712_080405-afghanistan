@@ -421,16 +421,16 @@ That combination of expanding archaeological evidence and permanently missing cu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/141304-M.jpg" alt="Cover for Armenia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenia: A Historical Atlas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/141304-M.jpg" alt="Cover for Armenia: A Historical Atlas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenia">Armenia</a>
+          <a href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenia: A Historical Atlas">Armenia: A Historical Atlas</a>
         </h4>
         <p class="fr-book-author">By Robert H. Hewsen</p>
 
-        <p class="fr-book-desc">First published 2000. Subjects: Armenia (republic).</p>
+        <p class="fr-book-desc">Shows the geography of Armenia&#x27;s archaeological landscapes.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -455,7 +455,7 @@ That combination of expanding archaeological evidence and permanently missing cu
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+the+archaeology+of+ritual+and+religion+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of the archaeology of ritual and religion books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Armenia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Armenia</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+the+archaeology+of+ritual+and+religion+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of the archaeology of ritual and religion books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Armenia: A Historical Atlas</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

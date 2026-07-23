@@ -402,16 +402,16 @@ The result is an unusual national memory. Filipinos commemorate Bonifacio throug
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Barangay on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4927879-M.jpg" alt="Cover for Barangay" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Barangay%3A+Sixteenth-Century+Philippine+Culture+and+Society+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Barangay: Sixteenth-Century Philippine Culture and Society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4927879-M.jpg" alt="Cover for Barangay: Sixteenth-Century Philippine Culture and Society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay">Barangay</a>
+          <a href="https://www.amazon.com/s?k=Barangay%3A+Sixteenth-Century+Philippine+Culture+and+Society+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay: Sixteenth-Century Philippine Culture and Society">Barangay: Sixteenth-Century Philippine Culture and Society</a>
         </h4>
         <p class="fr-book-author">By William Henry Scott</p>
 
-        <p class="fr-book-desc">First published 1994. Subjects: Ethnology, Civilization, Filipinos, Social life and customs, Bisaya (Philippine people).</p>
+        <p class="fr-book-desc">Builds historical understanding of Philippine society before revolution.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Barangay%3A+Sixteenth-Century+Philippine+Culture+and+Society+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -453,7 +453,7 @@ The result is an unusual national memory. Filipinos commemorate Bonifacio throug
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+Philippines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the Philippines</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Barangay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Barangay</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Our Image America&#x27;s Empire in the Philippines</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+Philippines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the Philippines</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Barangay%3A+Sixteenth+Century+Philippine+Culture+and+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Barangay: Sixteenth Century Philippine Culture and Society</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Our Image America&#x27;s Empire in the Philippines</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -1389,16 +1389,16 @@ The common lesson is that mystery should not be confused with conspiracy. In Rom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans%3A+A+Short+History+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans: A Short History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans: A Short History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
+          <a href="https://www.amazon.com/s?k=The+Balkans%3A+A+Short+History+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans: A Short History">The Balkans: A Short History</a>
         </h4>
         <p class="fr-book-author">By Mark Mazower</p>
 
         <p class="fr-book-desc">Provides broader regional context.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Balkans%3A+A+Short+History+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1406,16 +1406,16 @@ The common lesson is that mystery should not be confused with conspiracy. In Rom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands: Europe Between Hitler and Stalin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands: Europe Between Hitler and Stalin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
+          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands: Europe Between Hitler and Stalin">Bloodlands: Europe Between Hitler and Stalin</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
 
-        <p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
+        <p class="fr-book-desc">Explains twentieth-century violence affecting Romania.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1423,7 +1423,7 @@ The common lesson is that mystery should not be confused with conspiracy. In Rom
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Concise+History+of+Romania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Concise History of Romania</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Horse, the Wheel, and Language</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Concise+History+of+Romania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Concise History of Romania</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Horse, the Wheel, and Language</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans%3A+A+Short+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans: A Short History</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

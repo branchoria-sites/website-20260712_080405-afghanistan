@@ -474,16 +474,16 @@ That balance—between documented possibility and legendary exaggeration—is wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rampage+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rampage on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rampage%3A+MacArthur%2C+Yamashita%2C+and+the+Battle+of+Manila+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rampage: MacArthur, Yamashita, and the Battle of Manila on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rampage+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rampage">Rampage</a>
+          <a href="https://www.amazon.com/s?k=Rampage%3A+MacArthur%2C+Yamashita%2C+and+the+Battle+of+Manila+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rampage: MacArthur, Yamashita, and the Battle of Manila">Rampage: MacArthur, Yamashita, and the Battle of Manila</a>
         </h4>
         <p class="fr-book-author">By James M. Scott</p>
 
-        <p class="fr-book-desc">First published 2018. Subjects: Macarthur, douglas, 1880-1964, World war, 1939-1945, campaigns, philippines, Asia, history, military.</p>
+        <p class="fr-book-desc">Explains the historical setting behind the Yamashita treasure legend.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rampage+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Rampage%3A+MacArthur%2C+Yamashita%2C+and+the+Battle+of+Manila+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

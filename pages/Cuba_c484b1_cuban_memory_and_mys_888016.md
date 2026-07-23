@@ -397,16 +397,16 @@ The most productive approach is therefore neither unquestioning acceptance of of
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuba+reader+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuba reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/622725-M.jpg" alt="Cover for The Cuba reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuba Reader: History, Culture, Politics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/622725-M.jpg" alt="Cover for The Cuba Reader: History, Culture, Politics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuba+reader+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuba reader">The Cuba reader</a>
+          <a href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuba Reader: History, Culture, Politics">The Cuba Reader: History, Culture, Politics</a>
         </h4>
         <p class="fr-book-author">By Aviva Chomsky, Barry Carr et al.</p>
 
         <p class="fr-book-desc">Demonstrates how different sources construct Cuban historical memory.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuba+reader+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,16 +414,33 @@ The most productive approach is therefore neither unquestioning acceptance of of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the past on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the past" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba: An American History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba: An American History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
+          <a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba: An American History">Cuba: An American History</a>
+        </h4>
+        <p class="fr-book-author">By Ada Ferrer</p>
+
+        <p class="fr-book-desc">Examines competing narratives and historical memory surrounding Cuba.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+Past%3A+Power+and+the+Production+of+History+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the Past: Power and the Production of History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the Past: Power and the Production of History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Silencing+the+Past%3A+Power+and+the+Production+of+History+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the Past: Power and the Production of History">Silencing the Past: Power and the Production of History</a>
         </h4>
         <p class="fr-book-author">By Michel-Rolph Trouillot</p>
 
         <p class="fr-book-desc">Provides a framework for understanding why contested histories persist.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Silencing+the+Past%3A+Power+and+the+Production+of+History+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -452,26 +469,9 @@ The most productive approach is therefore neither unquestioning acceptance of of
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba">Cuba</a>
-        </h4>
-        <p class="fr-book-author">By Ada Ferrer</p>
-
-        <p class="fr-book-desc">First published 2021. Subjects: History, Foreign relations, Histoire, Relations extérieures, HISTORY / Caribbean &amp; West Indies / Cuba.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuba+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuba reader</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silencing+the+past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silencing the past</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba What Everyone Needs to Know Paper</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuba Reader: History, Culture, Politics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba: An American History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silencing+the+Past%3A+Power+and+the+Production+of+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silencing the Past: Power and the Production of History</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

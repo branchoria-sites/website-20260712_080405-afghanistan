@@ -335,16 +335,16 @@ The deeper historical lesson is that Timbuktu's manuscript tradition survived no
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Rhinoceros on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8835652-M.jpg" alt="Cover for The Golden Rhinoceros" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Rhinoceros%3A+Histories+of+the+African+Middle+Ages+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Rhinoceros: Histories of the African Middle Ages on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8835652-M.jpg" alt="Cover for The Golden Rhinoceros: Histories of the African Middle Ages" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Rhinoceros">The Golden Rhinoceros</a>
+          <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros%3A+Histories+of+the+African+Middle+Ages+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Rhinoceros: Histories of the African Middle Ages">The Golden Rhinoceros: Histories of the African Middle Ages</a>
         </h4>
         <p class="fr-book-author">By François-Xavier Fauvelle</p>
 
         <p class="fr-book-desc">Highlights the manuscript traditions of medieval Africa.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Golden+Rhinoceros%3A+Histories+of+the+African+Middle+Ages+Fran%C3%A7ois-Xavier+Fauvelle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -369,16 +369,16 @@ The deeper historical lesson is that Timbuktu's manuscript tradition survived no
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sundiata on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/983994-M.jpg" alt="Cover for Sundiata" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sundiata%3A+An+Epic+of+Old+Mali+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sundiata: An Epic of Old Mali on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/983994-M.jpg" alt="Cover for Sundiata: An Epic of Old Mali" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sundiata">Sundiata</a>
+          <a href="https://www.amazon.com/s?k=Sundiata%3A+An+Epic+of+Old+Mali+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sundiata: An Epic of Old Mali">Sundiata: An Epic of Old Mali</a>
         </h4>
         <p class="fr-book-author">By Djibril Tamsir Niane, DjiBril Tamsir Niane et al.</p>
 
-        <p class="fr-book-desc">First published 1960. Subjects: History, Kings and rulers, Legends, Mandingo (African people), Mandingo Folk literature.</p>
+        <p class="fr-book-desc">Provides background to the civilization that fostered Timbuktu.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sundiata+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Sundiata%3A+An+Epic+of+Old+Mali+Djibril+Tamsir+Niane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -403,7 +403,7 @@ The deeper historical lesson is that Timbuktu's manuscript tradition survived no
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Rhinoceros&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Rhinoceros</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of medieval West Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sundiata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sundiata</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Rhinoceros%3A+Histories+of+the+African+Middle+Ages&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Rhinoceros: Histories of the African Middle Ages</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+medieval+West+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of medieval West Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sundiata%3A+An+Epic+of+Old+Mali&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sundiata: An Epic of Old Mali</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

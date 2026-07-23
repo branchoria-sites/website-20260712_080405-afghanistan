@@ -380,6 +380,23 @@ It also serves as an instructive example of how historical memory changes over t
     </article>
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Underworld: The Mysterious Origins of Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/745765-M.jpg" alt="Cover for Underworld: The Mysterious Origins of Civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underworld: The Mysterious Origins of Civilization">Underworld: The Mysterious Origins of Civilization</a>
+        </h4>
+        <p class="fr-book-author">By Graham Hancock</p>
+
+        <p class="fr-book-desc">Appeals to readers interested in sunken settlement stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Under+the+glacier+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Under the glacier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/745022-M.jpg" alt="Cover for Under the glacier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -395,26 +412,9 @@ It also serves as an instructive example of how historical memory changes over t
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pirates of the Americas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pirates of the Americas">Pirates of the Americas</a>
-        </h4>
-        <p class="fr-book-author">By Padraic Carlin, David F. Marley</p>
-
-        <p class="fr-book-desc">Complements Nevis&#x27;s maritime folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of the Caribbean</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Earthquake+storms&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Earthquake storms</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Under+the+glacier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Under the glacier</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of the Caribbean</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Earthquake+storms&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Earthquake storms</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Underworld: The Mysterious Origins of Civilization</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

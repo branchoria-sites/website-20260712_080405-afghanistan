@@ -389,16 +389,33 @@ The balance of historical evidence points towards Raihan having been killed duri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Land of two rivers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13690641-M.jpg" alt="Cover for Land of two rivers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bangladesh%3A+A+Legacy+of+Blood+Anthony+Mascarenhas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bangladesh: A Legacy of Blood on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9415988-M.jpg" alt="Cover for Bangladesh: A Legacy of Blood" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Land of two rivers">Land of two rivers</a>
+          <a href="https://www.amazon.com/s?k=Bangladesh%3A+A+Legacy+of+Blood+Anthony+Mascarenhas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bangladesh: A Legacy of Blood">Bangladesh: A Legacy of Blood</a>
+        </h4>
+        <p class="fr-book-author">By Anthony Mascarenhas</p>
+
+        <p class="fr-book-desc">Covers the turbulent early years after independence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bangladesh%3A+A+Legacy+of+Blood+Anthony+Mascarenhas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Land+of+Two+Rivers%3A+A+History+of+Bengal+from+the+Mahabharata+to+Mujib+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Land of Two Rivers: A History of Bengal from the Mahabharata to Mujib on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13690641-M.jpg" alt="Cover for Land of Two Rivers: A History of Bengal from the Mahabharata to Mujib" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Land+of+Two+Rivers%3A+A+History+of+Bengal+from+the+Mahabharata+to+Mujib+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Land of Two Rivers: A History of Bengal from the Mahabharata to Mujib">Land of Two Rivers: A History of Bengal from the Mahabharata...</a>
         </h4>
         <p class="fr-book-author">By Nitish K. Sengupta</p>
 
         <p class="fr-book-desc">Supplies deeper historical background for Bangladesh.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Land+of+Two+Rivers%3A+A+History+of+Bengal+from+the+Mahabharata+to+Mujib+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -421,26 +438,9 @@ The balance of historical evidence points towards Raihan having been killed duri
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bangladesh+Anthony+Mascarenhas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bangladesh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9415988-M.jpg" alt="Cover for Bangladesh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bangladesh+Anthony+Mascarenhas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bangladesh">Bangladesh</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Mascarenhas</p>
-
-        <p class="fr-book-desc">First published 1986. Subjects: History, Politics and government, Bangladesh, politics and government, Atrocities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bangladesh+Anthony+Mascarenhas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Bangladesh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Bangladesh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Land+of+two+rivers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Land of two rivers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Blood+Telegram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blood Telegram</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Bangladesh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Bangladesh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bangladesh%3A+A+Legacy+of+Blood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bangladesh: A Legacy of Blood</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Land+of+Two+Rivers%3A+A+History+of+Bengal+from+the+Mahabharata+to+Mujib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Land of Two Rivers: A History of Bengal from the Mahabharata to Mujib</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

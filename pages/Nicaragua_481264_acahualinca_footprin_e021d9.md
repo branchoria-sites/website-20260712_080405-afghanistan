@@ -356,6 +356,23 @@ For Nicaragua, the Acahualinca footprints remain one of the country's defining a
     </article>
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491: New Revelations of the Americas Before Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491: New Revelations of the Americas Before Columbus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491: New Revelations of the Americas Before Columbus">1491: New Revelations of the Americas Before Columbus</a>
+        </h4>
+        <p class="fr-book-author">By Charles C. Mann</p>
+
+        <p class="fr-book-desc">Provides broad, accessible context for interpreting ancient Indigenous communities in the Americas beyond simplistic disaster or disappea...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+City+of+the+Monkey+God+Douglas+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost City of the Monkey God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8184985-M.jpg" alt="Cover for The Lost City of the Monkey God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -373,33 +390,16 @@ For Nicaragua, the Acahualinca footprints remain one of the country's defining a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Footprints+David+Farrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Footprints on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9302172-M.jpg" alt="Cover for Footprints" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Footprints%3A+In+Search+of+Future+Fossils+David+Farrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Footprints: In Search of Future Fossils on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9302172-M.jpg" alt="Cover for Footprints: In Search of Future Fossils" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Footprints+David+Farrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Footprints">Footprints</a>
+          <a href="https://www.amazon.com/s?k=Footprints%3A+In+Search+of+Future+Fossils+David+Farrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Footprints: In Search of Future Fossils">Footprints: In Search of Future Fossils</a>
         </h4>
         <p class="fr-book-author">By David Farrier</p>
 
-        <p class="fr-book-desc">First published 2020. Subjects: Conservation of natural resources, Travelers&#x27; writings, Human ecology, Climatic changes, Effect of human...</p>
+        <p class="fr-book-desc">Examines how physical traces, including footprints and other remains, preserve evidence of human activity across time.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Footprints+David+Farrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The archaeology book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The archaeology book">The archaeology book</a>
-        </h4>
-        <p class="fr-book-author">By David Down</p>
-
-        <p class="fr-book-desc">Explains archaeological dating, excavation and evidence assessment, all central to changing interpretations of the Acahualinca trackways.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Footprints%3A+In+Search+of+Future+Fossils+David+Farrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -407,7 +407,7 @@ For Nicaragua, the Acahualinca footprints remain one of the country's defining a
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+City+of+the+Monkey+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost City of the Monkey God</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Footprints&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Footprints</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491: New Revelations of the Americas Before Columbus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+City+of+the+Monkey+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost City of the Monkey God</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

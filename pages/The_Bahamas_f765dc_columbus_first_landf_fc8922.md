@@ -384,6 +384,23 @@ For these reasons, most historians now frame the question in terms of probabilit
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491: New Revelations of the Americas Before Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491: New Revelations of the Americas Before Columbus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491: New Revelations of the Americas Before Columbus">1491: New Revelations of the Americas Before Columbus</a>
+        </h4>
+        <p class="fr-book-author">By Charles C. Mann</p>
+
+        <p class="fr-book-desc">Provides Indigenous context for Columbus&#x27;s arrival.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Last Voyage of Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/190481-M.jpg" alt="Cover for The Last Voyage of Columbus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -401,16 +418,16 @@ For these reasons, most historians now frame the question in terms of probabilit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Over the Edge of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/30543-M.jpg" alt="Cover for Over the Edge of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World%3A+Magellan%27s+Terrifying+Circumnavigation+of+the+Globe+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Over the Edge of the World: Magellan&#x27;s Terrifying Circumnavigation of the Globe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/30543-M.jpg" alt="Cover for Over the Edge of the World: Magellan&#x27;s Terrifying Circumnavigation of the Globe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Over the Edge of the World">Over the Edge of the World</a>
+          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World%3A+Magellan%27s+Terrifying+Circumnavigation+of+the+Globe+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Over the Edge of the World: Magellan&#x27;s Terrifying Circumnavigation of the Globe">Over the Edge of the World: Magellan&#x27;s Terrifying Circumnavig...</a>
         </h4>
         <p class="fr-book-author">By Laurence Bergreen</p>
 
         <p class="fr-book-desc">Appeals to readers interested in great exploration voyages.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World%3A+Magellan%27s+Terrifying+Circumnavigation+of+the+Globe+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -433,26 +450,9 @@ For these reasons, most historians now frame the question in terms of probabilit
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Columbus+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7142944-M.jpg" alt="Cover for Columbus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Columbus+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Columbus">Columbus</a>
-        </h4>
-        <p class="fr-book-author">By Laurence Bergreen</p>
-
-        <p class="fr-book-desc">First published 2011. Subjects: HISTORY / Expeditions &amp; Discoveries, Spanish, Travel, Explorers, Biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Columbus+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Last Voyage of Columbus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Over the Edge of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Admiral+of+the+ocean+sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Admiral of the ocean sea</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491: New Revelations of the Americas Before Columbus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Last+Voyage+of+Columbus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Last Voyage of Columbus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World%3A+Magellan%27s+Terrifying+Circumnavigation+of+the+Globe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Over the Edge of the World: Magellan&#x27;s Terrifying Circumnavigation of the Globe</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

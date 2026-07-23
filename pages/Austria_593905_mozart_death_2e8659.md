@@ -389,16 +389,16 @@ For Austria's history, the case illustrates an important distinction between doc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1791+H.+C.+Robbins+Landon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1791 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6394-M.jpg" alt="Cover for 1791" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1791%3A+Mozart%27s+Last+Year+H.+C.+Robbins+Landon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1791: Mozart&#x27;s Last Year on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6394-M.jpg" alt="Cover for 1791: Mozart&#x27;s Last Year" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1791+H.+C.+Robbins+Landon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1791">1791</a>
+          <a href="https://www.amazon.com/s?k=1791%3A+Mozart%27s+Last+Year+H.+C.+Robbins+Landon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1791: Mozart&#x27;s Last Year">1791: Mozart&#x27;s Last Year</a>
         </h4>
         <p class="fr-book-author">By H. C. Robbins Landon</p>
 
-        <p class="fr-book-desc">First published 1988. Subjects: Mozart, wolfgang amadeus, 1756-1791, Composers, Biography, Last years.</p>
+        <p class="fr-book-desc">Concentrates on the circumstances surrounding his death.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1791+H.+C.+Robbins+Landon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=1791%3A+Mozart%27s+Last+Year+H.+C.+Robbins+Landon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -440,7 +440,7 @@ For Austria's history, the case illustrates an important distinction between doc
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mozart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mozart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1791&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1791</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Twilight+of+empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Twilight of empire</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mozart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mozart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1791%3A+Mozart%27s+Last+Year&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1791: Mozart&#x27;s Last Year</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Twilight+of+empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Twilight of empire</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

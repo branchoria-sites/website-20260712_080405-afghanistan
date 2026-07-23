@@ -370,16 +370,16 @@ Whether future archival discoveries can finally resolve the question remains unc
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9293787-M.jpg" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War : A New History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9293787-M.jpg" alt="Cover for The Cold War : A New History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
+          <a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War : A New History">The Cold War : A New History</a>
         </h4>
         <p class="fr-book-author">By John Lewis Gaddis</p>
 
         <p class="fr-book-desc">Places the investigation in its global geopolitical setting.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -387,16 +387,16 @@ Whether future archival discoveries can finally resolve the question remains unc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Iron Curtain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7251296-M.jpg" alt="Cover for Iron Curtain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944-1956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Iron Curtain: The Crushing of Eastern Europe, 1944-1956 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7251296-M.jpg" alt="Cover for Iron Curtain: The Crushing of Eastern Europe, 1944-1956" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain">Iron Curtain</a>
+          <a href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944-1956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain: The Crushing of Eastern Europe, 1944-1956">Iron Curtain: The Crushing of Eastern Europe, 1944-1956</a>
         </h4>
         <p class="fr-book-author">By Anne Applebaum</p>
 
         <p class="fr-book-desc">Provides the political context surrounding Masaryk&#x27;s death.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944-1956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -421,16 +421,16 @@ Whether future archival discoveries can finally resolve the question remains unc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Maze+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Maze on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10873155-M.jpg" alt="Cover for The Golden Maze" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Postwar: A History of Europe Since 1945 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/111385-M.jpg" alt="Cover for Postwar: A History of Europe Since 1945" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Golden+Maze+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Maze">The Golden Maze</a>
+          <a href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Postwar: A History of Europe Since 1945">Postwar: A History of Europe Since 1945</a>
         </h4>
-        <p class="fr-book-author">By Richard Fidler</p>
+        <p class="fr-book-author">By Tony Judt</p>
 
-        <p class="fr-book-desc">Adds historical background to the city where the case unfolded.</p>
+        <p class="fr-book-desc">Explains the Communist takeover that frames the mystery.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Golden+Maze+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -438,7 +438,7 @@ Whether future archival discoveries can finally resolve the question remains unc
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Iron+Curtain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Iron Curtain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Prague+winter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prague winter</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War : A New History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944+1956&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Iron Curtain: The Crushing of Eastern Europe, 1944 1956</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Prague+winter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prague winter</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

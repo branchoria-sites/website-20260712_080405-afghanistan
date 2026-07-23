@@ -441,16 +441,16 @@ Recent archaeological discoveries on Hatteras Island and at inland locations hav
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roanoke+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roanoke on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/787776-M.jpg" alt="Cover for Roanoke" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roanoke%3A+Solving+the+Mystery+of+the+Lost+Colony+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roanoke: Solving the Mystery of the Lost Colony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/787776-M.jpg" alt="Cover for Roanoke: Solving the Mystery of the Lost Colony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roanoke+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roanoke">Roanoke</a>
+          <a href="https://www.amazon.com/s?k=Roanoke%3A+Solving+the+Mystery+of+the+Lost+Colony+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roanoke: Solving the Mystery of the Lost Colony">Roanoke: Solving the Mystery of the Lost Colony</a>
         </h4>
         <p class="fr-book-author">By Lee Miller, Lee G. Miller et al.</p>
 
-        <p class="fr-book-desc">First published 2000. Subjects: Juvenile literature, History, Elementary Literature, Roanoke Island (N.C.), Roanoke Colony.</p>
+        <p class="fr-book-desc">Focuses directly on the colony&#x27;s disappearance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roanoke+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Roanoke%3A+Solving+the+Mystery+of+the+Lost+Colony+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

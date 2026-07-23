@@ -1324,16 +1324,16 @@ Haiti’s enduring enigmas matter because they expose the struggle over who gets
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Jacobins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14349219-M.jpg" alt="Cover for The Black Jacobins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Jacobins%3A+Toussaint+L%27Ouverture+and+the+San+Domingo+Revolution+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Jacobins: Toussaint L&#x27;Ouverture and the San Domingo Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14349219-M.jpg" alt="Cover for The Black Jacobins: Toussaint L&#x27;Ouverture and the San Domingo Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
+          <a href="https://www.amazon.com/s?k=The+Black+Jacobins%3A+Toussaint+L%27Ouverture+and+the+San+Domingo+Revolution+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins: Toussaint L&#x27;Ouverture and the San Domingo Revolution">The Black Jacobins: Toussaint L&#x27;Ouverture and the San Domingo...</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
 
         <p class="fr-book-desc">Provides the essential revolutionary setting for Bois Caïman, Mackandal&#x27;s legacy, Dessalines and the creation of independent Haiti.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Black+Jacobins%3A+Toussaint+L%27Ouverture+and+the+San+Domingo+Revolution+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1341,16 +1341,16 @@ Haiti’s enduring enigmas matter because they expose the struggle over who gets
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Avengers of the New World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/412457-M.jpg" alt="Cover for Avengers of the New World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Avengers+of+the+New+World%3A+The+Story+of+the+Haitian+Revolution+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Avengers of the New World: The Story of the Haitian Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/412457-M.jpg" alt="Cover for Avengers of the New World: The Story of the Haitian Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Avengers of the New World">Avengers of the New World</a>
+          <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World%3A+The+Story+of+the+Haitian+Revolution+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Avengers of the New World: The Story of the Haitian Revolution">Avengers of the New World: The Story of the Haitian Revolution</a>
         </h4>
         <p class="fr-book-author">By Laurent Dubois</p>
 
         <p class="fr-book-desc">Explains the revolution&#x27;s origins, leaders, violence and contested memories, encompassing several mysteries discussed on the page.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Avengers+of+the+New+World%3A+The+Story+of+the+Haitian+Revolution+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1358,33 +1358,33 @@ Haiti’s enduring enigmas matter because they expose the struggle over who gets
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the past on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the past" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haiti%3A+The+Aftershocks+of+History+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haiti: The Aftershocks of History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12131970-M.jpg" alt="Cover for Haiti: The Aftershocks of History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
+          <a href="https://www.amazon.com/s?k=Haiti%3A+The+Aftershocks+of+History+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haiti: The Aftershocks of History">Haiti: The Aftershocks of History</a>
+        </h4>
+        <p class="fr-book-author">By Laurent Dubois</p>
+
+        <p class="fr-book-desc">Connects Haiti&#x27;s revolutionary foundations with its later politics, foreign interventions, cultural traditions and historical memory.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Haiti%3A+The+Aftershocks+of+History+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+Past%3A+Power+and+the+Production+of+History+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the Past: Power and the Production of History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the Past: Power and the Production of History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Silencing+the+Past%3A+Power+and+the+Production+of+History+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the Past: Power and the Production of History">Silencing the Past: Power and the Production of History</a>
         </h4>
         <p class="fr-book-author">By Michel-Rolph Trouillot</p>
 
         <p class="fr-book-desc">Uses the Haitian Revolution to show how archives, power and historical storytelling determine which events are documented, doubted or for...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haiti+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haiti on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12131970-M.jpg" alt="Cover for Haiti" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haiti+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haiti">Haiti</a>
-        </h4>
-        <p class="fr-book-author">By Laurent Dubois</p>
-
-        <p class="fr-book-desc">First published 2012. Subjects: History, Politics and government, Slave insurrections, Economic conditions, Social conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haiti+Laurent+Dubois&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Silencing+the+Past%3A+Power+and+the+Production+of+History+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1392,7 +1392,7 @@ Haiti’s enduring enigmas matter because they expose the struggle over who gets
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Avengers+of+the+New+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Avengers of the New World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silencing+the+past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silencing the past</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins%3A+Toussaint+L%27Ouverture+and+the+San+Domingo+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins: Toussaint L&#x27;Ouverture and the San Domingo Revolution</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Avengers+of+the+New+World%3A+The+Story+of+the+Haitian+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Avengers of the New World: The Story of the Haitian Revolution</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Haiti%3A+The+Aftershocks+of+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haiti: The Aftershocks of History</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

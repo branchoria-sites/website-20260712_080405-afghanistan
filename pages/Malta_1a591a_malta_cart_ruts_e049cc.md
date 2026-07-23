@@ -427,6 +427,23 @@ That distinction matters because it changes how archaeologists understand Malta'
     </article>
 
     <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Megalith: Studies in Stone on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Megalith: Studies in Stone">Megalith: Studies in Stone</a>
+        </h4>
+        <p class="fr-book-author">By Crowhurst Newman, Francis Heath et al.</p>
+
+        <p class="fr-book-desc">Offers wider context for interpreting prehistoric landscapes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Temples+of+Malta+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Temples of Malta on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -442,26 +459,9 @@ That distinction matters because it changes how archaeologists understand Malta'
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Megalith+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Megalith on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Megalith+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Megalith">Megalith</a>
-        </h4>
-        <p class="fr-book-author">By Crowhurst Newman, Francis Heath et al.</p>
-
-        <p class="fr-book-desc">First published 2018. Subjects: Megalithic monuments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Megalith+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malta, prehistory and temples</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+Malta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of Malta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Temples+of+Malta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Temples of Malta</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malta, prehistory and temples</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+Malta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of Malta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Megalith: Studies in Stone</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

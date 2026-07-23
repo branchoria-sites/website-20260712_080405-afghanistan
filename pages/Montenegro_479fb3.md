@@ -1326,16 +1326,33 @@ The most enduring Montenegrin enigmas matter because they concern legitimacy: wh
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans: Nationalism, War and the Great Powers, 1804-2012 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans: Nationalism, War and the Great Powers, 1804-2012" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
+          <a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans: Nationalism, War and the Great Powers, 1804-2012">The Balkans: Nationalism, War and the Great Powers, 1804-2012</a>
         </h4>
         <p class="fr-book-author">By Mark Mazower</p>
 
         <p class="fr-book-desc">Places Montenegro within wider regional developments.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Montenegro: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9755068-M.jpg" alt="Cover for Montenegro: A Modern History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Montenegro: A Modern History">Montenegro: A Modern History</a>
+        </h4>
+        <p class="fr-book-author">By Morrison, Kenneth.</p>
+
+        <p class="fr-book-desc">Provides context for nearly every mystery covered on the page.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1375,26 +1392,9 @@ The most enduring Montenegrin enigmas matter because they concern legitimacy: wh
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Kenneth+Morrison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Montenegro: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Kenneth+Morrison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Montenegro: A Modern History">Montenegro: A Modern History</a>
-        </h4>
-        <p class="fr-book-author">By Kenneth Morrison</p>
-
-        <p class="fr-book-desc">Provides context for nearly every mystery covered on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Kenneth+Morrison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Montenegro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Montenegro</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nationalism%2C+Identity+and+Statehood+in+Post+Yugoslav+Montenegro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nationalism, Identity and Statehood in Post Yugoslav Montenegro</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804+2012&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans: Nationalism, War and the Great Powers, 1804 2012</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Montenegro: A Modern History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Montenegro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Montenegro</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

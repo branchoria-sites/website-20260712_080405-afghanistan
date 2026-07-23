@@ -1329,16 +1329,16 @@ These cases endure because they lie at the boundary between recovery and loss. M
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/141304-M.jpg" alt="Cover for Armenia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenia: A Historical Atlas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/141304-M.jpg" alt="Cover for Armenia: A Historical Atlas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenia">Armenia</a>
+          <a href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenia: A Historical Atlas">Armenia: A Historical Atlas</a>
         </h4>
         <p class="fr-book-author">By Robert H. Hewsen</p>
 
-        <p class="fr-book-desc">First published 2000. Subjects: Armenia (republic).</p>
+        <p class="fr-book-desc">Maps and explains archaeological and historical sites.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Armenia+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1346,7 +1346,7 @@ These cases endure because they lie at the boundary between recovery and loss. M
     </article>
     </div>
     <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Armenia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
+      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

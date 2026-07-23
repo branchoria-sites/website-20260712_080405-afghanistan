@@ -1321,16 +1321,33 @@ That disciplined distinction between fact, inference and legend does not make th
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=My+promised+land+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My promised land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12135352-M.jpg" alt="Cover for My promised land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Israel%3A+A+History+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Israel: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/430941-M.jpg" alt="Cover for Israel: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=My+promised+land+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My promised land">My promised land</a>
+          <a href="https://www.amazon.com/s?k=Israel%3A+A+History+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Israel: A History">Israel: A History</a>
+        </h4>
+        <p class="fr-book-author">By Martin Gilbert</p>
+
+        <p class="fr-book-desc">Provides essential background for multiple Israeli historical mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Israel%3A+A+History+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=My+Promised+Land%3A+The+Triumph+and+Tragedy+of+Israel+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My Promised Land: The Triumph and Tragedy of Israel on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12135352-M.jpg" alt="Cover for My Promised Land: The Triumph and Tragedy of Israel" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=My+Promised+Land%3A+The+Triumph+and+Tragedy+of+Israel+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My Promised Land: The Triumph and Tragedy of Israel">My Promised Land: The Triumph and Tragedy of Israel</a>
         </h4>
         <p class="fr-book-author">By Ari Shavit</p>
 
         <p class="fr-book-desc">Explores formative episodes in Israeli history and identity.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=My+promised+land+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=My+Promised+Land%3A+The+Triumph+and+Tragedy+of+Israel+Ari+Shavit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1338,16 +1355,16 @@ That disciplined distinction between fact, inference and legend does not make th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Dead Sea Scrolls in English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/98978-M.jpg" alt="Cover for The Complete Dead Sea Scrolls in English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jerusalem%3A+The+Biography+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jerusalem: The Biography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6941204-M.jpg" alt="Cover for Jerusalem: The Biography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dead Sea Scrolls in English">The Complete Dead Sea Scrolls in English</a>
+          <a href="https://www.amazon.com/s?k=Jerusalem%3A+The+Biography+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jerusalem: The Biography">Jerusalem: The Biography</a>
         </h4>
-        <p class="fr-book-author">By Géza Vermès</p>
+        <p class="fr-book-author">By Simon Sebag-Montefiore</p>
 
-        <p class="fr-book-desc">Relevant to the wider landscape of ancient Israeli historical puzzles.</p>
+        <p class="fr-book-desc">Supplies deep historical context for several ancient mysteries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Jerusalem%3A+The+Biography+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1355,33 +1372,16 @@ That disciplined distinction between fact, inference and legend does not make th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Israel+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Israel on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7064797-M.jpg" alt="Cover for A history of Israel" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Israel%3A+From+the+Rise+of+Zionism+to+Our+Time+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Israel: From the Rise of Zionism to Our Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7064797-M.jpg" alt="Cover for A History of Israel: From the Rise of Zionism to Our Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+Israel+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Israel">A history of Israel</a>
+          <a href="https://www.amazon.com/s?k=A+History+of+Israel%3A+From+the+Rise+of+Zionism+to+Our+Time+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Israel: From the Rise of Zionism to Our Time">A History of Israel: From the Rise of Zionism to Our Time</a>
         </h4>
         <p class="fr-book-author">By Howard Morley Sachar</p>
 
         <p class="fr-book-desc">Covers the political and social setting behind the featured cases.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+Israel+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Israel+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Israel on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/430941-M.jpg" alt="Cover for Israel" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Israel+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Israel">Israel</a>
-        </h4>
-        <p class="fr-book-author">By Martin Gilbert</p>
-
-        <p class="fr-book-desc">First published 1998. Subjects: History, Arab-Israeli conflict, Jews, Geschichte, Israel, history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Israel+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=A+History+of+Israel%3A+From+the+Rise+of+Zionism+to+Our+Time+Howard+Morley+Sachar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1389,7 +1389,7 @@ That disciplined distinction between fact, inference and legend does not make th
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=My+promised+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">My promised land</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Dead Sea Scrolls in English</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Israel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Israel</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Israel%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Israel: A History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=My+Promised+Land%3A+The+Triumph+and+Tragedy+of+Israel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">My Promised Land: The Triumph and Tragedy of Israel</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jerusalem+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jerusalem biography</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

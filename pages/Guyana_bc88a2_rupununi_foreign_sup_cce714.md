@@ -353,16 +353,16 @@ In other words, the principal mystery is no longer whether foreign links existed
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost City of Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7895353-M.jpg" alt="Cover for The Lost City of Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+City+of+Z%3A+A+Tale+of+Deadly+Obsession+in+the+Amazon+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost City of Z: A Tale of Deadly Obsession in the Amazon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7895353-M.jpg" alt="Cover for The Lost City of Z: A Tale of Deadly Obsession in the Amazon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z">The Lost City of Z</a>
+          <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z%3A+A+Tale+of+Deadly+Obsession+in+the+Amazon+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z: A Tale of Deadly Obsession in the Amazon">The Lost City of Z: A Tale of Deadly Obsession in the Amazon</a>
         </h4>
         <p class="fr-book-author">By David Grann, James Gray</p>
 
         <p class="fr-book-desc">Offers accessible geographical and historical context for the difficult interior terrain in which borders, settlements and state authorit...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z%3A+A+Tale+of+Deadly+Obsession+in+the+Amazon+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -370,16 +370,16 @@ In other words, the principal mystery is no longer whether foreign links existed
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Venezuela-Guyana+border+dispute+Jacqueline+Anne+Braveboy-Wagner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Venezuela-Guyana border dispute on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4233845-M.jpg" alt="Cover for The Venezuela-Guyana border dispute" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Venezuela-Guyana+Border+Dispute%3A+Britain%27s+Colonial+Legacy+in+Latin+America+Jacqueline+Anne+Braveboy-Wagner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Venezuela-Guyana Border Dispute: Britain&#x27;s Colonial Legacy in Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4233845-M.jpg" alt="Cover for The Venezuela-Guyana Border Dispute: Britain&#x27;s Colonial Legacy in Latin America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Venezuela-Guyana+border+dispute+Jacqueline+Anne+Braveboy-Wagner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Venezuela-Guyana border dispute">The Venezuela-Guyana border dispute</a>
+          <a href="https://www.amazon.com/s?k=The+Venezuela-Guyana+Border+Dispute%3A+Britain%27s+Colonial+Legacy+in+Latin+America+Jacqueline+Anne+Braveboy-Wagner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Venezuela-Guyana Border Dispute: Britain&#x27;s Colonial Legacy in Latin America">The Venezuela-Guyana Border Dispute: Britain&#x27;s Colonial Legac...</a>
         </h4>
         <p class="fr-book-author">By Jacqueline Anne Braveboy-Wagner</p>
 
         <p class="fr-book-desc">Explains the territorial dispute, diplomatic rivalry and Venezuelan claims underlying allegations of support for the Rupununi rebels.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Venezuela-Guyana+border+dispute+Jacqueline+Anne+Braveboy-Wagner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Venezuela-Guyana+Border+Dispute%3A+Britain%27s+Colonial+Legacy+in+Latin+America+Jacqueline+Anne+Braveboy-Wagner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -387,16 +387,16 @@ In other words, the principal mystery is no longer whether foreign links existed
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Guyana+Chaitram+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Guyana on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1157164-M.jpg" alt="Cover for Guyana" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Guyana%3A+Politics+in+a+Plantation+Society+Chaitram+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Guyana: Politics in a Plantation Society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1157164-M.jpg" alt="Cover for Guyana: Politics in a Plantation Society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Guyana+Chaitram+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guyana">Guyana</a>
+          <a href="https://www.amazon.com/s?k=Guyana%3A+Politics+in+a+Plantation+Society+Chaitram+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guyana: Politics in a Plantation Society">Guyana: Politics in a Plantation Society</a>
         </h4>
         <p class="fr-book-author">By Chaitram Singh</p>
 
-        <p class="fr-book-desc">First published 1988. Subjects: History, Politics and government, Guyana.</p>
+        <p class="fr-book-desc">Provides structural context for the political institutions, ethnic divisions and state formation surrounding the rebellion.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Guyana+Chaitram+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Guyana%3A+Politics+in+a+Plantation+Society+Chaitram+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -421,7 +421,7 @@ In other words, the principal mystery is no longer whether foreign links existed
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+City+of+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost City of Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Venezuela+Guyana+border+dispute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Venezuela Guyana border dispute</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Guyana&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Guyana</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+City+of+Z%3A+A+Tale+of+Deadly+Obsession+in+the+Amazon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost City of Z: A Tale of Deadly Obsession in the Amazon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Venezuela+Guyana+Border+Dispute%3A+Britain%27s+Colonial+Legacy+in+Latin+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Venezuela Guyana Border Dispute: Britain&#x27;s Colonial Legacy in Latin America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Guyana%3A+Politics+in+a+Plantation+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Guyana: Politics in a Plantation Society</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

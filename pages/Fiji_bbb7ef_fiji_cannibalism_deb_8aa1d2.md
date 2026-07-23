@@ -395,16 +395,16 @@ Rather than proving that all colonial accounts were true or false, Fiji's modifi
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Fiji on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History+Bill+Schutt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cannibalism: A Perfectly Natural History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10149091-M.jpg" alt="Cover for Cannibalism: A Perfectly Natural History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Fiji">A history of Fiji</a>
+          <a href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History+Bill+Schutt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cannibalism: A Perfectly Natural History">Cannibalism: A Perfectly Natural History</a>
         </h4>
-        <p class="fr-book-author">By R. A. Derrick</p>
+        <p class="fr-book-author">By Bill Schutt</p>
 
-        <p class="fr-book-desc">Explains historical accounts of cannibalism in Fiji.</p>
+        <p class="fr-book-desc">Provides balanced context for interpreting cannibalism claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History+Bill+Schutt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -429,16 +429,16 @@ Rather than proving that all colonial accounts were true or false, Fiji's modifi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History+Bill+Schutt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cannibalism: A Perfectly Natural History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Fiji on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History+Bill+Schutt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cannibalism: A Perfectly Natural History">Cannibalism: A Perfectly Natural History</a>
+          <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Fiji">A history of Fiji</a>
         </h4>
-        <p class="fr-book-author">By Bill Schutt</p>
+        <p class="fr-book-author">By R. A. Derrick</p>
 
-        <p class="fr-book-desc">Provides balanced context for interpreting cannibalism claims.</p>
+        <p class="fr-book-desc">Explains historical accounts of cannibalism in Fiji.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History+Bill+Schutt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=A+history+of+Fiji+R.+A.+Derrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -463,7 +463,7 @@ Rather than proving that all colonial accounts were true or false, Fiji's modifi
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Fiji&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Fiji</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Road of the Winds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cannibalism: A Perfectly Natural History</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cannibalism%3A+A+Perfectly+Natural+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cannibalism: A Perfectly Natural History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Road of the Winds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Fiji&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Fiji</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

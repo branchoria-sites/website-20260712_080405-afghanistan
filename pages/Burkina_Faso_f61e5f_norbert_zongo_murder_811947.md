@@ -379,16 +379,16 @@ For Burkina Faso, the Zongo case has therefore become a symbol of the wider stru
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa since independence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1180045-M.jpg" alt="Cover for Africa since independence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1180045-M.jpg" alt="Cover for AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
+          <a href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY">AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY</a>
         </h4>
         <p class="fr-book-author">By Paul Nugent</p>
 
         <p class="fr-book-desc">Covers governance and political crises across Africa.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -396,16 +396,16 @@ For Burkina Faso, the Zongo case has therefore become a symbol of the wider stru
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420380-M.jpg" alt="Cover for Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: Altered States, Ordinary Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8110604-M.jpg" alt="Cover for Africa: Altered States, Ordinary Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
+          <a href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: Altered States, Ordinary Miracles">Africa: Altered States, Ordinary Miracles</a>
         </h4>
-        <p class="fr-book-author">By John Reader</p>
+        <p class="fr-book-author">By Richard Dowden</p>
 
-        <p class="fr-book-desc">First published 1997. Subjects: Geography, History, Pictorial works, Histoire, Bildband.</p>
+        <p class="fr-book-desc">Explores journalism, politics and power across Africa.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -413,7 +413,7 @@ For Burkina Faso, the Zongo case has therefore become a symbol of the wider stru
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Africa+since+independence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Africa since independence</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

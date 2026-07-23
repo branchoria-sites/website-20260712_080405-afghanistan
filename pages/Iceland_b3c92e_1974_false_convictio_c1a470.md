@@ -368,16 +368,16 @@ For Iceland, the case therefore remains significant not because it has been solv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Convicting+the+Innocent+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Convicting the Innocent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6990358-M.jpg" alt="Cover for Convicting the Innocent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Convicting the Innocent: Where Criminal Prosecutions Go Wrong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6990358-M.jpg" alt="Cover for Convicting the Innocent: Where Criminal Prosecutions Go Wrong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Convicting+the+Innocent+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Convicting the Innocent">Convicting the Innocent</a>
+          <a href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Convicting the Innocent: Where Criminal Prosecutions Go Wrong">Convicting the Innocent: Where Criminal Prosecutions Go Wrong</a>
         </h4>
         <p class="fr-book-author">By Brandon L. Garrett</p>
 
         <p class="fr-book-desc">Directly examines how innocent people can be convicted despite weak evidence.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Convicting+the+Innocent+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -385,16 +385,16 @@ For Iceland, the case therefore remains significant not because it has been solv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Iceland Changed the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11069472-M.jpg" alt="Cover for How Iceland Changed the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Iceland Changed the World: The Big History of a Small Island on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11069472-M.jpg" alt="Cover for How Iceland Changed the World: The Big History of a Small Island" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Iceland Changed the World">How Iceland Changed the World</a>
+          <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Iceland Changed the World: The Big History of a Small Island">How Iceland Changed the World: The Big History of a Small Island</a>
         </h4>
         <p class="fr-book-author">By Egill Bjarnason</p>
 
         <p class="fr-book-desc">Provides historical and cultural background for understanding Iceland&#x27;s most famous criminal case.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -402,16 +402,16 @@ For Iceland, the case therefore remains significant not because it has been solv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Duped on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Duped%3A+Why+Innocent+People+Confess%E2%80%94and+Why+We+Believe+Their+Confessions+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Duped: Why Innocent People Confess—and Why We Believe Their Confessions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Duped">Duped</a>
+          <a href="https://www.amazon.com/s?k=Duped%3A+Why+Innocent+People+Confess%E2%80%94and+Why+We+Believe+Their+Confessions+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Duped: Why Innocent People Confess—and Why We Believe Their Confessions">Duped: Why Innocent People Confess—and Why We Believe Their C...</a>
         </h4>
         <p class="fr-book-author">By Saul Kassin</p>
 
-        <p class="fr-book-desc">First published 2022.</p>
+        <p class="fr-book-desc">Explains the psychology behind false confessions central to the Iceland case.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Duped%3A+Why+Innocent+People+Confess%E2%80%94and+Why+We+Believe+Their+Confessions+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -419,7 +419,7 @@ For Iceland, the case therefore remains significant not because it has been solv
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Picking+Cotton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Picking Cotton</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Convicting+the+Innocent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Convicting the Innocent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Iceland Changed the World</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Picking+Cotton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Picking Cotton</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Convicting the Innocent: Where Criminal Prosecutions Go Wrong</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Iceland Changed the World: The Big History of a Small Island</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

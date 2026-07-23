@@ -369,6 +369,23 @@ Taken together, the two sites show that the enduring mystery is not the existenc
     </article>
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491: New Revelations of the Americas Before Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491: New Revelations of the Americas Before Columbus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491: New Revelations of the Americas Before Columbus">1491: New Revelations of the Americas Before Columbus</a>
+        </h4>
+        <p class="fr-book-author">By Charles C. Mann</p>
+
+        <p class="fr-book-desc">Provides broad context for Indigenous societies and archaeology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago+Eric+Eustace+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of the people of Trinidad and Tobago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9293402-M.jpg" alt="Cover for History of the people of Trinidad and Tobago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -401,26 +418,9 @@ Taken together, the two sites show that the enduring mystery is not the existenc
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491: New Revelations of the Americas Before Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491: New Revelations of the Americas Before Columbus">1491: New Revelations of the Americas Before Columbus</a>
-        </h4>
-        <p class="fr-book-author">By Charles C. Mann</p>
-
-        <p class="fr-book-desc">Provides broad context for Indigenous societies and archaeology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of the people of Trinidad and Tobago</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783+1962&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Trinidad, 1783 1962</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491: New Revelations of the Americas Before Columbus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+the+people+of+Trinidad+and+Tobago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of the people of Trinidad and Tobago</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

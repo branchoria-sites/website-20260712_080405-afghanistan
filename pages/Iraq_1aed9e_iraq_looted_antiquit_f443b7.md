@@ -397,16 +397,16 @@ That is why the recovery struggle is about more than returning beautiful objects
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179948-M.jpg" alt="Cover for Stealing history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+History%3A+The+Illicit+Trade+in+Cultural+Material+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing History: The Illicit Trade in Cultural Material on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179948-M.jpg" alt="Cover for Stealing History: The Illicit Trade in Cultural Material" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing history">Stealing history</a>
+          <a href="https://www.amazon.com/s?k=Stealing+History%3A+The+Illicit+Trade+in+Cultural+Material+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing History: The Illicit Trade in Cultural Material">Stealing History: The Illicit Trade in Cultural Material</a>
         </h4>
         <p class="fr-book-author">By Roger Atwood</p>
 
         <p class="fr-book-desc">Provides the wider context of how looted artefacts enter global markets.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Stealing+History%3A+The+Illicit+Trade+in+Cultural+Material+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,16 +414,16 @@ That is why the recovery struggle is about more than returning beautiful objects
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rape of Mesopotamia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7314363-M.jpg" alt="Cover for The rape of Mesopotamia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rape+of+Mesopotamia%3A+Behind+the+Looting+of+the+Iraq+Museum+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rape of Mesopotamia: Behind the Looting of the Iraq Museum on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7314363-M.jpg" alt="Cover for The Rape of Mesopotamia: Behind the Looting of the Iraq Museum" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rape of Mesopotamia">The rape of Mesopotamia</a>
+          <a href="https://www.amazon.com/s?k=The+Rape+of+Mesopotamia%3A+Behind+the+Looting+of+the+Iraq+Museum+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rape of Mesopotamia: Behind the Looting of the Iraq Museum">The Rape of Mesopotamia: Behind the Looting of the Iraq Museum</a>
         </h4>
         <p class="fr-book-author">By Lawrence Rothfield</p>
 
         <p class="fr-book-desc">Explains the theft, trafficking and recovery of Iraqi antiquities.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Rape+of+Mesopotamia%3A+Behind+the+Looting+of+the+Iraq+Museum+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -448,16 +448,16 @@ That is why the recovery struggle is about more than returning beautiful objects
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Loot+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6299981-M.jpg" alt="Cover for Loot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Loot%3A+The+Battle+over+the+Stolen+Treasures+of+the+Ancient+World+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loot: The Battle over the Stolen Treasures of the Ancient World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6299981-M.jpg" alt="Cover for Loot: The Battle over the Stolen Treasures of the Ancient World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Loot+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loot">Loot</a>
+          <a href="https://www.amazon.com/s?k=Loot%3A+The+Battle+over+the+Stolen+Treasures+of+the+Ancient+World+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loot: The Battle over the Stolen Treasures of the Ancient World">Loot: The Battle over the Stolen Treasures of the Ancient World</a>
         </h4>
         <p class="fr-book-author">By Sharon Waxman</p>
 
-        <p class="fr-book-desc">First published 2009. Subjects: Art thefts, Cultural property, Art, ancient, New York Times reviewed.</p>
+        <p class="fr-book-desc">Explores ownership, museums and repatriation debates relevant to Iraq.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Loot+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Loot%3A+The+Battle+over+the+Stolen+Treasures+of+the+Ancient+World+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -465,7 +465,7 @@ That is why the recovery struggle is about more than returning beautiful objects
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stealing+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stealing history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The rape of Mesopotamia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+cuneiform+culture+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of cuneiform culture books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stealing+History%3A+The+Illicit+Trade+in+Cultural+Material&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stealing History: The Illicit Trade in Cultural Material</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rape+of+Mesopotamia%3A+Behind+the+Looting+of+the+Iraq+Museum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rape of Mesopotamia: Behind the Looting of the Iraq Museum</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+cuneiform+culture+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of cuneiform culture books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -420,16 +420,16 @@ Until substantially more archival material becomes available, the true number of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands: Europe Between Hitler and Stalin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands: Europe Between Hitler and Stalin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
+          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands: Europe Between Hitler and Stalin">Bloodlands: Europe Between Hitler and Stalin</a>
         </h4>
-        <p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
+        <p class="fr-book-author">By Timothy Snyder</p>
 
-        <p class="fr-book-desc">First published 1973.</p>
+        <p class="fr-book-desc">Directly addresses mass killings across Belarus and neighboring regions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

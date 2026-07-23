@@ -1331,89 +1331,89 @@ The most responsible conclusion is rarely the most dramatic one. A legal judgeme
 These mysteries remain part of Philippine public memory because each asks a larger question about who controls the past. Beneath the missing bones, disputed documents, secret operations and buried gold lies a continuing struggle over evidence, authority and the stories through which a nation understands itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Which Philippine Mysteries Still Defy a Clear Answer?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Which Philippine Mysteries Still Defy a Clear Answer?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noli Me Tangere on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5738053-M.jpg" alt="Cover for Noli Me Tangere" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noli Me Tangere">Noli Me Tangere</a>
-</h4>
-<p class="fr-book-author">By José Rizal</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noli Me Tangere on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5738053-M.jpg" alt="Cover for Noli Me Tangere" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noli Me Tangere">Noli Me Tangere</a>
+        </h4>
+        <p class="fr-book-author">By José Rizal</p>
 
-<p class="fr-book-desc">First published 1902. Subjects: Economics, Classic Literature, Fiction, Fiction, historical, general, Philippines, fiction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces the national hero central to one of the site&#x27;s key mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of the Philippines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6391811-M.jpg" alt="Cover for A History of the Philippines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Philippines">A History of the Philippines</a>
-</h4>
-<p class="fr-book-author">By Luis H. Francia</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of the Philippines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6391811-M.jpg" alt="Cover for A History of the Philippines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Philippines">A History of the Philippines</a>
+        </h4>
+        <p class="fr-book-author">By Luis H. Francia</p>
 
-<p class="fr-book-desc">First published 2010. Subjects: History, Philippines, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for the major Philippine historical mysteries discussed.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Barangay on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4927879-M.jpg" alt="Cover for Barangay" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay">Barangay</a>
-</h4>
-<p class="fr-book-author">By William Henry Scott</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Barangay%3A+Sixteenth-Century+Philippine+Culture+and+Society+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Barangay: Sixteenth-Century Philippine Culture and Society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4927879-M.jpg" alt="Cover for Barangay: Sixteenth-Century Philippine Culture and Society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Barangay%3A+Sixteenth-Century+Philippine+Culture+and+Society+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay: Sixteenth-Century Philippine Culture and Society">Barangay: Sixteenth-Century Philippine Culture and Society</a>
+        </h4>
+        <p class="fr-book-author">By William Henry Scott</p>
 
-<p class="fr-book-desc">First published 1994. Subjects: Ethnology, Civilization, Filipinos, Social life and customs, Bisaya (Philippine people).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Essential background on early Philippine society and historical evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Barangay%3A+Sixteenth-Century+Philippine+Culture+and+Society+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Our Image America&#x27;s Empire in the Philippines on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Our Image America&#x27;s Empire in the Philippines">In Our Image America&#x27;s Empire in the Philippines</a>
-</h4>
-<p class="fr-book-author">By Stanley Karnow</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Our Image America&#x27;s Empire in the Philippines on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Our Image America&#x27;s Empire in the Philippines">In Our Image America&#x27;s Empire in the Philippines</a>
+        </h4>
+        <p class="fr-book-author">By Stanley Karnow</p>
 
-<p class="fr-book-desc">First published 1989.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1989.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Our+Image+America%27s+Empire+in+the+Philippines+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Noli+Me+Tangere&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noli Me Tangere</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+Philippines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the Philippines</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Barangay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Barangay</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Noli+Me+Tangere&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noli Me Tangere</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+Philippines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the Philippines</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Barangay%3A+Sixteenth+Century+Philippine+Culture+and+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Barangay: Sixteenth Century Philippine Culture and Society</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

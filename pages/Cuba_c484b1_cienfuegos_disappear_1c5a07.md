@@ -384,6 +384,23 @@ For historians, the mystery lies less in whether Cienfuegos disappeared than in 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba: An American History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba: An American History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba: An American History">Cuba: An American History</a>
+        </h4>
+        <p class="fr-book-author">By Ada Ferrer</p>
+
+        <p class="fr-book-desc">Places Camilo Cienfuegos and his disappearance within revolutionary Cuba.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
 
                 What Everyone Needs to Know Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7737685-M.jpg" alt="Cover for Cuba
@@ -424,23 +441,6 @@ For historians, the mystery lies less in whether Cienfuegos disappeared than in 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba">Cuba</a>
-        </h4>
-        <p class="fr-book-author">By Ada Ferrer</p>
-
-        <p class="fr-book-desc">First published 2021. Subjects: History, Foreign relations, Histoire, Relations extérieures, HISTORY / Caribbean &amp; West Indies / Cuba.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Che+Guevara%3A+A+Revolutionary+Life+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Che Guevara: A Revolutionary Life on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -458,7 +458,7 @@ For historians, the mystery lies less in whether Cienfuegos disappeared than in 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba What Everyone Needs to Know Paper</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Che&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Che</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba: An American History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba What Everyone Needs to Know Paper</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Che&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Che</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

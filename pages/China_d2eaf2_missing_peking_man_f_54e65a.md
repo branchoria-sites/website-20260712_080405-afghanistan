@@ -367,89 +367,89 @@ The strongest modern evidence suggests caution rather than certainty. The tradit
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Did the Peking Man Fossils Go?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Did the Peking Man Fossils Go?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dragons+of+Eden+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dragons of Eden on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5014547-M.jpg" alt="Cover for The Dragons of Eden" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Dragons+of+Eden+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dragons of Eden">The Dragons of Eden</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dragons+of+Eden+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dragons of Eden on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5014547-M.jpg" alt="Cover for The Dragons of Eden" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Dragons+of+Eden+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dragons of Eden">The Dragons of Eden</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
 
-<p class="fr-book-desc">First published 1977. Subjects: Evolution, Behavioral Genetics, Brain. 0, Intelligence, Cerveau.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Dragons+of+Eden+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers interested in human origins.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Dragons+of+Eden+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for modern China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246705-M.jpg" alt="Cover for The search for modern China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
-</h4>
-<p class="fr-book-author">By Jonathan D. Spence</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for modern China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246705-M.jpg" alt="Cover for The search for modern China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
+        </h4>
+        <p class="fr-book-author">By Jonathan D. Spence</p>
 
-<p class="fr-book-desc">First published 1990. Subjects: History, Historia, Histoire, Qing Dynasty (China), China, history, qing dynasty, 1644-1912.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides wartime historical context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge illustrated history of China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101852-M.jpg" alt="Cover for The Cambridge illustrated history of China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
-</h4>
-<p class="fr-book-author">By Ebrey, Patricia Buckley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge illustrated history of China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101852-M.jpg" alt="Cover for The Cambridge illustrated history of China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
+        </h4>
+        <p class="fr-book-author">By Ebrey, Patricia Buckley</p>
 
-<p class="fr-book-desc">Subjects: Civilization, History, China, China, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places the fossil mystery within modern Chinese history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+complete+world+of+human+evolution+Chris+Stringer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete world of human evolution on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+complete+world+of+human+evolution+Chris+Stringer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete world of human evolution">The complete world of human evolution</a>
-</h4>
-<p class="fr-book-author">By Chris Stringer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open COMPLETE WORLD OF HUMAN EVOLUTION on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315829-M.jpg" alt="Cover for COMPLETE WORLD OF HUMAN EVOLUTION" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COMPLETE WORLD OF HUMAN EVOLUTION">COMPLETE WORLD OF HUMAN EVOLUTION</a>
+        </h4>
+        <p class="fr-book-author">By CHRIS STRINGER, Chris Stringer et al.</p>
 
-<p class="fr-book-desc">First published 2011. Subjects: Human evolution, Human remains (archaeology).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+complete+world+of+human+evolution+Chris+Stringer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the significance of fossils such as Peking Man.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dragons+of+Eden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dragons of Eden</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+modern+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for modern China</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge illustrated history of China</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dragons+of+Eden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dragons of Eden</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+modern+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for modern China</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge illustrated history of China</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

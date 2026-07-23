@@ -401,16 +401,16 @@ For historians, the enduring mystery is therefore not simply identifying assassi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tunisia+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tunisia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8801306-M.jpg" alt="Cover for Tunisia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tunisia%3A+An+Arab+Anomaly+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tunisia: An Arab Anomaly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8801306-M.jpg" alt="Cover for Tunisia: An Arab Anomaly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tunisia+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tunisia">Tunisia</a>
+          <a href="https://www.amazon.com/s?k=Tunisia%3A+An+Arab+Anomaly+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tunisia: An Arab Anomaly">Tunisia: An Arab Anomaly</a>
         </h4>
         <p class="fr-book-author">By Safwan M. Masri</p>
 
-        <p class="fr-book-desc">First published 2017. Subjects: Politics and government, Social conditions, History, Tunisia, history, Tunisia, politics and government.</p>
+        <p class="fr-book-desc">Explains the political environment surrounding major assassinations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tunisia+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Tunisia%3A+An+Arab+Anomaly+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

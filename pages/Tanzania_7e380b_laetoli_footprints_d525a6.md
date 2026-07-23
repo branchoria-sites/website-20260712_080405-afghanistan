@@ -365,16 +365,16 @@ For Tanzania, Laetoli remains one of the country's most significant archaeologic
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Past on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316866-M.jpg" alt="Cover for The Human Past" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Past: World Prehistory and the Development of Human Societies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316866-M.jpg" alt="Cover for The Human Past: World Prehistory and the Development of Human Societies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past">The Human Past</a>
+          <a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past: World Prehistory and the Development of Human Societies">The Human Past: World Prehistory and the Development of Human...</a>
         </h4>
         <p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
 
         <p class="fr-book-desc">Places Laetoli within broader prehistoric developments.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Human+Past+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -399,16 +399,16 @@ For Tanzania, Laetoli remains one of the country's most significant archaeologic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Evolution+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Evolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/117902-M.jpg" alt="Cover for Human Evolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+Introduction+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Evolution: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/117902-M.jpg" alt="Cover for Human Evolution: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Evolution+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Evolution">Human Evolution</a>
+          <a href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+Introduction+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Evolution: A Very Short Introduction">Human Evolution: A Very Short Introduction</a>
         </h4>
         <p class="fr-book-author">By Bernard Wood</p>
 
         <p class="fr-book-desc">Explains the significance of fossil footprints in human evolution.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Evolution+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+Introduction+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -416,16 +416,16 @@ For Tanzania, Laetoli remains one of the country's most significant archaeologic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Almost+Human+Lee+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Almost Human on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lucy%3A+The+Beginnings+of+Humankind+Donald+Johanson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lucy: The Beginnings of Humankind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13939523-M.jpg" alt="Cover for Lucy: The Beginnings of Humankind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Almost+Human+Lee+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Almost Human">Almost Human</a>
+          <a href="https://www.amazon.com/s?k=Lucy%3A+The+Beginnings+of+Humankind+Donald+Johanson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lucy: The Beginnings of Humankind">Lucy: The Beginnings of Humankind</a>
         </h4>
-        <p class="fr-book-author">By Lee Berger, John Hawks</p>
+        <p class="fr-book-author">By Donald Johanson, Maitland Armstrong Edey</p>
 
-        <p class="fr-book-desc">Illustrates how new fossil finds reshape human origins debates.</p>
+        <p class="fr-book-desc">Provides context for debates over the Laetoli trackmakers.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Almost+Human+Lee+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Lucy%3A+The+Beginnings+of+Humankind+Donald+Johanson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -433,7 +433,7 @@ For Tanzania, Laetoli remains one of the country's most significant archaeologic
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">COMPLETE WORLD OF HUMAN EVOLUTION</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Evolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Evolution</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past: World Prehistory and the Development of Human Societies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">COMPLETE WORLD OF HUMAN EVOLUTION</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Evolution: A Very Short books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

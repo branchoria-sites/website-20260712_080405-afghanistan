@@ -393,16 +393,16 @@ That distinction explains why the case remains unresolved in public memory. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Panama fever on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8046983-M.jpg" alt="Cover for Panama fever" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Panama Fever: The Epic Story of the Building of the Panama Canal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8046983-M.jpg" alt="Cover for Panama Fever: The Epic Story of the Building of the Panama Canal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Panama fever">Panama fever</a>
+          <a href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Panama Fever: The Epic Story of the Building of the Panama Canal">Panama Fever: The Epic Story of the Building of the Panama Canal</a>
         </h4>
         <p class="fr-book-author">By Matthew Parker, Matthew Parker et al.</p>
 
         <p class="fr-book-desc">Expands readers&#x27; understanding of Panama&#x27;s modern history.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Panama+fever+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -410,16 +410,16 @@ That distinction explains why the case remains unresolved in public memory. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581579-M.jpg" alt="Cover for Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
+          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq">Overthrow: America&#x27;s Century of Regime Change from Hawaii to...</a>
         </h4>
-        <p class="fr-book-author">By David McCullough</p>
+        <p class="fr-book-author">By Stephen Kinzer, Stephen Kinzer et al.</p>
 
-        <p class="fr-book-desc">Provides essential historical context for Torrijos and the canal.</p>
+        <p class="fr-book-desc">Relevant to Cold War speculation surrounding Torrijos.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -427,7 +427,7 @@ That distinction explains why the case remains unresolved in public memory. The 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Box+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Box Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Panama+fever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Panama fever</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Box+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Box Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Panama Fever: The Epic Story of the Building of the Panama Canal</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -1343,89 +1343,89 @@ Iraq’s enduring enigmas matter because they expose the difference between poss
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt Iraq&#x27;s Past?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt Iraq&#x27;s Past?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rape of Mesopotamia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7314363-M.jpg" alt="Cover for The rape of Mesopotamia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rape of Mesopotamia">The rape of Mesopotamia</a>
-</h4>
-<p class="fr-book-author">By Lawrence Rothfield</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rape+of+Mesopotamia%3A+Behind+the+Looting+of+the+Iraq+Museum+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rape of Mesopotamia: Behind the Looting of the Iraq Museum on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7314363-M.jpg" alt="Cover for The Rape of Mesopotamia: Behind the Looting of the Iraq Museum" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Rape+of+Mesopotamia%3A+Behind+the+Looting+of+the+Iraq+Museum+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rape of Mesopotamia: Behind the Looting of the Iraq Museum">The Rape of Mesopotamia: Behind the Looting of the Iraq Museum</a>
+        </h4>
+        <p class="fr-book-author">By Lawrence Rothfield</p>
 
-<p class="fr-book-desc">First published 2008. Subjects: Sociology, Antiquities, Archaeological thefts, Iraq War, 2003-2011, Nonfiction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the policies, conflict and illicit trade that endangered Iraq&#x27;s archaeological heritage and left thousands of objects missing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Rape+of+Mesopotamia%3A+Behind+the+Looting+of+the+Iraq+Museum+Lawrence+Rothfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Babylon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9076423-M.jpg" alt="Cover for Babylon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Babylon">Babylon</a>
-</h4>
-<p class="fr-book-author">By Paul Kriwaczek</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Babylon%3A+Mesopotamia+and+the+Birth+of+Civilization+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Babylon: Mesopotamia and the Birth of Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9076423-M.jpg" alt="Cover for Babylon: Mesopotamia and the Birth of Civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Babylon%3A+Mesopotamia+and+the+Birth+of+Civilization+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Babylon: Mesopotamia and the Birth of Civilization">Babylon: Mesopotamia and the Birth of Civilization</a>
+        </h4>
+        <p class="fr-book-author">By Paul Kriwaczek</p>
 
-<p class="fr-book-desc">First published 2010. Subjects: Politics and government, Civilization, History, Iraq, history, to 634, Middle east, civilization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Surveys the cities, empires, archaeology and written records of ancient Iraq, including Babylon and its legendary monuments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Babylon%3A+Mesopotamia+and+the+Birth+of+Civilization+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weavers, Scribes, and Kings on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weavers, Scribes, and Kings">Weavers, Scribes, and Kings</a>
-</h4>
-<p class="fr-book-author">By Amanda H. Podany</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings%3A+A+New+History+of+the+Ancient+Near+East+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weavers, Scribes, and Kings: A New History of the Ancient Near East on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings%3A+A+New+History+of+the+Ancient+Near+East+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weavers, Scribes, and Kings: A New History of the Ancient Near East">Weavers, Scribes, and Kings: A New History of the Ancient Nea...</a>
+        </h4>
+        <p class="fr-book-author">By Amanda H. Podany</p>
 
-<p class="fr-book-desc">First published 2022.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Reconstructs Mesopotamian history through texts and individual lives, addressing the evidence gaps behind many mysteries of ancient Iraq.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings%3A+A+New+History+of+the+Ancient+Near+East+Amanda+H.+Podany&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Between+Two+Rivers+Moudhy+Al-Rashid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Between Two Rivers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Between+Two+Rivers+Moudhy+Al-Rashid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Between Two Rivers">Between Two Rivers</a>
-</h4>
-<p class="fr-book-author">By Moudhy Al-Rashid</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Between+Two+Rivers%3A+Ancient+Mesopotamia+and+the+Birth+of+History+Moudhy+Al-Rashid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Between Two Rivers: Ancient Mesopotamia and the Birth of History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Between+Two+Rivers%3A+Ancient+Mesopotamia+and+the+Birth+of+History+Moudhy+Al-Rashid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Between Two Rivers: Ancient Mesopotamia and the Birth of History">Between Two Rivers: Ancient Mesopotamia and the Birth of History</a>
+        </h4>
+        <p class="fr-book-author">By Moudhy Al-Rashid</p>
 
-<p class="fr-book-desc">First published 2025.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Between+Two+Rivers+Moudhy+Al-Rashid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how fragmentary tablets and excavated objects reveal—and sometimes obscure—the lives and beliefs of ancient Iraqis.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Between+Two+Rivers%3A+Ancient+Mesopotamia+and+the+Birth+of+History+Moudhy+Al-Rashid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rape+of+Mesopotamia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The rape of Mesopotamia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Babylon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Babylon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weavers, Scribes, and Kings</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rape+of+Mesopotamia%3A+Behind+the+Looting+of+the+Iraq+Museum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rape of Mesopotamia: Behind the Looting of the Iraq Museum</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Babylon%3A+Mesopotamia+and+the+Birth+of+Civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Babylon: Mesopotamia and the Birth of Civilization</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weavers%2C+Scribes%2C+and+Kings%3A+A+New+History+of+the+Ancient+Near+East&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weavers, Scribes, and Kings: A New History of the Ancient Near East</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

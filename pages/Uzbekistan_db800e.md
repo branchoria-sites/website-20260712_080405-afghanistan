@@ -1317,16 +1317,16 @@ These distinctions matter. A missing record is not evidence of conspiracy; a pla
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads%3A+A+New+History+of+the+World+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads: A New History of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads: A New History of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads%3A+A+New+History+of+the+World+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads: A New History of the World">The Silk Roads: A New History of the World</a>
         </h4>
         <p class="fr-book-author">By Peter Frankopan</p>
 
         <p class="fr-book-desc">Provides broad historical context for many of Uzbekistan&#x27;s archaeological and historical mysteries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads%3A+A+New+History+of+the+World+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1351,16 +1351,16 @@ These distinctions matter. A missing record is not evidence of conspiracy; a pla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8820-M.jpg" alt="Cover for Tamerlane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tamerlane%3A+Sword+of+Islam%2C+Conqueror+of+the+World+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tamerlane: Sword of Islam, Conqueror of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8820-M.jpg" alt="Cover for Tamerlane: Sword of Islam, Conqueror of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tamerlane">Tamerlane</a>
+          <a href="https://www.amazon.com/s?k=Tamerlane%3A+Sword+of+Islam%2C+Conqueror+of+the+World+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tamerlane: Sword of Islam, Conqueror of the World">Tamerlane: Sword of Islam, Conqueror of the World</a>
         </h4>
         <p class="fr-book-author">By Justin Marozzi</p>
 
-        <p class="fr-book-desc">First published 2004. Subjects: Mongols, Conquerors, Kings and rulers, Biography, History.</p>
+        <p class="fr-book-desc">Directly supports the Timur-related sections while remaining broadly relevant.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Tamerlane%3A+Sword+of+Islam%2C+Conqueror+of+the+World+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1368,16 +1368,16 @@ These distinctions matter. A missing record is not evidence of conspiracy; a pla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Enlightenment%3A+Central+Asia%27s+Golden+Age+from+the+Arab+Conquest+to+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment: Central Asia&#x27;s Golden Age from the Arab Conquest to Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment">Lost Enlightenment</a>
+          <a href="https://www.amazon.com/s?k=Lost+Enlightenment%3A+Central+Asia%27s+Golden+Age+from+the+Arab+Conquest+to+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment: Central Asia&#x27;s Golden Age from the Arab Conquest to Tamerlane">Lost Enlightenment: Central Asia&#x27;s Golden Age from the Arab C...</a>
         </h4>
         <p class="fr-book-author">By S. Frederick Starr</p>
 
         <p class="fr-book-desc">Explains the cultural and historical setting behind several mysteries discussed on the page.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Lost+Enlightenment%3A+Central+Asia%27s+Golden+Age+from+the+Arab+Conquest+to+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1385,7 +1385,7 @@ These distinctions matter. A missing record is not evidence of conspiracy; a pla
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for Alexander</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tamerlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tamerlane</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads%3A+A+New+History+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads: A New History of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for Alexander</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tamerlane%3A+Sword+of+Islam%2C+Conqueror+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tamerlane: Sword of Islam, Conqueror of the World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

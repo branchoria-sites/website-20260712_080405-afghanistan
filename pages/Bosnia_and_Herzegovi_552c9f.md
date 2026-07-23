@@ -1339,16 +1339,16 @@ What links them is the way uncertainty enters public memory. Gaps can invite car
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans: Nationalism, War, and the Great Powers, 1804-2012 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans: Nationalism, War, and the Great Powers, 1804-2012" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
+          <a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans: Nationalism, War, and the Great Powers, 1804-2012">The Balkans: Nationalism, War, and the Great Powers, 1804-2012</a>
         </h4>
         <p class="fr-book-author">By Mark Mazower</p>
 
         <p class="fr-book-desc">Explains regional forces behind Bosnia&#x27;s contested past.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1356,16 +1356,16 @@ What links them is the way uncertainty enters public memory. Gaps can invite car
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4711764-M.jpg" alt="Cover for Bosnia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnia%3A+A+Short+History+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnia: A Short History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4711764-M.jpg" alt="Cover for Bosnia: A Short History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia">Bosnia</a>
+          <a href="https://www.amazon.com/s?k=Bosnia%3A+A+Short+History+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia: A Short History">Bosnia: A Short History</a>
         </h4>
         <p class="fr-book-author">By Noel Malcolm</p>
 
-        <p class="fr-book-desc">First published 1994. Subjects: Ethnic relations, History, Bosnia and hercegovina, history, Bosnia and hercegovina, ethnic relations, Bos...</p>
+        <p class="fr-book-desc">Provides context for nearly every mystery discussed on the page.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Bosnia%3A+A+Short+History+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1373,7 +1373,7 @@ What links them is the way uncertainty enters public memory. Gaps can invite car
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Lamb and Grey Falcon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Balkan+Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Balkan Ghosts</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Lamb and Grey Falcon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Balkan+Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Balkan Ghosts</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804+2012&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans: Nationalism, War, and the Great Powers, 1804 2012</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

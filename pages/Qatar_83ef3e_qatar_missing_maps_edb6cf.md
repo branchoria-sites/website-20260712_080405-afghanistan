@@ -392,16 +392,16 @@ Rather than pointing to a vanished land or a forgotten catastrophe, Qatar's two-
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Qatar%3A+A+Modern+History+Allen+J.+Fromherz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Qatar: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8850420-M.jpg" alt="Cover for Qatar: A Modern History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs">Arabia and the Arabs</a>
+          <a href="https://www.amazon.com/s?k=Qatar%3A+A+Modern+History+Allen+J.+Fromherz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Qatar: A Modern History">Qatar: A Modern History</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
+        <p class="fr-book-author">By Allen J. Fromherz</p>
 
-        <p class="fr-book-desc">Provides deeper context for Arabian geography and historical sources.</p>
+        <p class="fr-book-desc">Provides historical background for Qatar&#x27;s place in global geography.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Qatar%3A+A+Modern+History+Allen+J.+Fromherz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

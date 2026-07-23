@@ -386,16 +386,16 @@ Rather than diminishing the achievement, the possibility of centuries of constru
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ethiopians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4641259-M.jpg" alt="Cover for The Ethiopians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ethiopians%3A+A+History+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ethiopians: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4641259-M.jpg" alt="Cover for The Ethiopians: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ethiopians">The Ethiopians</a>
+          <a href="https://www.amazon.com/s?k=The+Ethiopians%3A+A+History+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ethiopians: A History">The Ethiopians: A History</a>
         </h4>
         <p class="fr-book-author">By Pankhurst, Richard.</p>
 
         <p class="fr-book-desc">Covers Lalibela and medieval Ethiopia.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Ethiopians%3A+A+History+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -420,16 +420,16 @@ Rather than diminishing the achievement, the possibility of centuries of constru
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ethiopia+Philip+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ethiopia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8174494-M.jpg" alt="Cover for Ethiopia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ethiopia%3A+The+Bradt+Travel+Guide+Philip+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ethiopia: The Bradt Travel Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8174494-M.jpg" alt="Cover for Ethiopia: The Bradt Travel Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ethiopia+Philip+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ethiopia">Ethiopia</a>
+          <a href="https://www.amazon.com/s?k=Ethiopia%3A+The+Bradt+Travel+Guide+Philip+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ethiopia: The Bradt Travel Guide">Ethiopia: The Bradt Travel Guide</a>
         </h4>
         <p class="fr-book-author">By Philip Briggs</p>
 
-        <p class="fr-book-desc">First published 2002. Subjects: Guidebooks, Ethiopia, description and travel.</p>
+        <p class="fr-book-desc">Includes detailed coverage of Lalibela and its history.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ethiopia+Philip+Briggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ethiopia%3A+The+Bradt+Travel+Guide+Philip+Briggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -437,7 +437,7 @@ Rather than diminishing the achievement, the possibility of centuries of constru
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Ethiopia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Ethiopia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ethiopians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ethiopians</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Prester+quest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Prester quest</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Ethiopia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Ethiopia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ethiopians%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ethiopians: A History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Prester+quest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Prester quest</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
