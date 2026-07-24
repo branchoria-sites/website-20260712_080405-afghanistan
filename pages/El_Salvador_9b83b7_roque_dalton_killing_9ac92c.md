@@ -310,8 +310,7 @@ The disappearance of Dalton's remains further complicates any search for justice
 
 <img src="{{ "/assets/images/El_Salvador_9b83b7_roque_dalton_killing_9ac92c-Illustration-3-dark.svg" | relative_url }}" alt="Roque Dalton illustration 3" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_roque_dalton_killing_9ac92c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_roque_dalton_killing_9ac92c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## The historical picture around Roque Dalton
 Roque Dalton occupies a unique place in Salvadoran culture because he was both a major literary figure and an active revolutionary. His death therefore raises questions that extend beyond one individual case.
 
 The unresolved issues include:

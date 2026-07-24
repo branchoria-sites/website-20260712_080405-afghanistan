@@ -359,8 +359,7 @@ Some historians have argued that the possibility of violence cannot be dismissed
 
 <img src="{{ "/assets/images/Croatia_d7e045_zvonimir_death_legen_28aef6-Illustration-3-dark.svg" | relative_url }}" alt="Zvonimir illustration 3" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_zvonimir_death_legen_28aef6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_zvonimir_death_legen_28aef6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Zvonimir
 The enduring fascination of Zvonimir's death lies less in uncertainty over how he died than in how history became legend.
 
 The assassination story illustrates how medieval societies created narratives that explained political upheaval through morality and divine justice. Over time, the legend became part of Croatian national memory, especially during periods when questions of sovereignty, identity and foreign rule carried renewed political importance.

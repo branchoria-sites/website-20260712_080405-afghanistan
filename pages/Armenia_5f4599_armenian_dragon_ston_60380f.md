@@ -362,8 +362,7 @@ This creates an important distinction.
 
 The archaeological evidence indicates that the monuments originated thousands of years before the surviving folklore was written down. While the name "dragon stones" preserves a cultural memory linking the monuments with water spirits, it cannot be treated as direct evidence that Chalcolithic communities believed exactly the same myths. The folklore offers clues about long-lived symbolic associations with water, but not a straightforward explanation of prehistoric religion.
 
-## Why the mystery still matters
-
+## The historical picture around Dragon Stones
 Dragon stones illustrate how archaeology can recover fragments of a vanished belief system without fully reconstructing it. Researchers can now say with growing confidence that the monuments formed part of carefully organised ritual landscapes centred on water and seasonal life, rather than being isolated standing stones erected at random. Yet the central questions remain unanswered.
 
 No one knows the names of the gods or spirits invoked at these sites. No ritual texts survive. The songs, ceremonies and myths that once gave meaning to these imposing monuments disappeared long before written history reached the Armenian Highlands.

@@ -324,8 +324,7 @@ The absence of definitive evidence has encouraged occasional speculation that de
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d_la_perouse_survivors_8c92ec-Illustration-3-dark.svg" | relative_url }}" alt="La Perouse illustration 3" data-theme-src-dark="{{ "/assets/images/Solomon_Islands_6f943d_la_perouse_survivors_8c92ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Solomon_Islands_6f943d_la_perouse_survivors_8c92ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## La Perouse in the wider historical record
 The fate of La Pérouse's survivors illustrates how a historical mystery can become narrower rather than broader as evidence accumulates. The great question is no longer whether the expedition reached Vanikoro or whether people survived the wrecks. Those points are supported by archaeology, artefacts and remarkably consistent local traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collection-laperouse.fr/en/history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collection-laperouse.fr">[collection-laperouse.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collection-laperouse.fr</span><span class="citation-popover-title">La Pérouse, le voyage et les recherches</span><span class="citation-popover-snippet">La Pérouse, le voyage et les recherches</span></span></span>
 
 Instead, the remaining mystery concerns a single missing chapter: the final voyage of the improvised vessel. It is one of the rare maritime enigmas in which historians can identify the departure point with considerable confidence but not the destination.

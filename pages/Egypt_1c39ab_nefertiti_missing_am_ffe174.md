@@ -353,8 +353,7 @@ Despite decades of research, several important questions remain open.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJln0RU2DXc" title="Nefertiti&#x27;s DNA Was Finally Analyzed — And the Results Rewrite Egyptian History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJln0RU2DXc" target="_blank" rel="noopener noreferrer">Nefertiti&#x27;s DNA Was Finally Analyzed — And the Results Rewrite Egyptian History</a></p><p class="youtube-embed-meta">Channel: Huyen Tran</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJln0RU2DXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJln0RU2DXc">Open on YouTube</a></p></div></div></div>
 
-## Why this mystery still matters
-
+## Lost Royals in the wider historical record
 The disappearance of the Amarna royals illustrates how history can become uncertain even in one of the world's best-documented ancient civilisations.
 
 Unlike mysteries based mainly on legend, this one rests on genuine gaps in the archaeological record. Damaged inscriptions, disturbed tombs and incomplete family relationships mean that historians possess abundant evidence but not enough to reconstruct every event with confidence.

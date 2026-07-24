@@ -315,8 +315,7 @@ The 2024 report by Mohamed Chande Othman noted that significant new information 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uLY0I3y18DM" title="The Mysterious Death of a UN Secretary-General | GZERO World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uLY0I3y18DM" target="_blank" rel="noopener noreferrer">The Mysterious Death of a UN Secretary-General | GZERO World</a></p><p class="youtube-embed-meta">Channel: GZERO Media</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uLY0I3y18DM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uLY0I3y18DM">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery endures
-
+## The historical picture around Air Crash
 The Hammarskjöld crash occupies an unusual place in history because it is neither an ordinary air accident nor a solved political assassination. Instead, it sits between those categories.
 
 Several facts are well established:

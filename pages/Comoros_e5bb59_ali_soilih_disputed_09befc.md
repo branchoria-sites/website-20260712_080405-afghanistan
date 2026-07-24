@@ -356,8 +356,7 @@ The passage of time has made these questions even harder to answer. Potential wi
 
 <img src="{{ "/assets/images/Comoros_e5bb59_ali_soilih_disputed_09befc-Illustration-3-dark.svg" | relative_url }}" alt="Ali Soilih illustration 3" data-theme-src-dark="{{ "/assets/images/Comoros_e5bb59_ali_soilih_disputed_09befc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Comoros_e5bb59_ali_soilih_disputed_09befc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Ali Soilih
 Ali Soilih's disputed death has become symbolic of a broader problem in the history of Comoros: political transitions repeatedly occurred faster than reliable historical documentation could be created. Coups, mercenary involvement and weak state institutions left historians dependent on fragmentary records and partisan accounts.
 
 The mystery therefore extends beyond the death itself. It illustrates how difficult it can be to establish historical truth when the people controlling the evidence are also those who benefited politically from the outcome.

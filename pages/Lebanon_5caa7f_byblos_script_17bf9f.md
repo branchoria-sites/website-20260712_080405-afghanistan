@@ -355,8 +355,7 @@ Machine learning performs best when trained on large datasets. The Byblos Script
 
 <img src="{{ "/assets/images/Lebanon_5caa7f_byblos_script_17bf9f-Illustration-3-dark.svg" | relative_url }}" alt="Byblos Script illustration 3" data-theme-src-dark="{{ "/assets/images/Lebanon_5caa7f_byblos_script_17bf9f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lebanon_5caa7f_byblos_script_17bf9f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Byblos Script
 The enduring importance of the Byblos Script lies less in the hope of a spectacular hidden message than in what it represents for the history of writing in Lebanon and the eastern Mediterranean.
 
 If the script were securely deciphered, it could illuminate literacy, administration and cultural exchange in Bronze Age Byblos at a time when Egypt, the Levant and neighbouring societies were closely connected. It might clarify which language was spoken by the scribes, how writing evolved before the emergence of the Phoenician alphabet, and whether multiple writing traditions coexisted in the city.

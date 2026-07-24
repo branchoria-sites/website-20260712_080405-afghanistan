@@ -334,8 +334,7 @@ The result is an unusual historical mystery: the broad outline appears increasin
 
 <img src="{{ "/assets/images/Libya_55949d_musa_al_sadr_disappe_aef27e-Illustration-3-dark.svg" | relative_url }}" alt="Musa al Sadr illustration 3" data-theme-src-dark="{{ "/assets/images/Libya_55949d_musa_al_sadr_disappe_aef27e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Libya_55949d_musa_al_sadr_disappe_aef27e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Musa al Sadr
 Musa al-Sadr's disappearance has had consequences far beyond the fate of one individual. It transformed relations between Lebanon and Libya, became a defining grievance for the Amal movement and remains an enduring symbol of the secrecy surrounding Gaddafi's security apparatus.
 
 For historians, the case illustrates how authoritarian governments can leave behind uncertainty long after a regime collapses. The strongest evidence now points towards enforced disappearance and probable murder inside Libya, but the final proof remains missing. Until bodies are identified or archival records emerge that establish exactly who gave the orders and where the victims were buried, one of the Middle East's most significant political disappearances will remain unresolved.

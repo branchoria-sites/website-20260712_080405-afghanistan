@@ -348,8 +348,7 @@ As a result, historians often agree on the chronology of the books but disagree 
 
 <img src="{{ "/assets/images/Montenegro_479fb3_crnojevic_press_loca_feb7e7-Illustration-3-dark.svg" | relative_url }}" alt="Lost Press illustration 3" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3_crnojevic_press_loca_feb7e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3_crnojevic_press_loca_feb7e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Lost Press
 The debate is about more than locating a vanished building.
 
 The Crnojević printing house represents one of Montenegro's defining contributions to European cultural history. Whether the workshop stood at Obod, within Cetinje, or moved between closely connected sites, it demonstrated that a small Balkan state invested in advanced printing technology only decades after Gutenberg's innovations spread across Europe. The surviving books remain the true witnesses to that achievement.

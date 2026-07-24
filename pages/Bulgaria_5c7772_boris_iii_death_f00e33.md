@@ -381,8 +381,7 @@ There is no conclusive evidence proving poisoning, but neither is there enough s
 
 <img src="{{ "/assets/images/Bulgaria_5c7772_boris_iii_death_f00e33-Illustration-3-dark.svg" | relative_url }}" alt="Boris III illustration 3" data-theme-src-dark="{{ "/assets/images/Bulgaria_5c7772_boris_iii_death_f00e33-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bulgaria_5c7772_boris_iii_death_f00e33-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## Boris III in the wider historical record
 The case of Boris III illustrates how historical mysteries can become harder—not easier—to solve with time. Normally, advances in forensic science allow historians to revisit disputed deaths. Here, the disappearance of the body has largely closed that possibility.
 
 As a result, debate continues because two separate uncertainties reinforce one another. First, the medical evidence from 1943 is incomplete and open to interpretation. Second, the removal and loss of the Tsar's remains deprived later generations of the opportunity to conduct definitive scientific examination.

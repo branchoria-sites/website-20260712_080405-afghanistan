@@ -1288,8 +1288,7 @@ The likeliest reconstruction is that Mihailović was executed in or near Belgrad
 
 <img src="{{ "/assets/images/Serbia_6d31bf-Illustration-3-dark.svg" | relative_url }}" alt="What Still Haunts Serbia&#x27;s Historical... illustration 3" data-theme-src-dark="{{ "/assets/images/Serbia_6d31bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Serbia_6d31bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these mysteries endure
-
+## Serbia's historical mysteries in the wider historical record
 Serbia’s major historical enigmas survive for different reasons. The Vinča signs are difficult because their language, if they encoded one at all, left no readable key. The [Smederevo blast]({{ 'smederevo-blast/' | relative_url }}) destroyed its own evidence. The Avala soldier was deliberately chosen to represent the unidentified dead. The Martinović affair was politicised faster than it could be investigated. Mihailović’s burial was concealed by a state that intended the location to remain unknown.
 
 These cases also show several recurring warning signs:

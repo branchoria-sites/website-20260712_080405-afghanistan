@@ -328,8 +328,7 @@ The nuclear story largely emerged from speculative books published in the late t
 
 <img src="{{ "/assets/images/Pakistan_82d220_mohenjo_daro_decline_33f1fe-Illustration-3-dark.svg" | relative_url }}" alt="Mohenjo daro illustration 3" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_mohenjo_daro_decline_33f1fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_mohenjo_daro_decline_33f1fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Questions left unresolved by Mohenjo daro
 The disappearance of large-scale urban life at Mohenjo-daro remains an important historical puzzle because it illustrates how civilisations can transform without dramatic conquest or sudden annihilation.
 
 Instead of a single spectacular ending, the archaeological record points towards gradual adaptation. Large cities shrank, settlement patterns shifted and societies reorganised in response to changing environmental and economic conditions. Many details remain uncertain because no readable written records explain how the inhabitants themselves understood these changes.

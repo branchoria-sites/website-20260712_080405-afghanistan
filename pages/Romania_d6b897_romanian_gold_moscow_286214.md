@@ -356,8 +356,7 @@ In March 2024, the European Parliament adopted a resolution urging Russia to ret
 
 The resolution does not resolve the underlying dispute, but it has strengthened Romania's diplomatic position by framing the case as an unresolved question of international law and cultural heritage rather than merely a bilateral historical grievance.
 
-## Why the Mystery Still Matters
-
+## The unresolved legacy of Missing Gold
 Romania's missing gold occupies an unusual place among historical mysteries because the essential facts are unusually well documented while the final outcome remains obscure.
 
 The documented evidence establishes that:

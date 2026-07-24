@@ -348,8 +348,7 @@ These are questions of command responsibility rather than merely individual guil
 
 <img src="{{ "/assets/images/Central_African_Repu_358788_charles_massi_disapp_e81576-Illustration-3-dark.svg" | relative_url }}" alt="Massi Case illustration 3" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_charles_massi_disapp_e81576-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_charles_massi_disapp_e81576-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Still Matters
-
+## The unresolved legacy of Massi Case
 Massi's disappearance became symbolic because it illustrated broader concerns about arbitrary detention and impunity during François Bozizé's presidency.
 
 United Nations human rights reporting cited the case as a particularly troubling example of alleged deaths in custody requiring clarification. Years later, the UN International Commission of Inquiry identified Charles Massi's disappearance as the best documented case of enforced disappearance under the Bozizé government, even while noting that many similar allegations could not be fully investigated because of limited evidence and insecurity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitallibrary.un.org/record/683748/files/A_HRC_14_24_Add.5-EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitallibrary.un.org">[United Nations Digital Library System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitallibrary.un.org</span><span class="citation-popover-title">ited Nations Digital Library System United Nations</span><span class="citation-popover-snippet">ited Nations Digital Library SystemUnited Nations...</span></span></span>

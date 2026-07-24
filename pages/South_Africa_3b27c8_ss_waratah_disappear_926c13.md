@@ -307,8 +307,7 @@ Since then, occasional sonar contacts and renewed interest have kept the mystery
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_ss_waratah_disappear_926c13-Illustration-3-dark.svg" | relative_url }}" alt="SS Waratah illustration 3" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_ss_waratah_disappear_926c13-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_ss_waratah_disappear_926c13-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## SS Waratah in the wider historical record
 The *Waratah* occupies a distinctive place in South African maritime history because the evidence is unusually incomplete. Many famous shipwrecks eventually yielded wreckage, survivors or identifiable remains that allowed investigators to reconstruct events. The *Waratah* has produced none of these.
 
 As a result, historians can establish the broad outline of what happened: the vessel entered a region of severe weather, disappeared after its last confirmed sighting off the Eastern Cape and was never seen again. What cannot yet be established is the precise sequence of failures that caused the loss, or the location of the wreck itself.

@@ -1288,8 +1288,7 @@ Historical practices involving warfare and ritual cannot responsibly be turned i
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSz6gN1oPzE" title="Video rewind: July 2, 1937 -- Amelia Earhart lost" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSz6gN1oPzE" target="_blank" rel="noopener noreferrer">Video rewind: July 2, 1937 -- Amelia Earhart lost</a></p><p class="youtube-embed-meta">Channel: HLN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSz6gN1oPzE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSz6gN1oPzE">Open on YouTube</a></p></div></div></div>
 
-## Why these mysteries endure
-
+## The unresolved legacy of Papua New Guinea's historical mysteries
 Papua New Guinea’s unresolved history has been shaped by unusually difficult conditions for preserving and recovering evidence. Mountain ranges rise abruptly from the coast, tropical vegetation can conceal wreckage rapidly, and deep water begins close to many islands. During the Second World War, records were lost, prisoners were moved secretly and aircraft disappeared across areas that were hard to map and harder to search.
 
 The surviving evidence is also divided among institutions and communities. Military files may be held in Australia, Japan or the United States; archaeological material may remain on customary land; and knowledge of a wreck’s location may survive through local memory rather than a written report. A mystery can persist not because nobody knows anything, but because different pieces of knowledge have not yet been brought together.

@@ -210,12 +210,12 @@ hero_summary: Antigua and Barbuda’s strongest historical mysteries are not tal
 layout: default
 permalink: /antigua-and-barbuda/
 nav_short_title: What Really Happened in Antigua's Greatest Mysteries?
-title: What Really Happened in Antigua's Greatest Mysteries?
+title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
 title_full: What Really Happened in Antigua's Greatest Mysteries?
 display_title_short: What Really Happened in Antigua's Greatest Mysteries?
-display_title: What Really Happened in Antigua's Greatest Mysteries?
+display_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
 heading_title: What Really Happened in Antigua's Greatest Mysteries?
-page_heading_title: What Really Happened in Antigua's Greatest Mysteries?
+page_heading_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
 source_count: 100
 infographic_count: 3
 page_website_name: Antigua Mysteries

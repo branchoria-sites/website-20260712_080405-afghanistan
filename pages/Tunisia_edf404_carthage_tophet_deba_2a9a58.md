@@ -350,8 +350,7 @@ Rather than debating a simple yes-or-no question, researchers increasingly inves
 
 <img src="{{ "/assets/images/Tunisia_edf404_carthage_tophet_deba_2a9a58-Illustration-3-dark.svg" | relative_url }}" alt="Carthage Tophet illustration 3" data-theme-src-dark="{{ "/assets/images/Tunisia_edf404_carthage_tophet_deba_2a9a58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunisia_edf404_carthage_tophet_deba_2a9a58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Carthage Tophet
 The Tophet debate remains one of Tunisia's most important archaeological controversies because it illustrates how history is reconstructed when evidence is incomplete and deeply contested. The destruction of Carthage removed most of the civilisation's own written explanations, forcing historians to weigh hostile literary accounts against difficult archaeological evidence.
 
 The result is an enduring historical mystery built not on missing artefacts but on competing interpretations of the same physical remains. Scientific methods have greatly improved understanding of the bones, teeth and burial practices, yet they have not eliminated uncertainty. The Carthage Tophet therefore stands as a reminder that archaeology often answers broad questions while leaving the most human one unresolved: whether the children whose ashes filled those urns died by tragedy, by disease, or by ritual.

@@ -316,8 +316,7 @@ For these reasons, many historians judge death in the palace fire to be the most
 
 <img src="{{ "/assets/images/China_d2eaf2_jianwen_emperor_disa_0341ba-Illustration-3-dark.svg" | relative_url }}" alt="Jianwen illustration 3" data-theme-src-dark="{{ "/assets/images/China_d2eaf2_jianwen_emperor_disa_0341ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2_jianwen_emperor_disa_0341ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Questions left unresolved by Jianwen
 The Jianwen Emperor's disappearance is important not simply because an emperor vanished, but because it illustrates how fragile historical evidence can become after a successful coup. Victorious governments often control archives, shape official narratives and erase inconvenient records. In this case, those actions transformed what may originally have been a tragic but ordinary wartime death into one of China's longest-lasting historical mysteries.
 
 The enduring fascination lies less in the possibility of a secret escape than in the difficulty of separating political narrative from historical reality. The palace fire destroyed more than buildings; it marked the point at which the historical record itself became contested, ensuring that the fate of the Jianwen Emperor would remain an unresolved question in Chinese history.

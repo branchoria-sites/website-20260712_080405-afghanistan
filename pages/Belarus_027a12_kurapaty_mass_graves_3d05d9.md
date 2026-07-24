@@ -344,8 +344,7 @@ Without that documentary evidence, neither supporters of higher estimates nor ad
 
 <img src="{{ "/assets/images/Belarus_027a12_kurapaty_mass_graves_3d05d9-Illustration-3-dark.svg" | relative_url }}" alt="Kurapaty illustration 3" data-theme-src-dark="{{ "/assets/images/Belarus_027a12_kurapaty_mass_graves_3d05d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12_kurapaty_mass_graves_3d05d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## Kurapaty in the wider historical record
 Kurapaty illustrates an unusual kind of historical mystery. The crime itself is no longer the principal question. Physical evidence, witness testimony and official investigations have established that large-scale executions occurred there during Stalin's Great Purge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/kurapaty-1937-1941-nkvd-mass-killings-soviet-belarus.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencespo.fr">[Sciences Po]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencespo.fr</span><span class="citation-popover-title">kurapaty 1937 1941 nkvd mass killings soviet belarus</span><span class="citation-popover-snippet">Sciences PoKurapaty (1937-1941): NKVD Mass Killings in Soviet Belarus &#124; Sciences Po Mass Violence and Resistance - Research NetworkMarch...</span></span></span>
 
 The unresolved mystery is instead administrative and human. Thousands of victims remain anonymous because the documentary bridge between the graves and the people buried in them is incomplete. Every unidentified grave represents an interrupted biography: a missing name, an uncertain family history and an unresolved place in the historical record.

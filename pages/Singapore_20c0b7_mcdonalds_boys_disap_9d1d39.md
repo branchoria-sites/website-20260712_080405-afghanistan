@@ -363,8 +363,7 @@ Over the decades the boys have been legally declared dead, but that legal status
 
 <img src="{{ "/assets/images/Singapore_20c0b7_mcdonalds_boys_disap_9d1d39-Illustration-3-dark.svg" | relative_url }}" alt="Missing Boys illustration 3" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_mcdonalds_boys_disap_9d1d39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_mcdonalds_boys_disap_9d1d39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## Missing Boys in the wider historical record
 The McDonald's Boys case occupies a distinctive place in Singapore's history because it demonstrates how an unresolved disappearance can become part of national memory despite leaving remarkably little physical evidence.
 
 It also illustrates an important distinction between mystery and speculation. The enduring puzzle is not that there are countless dramatic theories. It is that the verified facts remain stubbornly few. After decades of investigation, the central historical question has changed very little: two schoolboys set out for class on an ordinary afternoon in May 1986 and, somewhere between home and school, vanished without leaving evidence sufficient to explain what became of them.

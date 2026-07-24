@@ -315,8 +315,7 @@ The history of these drainage projects demonstrates how a religious landscape wa
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LyCt61jsI2Y" title="The Real El Dorado: The Golden Lake of Guatavita" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LyCt61jsI2Y" target="_blank" rel="noopener noreferrer">The Real El Dorado: The Golden Lake of Guatavita</a></p><p class="youtube-embed-meta">Channel: SciCuriousID</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LyCt61jsI2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LyCt61jsI2Y">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Questions left unresolved by El Dorado
 El Dorado remains compelling because it combines documented history with enduring myth. The central ceremony almost certainly had a real foundation in Muisca religious practice, yet the legendary golden city emerged through centuries of reinterpretation.
 
 The unanswered questions are therefore different from those imagined by treasure hunters. Historians continue to debate:

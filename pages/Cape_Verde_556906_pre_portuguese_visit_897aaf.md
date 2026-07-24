@@ -357,8 +357,7 @@ A single loose artefact discovered on the surface would rarely be enough. Archae
 
 <img src="{{ "/assets/images/Cape_Verde_556906_pre_portuguese_visit_897aaf-Illustration-3-dark.svg" | relative_url }}" alt="First Visitors illustration 3" data-theme-src-dark="{{ "/assets/images/Cape_Verde_556906_pre_portuguese_visit_897aaf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cape_Verde_556906_pre_portuguese_visit_897aaf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of First Visitors
 The question of who first reached Cape Verde is about more than assigning priority to one group of navigators.
 
 If convincing evidence of pre-Portuguese visitors were ever discovered, it would reshape understanding of Atlantic navigation before European expansion and illuminate maritime connections between West Africa and the open Atlantic. It would also change the story of one of the Atlantic world's most influential colonial crossroads.

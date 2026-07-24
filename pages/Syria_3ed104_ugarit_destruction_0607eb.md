@@ -330,8 +330,7 @@ Earlier scholars also proposed earthquakes as the principal cause of Ugarit's fa
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B965f8AcNbw" title="2. The Bronze Age Collapse - Mediterranean Apocalypse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B965f8AcNbw" target="_blank" rel="noopener noreferrer">2. The Bronze Age Collapse - Mediterranean Apocalypse</a></p><p class="youtube-embed-meta">Channel: Fall of Civilizations</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B965f8AcNbw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B965f8AcNbw">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## The unresolved legacy of Ugarit
 Ugarit's destruction has become one of the best-known case studies in the Bronze Age Collapse because it combines exceptional written evidence with enduring uncertainty.
 
 Few ancient cities have left such vivid records of mounting anxiety immediately before their disappearance. Yet those records stop just before the decisive event, forcing historians to reconstruct the ending from archaeology, climate science and comparisons with neighbouring kingdoms.

@@ -318,8 +318,7 @@ Other damaged fragments recovered from the ruins of Königsberg Castle have also
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uhd1kk5o3tw" title="The Amber Room: The Greatest Art Theft in History | History Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uhd1kk5o3tw" target="_blank" rel="noopener noreferrer">The Amber Room: The Greatest Art Theft in History | History Podcast</a></p><p class="youtube-embed-meta">Channel: Hoodie History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uhd1kk5o3tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uhd1kk5o3tw">Open on YouTube</a></p></div></div></div>
 
-## Why the Mystery Endures
-
+## Amber Room in the wider historical record
 The Amber Room survives in public imagination because each major explanation contains genuine strengths as well as important weaknesses.
 
 TheoryEvidence supporting itMain difficultyDestroyed in KönigsbergSupported by Soviet archival investigations, wartime destruction, and later historical researchNo complete physical remains have been identifiedHidden beneath KönigsbergSome witness accounts suggest the packed crates survived into late 1944Extensive searches have failed to locate themEvacuated elsewhereGermany did evacuate many cultural treasures during the warNo verified transport records or confirmed destinationLost at seaMaritime evacuations from East Prussia certainly occurredShipwreck investigations have produced no convincing evidence

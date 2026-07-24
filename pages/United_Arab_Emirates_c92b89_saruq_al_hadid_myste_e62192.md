@@ -348,8 +348,7 @@ None of these functions alone fully explains the archaeological record, but toge
 
 <img src="{{ "/assets/images/United_Arab_Emirates_c92b89_saruq_al_hadid_myste_e62192-Illustration-3-dark.svg" | relative_url }}" alt="Saruq al Hadid illustration 3" data-theme-src-dark="{{ "/assets/images/United_Arab_Emirates_c92b89_saruq_al_hadid_myste_e62192-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Arab_Emirates_c92b89_saruq_al_hadid_myste_e62192-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Saruq al Hadid
 Saruq al-Hadid overturns older assumptions that the deserts of the modern UAE were marginal spaces occupied only occasionally by nomadic groups. Instead, it demonstrates that desert landscapes could host highly organised economic and ceremonial activities supported by long-distance transport and regional cooperation.
 
 The central mystery has also changed over time. Archaeologists no longer ask whether sophisticated activity occurred there—the excavations have answered that decisively. The unresolved question is why this particular place became important enough for generations of people to invest immense labour in transporting materials, processing metals and depositing valuable objects in an environment that appears, at first sight, entirely unsuitable.

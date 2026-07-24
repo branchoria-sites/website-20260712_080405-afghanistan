@@ -325,8 +325,7 @@ The case therefore demonstrates the practical limits of forensic science. Modern
 
 <img src="{{ "/assets/images/Norway_988455_isdal_woman_identity_85d53f-Illustration-3-dark.svg" | relative_url }}" alt="Isdal Woman illustration 3" data-theme-src-dark="{{ "/assets/images/Norway_988455_isdal_woman_identity_85d53f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_isdal_woman_identity_85d53f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## The unresolved legacy of Isdal Woman
 The enduring importance of the Isdal Woman lies less in spectacular theories than in the challenge it poses to assumptions about identity. Most unidentified-person investigations begin with very little information. This one begins with an abundance of evidence that seems designed to point everywhere except towards a real name.
 
 That paradox has helped keep the case alive in public memory. Renewed investigations by Norwegian journalists, forensic specialists and international collaborators have demonstrated that scientific advances can refine the picture of her life even without solving the mystery outright. Each new finding has reduced uncertainty about where she came from while leaving unanswered the simplest question of all: who she actually was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.norwegianamerican.com/bergens-cold-case-isdal-woman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norwegianamerican.com">[Norwegian American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norwegianamerican.com</span><span class="citation-popover-title">Norwegian American Bergen’s cold case heats up</span><span class="citation-popover-snippet">Norwegian AmericanBergen’s cold case heats up - The Norwegian American...</span></span></span>

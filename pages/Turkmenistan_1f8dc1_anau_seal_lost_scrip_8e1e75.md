@@ -317,8 +317,7 @@ Finally, the discovery challenges older assumptions that Bronze Age Central Asia
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1_anau_seal_lost_scrip_8e1e75-Illustration-3-dark.svg" | relative_url }}" alt="Anau Seal illustration 3" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1_anau_seal_lost_scrip_8e1e75-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1_anau_seal_lost_scrip_8e1e75-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## The historical picture around Anau Seal
 More than two decades after its discovery, the Anau Seal remains undeciphered because the fundamental problem has not changed: there is still only one known inscription of its kind.
 
 Future excavations at Anau or nearby Bronze Age settlements could transform the picture. Additional seals carrying the same signs, longer inscriptions or clay impressions made from the seal would allow researchers to test whether the symbols follow consistent patterns. Even a handful of related examples could reveal whether the marks functioned as writing, ownership symbols or ritual iconography.

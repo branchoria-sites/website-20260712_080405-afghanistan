@@ -339,8 +339,7 @@ In early 2026, Uruguayan researchers announced the discovery of a 1920 consular 
 
 Most professional biographers, however, have not regarded this discovery as overturning the earlier French birth registration. The new document reinforces the fact that Gardel consistently presented himself as Uruguayan after 1920, but it does not replace or invalidate the earlier civil records created at the time of birth. As a result, the broad scholarly consensus still favours Toulouse while acknowledging that Gardel intentionally maintained a different official identity during much of his career.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Carlos_Gardel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Carlos Gardel</span><span class="citation-popover-snippet">Carlos Gardel</span></span></span>
 
-## Why the mystery still matters
-
+## Questions left unresolved by Gardel
 The dispute survives because it sits at the intersection of national identity, documentary history and cultural memory.
 
 For Uruguay, Gardel represents a figure whose legacy became intertwined with Tacuarembó and national pride. For France, surviving birth and baptismal records provide unusually strong archival evidence. For Argentina, birthplace has often mattered less than the fact that Gardel became the defining voice of Argentine tango and built his career in Buenos Aires.

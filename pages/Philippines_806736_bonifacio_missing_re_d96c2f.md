@@ -360,8 +360,7 @@ Because the physical evidence itself has disappeared, many of these questions ma
 
 <img src="{{ "/assets/images/Philippines_806736_bonifacio_missing_re_d96c2f-Illustration-3-dark.svg" | relative_url }}" alt="Bonifacio Bones illustration 3" data-theme-src-dark="{{ "/assets/images/Philippines_806736_bonifacio_missing_re_d96c2f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Philippines_806736_bonifacio_missing_re_d96c2f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Bonifacio Bones
 Bonifacio's missing remains continue to matter because they illustrate how historical evidence can be overwhelmed by political conflict, institutional weakness and wartime destruction.
 
 Unlike many historical mysteries, this one is not driven by elaborate conspiracy theories. Instead, it reflects a chain of ordinary but devastating losses: an unmarked burial, conflicting eyewitness testimony, imperfect archaeological methods, disputed authentication, inconsistent documentation and the destruction of records during one of the fiercest urban battles of the Second World War.

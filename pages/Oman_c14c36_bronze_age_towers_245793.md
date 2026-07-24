@@ -352,8 +352,7 @@ Their visibility also mattered. Rising above surrounding villages, they would ha
 
 <img src="{{ "/assets/images/Oman_c14c36_bronze_age_towers_245793-Illustration-3-dark.svg" | relative_url }}" alt="Bronze Age Towers illustration 3" data-theme-src-dark="{{ "/assets/images/Oman_c14c36_bronze_age_towers_245793-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36_bronze_age_towers_245793-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## Bronze Age Towers in the wider historical record
 Excavation has answered many questions about how the towers were built but far fewer about why they existed.
 
 Several factors keep the debate open:

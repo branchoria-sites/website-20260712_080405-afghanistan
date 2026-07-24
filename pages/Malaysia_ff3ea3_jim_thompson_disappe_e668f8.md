@@ -346,8 +346,7 @@ Modern search specialists have emphasised that successful search operations depe
 
 As a result, the absence of evidence has never strongly favoured one explanation over another. Instead, it has preserved several plausible scenarios simultaneously.
 
-## Why the Case Still Matters
-
+## Questions left unresolved by Jim Thompson
 Jim Thompson's disappearance occupies a distinctive place in Malaysia's history because it combines a famous individual, an inaccessible landscape and an unresolved investigation that has resisted explanation for decades.
 
 Unlike many historical mysteries that later yield new documents or forensic discoveries, this case remains constrained by the lack of recoverable physical evidence. Occasional claims—from alleged sightings to possible human remains discovered years later—have generated renewed interest but have never been verified as solving the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/news/community/2010/03/31/researcher-dna-may-help-unravel-the-mysterious-disappearance-of-thai-silk-king" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-snippet">The StarResearcher: DNA may help unravel the mysterious disappearance of ‘Thai Silk King’ &#124; The StarMarch 31, 2010...</span><span class="citation-popover-meta">Published: March 31, 2010</span></span></span>

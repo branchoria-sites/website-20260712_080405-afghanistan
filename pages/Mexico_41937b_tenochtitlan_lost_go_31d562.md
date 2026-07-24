@@ -320,8 +320,7 @@ This does not rule out future archaeological discoveries. Individual objects con
 
 <img src="{{ "/assets/images/Mexico_41937b_tenochtitlan_lost_go_31d562-Illustration-3-dark.svg" | relative_url }}" alt="Lost Gold illustration 3" data-theme-src-dark="{{ "/assets/images/Mexico_41937b_tenochtitlan_lost_go_31d562-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mexico_41937b_tenochtitlan_lost_go_31d562-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Lost Gold
 The lost gold of Tenochtitlan remains compelling because it sits at the intersection of documented history and enduring myth. Unlike fictional treasure legends, this story begins with an event witnessed by participants and described in contemporary accounts. Real wealth was lost during the retreat, and archaeology has confirmed that at least some artefacts remained where they fell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gob.mx/cultura/prensa/confirman-que-tejo-de-oro-del-museo-de-antropologia-si-es-del-expolio-espanol-en-la-llamada-noche-triste?idiom=es" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gob.mx">[Gobierno de México]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gob.mx</span><span class="citation-popover-snippet">ierno de MéxicoConfirman que “tejo de oro” del Museo de Antropología sí es del expolio español en la llamada “Noche triste” &#124; Secretar...</span></span></span>
 
 The unresolved question concerns scale rather than existence. Historians broadly accept that treasure disappeared during *La Noche Triste*. They are far more sceptical of later claims that all the missing wealth formed a single hidden cache still waiting to be found.

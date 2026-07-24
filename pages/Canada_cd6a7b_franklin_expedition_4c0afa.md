@@ -390,8 +390,7 @@ Cut marks and fractured bones found on some remains also provide compelling evid
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GyfUdnXXmWc" title="Anthropologists identify four more men who died on the Franklin Expedition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GyfUdnXXmWc" target="_blank" rel="noopener noreferrer">Anthropologists identify four more men who died on the Franklin Expedition</a></p><p class="youtube-embed-meta">Channel: CTV News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GyfUdnXXmWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GyfUdnXXmWc">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Franklin in the wider historical record
 The Franklin Expedition is unusual because it is simultaneously becoming better understood and more nuanced.
 
 Major mysteries have already been resolved. The ships are no longer lost. Inuit testimony has been powerfully confirmed. Individual crew members are being identified through DNA, and archaeology has established much of the expedition's final geographical footprint.

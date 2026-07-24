@@ -325,8 +325,7 @@ The third concerns **missing archives**. Uganda has preserved some important off
 
 <img src="{{ "/assets/images/Uganda_e92904_amin_disappeared_ce3361-Illustration-3-dark.svg" | relative_url }}" alt="The Disappeared illustration 3" data-theme-src-dark="{{ "/assets/images/Uganda_e92904_amin_disappeared_ce3361-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uganda_e92904_amin_disappeared_ce3361-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around The Disappeared
 The disappeared remain central to Uganda's historical memory because their cases combine certainty and uncertainty in unusual ways. There is overwhelming evidence that systematic enforced disappearances occurred under Amin's rule, yet countless individual stories remain unfinished.
 
 For historians, the missing record complicates efforts to reconstruct the mechanics of repression. For families, the absence of bodies and documentation means grief often lacks closure. For Uganda's legal and political history, these disappearances demonstrate how authoritarian governments can erase not only lives but also much of the evidence needed to establish precisely what happened.

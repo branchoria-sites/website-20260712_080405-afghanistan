@@ -303,8 +303,7 @@ The site's international significance was recognised when the Dabous giraffes we
 
 <img src="{{ "/assets/images/Niger_6687e1_dabous_giraffes_mean_a45acb-Illustration-3-dark.svg" | relative_url }}" alt="Dabous illustration 3" data-theme-src-dark="{{ "/assets/images/Niger_6687e1_dabous_giraffes_mean_a45acb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Niger_6687e1_dabous_giraffes_mean_a45acb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Questions left unresolved by Dabous
 The enduring mystery of the Dabous giraffes is not simply the unanswered question of what the connecting lines represent. It is also a reminder of the limits of archaeological interpretation. The carvings preserve extraordinary artistic skill and clear evidence that prehistoric people observed giraffes closely in a landscape now transformed into desert. Yet they reveal almost nothing directly about the beliefs, stories or ceremonies that inspired them.
 
 Unlike an undeciphered written script, the images communicate across thousands of years without providing their key. Archaeologists can reconstruct the ancient environment, estimate the carvings' age and analyse their technique with increasing precision. What remains elusive is the cultural meaning that once would probably have been obvious to the people who created them.

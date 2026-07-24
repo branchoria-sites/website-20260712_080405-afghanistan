@@ -210,12 +210,12 @@ hero_summary: Guinea-Bissau’s most important historical mysteries are not tale
 layout: default
 permalink: /what-really-happened-in-guinea-bissaus/
 nav_short_title: What Really Happened in Guinea Bissau's Darkest Cases?
-title: What Really Happened in Guinea Bissau's Darkest Cases?
+title: "Inside the Historical Mysteries of Guinea Bissau"
 title_full: What Really Happened in Guinea Bissau's Darkest Cases?
 display_title_short: What Really Happened in Guinea Bissau's Darkest Cases?
-display_title: What Really Happened in Guinea Bissau's Darkest Cases?
+display_title: "Inside the Historical Mysteries of Guinea Bissau"
 heading_title: What Really Happened in Guinea Bissau's Darkest Cases?
-page_heading_title: What Really Happened in Guinea Bissau's Darkest Cases?
+page_heading_title: "Inside the Historical Mysteries of Guinea Bissau"
 source_count: 113
 infographic_count: 3
 page_website_name: Guinea Bissau Mysteries

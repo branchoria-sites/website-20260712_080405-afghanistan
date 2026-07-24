@@ -350,8 +350,7 @@ These questions are matters of historical method rather than evidence of decepti
 
 <img src="{{ "/assets/images/Brunei_130e4a_first_sultans_chrono_8e1095-Illustration-3-dark.svg" | relative_url }}" alt="First Sultans illustration 3" data-theme-src-dark="{{ "/assets/images/Brunei_130e4a_first_sultans_chrono_8e1095-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brunei_130e4a_first_sultans_chrono_8e1095-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around First Sultans
 The story of Brunei's first sultans illustrates how kingdoms often entered recorded history gradually rather than suddenly. Instead of a single founding document, Brunei's beginnings survive through the combination of court genealogy, foreign diplomacy and archaeology. Each source answers different questions while leaving others unresolved.
 
 That makes the origins of the sultanate less a mystery of disappearance than one of historical visibility. The first rulers almost certainly existed, but they emerged into written history through records created for different purposes, at different times and by different cultures. Reconstructing their story therefore requires balancing royal tradition with external evidence rather than accepting either source on its own.

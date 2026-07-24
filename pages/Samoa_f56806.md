@@ -210,12 +210,12 @@ hero_summary: Samoa’s strongest historical mysteries are not tales of hidden k
 layout: default
 permalink: /what-really-happened-in-samoas-greatest/
 nav_short_title: What Really Happened in Samoa's Greatest Mysteries?
-title: What Really Happened in Samoa's Greatest Mysteries?
+title: "Evidence, Legend and Mystery in Samoa's Past"
 title_full: What Really Happened in Samoa's Greatest Mysteries?
 display_title_short: What Really Happened in Samoa's Greatest Mysteries?
-display_title: What Really Happened in Samoa's Greatest Mysteries?
+display_title: "Evidence, Legend and Mystery in Samoa's Past"
 heading_title: What Really Happened in Samoa's Greatest Mysteries?
-page_heading_title: What Really Happened in Samoa's Greatest Mysteries?
+page_heading_title: "Evidence, Legend and Mystery in Samoa's Past"
 source_count: 130
 infographic_count: 3
 page_website_name: Samoa Mysteries

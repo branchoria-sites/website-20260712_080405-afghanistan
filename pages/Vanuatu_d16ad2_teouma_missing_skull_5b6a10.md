@@ -324,8 +324,7 @@ Teouma has revealed further surprises beyond the missing heads. Researchers iden
 
 <img src="{{ "/assets/images/Vanuatu_d16ad2_teouma_missing_skull_5b6a10-Illustration-3-dark.svg" | relative_url }}" alt="Teouma illustration 3" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_teouma_missing_skull_5b6a10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_teouma_missing_skull_5b6a10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## The unresolved legacy of Teouma
 The physical evidence from Teouma is unusually clear, yet its meaning remains partly hidden.
 
 Archaeologists can reconstruct the sequence of burial, decomposition, exhumation and skull relocation with considerable confidence. What they cannot determine is the symbolic significance behind those actions. Whether the missing skulls represented ancestor worship, family remembrance, social identity or beliefs now lost to history remains unknown.

@@ -320,8 +320,7 @@ Modern archaeological techniques are helping to advance this work. Satellite ima
 
 <img src="{{ "/assets/images/United_Arab_Emirates_c92b89_lost_city_of_tuam_e6eba8-Illustration-3-dark.svg" | relative_url }}" alt="Lost Tu am illustration 3" data-theme-src-dark="{{ "/assets/images/United_Arab_Emirates_c92b89_lost_city_of_tuam_e6eba8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Arab_Emirates_c92b89_lost_city_of_tuam_e6eba8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery matters
-
+## Questions left unresolved by Lost Tu am
 Whether or not future discoveries finally confirm the name Tu'am, Al Sinniyah has already reshaped understanding of the early history of the [United Arab Emirates]({{ 'united-arab-emirates/' | relative_url }}).
 
 The site demonstrates that the Gulf coast supported a substantial urban community centuries before the Islamic period, combining pearling, international commerce and religious diversity. Rather than an isolated fishing village, it appears to have been one of the most significant settlements yet discovered on the ancient Emirati coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://culturalmap.gov.ae/en/facilities/pearling-town-on-siniya-island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culturalmap.gov.ae">[Cultural Map]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culturalmap.gov.ae</span><span class="citation-popover-title">Cultural Map National Cultural Map &#124; Facilities</span><span class="citation-popover-snippet">Cultural Map National Cultural Map &#124; Facilities</span></span></span>

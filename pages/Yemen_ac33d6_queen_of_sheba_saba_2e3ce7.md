@@ -354,8 +354,7 @@ Because the surviving evidence is so limited, no hypothesis has displaced the co
 
 <img src="{{ "/assets/images/Yemen_ac33d6_queen_of_sheba_saba_2e3ce7-Illustration-3-dark.svg" | relative_url }}" alt="Queen of Sheba illustration 3" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_queen_of_sheba_saba_2e3ce7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_queen_of_sheba_saba_2e3ce7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Questions left unresolved by Queen of Sheba
 The Queen of Sheba remains important not because historians have identified her, but because she illustrates how archaeology can both illuminate and frustrate the past.
 
 The kingdom of Saba is one of the best-documented civilisations of ancient Arabia. Its cities, temples, engineering works and inscriptions reveal a prosperous state that played a major role in regional trade. Yet the figure who made Saba famous around the world exists only in literary and religious tradition.

@@ -356,8 +356,7 @@ Many recent archaeological discoveries have shifted scholarly opinion towards th
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O6PTn6R7yIQ" title="Queen Himiko (and the Kingdom of Yamatai) | History of Japan 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O6PTn6R7yIQ" target="_blank" rel="noopener noreferrer">Queen Himiko (and the Kingdom of Yamatai) | History of Japan 7</a></p><p class="youtube-embed-meta">Channel: Linfamy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O6PTn6R7yIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O6PTn6R7yIQ">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Questions left unresolved by Himiko
 The search for Yamatai is about far more than identifying a point on a map. Its answer would reshape understanding of when political unification began in Japan and how rapidly a collection of regional chiefdoms developed into the state that later dominated the archipelago.
 
 If Yamatai lay in Kyushu, early Japanese political power may have emerged through coastal networks closely connected with Korea and China before shifting eastwards. If it lay in the Kinai region, the foundations of the later Yamato state were already taking shape during Himiko's lifetime. Both interpretations have profound implications for reconstructing Japan's earliest political history.

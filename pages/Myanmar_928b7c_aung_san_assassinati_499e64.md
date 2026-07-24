@@ -319,8 +319,7 @@ The third is whether **senior British political or intelligence authorities dire
 
 <img src="{{ "/assets/images/Myanmar_928b7c_aung_san_assassinati_499e64-Illustration-3-dark.svg" | relative_url }}" alt="Aung San illustration 3" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_aung_san_assassinati_499e64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_aung_san_assassinati_499e64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Aung San
 The significance of the assassination extends far beyond identifying the killers. Aung San had negotiated Burma's independence and sought agreements with many of the country's ethnic communities. His death removed the politician most widely viewed as capable of holding together a fragile coalition at a critical moment.
 
 This has encouraged later generations to ask whether Burma's subsequent instability—including civil conflict, military intervention and repeated constitutional crises—might have unfolded differently had he survived. That counterfactual cannot be answered, but it explains why the search for a wider conspiracy carries such emotional and political weight.

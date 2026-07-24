@@ -322,8 +322,7 @@ The comparison can also distort public understanding by encouraging unsupported 
 
 <img src="{{ "/assets/images/Gambia_7c3997_senegambian_stone_ci_c30e1b-Illustration-3-dark.svg" | relative_url }}" alt="Stone Circles illustration 3" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997_senegambian_stone_ci_c30e1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997_senegambian_stone_ci_c30e1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Endures
-
+## The historical picture around Stone Circles
 The Senegambian Stone Circles remain historically mysterious because archaeology has answered only part of the story.
 
 Researchers know where the monuments stand, how they were constructed, approximately when they were built and that they formed part of a sophisticated funerary landscape extending across centuries. Yet the names of the rulers, communities and religious traditions behind that achievement have vanished.

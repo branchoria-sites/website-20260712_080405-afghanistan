@@ -210,12 +210,12 @@ hero_summary: Montenegro’s most compelling historical mysteries are not tales 
 layout: default
 permalink: /which-mysteries-still-shape-montenegros/
 nav_short_title: Which Mysteries Still Shape Montenegro's Past?
-title: Which Mysteries Still Shape Montenegro's Past?
+title: "Inside the Historical Mysteries of Montenegro"
 title_full: Which Mysteries Still Shape Montenegro's Past?
 display_title_short: Which Mysteries Still Shape Montenegro's Past?
-display_title: Which Mysteries Still Shape Montenegro's Past?
+display_title: "Inside the Historical Mysteries of Montenegro"
 heading_title: Which Mysteries Still Shape Montenegro's Past?
-page_heading_title: Which Mysteries Still Shape Montenegro's Past?
+page_heading_title: "Inside the Historical Mysteries of Montenegro"
 source_count: 83
 infographic_count: 3
 page_website_name: Montenegro Mysteries

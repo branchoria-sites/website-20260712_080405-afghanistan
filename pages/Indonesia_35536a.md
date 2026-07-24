@@ -210,12 +210,12 @@ hero_summary: Indonesia’s most enduring historical mysteries are rarely puzzle
 layout: default
 permalink: /which-mysteries-still-haunt-indonesias/
 nav_short_title: Which Mysteries Still Haunt Indonesia's History?
-title: Which Mysteries Still Haunt Indonesia's History?
+title: "Evidence, Legend and Mystery in Indonesia's Past"
 title_full: Which Mysteries Still Haunt Indonesia's History?
 display_title_short: Which Mysteries Still Haunt Indonesia's History?
-display_title: Which Mysteries Still Haunt Indonesia's History?
+display_title: "Evidence, Legend and Mystery in Indonesia's Past"
 heading_title: Which Mysteries Still Haunt Indonesia's History?
-page_heading_title: Which Mysteries Still Haunt Indonesia's History?
+page_heading_title: "Evidence, Legend and Mystery in Indonesia's Past"
 source_count: 101
 infographic_count: 3
 page_website_name: Indonesia Mysteries
@@ -1314,8 +1314,7 @@ The *Ourang Medan* remains culturally interesting, but it should not be ranked a
 
 <img src="{{ "/assets/images/Indonesia_35536a-Illustration-3-dark.svg" | relative_url }}" alt="Which Mysteries Still Haunt Indonesia&#x27;s... illustration 3" data-theme-src-dark="{{ "/assets/images/Indonesia_35536a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indonesia_35536a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these mysteries endure
-
+## The historical picture around Indonesia's historical mysteries
 Indonesia’s unresolved history reflects the conditions under which evidence was created and preserved. Authoritarian government restricted investigation; military and intelligence institutions kept crucial activities secret; families of victims lacked access to records; colonial officials filtered Indigenous testimony; and fragile archaeological findings entered political and popular debate before specialists had reached agreement.
 
 The cases also show that “unresolved” has several meanings:

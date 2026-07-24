@@ -351,8 +351,7 @@ The secrecy therefore remains unusual less because historians doubt it occurred 
 
 <img src="{{ "/assets/images/Bhutan_bb2254_zhabdrung_hidden_dea_3e2f39-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Death illustration 3" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254_zhabdrung_hidden_dea_3e2f39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254_zhabdrung_hidden_dea_3e2f39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Hidden Death
 The hidden death of Bhutan's founder illustrates how political authority can depend as much on legitimacy as on military power.
 
 For more than five decades, Bhutan's highest office rested on the continued symbolic presence of a ruler who had already died. The arrangement bought valuable time for a newly unified kingdom, allowing institutions to outlive the individual who had created them. Yet it also left unresolved the central question of succession, contributing to generations of competing claims over who truly inherited the founder's authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bhutanwiki.org/articles/zhabdrung-reincarnation-controversies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhutanwiki.org">[bhutanwiki.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhutanwiki.org</span><span class="citation-popover-title">Bhutan Wiki The Zhabdrung Reincarnation Controversies &#124; Bhutan Wiki</span><span class="citation-popover-snippet">Bhutan Wiki The Zhabdrung Reincarnation Controversies &#124; Bhutan Wiki</span></span></span>

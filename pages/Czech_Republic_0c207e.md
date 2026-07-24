@@ -1334,8 +1334,7 @@ Prague has embraced the figure in art, tourism and popular culture, but its comm
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CSYXCBqGcZo" title="Secrets of the Voynich Manuscript" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CSYXCBqGcZo" target="_blank" rel="noopener noreferrer">Secrets of the Voynich Manuscript</a></p><p class="youtube-embed-meta">Channel: hochelaga</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CSYXCBqGcZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CSYXCBqGcZo">Open on YouTube</a></p></div></div></div>
 
-## Why these mysteries endure
-
+## Czechia's historical mysteries in the wider historical record
 The Czech Republic’s historical enigmas survive for different reasons. Jan Masaryk’s death persists because the evidence remains incomplete and the first investigation took place under a newly authoritarian regime. The Voynich Manuscript endures because a real object continues to resist interpretation. The forged national manuscripts remain important because they once answered a powerful demand for an ancient heroic past.
 
 Other stories survive through a mixture of fact and invention. Real Nazi archives encouraged fantasies about the Štěchovice treasure. Genuine Nazi papers were repackaged within the staged discovery of Operation Neptune. The exceptional scale of the Codex Gigas generated a supernatural origin story, while nineteenth- and twentieth-century literature transformed older traditions about artificial life into the supposedly ancient Prague Golem.

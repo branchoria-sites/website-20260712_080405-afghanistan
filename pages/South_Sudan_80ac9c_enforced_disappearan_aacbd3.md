@@ -325,8 +325,7 @@ The UN Commission noted that inconsistent registration practices and the absence
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cvD8zxFZvIA" title="Amnesty Warns of Rising Threats to Journalists in South Sudan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cvD8zxFZvIA" target="_blank" rel="noopener noreferrer">Amnesty Warns of Rising Threats to Journalists in South Sudan</a></p><p class="youtube-embed-meta">Channel: News Central TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cvD8zxFZvIA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cvD8zxFZvIA">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## The unresolved legacy of Disappearances
 South Sudan's enforced disappearances remain unresolved not because nothing is known, but because critical pieces of evidence remain concealed or inaccessible. Independent investigations have identified recurring patterns, credible witnesses and probable perpetrators in some cases, yet public accountability has remained limited.
 
 For families, the mystery is deeply personal: confirmation of death, recovery of remains and acknowledgement of responsibility are still absent. For historians, the disappearances illustrate how modern conflicts can create gaps in the historical record that persist long after fighting subsides. And for South Sudan itself, these unresolved cases continue to symbolise the unfinished struggle to establish transparent institutions capable of preserving records, investigating abuses and providing justice for victims.

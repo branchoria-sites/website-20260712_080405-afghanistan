@@ -333,8 +333,7 @@ Neither interpretation fully resolves the historical record. Contemporary report
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ra9ZL45QAho" title="Secrets of Cane River Falls | Hidden History &amp; Untold Facts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ra9ZL45QAho" target="_blank" rel="noopener noreferrer">Secrets of Cane River Falls | Hidden History &amp; Untold Facts</a></p><p class="youtube-embed-meta">Channel: Nature Adventure Jamaica</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ra9ZL45QAho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ra9ZL45QAho">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Three Fingered Jack in the wider historical record
 Three-Fingered Jack demonstrates how historical memory can evolve far beyond the surviving evidence. Unlike entirely mythical figures, he unquestionably lived. Unlike many famous rebels, however, most knowledge about him comes through hostile colonial records and later fictional retellings rather than his own words or those of his followers.
 
 That combination makes him an enduring historical puzzle. Researchers can reconstruct the outlines of his life from government proclamations, newspapers and official correspondence, but the person behind those documents remains elusive. The stories that made him famous—his magical powers, noble motives, extraordinary adventures and theatrical heroism—tell us at least as much about British fears, abolition debates and Jamaican cultural memory as they do about Jack himself.

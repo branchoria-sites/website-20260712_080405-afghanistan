@@ -355,8 +355,7 @@ What remains uncertain is the precise mechanism of the accident and its exact lo
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4rq635q8G7c" title="Amundsen&#x27;s Final Flight (1928): Vanishing in the Arctic while searching for the Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4rq635q8G7c" target="_blank" rel="noopener noreferrer">Amundsen&#x27;s Final Flight (1928): Vanishing in the Arctic while searching for the Italia</a></p><p class="youtube-embed-meta">Channel: Expedition Gone Wrong</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4rq635q8G7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4rq635q8G7c">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## The historical picture around Final Flight
 Amundsen's disappearance became the final chapter in one of the greatest careers in the history of polar exploration. Having been the first explorer to navigate the Northwest Passage, the first to reach the South Pole, and one of the first to fly across the Arctic, he vanished not while seeking fame but while attempting to rescue fellow explorers.
 
 The missing wreck has become an enduring symbol of the risks faced by early polar aviation. It also demonstrates the limits of historical investigation: enough evidence survives to make an accidental crash overwhelmingly likely, yet not enough to reconstruct exactly where it happened or recover those who died.

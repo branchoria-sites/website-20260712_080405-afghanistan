@@ -340,8 +340,7 @@ These gaps mean historians distinguish between the broad conclusion—that Kim w
 
 <img src="{{ "/assets/images/South_Korea_7536d5_kim_hyung_wook_disap_bf0899-Illustration-3-dark.svg" | relative_url }}" alt="Kim Hyung wook illustration 3" data-theme-src-dark="{{ "/assets/images/South_Korea_7536d5_kim_hyung_wook_disap_bf0899-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Korea_7536d5_kim_hyung_wook_disap_bf0899-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## Kim Hyung wook in the wider historical record
 Kim Hyung-wook's disappearance remains important because it illustrates how authoritarian intelligence services can obscure the historical record long after the immediate political crisis has passed.
 
 Unlike many famous disappearances, the enduring mystery is not primarily the identity of the likely perpetrators. Official investigations and later scholarship have made state involvement the strongest explanation. Instead, the unresolved questions concern the mechanics of the operation: who carried out the killing, how decisions were made inside the KCIA, what became of Kim's body, and how much documentation was deliberately erased.

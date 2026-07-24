@@ -327,8 +327,7 @@ This limitation is important because archaeology depends as much on context as o
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5_domagnano_treasure_370468-Illustration-3-dark.svg" | relative_url }}" alt="Domagnano illustration 3" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_domagnano_treasure_370468-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_domagnano_treasure_370468-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Domagnano
 The Domagnano Treasure is often described as one of the richest surviving finds from Ostrogothic Italy, but its greatest historical significance lies in what it teaches about lost evidence. The gold jewellery demonstrates remarkable craftsmanship and elite status, yet it cannot fully answer the questions that matter most: who owned it, why it was placed in the ground, and what happened to its owner.
 
 For San Marino, the treasure represents both national heritage and a cautionary tale. It links the republic to the wider world of late Roman and Ostrogothic Italy, while reminding historians how much knowledge can disappear when discoveries are driven by curiosity, secrecy and the antiquities market rather than careful archaeological recording. More than a century after its discovery, the missing context remains every bit as valuable—and every bit as elusive—as the gold itself.

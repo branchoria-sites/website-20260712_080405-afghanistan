@@ -332,8 +332,7 @@ Claims that the entire treasure has already been secretly recovered, or that the
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hvDDuXvuips" title="The General Grant Shipwreck | Lost Gold Treasure | 1866 Survival Story | Auckland Islands Disaster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hvDDuXvuips" target="_blank" rel="noopener noreferrer">The General Grant Shipwreck | Lost Gold Treasure | 1866 Survival Story | Auckland Islands Disaster</a></p><p class="youtube-embed-meta">Channel: Survival Instinct</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hvDDuXvuips" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hvDDuXvuips">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## The unresolved legacy of General Grant
 The *General Grant* occupies a distinctive place in New Zealand's history because it combines authentic documentary evidence with genuine uncertainty. Unlike many legendary treasure stories, the ship unquestionably existed, the disaster unquestionably occurred, and valuable gold was unquestionably aboard. The unresolved question is not whether there was treasure, but where the wreck actually lies.
 
 That combination has kept the case alive for generations. It links maritime disaster, extraordinary human endurance and the continuing challenge of exploring one of the most remote and hostile coastlines associated with New Zealand. Until the wreck is conclusively identified, the *General Grant* will remain one of the country's most credible and compelling historical mysteries.

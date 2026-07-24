@@ -321,8 +321,7 @@ Third, trade networks were extensive. Copper, stone and other commodities moved 
 
 <img src="{{ "/assets/images/Oman_c14c36_magan_ancient_oman_876d00-Illustration-3-dark.svg" | relative_url }}" alt="Land of Magan illustration 3" data-theme-src-dark="{{ "/assets/images/Oman_c14c36_magan_ancient_oman_876d00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36_magan_ancient_oman_876d00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery matters
-
+## The unresolved legacy of Land of Magan
 The debate over Magan illustrates how historical mysteries can become clearer without disappearing completely.
 
 Scientific techniques have transformed one part of the puzzle. Chemical and isotope analysis now provides compelling evidence that the copper described in Mesopotamian texts frequently came from the Oman Peninsula, making the identification of Magan with ancient Oman far stronger than it was a generation ago.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0471.2010.00327.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryLead isotope and chemical signature of copper from Oman and its occurrence in Mesopotamia and sites on the Arabian Gu...</span></span></span>

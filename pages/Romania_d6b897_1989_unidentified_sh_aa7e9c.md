@@ -363,8 +363,7 @@ This interpretation remains legally and historically contested, but it marked a 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_efq76csNcw" title="How did Ceaușescu&#x27;s rule of Romania come to an end? The Timisoara Uprising by first hand witnesses." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_efq76csNcw" target="_blank" rel="noopener noreferrer">How did Ceaușescu&#x27;s rule of Romania come to an end? The Timisoara Uprising by first hand witnesses.</a></p><p class="youtube-embed-meta">Channel: Museum of Communist Terror</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_efq76csNcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_efq76csNcw">Open on YouTube</a></p></div></div></div>
 
-## Why the Mystery Still Matters
-
+## The unresolved legacy of 1989 Shooters
 The unidentified shooters remain central to understanding both the Romanian Revolution and Romania's transition from dictatorship.
 
 Unlike many historical mysteries, the uncertainty is not simply about missing evidence. It concerns competing interpretations of the same chaotic events:

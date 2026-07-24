@@ -310,8 +310,7 @@ Because revolutionary memory and colonial documentation emphasised different asp
 
 <img src="{{ "/assets/images/Haiti_a4842f_mackandal_poison_con_a53b09-Illustration-3-dark.svg" | relative_url }}" alt="Mackandal illustration 3" data-theme-src-dark="{{ "/assets/images/Haiti_a4842f_mackandal_poison_con_a53b09-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Haiti_a4842f_mackandal_poison_con_a53b09-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Questions left unresolved by Mackandal
 The enduring mystery surrounding Mackandal lies less in whether he resisted slavery than in how colonial societies created and recorded fear. His case illustrates several broader problems in Haitian history:
 
 

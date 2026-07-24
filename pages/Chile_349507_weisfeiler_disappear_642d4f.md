@@ -338,8 +338,7 @@ The Chilean National Truth and Reconciliation Commission (the Rettig Commission)
 
 <img src="{{ "/assets/images/Chile_349507_weisfeiler_disappear_642d4f-Illustration-3-dark.svg" | relative_url }}" alt="Weisfeiler illustration 3" data-theme-src-dark="{{ "/assets/images/Chile_349507_weisfeiler_disappear_642d4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chile_349507_weisfeiler_disappear_642d4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Weisfeiler
 The disappearance of Boris Weisfeiler occupies an unusual place in Chilean history because it combines an individual missing-person case with the broader legacy of state secrecy during the Pinochet dictatorship.
 
 Unlike many historical mysteries, the debate is not driven by folklore or sensational speculation. Instead, it rests on genuine contradictions between an official investigation, later witness testimony and government records released years afterwards. The absence of a body, the conflicting accounts of military involvement and the documented links between Colonia Dignidad and political repression ensure that the case remains historically significant even though its final chapter has never been written.

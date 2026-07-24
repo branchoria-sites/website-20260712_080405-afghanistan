@@ -325,8 +325,7 @@ The continuing uncertainty reflects several possibilities rather than a single u
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jitOCtLyd4o" title="MENGAPA IRAK MENYERANG KUWAIT? | Awal Perang Teluk 1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jitOCtLyd4o" target="_blank" rel="noopener noreferrer">MENGAPA IRAK MENYERANG KUWAIT? | Awal Perang Teluk 1990</a></p><p class="youtube-embed-meta">Channel: Matahatipemuda</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jitOCtLyd4o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jitOCtLyd4o">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery remains unresolved
-
+## What keeps Lost Treasures unresolved
 Unlike fictional tales of hidden treasure, Kuwait's missing archives present a puzzle rooted in incomplete evidence rather than secret conspiracies.
 
 Several factors explain why complete answers remain elusive:

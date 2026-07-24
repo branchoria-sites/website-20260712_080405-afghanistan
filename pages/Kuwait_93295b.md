@@ -210,12 +210,12 @@ hero_summary: Kuwait’s most important historical mysteries are not tales of cu
 layout: default
 permalink: /which-mysteries-still-shape-kuwaits/
 nav_short_title: Which Mysteries Still Shape Kuwait's History?
-title: Which Mysteries Still Shape Kuwait's History?
+title: "Which Parts of Kuwait's Past Remain Unexplained?"
 title_full: Which Mysteries Still Shape Kuwait's History?
 display_title_short: Which Mysteries Still Shape Kuwait's History?
-display_title: Which Mysteries Still Shape Kuwait's History?
+display_title: "Which Parts of Kuwait's Past Remain Unexplained?"
 heading_title: Which Mysteries Still Shape Kuwait's History?
-page_heading_title: Which Mysteries Still Shape Kuwait's History?
+page_heading_title: "Which Parts of Kuwait's Past Remain Unexplained?"
 source_count: 121
 infographic_count: 2
 page_website_name: Kuwait Mysteries

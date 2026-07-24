@@ -355,8 +355,7 @@ Because these questions concern missing evidence rather than competing folklore,
 
 <img src="{{ "/assets/images/Indonesia_35536a_disappeared_activist_2be0f2-Illustration-3-dark.svg" | relative_url }}" alt="Disappeared illustration 3" data-theme-src-dark="{{ "/assets/images/Indonesia_35536a_disappeared_activist_2be0f2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indonesia_35536a_disappeared_activist_2be0f2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Disappeared in the wider historical record
 The disappearance of Indonesia's activists is not mysterious because no evidence exists. On the contrary, substantial evidence demonstrates that enforced disappearances occurred. The mystery survives because the most important pieces of evidence—the complete chain of command, the locations of secret detention sites, and the fate of those who never returned—remain hidden.
 
 For many Indonesians, annual commemorations of the missing activists serve both as memorials and as reminders that democratic transition did not automatically resolve every abuse committed under authoritarian rule. Wiji Thukul's absence has become especially symbolic: a poet whose words endured while his own fate disappeared into history.

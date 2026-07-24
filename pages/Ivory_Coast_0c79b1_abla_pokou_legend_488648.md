@@ -321,8 +321,7 @@ The story has also appeared in school curricula, public commemorations, stamps, 
 
 <img src="{{ "/assets/images/Ivory_Coast_0c79b1_abla_pokou_legend_488648-Illustration-3-dark.svg" | relative_url }}" alt="Abla Pokou illustration 3" data-theme-src-dark="{{ "/assets/images/Ivory_Coast_0c79b1_abla_pokou_legend_488648-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ivory_Coast_0c79b1_abla_pokou_legend_488648-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Abla Pokou
 Abla Pokou's child-sacrifice legend remains compelling because it occupies the boundary between history and memory. The migration behind the story is widely accepted as historical, but the defining act that made the legend famous cannot be independently verified.
 
 For historians, the real puzzle is therefore not simply whether the sacrifice happened exactly as described. It is how a community remembers its origins, how oral traditions evolve over centuries, and why one powerful narrative came to define the identity of an entire people. The enduring importance of the legend lies less in proving every detail than in understanding what generations of Baoulé communities believed was worth remembering about courage, loss and the cost of founding a new homeland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africabib.org/rec.php?RID=326559035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africabib.org">[Africabib]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africabib.org</span><span class="citation-popover-snippet">AfricaBib &#124; Les ruses de l&#x27;oral, la force de l&#x27;écrit: le mythe baule d&#x27;Aura Poku...</span></span></span>

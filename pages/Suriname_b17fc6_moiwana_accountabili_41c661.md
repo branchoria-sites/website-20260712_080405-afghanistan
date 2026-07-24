@@ -345,8 +345,7 @@ These uncertainties are the reason Moiwana remains part of Suriname's unresolved
 
 <img src="{{ "/assets/images/Suriname_b17fc6_moiwana_accountabili_41c661-Illustration-3-dark.svg" | relative_url }}" alt="Moiwana illustration 3" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_moiwana_accountabili_41c661-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_moiwana_accountabili_41c661-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## Moiwana in the wider historical record
 The Moiwana massacre has become a defining example of how impunity can persist even when the essential facts are widely accepted. International courts recognised the state's responsibility, survivors received important legal recognition and reparations were ordered, yet criminal justice for the killings themselves has remained absent.
 
 For the descendants of those who fled, accountability is about more than punishment. It also concerns recovering the identities of the dead, preserving the history of a destroyed community and acknowledging that forced displacement permanently altered the lives of hundreds of people.

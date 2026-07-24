@@ -366,8 +366,7 @@ The genuine mystery is therefore not whether the figures came from an impossible
 
 <img src="{{ "/assets/images/Sierra_Leone_817b0d_nomoli_stone_figures_c903ad-Illustration-3-dark.svg" | relative_url }}" alt="Nomoli illustration 3" data-theme-src-dark="{{ "/assets/images/Sierra_Leone_817b0d_nomoli_stone_figures_c903ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sierra_Leone_817b0d_nomoli_stone_figures_c903ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Nomoli in the wider historical record
 The Nomoli stone figures remain central to understanding Sierra Leone's early history because they preserve evidence of complex societies that existed before extensive written documentation of the region. They demonstrate sophisticated stone-working skills, rich artistic conventions and political symbolism, even though the identities of many individual carvers and patrons have been lost.
 
 Research continues to refine the story. Improved archaeological excavations, scientific dating of associated materials and comparative study of stone, ivory and wooden sculptures have steadily replaced speculation with evidence. Yet the absence of secure excavation contexts means that some questions may never receive complete answers.

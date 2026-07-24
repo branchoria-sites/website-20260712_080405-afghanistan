@@ -361,8 +361,7 @@ Instead of portraying Stonehenge as a local project, the evidence increasingly p
 
 <img src="{{ "/assets/images/United_Kingdom_d25561_stonehenge_purpose_6f2e28-Illustration-3-dark.svg" | relative_url }}" alt="Stonehenge illustration 3" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561_stonehenge_purpose_6f2e28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561_stonehenge_purpose_6f2e28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Endures
-
+## Questions left unresolved by Stonehenge
 Stonehenge remains mysterious not because archaeology has failed, but because archaeology has succeeded in revealing an increasingly complex story.
 
 Scientific dating, isotope analysis, ancient DNA, landscape archaeology and geological fingerprinting have answered questions that would have seemed impossible only a few decades ago. They have identified where many stones originated, reconstructed changing construction phases and shown that people travelled considerable distances to gather in the surrounding landscape.

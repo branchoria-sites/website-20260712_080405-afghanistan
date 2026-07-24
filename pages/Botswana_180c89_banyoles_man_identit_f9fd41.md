@@ -304,8 +304,7 @@ Because no known descendants have been identified and no definitive archival dis
 
 <img src="{{ "/assets/images/Botswana_180c89_banyoles_man_identit_f9fd41-Illustration-3-dark.svg" | relative_url }}" alt="Banyoles Man illustration 3" data-theme-src-dark="{{ "/assets/images/Botswana_180c89_banyoles_man_identit_f9fd41-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Botswana_180c89_banyoles_man_identit_f9fd41-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## The unresolved legacy of Banyoles Man
 The Banyoles Man occupies a distinctive place in Botswana's historical memory because the mystery is inseparable from questions of governance and human dignity.
 
 Unlike many historical mysteries that revolve around hidden treasure or unexplained deaths, this case concerns the recovery of identity after colonial collecting practices stripped an individual of his name and history. Botswana's role was not to solve every historical uncertainty but to ensure that the remains were no longer treated as a museum curiosity. The repatriation became an important statement that human remains deserve respect regardless of whether every detail of their biography can be reconstructed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d.lib.msu.edu/pula/342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d.lib.msu.edu">[msu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d.lib.msu.edu</span><span class="citation-popover-title">Missing persons, stolen bodies and issues of patrimony: the El Negro story</span><span class="citation-popover-snippet">Missing persons, stolen bodies and issues of patrimony: the El Negro story</span></span></span>

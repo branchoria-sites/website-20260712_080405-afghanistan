@@ -1308,8 +1308,7 @@ The case demonstrates how historical investigation works when several kinds of e
 
 <img src="{{ "/assets/images/Saint_Vincent_and_th_3bce2a-Illustration-3-dark.svg" | relative_url }}" alt="Saint Vincent and the Grenadines illustration 3" data-theme-src-dark="{{ "/assets/images/Saint_Vincent_and_th_3bce2a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Vincent_and_th_3bce2a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these mysteries endure
-
+## Saint Vincent and the Grenadines' historical mysteries in the wider historical record
 The most enduring mysteries of Saint Vincent and the Grenadines share a common cause: unequal survival of evidence. Colonial governments generated extensive records, but those records reflected their own priorities. Indigenous and Garifuna knowledge was more often transmitted orally, while war, deportation and population dispersal broke the continuity through which stories and place-based knowledge were preserved.
 
 That imbalance explains why apparently simple questions remain difficult. The British recorded military victory but not Chatoyer’s own account of his final battle. Officials counted prisoners, yet did not leave a complete and uncontested record of those who died on Balliceaux. European observers described [Garifuna origins]({{ 'garifuna-origins/' | relative_url }}), but their stories cannot be separated easily from oral tradition, racial categorisation and political interests. Archaeologists can record the shapes of petroglyphs, but not recover with certainty the words once spoken beside them.

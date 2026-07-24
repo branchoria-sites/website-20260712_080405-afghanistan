@@ -312,8 +312,7 @@ This finding does not prove that Ripert deliberately invented his account. Rathe
 
 <img src="{{ "/assets/images/Mauritania_85fa35_chinguetti_missing_m_07d827-Illustration-3-dark.svg" | relative_url }}" alt="Meteorite illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritania_85fa35_chinguetti_missing_m_07d827-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritania_85fa35_chinguetti_missing_m_07d827-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Meteorite in the wider historical record
 The Chinguetti case has endured because it occupies an unusual position between confirmed science and unresolved historical testimony.
 
 Unlike many famous lost-object stories, the evidence begins with something tangible: an authenticated mesosiderite preserved for scientific study. At the same time, the spectacular feature that made the discovery famous has never been independently verified despite repeated expeditions.

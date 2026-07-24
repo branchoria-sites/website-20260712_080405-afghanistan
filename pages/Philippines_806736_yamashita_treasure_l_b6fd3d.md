@@ -403,8 +403,7 @@ A balanced assessment distinguishes between several different levels of evidence
 
 <img src="{{ "/assets/images/Philippines_806736_yamashita_treasure_l_b6fd3d-Illustration-3-dark.svg" | relative_url }}" alt="Yamashita Gold illustration 3" data-theme-src-dark="{{ "/assets/images/Philippines_806736_yamashita_treasure_l_b6fd3d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Philippines_806736_yamashita_treasure_l_b6fd3d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Yamashita Gold in the wider historical record
 Yamashita's Treasure remains important not because historians expect a spectacular discovery, but because it illustrates how genuine history can evolve into enduring legend.
 
 The story sits at the intersection of wartime looting, political corruption, incomplete archives and human hope. A limited number of hidden wartime caches may well have existed, and isolated discoveries are historically believable. Yet the available evidence does not support the enormous underground treasure empire that dominates popular imagination.

@@ -346,8 +346,7 @@ Unlike other apartheid-era disappearances in which graves were eventually locate
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hWdWhZ39nqI" title="TRC Episode 04, Part 03" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hWdWhZ39nqI" target="_blank" rel="noopener noreferrer">TRC Episode 04, Part 03</a></p><p class="youtube-embed-meta">Channel: SABC</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hWdWhZ39nqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hWdWhZ39nqI">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery endures
-
+## The historical picture around Missing Activists
 The enduring mystery is not whether apartheid South Africa conducted covert operations inside Lesotho—the historical record clearly shows that it did. Rather, the unanswered questions concern individual human stories.
 
 For several activists, historians still cannot answer with certainty:

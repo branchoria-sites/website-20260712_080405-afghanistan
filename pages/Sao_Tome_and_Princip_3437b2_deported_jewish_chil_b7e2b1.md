@@ -308,8 +308,7 @@ This careful distinction matters because the tragedy is historically significant
 
 <img src="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_deported_jewish_chil_b7e2b1-Illustration-3-dark.svg" | relative_url }}" alt="Jewish Children illustration 3" data-theme-src-dark="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_deported_jewish_chil_b7e2b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_deported_jewish_chil_b7e2b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Jewish Children
 The deported Jewish children occupy a distinctive place in the history of São Tomé because they were among the island's earliest non-voluntary settlers. Their story sits at the intersection of religious persecution, forced migration and the beginnings of the Atlantic plantation world that would later depend overwhelmingly on enslaved African labour.
 
 Their fate also illustrates how colonial history can erase individual lives. Historians know why the children were sent to São Tomé, but they rarely know their names, families, occupations or descendants. That gap in the record is the real mystery. It reminds us that some of the most important unanswered questions in history arise not from hidden secrets, but from the silence left behind when those with the least power vanished from the archives.

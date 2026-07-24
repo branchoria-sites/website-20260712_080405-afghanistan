@@ -349,8 +349,7 @@ These connections helped transform the case into an international mystery, but t
 
 <img src="{{ "/assets/images/Brazil_37497a_lead_masks_case_262002-Illustration-3-dark.svg" | relative_url }}" alt="Lead Masks illustration 3" data-theme-src-dark="{{ "/assets/images/Brazil_37497a_lead_masks_case_262002-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brazil_37497a_lead_masks_case_262002-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## Lead Masks in the wider historical record
 The Lead Masks Case survives because it combines genuinely unusual physical evidence with permanently incomplete scientific evidence. The lead masks existed. The handwritten instructions existed. The journey to the hill is well documented. The unexplained deaths are real.
 
 What is missing is precisely the evidence needed to connect those facts into a coherent narrative. Modern readers often assume that every famous mystery conceals an extraordinary secret, but this case demonstrates how an ordinary investigative failure can produce decades of extraordinary speculation. Once the opportunity to identify a poison or drug was lost, later theories could neither be proved nor disproved.

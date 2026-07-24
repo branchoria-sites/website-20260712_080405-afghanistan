@@ -336,8 +336,7 @@ Modern searches for aircraft such as Air France Flight 447 have shown that even 
 
 This means that the absence of wreckage does not by itself imply foul play. At the same time, without physical evidence, neither accident investigators nor historians can conclusively eliminate alternative explanations.
 
-## Why the Mystery Endures
-
+## Questions left unresolved by Cienfuegos
 The disappearance became more than an aviation mystery because it occurred during a defining moment in Cuban history.
 
 Within Cuba, Cienfuegos was transformed into a revolutionary martyr. Every year on 28 October, schoolchildren and citizens traditionally throw flowers into rivers and the sea in his memory, symbolically returning them to the waters where he is believed to have been lost. His image became inseparable from the Revolution's official narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Camilo_Cienfuegos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Camilo Cienfuegos</span><span class="citation-popover-snippet">Camilo Cienfuegos</span></span></span>

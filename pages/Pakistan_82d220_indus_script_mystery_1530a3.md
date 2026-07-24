@@ -351,8 +351,7 @@ Without these tests, proposed readings remain interesting hypotheses rather than
 
 <img src="{{ "/assets/images/Pakistan_82d220_indus_script_mystery_1530a3-Illustration-3-dark.svg" | relative_url }}" alt="Indus Script illustration 3" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_indus_script_mystery_1530a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_indus_script_mystery_1530a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Questions left unresolved by Indus Script
 The unread script limits what historians can know about one of the world's earliest urban civilisations. Archaeology reveals carefully planned cities, sophisticated drainage systems, long-distance trade, standardised weights and impressive craft production, yet fundamental questions remain unanswered because no contemporary historical texts can be read.
 
 A reliable decipherment could reveal how officials organised cities, how merchants recorded trade, how religious ideas were expressed, what languages people spoke and perhaps even the names of rulers, places or communities. Equally, if future evidence were to demonstrate conclusively that the signs never represented full writing, that would reshape understanding of how a complex Bronze Age civilisation managed administration without conventional literacy.

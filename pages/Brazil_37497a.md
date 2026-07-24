@@ -1286,8 +1286,7 @@ That distinction is crucial. A legend can preserve a distorted memory of somethi
 
 <img src="{{ "/assets/images/Brazil_37497a-Illustration-3-dark.svg" | relative_url }}" alt="Brazil illustration 3" data-theme-src-dark="{{ "/assets/images/Brazil_37497a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brazil_37497a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these mysteries endure
-
+## The historical picture around Brazil's historical mysteries
 Brazil’s historical enigmas persist because they sit where evidence is easily lost: dense forest, exposed rock, decayed bodies, incomplete archives and photographs without reliable measurements. Vast distances and difficult terrain once made searches slow and dangerous. Colonial violence and epidemics erased communities whose own knowledge might have answered later questions. Poor forensic preservation closed investigative routes in modern cases such as the Lead Masks deaths.
 
 They also endure because each mystery reflects a larger national concern. Manuscript 512 became part of the search for an ancient Brazilian past. Fawcett’s disappearance joined the history of exploration, Indigenous contact and foreign fantasies about the Amazon. The Lead Masks Case reflects a mid-twentieth-century world of home-built technology, spiritual experimentation and weak forensic capacity. Trindade belongs to the Cold War era’s fascination with secret military knowledge and photographic proof. Pedra da Gávea shows the recurring temptation to turn natural grandeur into evidence of a forgotten foreign civilisation.

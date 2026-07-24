@@ -374,8 +374,7 @@ Until such evidence appears, new computational methods are likely to improve und
 
 <img src="{{ "/assets/images/India_967ce3_indus_script_2a24b5-Illustration-3-dark.svg" | relative_url }}" alt="Indus Script illustration 3" data-theme-src-dark="{{ "/assets/images/India_967ce3_indus_script_2a24b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3_indus_script_2a24b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## The historical picture around Indus Script
 The Indus script remains compelling because it occupies a rare middle ground between knowledge and ignorance. Archaeologists know that the civilisation maintained large cities, standardised weights, long-distance trade and remarkably consistent material culture. They also know that its inscriptions followed clear conventions rather than random decoration. Yet the meanings behind those conventions remain hidden.
 
 That combination makes the script more than a puzzle of translation. It is a reminder that even one of the world's best-studied Bronze Age civilisations still withholds part of its own voice. Each new excavation, digital corpus and statistical analysis narrows the possibilities, but for now the central mystery endures: not whether the signs are meaningful, but precisely what they were intended to say.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Interrogating Indus inscriptions to unravel their mechanisms of meaning conveyance &#124; Humanities and Social Sciences CommunicationsJ...</span></span></span>

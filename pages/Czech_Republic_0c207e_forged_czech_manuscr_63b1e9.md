@@ -321,8 +321,7 @@ The controversy also reshaped Czech intellectual life. It demonstrated that patr
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHRfh7pQEb8" title="Dvořák / Songs from the Dvůr Králové Manuscript: Žežhulice (The Cuckoo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHRfh7pQEb8" target="_blank" rel="noopener noreferrer">Dvořák / Songs from the Dvůr Králové Manuscript: Žežhulice (The Cuckoo)</a></p><p class="youtube-embed-meta">Channel: scrymgeour34</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHRfh7pQEb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHRfh7pQEb8">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## The historical picture around Forged Epics
 The real mystery today is no longer whether the manuscripts are authentic. Most specialists consider that question effectively settled. Instead, the enduring puzzle is how forged texts acquired such extraordinary authority and why they continued to inspire generations even after their exposure.
 
 Several lessons explain their lasting significance.

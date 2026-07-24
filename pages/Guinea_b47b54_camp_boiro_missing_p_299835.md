@@ -336,8 +336,7 @@ Modern memorial initiatives have attempted to reconstruct victim lists one indiv
 
 <img src="{{ "/assets/images/Guinea_b47b54_camp_boiro_missing_p_299835-Illustration-3-dark.svg" | relative_url }}" alt="Camp Boiro illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea_b47b54_camp_boiro_missing_p_299835-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea_b47b54_camp_boiro_missing_p_299835-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Camp Boiro in the wider historical record
 Camp Boiro's enduring mystery is not hidden because evidence is absent. Rather, it survives because the available evidence is incomplete. Survivors have established beyond reasonable doubt that torture, starvation and secret deaths occurred. Human rights organisations documented abuses while the prison was still operating, and later historical research has reinforced those findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amnesty.org/en/wp-content/uploads/2021/09/annual-report-1977.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnesty.org">[Amnesty International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnesty.org</span><span class="citation-popover-title">International AMNESTY</span><span class="citation-popover-snippet">INTERNATIONAL REPORT...</span></span></span>
 
 The unanswered questions concern the people who left almost no trace: prisoners whose arrests were never acknowledged, whose deaths were never officially recorded and whose burial places remain unknown. Every newly identified victim narrows that gap, but no authoritative register has yet emerged that can establish with confidence how many disappeared inside Camp Boiro or where all of them were laid to rest.

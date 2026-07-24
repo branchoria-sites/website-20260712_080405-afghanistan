@@ -317,8 +317,7 @@ Because each body of evidence carries its own potential bias, no interpretation 
 
 <img src="{{ "/assets/images/Turkey_d7153e_abdulaziz_disputed_d_c46e73-Illustration-3-dark.svg" | relative_url }}" alt="Abdulaziz illustration 3" data-theme-src-dark="{{ "/assets/images/Turkey_d7153e_abdulaziz_disputed_d_c46e73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkey_d7153e_abdulaziz_disputed_d_c46e73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## Abdulaziz in the wider historical record
 The disputed death of Sultan Abdulaziz remains significant not only because of uncertainty over how he died but because it illustrates how historical mysteries can be shaped as much by politics as by missing evidence.
 
 Unlike many famous unsolved deaths, the case produced an official verdict, a later criminal trial and generations of competing interpretations. Each stage reflected the political priorities of its own era. For that reason, the question "Was Sultan Abdulaziz murdered after his deposition?" continues to be discussed not because historians lack theories, but because every major piece of evidence is connected to institutions and witnesses whose impartiality has itself become part of the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cmes.fas.harvard.edu/publications/ottoman-rule-law-and-modern-political-trial-yildiz-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmes.fas.harvard.edu">[Center for Middle Eastern Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmes.fas.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>

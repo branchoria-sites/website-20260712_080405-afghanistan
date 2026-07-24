@@ -351,8 +351,7 @@ The resulting archival gaps have allowed debate about governmental knowledge and
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_balibo_five_command_9fd51f-Illustration-3-dark.svg" | relative_url }}" alt="Balibo Five illustration 3" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_balibo_five_command_9fd51f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_balibo_five_command_9fd51f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## Balibo Five in the wider historical record
 The Balibo Five case illustrates how historical mysteries can evolve. The principal uncertainty today is no longer the manner of death but the extent of responsibility.
 
 Most serious historical scholarship now treats the deliberate killing of the journalists by Indonesian forces as the best-supported explanation, reinforced by eyewitness testimony and the 2007 coronial findings. What remains unresolved is the higher command structure behind the decision, whether written or verbal orders existed, and whether sufficient admissible evidence will ever emerge to identify those ultimately responsible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2007-11-16/balibo-5-deliberately-killed-coroner-finds/727656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Balibo 5 deliberately killed, coroner finds</span><span class="citation-popover-snippet">ABC NewsBalibo 5 deliberately killed, coroner finds - ABC NewsNovember 16, 2007...</span><span class="citation-popover-meta">Published: November 16, 2007</span></span></span>

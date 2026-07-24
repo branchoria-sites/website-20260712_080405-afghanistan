@@ -1299,8 +1299,7 @@ Each case also warns against a different kind of mythmaking. The stone circles s
 
 <img src="{{ "/assets/images/Gambia_7c3997-Illustration-3-dark.svg" | relative_url }}" alt="What Do Gambia&#x27;s Mysteries Really Reveal? illustration 3" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these mysteries endure
-
+## Questions left unresolved by Gambia's historical mysteries
 All three mysteries survive because they stand where different forms of evidence meet. Archaeology records human action without preserving every name. Oral history preserves names and meanings without always preserving dates or independent verification. Colonial archives record ships, officials and commerce while often silencing the people most affected. Folklore preserves relationships with landscape through symbols that cannot be tested like ordinary eyewitness claims.
 
 The Gambia’s unresolved past is therefore not simply a collection of unanswered riddles. It is a demonstration of how history is made from unequal remains. The stones at Wassu and Kerbatch reveal organised societies whose identities have been lost. The Kunta Kinte controversy exposes the damage done when slavery separated people from recoverable ancestry. The Ninki Nanka shows how stories can preserve social and environmental knowledge even when their supernatural surface is not taken literally.

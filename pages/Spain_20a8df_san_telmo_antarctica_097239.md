@@ -333,8 +333,7 @@ The absence of proof is particularly important because exploration history tradi
 
 <img src="{{ "/assets/images/Spain_20a8df_san_telmo_antarctica_097239-Illustration-3-dark.svg" | relative_url }}" alt="San Telmo illustration 3" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_san_telmo_antarctica_097239-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_san_telmo_antarctica_097239-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## The historical picture around San Telmo
 The story of *San Telmo* occupies an unusual place in Spain's maritime history because it combines documented tragedy with a genuine historical uncertainty.
 
 Unlike many legends of forgotten discoveries, the disappearance itself is not disputed. The uncertainty concerns what happened after contact with the outside world ended. If even a few members of the crew reached Livingston Island alive, Spain's connection with Antarctica would begin not with a planned expedition but with an accidental shipwreck.

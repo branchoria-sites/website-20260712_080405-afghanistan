@@ -357,8 +357,7 @@ The mystery has also appeared in documentaries, books and works of fiction, help
 
 <img src="{{ "/assets/images/Canada_cd6a7b_ambrose_small_disapp_fb336e-Illustration-3-dark.svg" | relative_url }}" alt="Ambrose Small illustration 3" data-theme-src-dark="{{ "/assets/images/Canada_cd6a7b_ambrose_small_disapp_fb336e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Canada_cd6a7b_ambrose_small_disapp_fb336e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## Questions left unresolved by Ambrose Small
 Ambrose Small's disappearance remains one of Canada's most enduring historical mysteries because the uncertainty lies at its centre rather than around its edges.
 
 Investigators established many surrounding facts with unusual precision: the business sale, the bank deposit, the meetings, the approximate time of his last confirmed sighting and the later theft of his Victory Bonds. Yet none of those facts explains what happened after roughly 5:30 p.m. on 2 December 1919.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Ambrose_Small" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Ambrose Small</span><span class="citation-popover-snippet">Disappearance of Ambrose Small</span></span></span>

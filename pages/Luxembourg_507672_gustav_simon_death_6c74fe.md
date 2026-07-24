@@ -341,8 +341,7 @@ Other Luxembourg historians remain unconvinced by the assassination theory. They
 
 <img src="{{ "/assets/images/Luxembourg_507672_gustav_simon_death_6c74fe-Illustration-3-dark.svg" | relative_url }}" alt="Simon illustration 3" data-theme-src-dark="{{ "/assets/images/Luxembourg_507672_gustav_simon_death_6c74fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luxembourg_507672_gustav_simon_death_6c74fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## The unresolved legacy of Simon
 The debate over Simon's death survives because it sits in an uncomfortable space between documented history and missing evidence.
 
 The official explanation is supported by the strongest surviving contemporary documentation, but those records are not as complete as historians would ideally like. The alternative execution story is emotionally understandable in the context of post-war Luxembourg and is reinforced by persistent local memory, yet it lacks direct documentary proof.

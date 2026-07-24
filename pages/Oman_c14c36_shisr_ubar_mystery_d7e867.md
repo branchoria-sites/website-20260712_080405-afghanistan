@@ -319,8 +319,7 @@ The sinkhole therefore explains part of the site's physical damage but not neces
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XLdZh31rsDA" title="Ubar — The City Swallowed by Sand: Myth, Satellites &amp; Sinkholes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XLdZh31rsDA" target="_blank" rel="noopener noreferrer">Ubar — The City Swallowed by Sand: Myth, Satellites &amp; Sinkholes</a></p><p class="youtube-embed-meta">Channel: Drawn Knowledge</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XLdZh31rsDA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XLdZh31rsDA">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery endures
-
+## The unresolved legacy of Shisr and Ubar
 The continuing fascination with Shisr comes from the overlap between archaeology, literature and popular imagination.
 
 Three different stories are often treated as though they describe the same place:

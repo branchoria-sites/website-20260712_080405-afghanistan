@@ -346,8 +346,7 @@ Subsequent public acknowledgements by France represented another significant shi
 
 For many Cameroonians, the issue now extends beyond historical accuracy. It concerns recognition of victims, preservation of testimony, access to archives and how future generations understand the country's path to independence.
 
-## Why the mystery still matters
-
+## The historical picture around Hidden War
 The hidden war behind Cameroon's independence illustrates how historical mysteries can arise not from a lack of events but from the long suppression of their documentation and memory.
 
 The broad outline is now well established: a nationalist movement was banned, repression evolved into a prolonged war, French involvement continued after independence, and widespread violence affected civilians across several regions. What remains uncertain are the precise death toll, the full reconstruction of command decisions and the completeness of the surviving documentary record.

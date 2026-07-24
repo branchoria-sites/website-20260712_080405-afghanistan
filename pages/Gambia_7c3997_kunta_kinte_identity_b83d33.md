@@ -320,8 +320,7 @@ The historical debate therefore changed the interpretation of *Roots* rather tha
 
 <img src="{{ "/assets/images/Gambia_7c3997_kunta_kinte_identity_b83d33-Illustration-3-dark.svg" | relative_url }}" alt="Kunta Kinte illustration 3" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997_kunta_kinte_identity_b83d33-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997_kunta_kinte_identity_b83d33-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Endures
-
+## Questions left unresolved by Kunta Kinte
 The inability to prove Kunta Kinte's identity reflects a broader problem facing descendants of enslaved Africans. The transatlantic slave trade systematically destroyed personal records, separated families and replaced African names with names assigned by enslavers. For countless individuals, the documentary trail simply ends at the point of capture.
 
 Oral traditions can preserve remarkable historical knowledge, but they are strongest when supported by independent evidence. In Kunta Kinte's case, neither the oral testimony nor the surviving archives are complete enough to establish the chain of identity beyond reasonable doubt.

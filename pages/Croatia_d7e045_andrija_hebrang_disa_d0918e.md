@@ -344,8 +344,7 @@ After Croatia moved towards independence, this interpretation changed dramatical
 
 His disappearance has since become part of a wider reassessment of political repression in post-war Yugoslavia. Rather than focusing only on ideological conflict between Tito and Stalin, historians increasingly examine the functioning of the security services, the use of fabricated accusations and the difficulties created by incomplete archives.
 
-## Why the case still matters
-
+## The unresolved legacy of Hebrang
 The mystery surrounding Andrija Hebrang is significant because it combines documented political persecution with crucial missing evidence. His arrest, imprisonment and political downfall are firmly established. What happened after that remains uncertain.
 
 The balance of modern historical opinion has shifted away from accepting the official suicide story at face value. Many historians now regard an extrajudicial killing carried out by or within the Yugoslav security apparatus as the most plausible explanation. Yet because no grave has been confirmed, no body recovered and no definitive archival record has emerged, that conclusion cannot be proved beyond doubt.

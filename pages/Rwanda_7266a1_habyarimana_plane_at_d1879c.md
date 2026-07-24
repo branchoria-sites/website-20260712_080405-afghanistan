@@ -325,8 +325,7 @@ Although disagreement persists over responsibility, several conclusions command 
 
 </div>
 
-## Why the mystery still matters
-
+## Plane Attack in the wider historical record
 The destruction of Habyarimana's aircraft remains central to understanding Rwanda's recent history because it sits at the intersection of military evidence, political responsibility and collective memory.
 
 The identity of the attackers has implications far beyond one assassination. It shapes competing narratives about the final collapse of the Arusha peace process, the planning of the genocide, the conduct of the civil war and the legitimacy of rival political claims that continue to influence regional and international debate.

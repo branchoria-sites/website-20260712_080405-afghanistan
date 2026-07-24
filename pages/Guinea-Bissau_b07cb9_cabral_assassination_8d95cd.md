@@ -323,8 +323,7 @@ Even Portuguese diplomatic reporting from the period recognised that internal fa
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yG3aQe8BtU8" title="Amílcar Cabral: Who killed Guinea-Bissau’s Revolutionary Leader?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yG3aQe8BtU8" target="_blank" rel="noopener noreferrer">Amílcar Cabral: Who killed Guinea-Bissau’s Revolutionary Leader?</a></p><p class="youtube-embed-meta">Channel: HistoryVille</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yG3aQe8BtU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yG3aQe8BtU8">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery remains unresolved
-
+## What would clarify Cabral
 The debate persists because several obstacles prevent a definitive answer.
 
 First, intelligence operations are deliberately secretive, and surviving archives are incomplete. If covert assistance was provided indirectly through intermediaries, it may never have been fully documented.

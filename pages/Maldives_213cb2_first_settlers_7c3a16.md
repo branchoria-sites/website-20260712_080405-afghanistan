@@ -354,8 +354,7 @@ This interpretation also explains why Maldivian culture contains influences from
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v91ngjCx3VM" title="Maldives Through Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v91ngjCx3VM" target="_blank" rel="noopener noreferrer">Maldives Through Time</a></p><p class="youtube-embed-meta">Channel: Countries History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v91ngjCx3VM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v91ngjCx3VM">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Questions left unresolved by First Settlers
 The question of the Maldives' first settlers is important because it shapes how the country's earliest history is understood. Instead of revealing an isolated island kingdom founded by one people, the available evidence points to a society that developed through centuries of movement across the Indian Ocean.
 
 The mystery is therefore not simply "Who arrived first?" but "How did repeated migrations create a distinct Maldivian identity?" Archaeology confirms an ancient pre-Islamic civilisation, genetics demonstrates multiple ancestral sources, and language preserves traces of diverse cultural contacts. Together they suggest that the Maldives emerged as a maritime crossroads whose history cannot be reduced to a single founding event.

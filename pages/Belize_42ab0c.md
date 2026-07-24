@@ -210,12 +210,12 @@ hero_summary: 'Belize’s most compelling historical mysteries are not stories o
 layout: default
 permalink: /what-really-happened-in-belizes-greatest/
 nav_short_title: What Really Happened in Belize's Greatest Mysteries?
-title: What Really Happened in Belize's Greatest Mysteries?
+title: "Lost Records and Unsolved Questions in Belize"
 title_full: What Really Happened in Belize's Greatest Mysteries?
 display_title_short: What Really Happened in Belize's Greatest Mysteries?
-display_title: What Really Happened in Belize's Greatest Mysteries?
+display_title: "Lost Records and Unsolved Questions in Belize"
 heading_title: What Really Happened in Belize's Greatest Mysteries?
-page_heading_title: What Really Happened in Belize's Greatest Mysteries?
+page_heading_title: "Lost Records and Unsolved Questions in Belize"
 source_count: 65
 infographic_count: 3
 page_website_name: Belize Mysteries

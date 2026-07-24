@@ -210,12 +210,12 @@ hero_summary: 'Saint Kitts and Nevis has one outstanding historical mystery: wha
 layout: default
 permalink: /saint-kitts-and-nevis/
 nav_short_title: What Really Happened in Saint Kitts and Nevis?
-title: What Really Happened in Saint Kitts and Nevis?
+title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
 title_full: What Really Happened in Saint Kitts and Nevis?
 display_title_short: What Really Happened in Saint Kitts and Nevis?
-display_title: What Really Happened in Saint Kitts and Nevis?
+display_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
 heading_title: What Really Happened in Saint Kitts and Nevis?
-page_heading_title: What Really Happened in Saint Kitts and Nevis?
+page_heading_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
 source_count: 85
 infographic_count: 3
 page_website_name: Saint Kitts and Nevis Mysteries

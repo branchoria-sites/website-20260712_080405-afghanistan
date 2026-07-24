@@ -351,8 +351,7 @@ The cathedral crypts preserve remains from multiple historical periods, includin
 
 The recovery in late 2024 of long-hidden royal burial regalia concealed during the Second World War showed that important discoveries can still emerge from the cathedral complex. However, those objects belonged to much later fifteenth- and sixteenth-century rulers and provide no direct evidence about Mindaugas himself. Their significance lies in demonstrating that parts of the cathedral still contain archaeological surprises rather than in identifying the king's lost grave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://visitvilnius.lt/en/see/vilnius-cathedral-crypts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitvilnius.lt">[VisitVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitvilnius.lt</span><span class="citation-popover-title">Visit Vilnius.lt Vilnius Cathedral Crypts — Attractions in Vilnius</span><span class="citation-popover-snippet">Vilnius Cathedral Crypts — Attractions in Vilnius...</span></span></span>
 
-## Why the mystery still matters
-
+## Mindaugas in the wider historical record
 The search for Mindaugas's grave is about more than locating a missing tomb. It touches on the origins of the Lithuanian state, the brief establishment of its only medieval kingdom and the fragile transition between pagan and Christian traditions.
 
 Unlike many historical mysteries that survive because of elaborate legends, this one persists because the evidence is genuinely incomplete. The absence of a securely identified burial reflects the political upheaval that followed Mindaugas's assassination and the fragmentary nature of Lithuania's earliest written record.

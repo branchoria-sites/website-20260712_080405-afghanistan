@@ -210,12 +210,12 @@ hero_summary: Madagascar’s most compelling historical mysteries are not tales 
 layout: default
 permalink: /what-really-happened-in-madagascars/
 nav_short_title: What Really Happened in Madagascar's Mysterious Past?
-title: What Really Happened in Madagascar's Mysterious Past?
+title: "Evidence, Legend and Mystery in Madagascar's Past"
 title_full: What Really Happened in Madagascar's Mysterious Past?
 display_title_short: What Really Happened in Madagascar's Mysterious Past?
-display_title: What Really Happened in Madagascar's Mysterious Past?
+display_title: "Evidence, Legend and Mystery in Madagascar's Past"
 heading_title: What Really Happened in Madagascar's Mysterious Past?
-page_heading_title: What Really Happened in Madagascar's Mysterious Past?
+page_heading_title: "Evidence, Legend and Mystery in Madagascar's Past"
 source_count: 108
 infographic_count: 3
 page_website_name: Madagascar Mysteries

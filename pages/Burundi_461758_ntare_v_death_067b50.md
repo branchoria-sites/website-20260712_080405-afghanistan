@@ -312,8 +312,7 @@ This leaves a striking contrast between the death itself and the physical eviden
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-qtPWGG3ydg" title="King Mwami Mwambutsa IV of Burundi Meets Kenyan President Jomo Kenyatta | Nairobi | November 1965" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-qtPWGG3ydg" target="_blank" rel="noopener noreferrer">King Mwami Mwambutsa IV of Burundi Meets Kenyan President Jomo Kenyatta | Nairobi | November 1965</a></p><p class="youtube-embed-meta">Channel: Adeyinka Makinde</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-qtPWGG3ydg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-qtPWGG3ydg">Open on YouTube</a></p></div></div></div>
 
-## Why the Mystery Still Matters
-
+## The historical picture around Ntare V
 The disappearance of Ntare V's body has significance far beyond the fate of one individual.
 
 For many Burundians, recovering and identifying the last king's remains would represent an important act of historical recognition rather than a restoration of monarchy. A confirmed burial place would provide a tangible conclusion to a national trauma and resolve one of the country's most persistent unanswered questions.

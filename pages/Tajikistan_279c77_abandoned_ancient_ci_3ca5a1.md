@@ -305,8 +305,7 @@ Modern archaeological methods also help refine older theories. Radiocarbon datin
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t-lQ9pyhPbY" title="Sarazm - World Heritage Site of Tajikistan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t-lQ9pyhPbY" target="_blank" rel="noopener noreferrer">Sarazm - World Heritage Site of Tajikistan</a></p><p class="youtube-embed-meta">Channel: HoonArts Fair Trade</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t-lQ9pyhPbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t-lQ9pyhPbY">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## The historical picture around Lost Cities
 Sarazm and ancient Panjikent are often grouped together as Tajikistan's "lost cities", yet their histories illustrate two very different pathways to abandonment. Sarazm demonstrates how a prosperous settlement can slowly lose its regional importance over centuries as trade, resources and settlement patterns evolve. Panjikent shows how military conquest and political change can rapidly end an urban centre while leaving much of its physical fabric intact.
 
 The enduring mystery is therefore not simply why these cities were abandoned, but how different combinations of environmental conditions, commerce, politics and migration reshaped Central Asia across widely separated periods. Ongoing excavations continue to refine that picture, replacing simple stories of mysterious disappearance with a richer understanding of how ancient societies adapted—or failed to adapt—to changing worlds.

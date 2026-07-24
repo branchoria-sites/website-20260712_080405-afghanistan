@@ -298,8 +298,7 @@ Even so, scepticism remains. Other specialists argue that the proposed diagnosti
 
 <img src="{{ "/assets/images/Chad_6c6b1b_toumai_bipedalism_de_5c778c-Illustration-3-dark.svg" | relative_url }}" alt="Toumai illustration 3" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b_toumai_bipedalism_de_5c778c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b_toumai_bipedalism_de_5c778c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## The unresolved legacy of Toumai
 The mystery surrounding Toumaï is larger than a single fossil. It influences how scientists reconstruct one of the defining transitions in human evolution: the emergence of habitual walking on two legs.
 
 If Toumaï was truly bipedal, then upright walking evolved very close to the divergence between humans and chimpanzees and may have appeared before many other recognisably human characteristics, including larger brains. If the fossil instead represents an extinct ape outside the human lineage, then the search for the earliest unquestioned hominin shifts elsewhere.

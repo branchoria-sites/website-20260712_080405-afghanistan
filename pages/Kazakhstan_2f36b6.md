@@ -1296,8 +1296,7 @@ Reliable reconstruction is hard because radiation did not fall evenly, personal 
 
 Semipalatinsk also shows how secrecy can survive the opening of a physical site. Craters, tunnels and abandoned facilities are visible, yet the human record remains incomplete. Families may know that several relatives developed cancer or other illnesses but cannot obtain a simple document proving that a particular test caused a particular death. Historical responsibility is clear at the programme level while medical causation remains difficult to demonstrate case by case.
 
-## Why these mysteries endure
-
+## Questions left unresolved by Kazakhstan's historical mysteries
 Kazakhstan’s major historical enigmas fall into three broad patterns. Archaeological cases such as the Golden Man and [Turgai geoglyphs]({{ 'turgai-geoglyphs/' | relative_url }}) survive because material evidence is incomplete and ancient societies left few readable texts. Imperial mysteries such as Kenesary Khan’s remains persist because objects and records were removed across borders. Soviet-era cases endure because secrecy, repression and mass mobilisation produced archives that are fragmented, inaccessible or deliberately misleading.
 
 The cases also show why not every unanswered question deserves an extravagant theory. The [Otrar library]({{ 'otrar-library/' | relative_url }}) may preserve a cultural memory of real scholarship without having existed in the legendary form later described. The Turgai earthworks do not require visitors from the sky merely because their shapes are most striking from a satellite. Conflicting wartime records are more likely to reflect bureaucratic collapse and political concealment than a single organised plot to erase every missing soldier.

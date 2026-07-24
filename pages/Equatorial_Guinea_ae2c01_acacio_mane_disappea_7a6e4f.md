@@ -331,8 +331,7 @@ The distinction is important. Official recognition strengthens the conclusion th
 
 <img src="{{ "/assets/images/Equatorial_Guinea_ae2c01_acacio_mane_disappea_7a6e4f-Illustration-3-dark.svg" | relative_url }}" alt="Acacio Mane illustration 3" data-theme-src-dark="{{ "/assets/images/Equatorial_Guinea_ae2c01_acacio_mane_disappea_7a6e4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Equatorial_Guinea_ae2c01_acacio_mane_disappea_7a6e4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Acacio Mane
 Acacio Mañé's disappearance illustrates how historical mysteries can arise from secrecy rather than from a lack of evidence altogether. The broad outline is now reasonably clear: an influential nationalist leader entered colonial custody and never reappeared. Yet the details that would allow historians to write a complete account remain missing.
 
 For Equatorial Guinea, the case has become a symbol of the hidden violence that accompanied the final decade of Spanish rule. For historians of colonialism, it demonstrates the limits of reconstruction when bodies are never recovered, archives remain incomplete and official accountability was never pursued.

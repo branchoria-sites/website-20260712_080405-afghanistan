@@ -1294,8 +1294,7 @@ Thule also remains part of a wider historical argument about whose safety and po
 
 <img src="{{ "/assets/images/Denmark_89da12-Illustration-3-dark.svg" | relative_url }}" alt="What Can Denmark&#x27;s Greatest Mysteries Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Denmark_89da12-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denmark_89da12-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these mysteries endure
-
+## Denmark's historical mysteries in the wider historical record
 Denmark’s major historical enigmas survive for different reasons. In the Erik Klipping case, medieval documentation is too limited and partisan to identify the full conspiracy. With Tollund Man and Haraldskær Woman, preserved bodies provide intimate biological evidence but no testimony explaining their deaths. The Golden Horns cannot be re-examined because the originals were melted down. Greenland’s Norse settlements declined without leaving a final written account. At Thule, secrecy and incomplete records blurred the difference between missing material and a missing weapon.
 
 They also illustrate recurring ways in which myths form:

@@ -353,8 +353,7 @@ As a result, the prevailing scholarly position is not that the treasure certainl
 
 <img src="{{ "/assets/images/Jordan_674027_copper_scroll_treasu_e24f64-Illustration-3-dark.svg" | relative_url }}" alt="Copper Scroll illustration 3" data-theme-src-dark="{{ "/assets/images/Jordan_674027_copper_scroll_treasu_e24f64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_copper_scroll_treasu_e24f64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Copper Scroll in the wider historical record
 The Copper Scroll occupies a unique place among the Dead Sea Scrolls because it combines archaeology, history and the enduring appeal of a lost treasure without yielding a definitive answer. Unlike fictional treasure maps, it is a genuine ancient document whose purpose remains uncertain.
 
 Its importance extends beyond the possibility of hidden gold. The scroll offers a rare glimpse into a period of political upheaval at the end of the Second Temple era and raises questions about how people sought to preserve wealth during war and crisis. It also demonstrates how even exceptionally well-preserved archaeological finds can leave historians with more questions than answers.

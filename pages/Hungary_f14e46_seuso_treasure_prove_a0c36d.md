@@ -348,8 +348,7 @@ The repatriation did not resolve the archaeological mystery. Modern research pro
 
 <img src="{{ "/assets/images/Hungary_f14e46_seuso_treasure_prove_a0c36d-Illustration-3-dark.svg" | relative_url }}" alt="Seuso Treasure illustration 3" data-theme-src-dark="{{ "/assets/images/Hungary_f14e46_seuso_treasure_prove_a0c36d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hungary_f14e46_seuso_treasure_prove_a0c36d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## The unresolved legacy of Seuso Treasure
 The Seuso Treasure remains one of Hungary's most significant historical mysteries because the central question has never been conclusively answered. The silver itself is genuine, exceptionally well preserved and securely dated to the late Roman Empire. The uncertainty lies entirely in its modern history.
 
 Today, many archaeologists consider a Hungarian origin the most persuasive explanation, drawing together the Pelso inscription, the Polgárdi silver stand, regional archaeological evidence and historical testimony. Yet none of these strands has supplied the definitive proof required to identify the precise place where the treasure emerged from the ground.

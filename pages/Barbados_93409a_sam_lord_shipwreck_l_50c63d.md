@@ -327,8 +327,7 @@ This does not entirely exclude the possibility that Lord profited from maritime 
 
 <img src="{{ "/assets/images/Barbados_93409a_sam_lord_shipwreck_l_50c63d-Illustration-3-dark.svg" | relative_url }}" alt="Sam Lord illustration 3" data-theme-src-dark="{{ "/assets/images/Barbados_93409a_sam_lord_shipwreck_l_50c63d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a_sam_lord_shipwreck_l_50c63d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Questions left unresolved by Sam Lord
 Sam Lord's story illustrates how historical memory develops when documentary evidence is incomplete but folklore is compelling. Unlike many historical mysteries that depend on missing artefacts or unexplained events, this case centres on the gap between reputation and proof.
 
 For Barbados, the legend has become part of the island's cultural landscape, linking maritime danger, colonial wealth and tourism into a single enduring narrative. The continuing debate is less about whether shipwrecks occurred—they unquestionably did—and more about whether one remarkable individual deliberately turned those natural hazards into a criminal enterprise. Until new archival evidence emerges, Sam Lord is likely to remain suspended between history and folklore: remembered as Barbados's legendary "ship-wrecking pirate", but never conclusively proven to have been one.

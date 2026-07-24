@@ -332,8 +332,7 @@ Some commentators have suggested that rivals within Panama's military, including
 
 While it is true that Panama's military leadership changed significantly after the crash, evidence demonstrating that senior officers organised the accident has never emerged publicly. As with foreign assassination theories, the argument depends largely on motive rather than documented operational evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/files/declassification/iscap/pdf/2016-220-pt-3-release-material-completed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">2016 220 pt 3 release material completed</span><span class="citation-popover-snippet">National ArchivesDuring the Cold War 1945-1989; Book IV: Cryptologic Rebirth, 1981-1989...</span></span></span>
 
-## Why the Mystery Endures
-
+## Torrijos Crash in the wider historical record
 The Torrijos crash occupies an unusual place in Panama's historical memory because the uncertainty comes less from missing facts about the accident than from distrust surrounding the political environment in which it occurred.
 
 Aircraft accidents involving national leaders often generate suspicion, especially during periods of geopolitical rivalry. In this case, Torrijos's importance, the secrecy characteristic of Cold War intelligence operations and the dramatic political changes that followed all encouraged people to question whether the official explanation told the whole story.

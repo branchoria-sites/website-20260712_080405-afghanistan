@@ -365,8 +365,7 @@ At Hatteras Island and inland sites, archaeology continues to recover isolated f
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UUd_sV4z-DE" title="Lost Colony of Roanoke Mystery Explained: 7 Theories Ranked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UUd_sV4z-DE" target="_blank" rel="noopener noreferrer">Lost Colony of Roanoke Mystery Explained: 7 Theories Ranked</a></p><p class="youtube-embed-meta">Channel: Parry This</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UUd_sV4z-DE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UUd_sV4z-DE">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Questions left unresolved by Roanoke
 Roanoke remains famous because it illustrates the difference between a genuine historical mystery and a popular legend.
 
 The strongest evidence no longer supports the idea that the colonists vanished without trace. Instead, it suggests that they acted rationally in response to isolation, food shortages and uncertainty by seeking help from neighbouring Indigenous communities or relocating to planned inland sites. What remains unresolved is the scale of that movement, how many survived, where different groups settled and how long they maintained an English identity before becoming absorbed into surrounding societies.

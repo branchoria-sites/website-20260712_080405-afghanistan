@@ -339,8 +339,7 @@ The discovery that would transform the field would be another inscription writte
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vARe7Xcwkhs" title="Ancient Mystery Solved? NEW Explanation for the Phaistos Disc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vARe7Xcwkhs" target="_blank" rel="noopener noreferrer">Ancient Mystery Solved? NEW Explanation for the Phaistos Disc</a></p><p class="youtube-embed-meta">Channel: Ancient Architects</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vARe7Xcwkhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vARe7Xcwkhs">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Questions left unresolved by Phaistos Disc
 The enduring fascination of the Phaistos Disc comes from the way it illustrates the limits of historical knowledge rather than the promise of a hidden secret waiting to be decoded.
 
 Unlike many famous archaeological puzzles, the obstacle is not missing technology but missing evidence. Scholars possess the object itself in excellent condition, understand how it was manufactured, and can describe its symbols in detail. What they lack is the wider body of inscriptions needed to verify any interpretation.

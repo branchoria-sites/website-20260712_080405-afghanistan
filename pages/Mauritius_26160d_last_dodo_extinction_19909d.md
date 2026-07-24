@@ -343,8 +343,7 @@ These approaches do not necessarily contradict one another. It is entirely possi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KEivrJeeKB4" title="Did the Dodo Really Go Extinct? The Mystery Hidden in Mauritius 🦤" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KEivrJeeKB4" target="_blank" rel="noopener noreferrer">Did the Dodo Really Go Extinct? The Mystery Hidden in Mauritius 🦤</a></p><p class="youtube-embed-meta">Channel: Tekweni</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KEivrJeeKB4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KEivrJeeKB4">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Last Dodo in the wider historical record
 The dodo has become the world's best-known symbol of extinction, yet one of the most basic questions about its disappearance remains unanswered. The uncertainty illustrates how easily an animal can vanish before anyone realises that careful documentation is needed.
 
 For Mauritius, the mystery also highlights the limitations of colonial archives. The records preserve valuable fragments of information but leave crucial gaps about the island's natural world. Rather than pointing to a hidden conspiracy or a lost surviving population, the debate shows how history is reconstructed from incomplete evidence.

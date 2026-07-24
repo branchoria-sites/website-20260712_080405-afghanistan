@@ -210,12 +210,12 @@ hero_summary: Tunisia’s most compelling historical mysteries are not stories o
 layout: default
 permalink: /what-really-happened-in-tunisias/
 nav_short_title: What Really Happened in Tunisia's Greatest Mysteries?
-title: What Really Happened in Tunisia's Greatest Mysteries?
+title: "Which Parts of Tunisia's Past Remain Unexplained?"
 title_full: What Really Happened in Tunisia's Greatest Mysteries?
 display_title_short: What Really Happened in Tunisia's Greatest Mysteries?
-display_title: What Really Happened in Tunisia's Greatest Mysteries?
+display_title: "Which Parts of Tunisia's Past Remain Unexplained?"
 heading_title: What Really Happened in Tunisia's Greatest Mysteries?
-page_heading_title: What Really Happened in Tunisia's Greatest Mysteries?
+page_heading_title: "Which Parts of Tunisia's Past Remain Unexplained?"
 source_count: 108
 infographic_count: 3
 page_website_name: Tunisia Mysteries

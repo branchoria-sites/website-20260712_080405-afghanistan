@@ -353,8 +353,7 @@ Environmental change presents another obstacle. Hurricanes, erosion, shifting sa
 
 No securely dated archaeological site has yet produced an unmistakable combination of evidence tying it directly to Columbus's first landing. Until such evidence appears, archaeology can narrow possibilities but cannot eliminate all alternatives.
 
-## Why the mystery endures
-
+## The unresolved legacy of Columbus Landfall
 The continuing debate illustrates how historical uncertainty often survives despite extensive research.
 
 Several factors combine to keep the question open:

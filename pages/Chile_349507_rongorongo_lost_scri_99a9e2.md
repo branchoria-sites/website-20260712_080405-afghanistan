@@ -352,8 +352,7 @@ However, scholars remain cautious because structured symbols do not automaticall
 
 <img src="{{ "/assets/images/Chile_349507_rongorongo_lost_scri_99a9e2-Illustration-3-dark.svg" | relative_url }}" alt="Rongorongo illustration 3" data-theme-src-dark="{{ "/assets/images/Chile_349507_rongorongo_lost_scri_99a9e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chile_349507_rongorongo_lost_scri_99a9e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery matters
-
+## The historical picture around Rongorongo
 The importance of rongorongo extends well beyond Rapa Nui.
 
 If it proves to be an independently invented writing system, it would become one of the very few known cases in world history where writing emerged without borrowing from earlier literate cultures. Such a conclusion would reshape understanding of cultural innovation in the Pacific and challenge long-standing assumptions about the island's intellectual history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://doi.org/10.1038%2Fs41598-024-53063-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doi.org">[DOI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doi.org</span><span class="citation-popover-snippet">The invention of writing on Rapa Nui (Easter Island). New radiocarbon dates on the Rongorongo script &#124; Scientific ReportsFebruary 2, 2024...</span><span class="citation-popover-meta">Published: February 2, 2024</span></span></span>

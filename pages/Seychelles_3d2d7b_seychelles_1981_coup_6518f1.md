@@ -337,8 +337,7 @@ This distinction remains important. The available documentary record strongly su
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b_seychelles_1981_coup_6518f1-Illustration-3-dark.svg" | relative_url }}" alt="Mercenary Coup illustration 3" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b_seychelles_1981_coup_6518f1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b_seychelles_1981_coup_6518f1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## The historical picture around Mercenary Coup
 The unresolved questions survive because many of the people involved had incentives to minimise or exaggerate official backing.
 
 Hoare had reasons to portray himself as acting with government approval rather than as an independent mercenary. Conversely, apartheid officials had strong political reasons to deny involvement in an illegal attempt to overthrow another sovereign state during the Cold War. Intelligence operations also left incomplete documentary records, and some records may never have been preserved or released.

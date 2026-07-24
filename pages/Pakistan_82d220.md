@@ -210,12 +210,12 @@ hero_summary: Pakistan’s most enduring historical mysteries are not a single c
 layout: default
 permalink: /what-really-happened-in-pakistans/
 nav_short_title: What Really Happened in Pakistan's Greatest Mysteries?
-title: What Really Happened in Pakistan's Greatest Mysteries?
+title: "Pakistan: What the Historical Record Still Cannot Settle"
 title_full: What Really Happened in Pakistan's Greatest Mysteries?
 display_title_short: What Really Happened in Pakistan's Greatest Mysteries?
-display_title: What Really Happened in Pakistan's Greatest Mysteries?
+display_title: "Pakistan: What the Historical Record Still Cannot Settle"
 heading_title: What Really Happened in Pakistan's Greatest Mysteries?
-page_heading_title: What Really Happened in Pakistan's Greatest Mysteries?
+page_heading_title: "Pakistan: What the Historical Record Still Cannot Settle"
 source_count: 103
 infographic_count: 3
 page_website_name: Pakistan Mysteries

@@ -210,12 +210,12 @@ hero_summary: Uruguay’s most important historical mysteries are not tales of s
 layout: default
 permalink: /which-mysteries-still-haunt-uruguays/
 nav_short_title: Which Mysteries Still Haunt Uruguay's History?
-title: Which Mysteries Still Haunt Uruguay's History?
+title: "Tracing Uruguay's Greatest Historical Mysteries"
 title_full: Which Mysteries Still Haunt Uruguay's History?
 display_title_short: Which Mysteries Still Haunt Uruguay's History?
-display_title: Which Mysteries Still Haunt Uruguay's History?
+display_title: "Tracing Uruguay's Greatest Historical Mysteries"
 heading_title: Which Mysteries Still Haunt Uruguay's History?
-page_heading_title: Which Mysteries Still Haunt Uruguay's History?
+page_heading_title: "Tracing Uruguay's Greatest Historical Mysteries"
 source_count: 87
 infographic_count: 3
 page_website_name: Uruguay Mysteries

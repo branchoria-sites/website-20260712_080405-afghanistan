@@ -359,8 +359,7 @@ This distinction matters because outside observers sometimes confuse ordinary ta
 
 The sacred importance of tabots is also reflected in international debates over cultural heritage. Several tabots taken by British forces during the 1868 expedition to Maqdala remain outside Ethiopia, although some institutions have returned or agreed in principle to return examples because of their exceptional religious significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/feb/19/westminster-abbey-agrees-in-principle-to-return-sacred-tablet-to-ethiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The tabot, which symbolically represents the Ark of the Covenant and the Ten Commandments, was looted by British forces in 1868 during th...</span></span></span>
 
-## Why the Mystery Endures
-
+## Aksum Ark in the wider historical record
 The Aksum Ark remains compelling precisely because it cannot be resolved by ordinary historical methods.
 
 If the chapel were opened for scientific examination, researchers could potentially determine:

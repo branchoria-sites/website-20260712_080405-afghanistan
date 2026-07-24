@@ -210,12 +210,12 @@ hero_summary: Mongolia’s most compelling historical mysteries are not a collec
 layout: default
 permalink: /what-really-happened-in-mongolias/
 nav_short_title: What Really Happened in Mongolia's Greatest Mysteries?
-title: What Really Happened in Mongolia's Greatest Mysteries?
+title: "Lost Records and Unsolved Questions in Mongolia"
 title_full: What Really Happened in Mongolia's Greatest Mysteries?
 display_title_short: What Really Happened in Mongolia's Greatest Mysteries?
-display_title: What Really Happened in Mongolia's Greatest Mysteries?
+display_title: "Lost Records and Unsolved Questions in Mongolia"
 heading_title: What Really Happened in Mongolia's Greatest Mysteries?
-page_heading_title: What Really Happened in Mongolia's Greatest Mysteries?
+page_heading_title: "Lost Records and Unsolved Questions in Mongolia"
 source_count: 108
 infographic_count: 3
 page_website_name: Mongolia Mysteries

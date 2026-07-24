@@ -347,8 +347,7 @@ The consensus among specialists today is therefore narrower than public debate s
 
 <img src="{{ "/assets/images/Sweden_72ddd2_raoul_wallenberg_dis_d1ab33-Illustration-3-dark.svg" | relative_url }}" alt="Wallenberg illustration 3" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_raoul_wallenberg_dis_d1ab33-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_raoul_wallenberg_dis_d1ab33-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Wallenberg
 The significance of the Wallenberg case extends beyond the fate of one individual.
 
 It illustrates how authoritarian secrecy can permanently damage the historical record. Even after the opening of some Soviet archives, investigators found evidence of missing files, contradictory paperwork and unexplained gaps in prison documentation. The result is a rare modern historical case in which substantial documentation exists, yet the decisive evidence appears to have been lost, destroyed or remains inaccessible.

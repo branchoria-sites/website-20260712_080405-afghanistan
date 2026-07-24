@@ -330,8 +330,7 @@ Because no definitive archaeological investigation has identified the original g
 
 <img src="{{ "/assets/images/Nauru_f648c7_five_australians_mis_2ac8f5-Illustration-3-dark.svg" | relative_url }}" alt="Missing Grave illustration 3" data-theme-src-dark="{{ "/assets/images/Nauru_f648c7_five_australians_mis_2ac8f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nauru_f648c7_five_australians_mis_2ac8f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Missing Grave
 The mystery of the five Australians is unusual because the central crime is no longer in doubt. Australian military investigations and the subsequent conviction of Lieutenant Hiromi Nakayama established that the executions were deliberate wartime murders rather than accidental deaths during an air raid.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/help-your-research/fact-sheets/world-war-ii-war-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAWorld War 2 war crimes &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAWorld War 2 war crimes &#124; naa.gov.au</span></span></span>
 
 What remains unresolved is narrower but historically important: the precise method by which each victim died, the exact sequence of the executions and, above all, where the bodies were first buried before the Japanese concealed the evidence. Those missing details illustrate a wider problem in Nauru's wartime history. Even where responsibility can be established, destroyed records, contradictory testimony and vanished physical evidence leave enduring gaps that cannot easily be filled.

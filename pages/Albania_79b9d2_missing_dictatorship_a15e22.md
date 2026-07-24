@@ -342,8 +342,7 @@ International assessments have therefore emphasised the need for sustained inves
 
 <img src="{{ "/assets/images/Albania_79b9d2_missing_dictatorship_a15e22-Illustration-3-dark.svg" | relative_url }}" alt="Missing Victims illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_missing_dictatorship_a15e22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_missing_dictatorship_a15e22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Missing Victims
 Finding Albania's missing dictatorship victims is about more than recovering human remains. Every confirmed identification restores part of an individual's history, replaces decades of uncertainty with documented evidence and allows families to hold a proper burial.
 
 The mystery also illustrates how authoritarian governments can erase people not only through imprisonment and execution but by concealing the physical evidence of their deaths. Even decades after the collapse of the regime, Albania's unresolved graves remain both a humanitarian issue and a historical puzzle. Each newly identified victim helps reconstruct a more accurate record of what happened during the dictatorship, while the thousands of people who remain missing continue to represent one of the country's most enduring unresolved legacies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://icmp.int/what-we-do/geographic-programs/albania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmp.int">[icmp.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmp.int</span><span class="citation-popover-snippet">Albania - International Commission on Missing Persons...</span></span></span>

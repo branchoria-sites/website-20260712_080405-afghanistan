@@ -316,8 +316,7 @@ This hypothesis explains the uncertainty surrounding associated coins and some s
 
 <img src="{{ "/assets/images/Tajikistan_279c77_oxus_treasure_origin_47b495-Illustration-3-dark.svg" | relative_url }}" alt="Oxus Treasure illustration 3" data-theme-src-dark="{{ "/assets/images/Tajikistan_279c77_oxus_treasure_origin_47b495-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tajikistan_279c77_oxus_treasure_origin_47b495-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## Oxus Treasure in the wider historical record
 The unresolved provenance affects far more than the treasure's catalogue description.
 
 Knowing exactly where the objects were found would help archaeologists understand how the eastern provinces of the Achaemenid Empire functioned, how Persian religious practices spread into Central Asia, and how wealth circulated along the Oxus frontier. A secure archaeological context could reveal whether the objects belonged to a temple economy, an aristocratic household or a royal administrative centre.

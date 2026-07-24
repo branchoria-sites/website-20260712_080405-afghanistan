@@ -304,8 +304,7 @@ Importantly, the memorial is not a complete cemetery for all victims. It contain
 
 <img src="{{ "/assets/images/Singapore_20c0b7_sook_ching_missing_d_124bd2-Illustration-3-dark.svg" | relative_url }}" alt="Sook Ching illustration 3" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_sook_ching_missing_d_124bd2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_sook_ching_missing_d_124bd2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## The unresolved legacy of Sook Ching
 The unresolved questions surrounding Sook Ching arise from missing evidence rather than competing conspiracy theories.
 
 Several factors ensure that some uncertainty is likely to remain permanent:

@@ -328,8 +328,7 @@ The third concerns institutional responsibility. Why did an investigation announ
 
 <img src="{{ "/assets/images/Togo_30949d_david_bruce_disappea_f88f64-Illustration-3-dark.svg" | relative_url }}" alt="David Bruce illustration 3" data-theme-src-dark="{{ "/assets/images/Togo_30949d_david_bruce_disappea_f88f64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Togo_30949d_david_bruce_disappea_f88f64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## Questions left unresolved by David Bruce
 David Bruce's disappearance has become more than a missing-person case. It illustrates how historical mysteries can emerge not because evidence never existed, but because institutions fail to preserve, investigate or disclose it.
 
 Unlike folklore or speculative conspiracy theories, this mystery rests on documented events that are widely accepted. The uncertainty lies in what happened after the abduction and why official institutions never produced a credible account.

@@ -300,8 +300,7 @@ That restraint is important because the Oseberg burial reveals something already
 
 <img src="{{ "/assets/images/Norway_988455_oseberg_women_identi_bc7e1a-Illustration-3-dark.svg" | relative_url }}" alt="Oseberg Women illustration 3" data-theme-src-dark="{{ "/assets/images/Norway_988455_oseberg_women_identi_bc7e1a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_oseberg_women_identi_bc7e1a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Oseberg Women
 Unlike many historical mysteries, the Oseberg puzzle is unlikely to be solved by discovering a forgotten manuscript or deciphering a coded message. The evidence consists mainly of bones, artefacts and archaeological context. Scientific advances may yet recover additional genetic or biochemical information, but they cannot create written records that never existed.
 
 For that reason, the search for the Oseberg women's names has become a broader question about the limits of historical knowledge. Archaeology can reconstruct their wealth, health, diet and funeral with remarkable precision, yet it cannot tell us what they called themselves or how their contemporaries remembered them.

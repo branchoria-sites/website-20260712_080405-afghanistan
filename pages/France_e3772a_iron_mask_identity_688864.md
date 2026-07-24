@@ -321,8 +321,7 @@ The gaps in the archive may never be filled. Records have been lost through rout
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEk66OXuKmM" title="Who was the Real Man in the Iron Mask?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEk66OXuKmM" target="_blank" rel="noopener noreferrer">Who was the Real Man in the Iron Mask?</a></p><p class="youtube-embed-meta">Channel: Today I Found Out</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEk66OXuKmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEk66OXuKmM">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Questions left unresolved by Iron Mask
 The hidden identity of the Iron Mask prisoner illustrates an important distinction between historical legend and historical mystery. The legends—the iron helmet, the secret twin of Louis XIV and the elaborate royal conspiracy—have largely been dismantled. The mystery survives because the remaining evidence is incomplete, not because every theory is equally credible.
 
 Today the strongest evidence suggests that the masked prisoner was the man known in official correspondence as Eustache Dauger. Yet that conclusion leaves the essential question unanswered: who was Eustache Dauger really, and what knowledge justified a lifetime of secrecy under one of Europe's most powerful monarchs? Until new contemporary evidence emerges, the identity behind that name—and the reason for his imprisonment—will remain one of [France]({{ 'france/' | relative_url }})'s most enduring unresolved historical puzzles.

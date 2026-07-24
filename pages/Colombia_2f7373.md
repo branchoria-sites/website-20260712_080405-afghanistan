@@ -1294,8 +1294,7 @@ The Palace of Justice remains one of Colombia’s most painful archival mysterie
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nr3A0XZdbBI" title="Could this be the most valuable shipwreck in the world? - BBC World Service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nr3A0XZdbBI" target="_blank" rel="noopener noreferrer">Could this be the most valuable shipwreck in the world? - BBC World Service</a></p><p class="youtube-embed-meta">Channel: BBC World Service</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nr3A0XZdbBI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nr3A0XZdbBI">Open on YouTube</a></p></div></div></div>
 
-## Why these mysteries endure
-
+## The unresolved legacy of Colombia's historical mysteries
 Colombia’s historical enigmas persist for different reasons, and placing them in one sensational category can hide more than it reveals.
 
 **Colonial distortion** transformed Muisca offerings into the fantasy of El Dorado. European writers preserved useful clues while filtering Indigenous ritual through expectations of limitless gold.

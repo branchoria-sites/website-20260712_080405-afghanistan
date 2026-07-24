@@ -349,8 +349,7 @@ These are active archaeological questions rather than unsolved historical riddle
 
 <img src="{{ "/assets/images/Somalia_4dfdf1_laas_geel_painters_ecebba-Illustration-3-dark.svg" | relative_url }}" alt="Laas Geel illustration 3" data-theme-src-dark="{{ "/assets/images/Somalia_4dfdf1_laas_geel_painters_ecebba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Somalia_4dfdf1_laas_geel_painters_ecebba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Laas Geel
 Laas Geel demonstrates both the power and the limits of archaeology. The paintings reveal remarkable artistic skill, careful observation and a society that placed enormous importance on cattle. They also preserve evidence for one of the earliest pastoral cultures known in the Horn of Africa.
 
 Yet the artists remain anonymous. Their names, language, myths and ceremonies disappeared thousands of years before written history reached the region. Every new excavation adds pieces to the puzzle, but the central mystery persists: we can admire the paintings in extraordinary detail while knowing almost nothing about the individual people who climbed beneath these granite shelters to create them.

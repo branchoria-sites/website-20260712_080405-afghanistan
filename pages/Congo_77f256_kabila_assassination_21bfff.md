@@ -325,8 +325,7 @@ This position has become common among historians because it fits the available e
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-foSAdDGVA" title="DR Congo: 20th anniversary of Laurent Désiré Kabila&#x27;s assassination" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-foSAdDGVA" target="_blank" rel="noopener noreferrer">DR Congo: 20th anniversary of Laurent Désiré Kabila&#x27;s assassination</a></p><p class="youtube-embed-meta">Channel: africanews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-foSAdDGVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-foSAdDGVA">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery endures
-
+## Questions left unresolved by Kabila
 Unlike some famous political assassinations, the uncertainty surrounding Laurent Kabila's death does not arise because the identity of the shooter is unknown. Rather, it stems from the absence of convincing answers about command, motive and planning.
 
 Several factors continue to prevent a definitive resolution:

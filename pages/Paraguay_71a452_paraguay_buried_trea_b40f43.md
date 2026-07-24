@@ -350,8 +350,7 @@ Finally, more than 150 years of searching has produced no verified discovery mat
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nm1eqSUEtUU" title="Treasure hunting in Paraguay poses risk to country’s cultural heritage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nm1eqSUEtUU" target="_blank" rel="noopener noreferrer">Treasure hunting in Paraguay poses risk to country’s cultural heritage</a></p><p class="youtube-embed-meta">Channel: CGTN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nm1eqSUEtUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nm1eqSUEtUU">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery endures
-
+## Questions left unresolved by Buried Treasure
 The enduring appeal of Paraguay's lost war treasure has less to do with hidden gold than with the trauma of the Paraguayan War itself.
 
 The conflict destroyed communities, scattered families and erased countless personal records. In that setting, stories about buried wealth offered hope that something valuable from the lost world before the war might still survive beneath the ground.

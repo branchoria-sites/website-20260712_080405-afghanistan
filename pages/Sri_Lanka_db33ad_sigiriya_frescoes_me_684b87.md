@@ -317,8 +317,7 @@ Recent cultural scholarship has likewise examined the Mirror Wall not simply as 
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_sigiriya_frescoes_me_684b87-Illustration-3-dark.svg" | relative_url }}" alt="Sigiriya illustration 3" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_sigiriya_frescoes_me_684b87-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_sigiriya_frescoes_me_684b87-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## The unresolved legacy of Sigiriya
 The enduring puzzle of Sigiriya lies not in hidden chambers or lost treasure but in missing intention. Archaeology can reconstruct Kassapa's ambitious landscape with considerable confidence, yet it cannot recover the explanation that once connected the paintings, architecture and ceremonial route into a single programme.
 
 The surviving evidence supports several conclusions. The frescoes formed part of a much larger visual scheme. The Mirror Wall proves that generations of visitors found the women captivating, but their poems reflect medieval interpretation rather than fifth-century meaning. The architecture was carefully designed to communicate royal authority through spectacle, engineering and movement, yet whether that authority was presented chiefly as political power, sacred kingship or a vision of a mythical mountain remains unresolved.

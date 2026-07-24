@@ -210,12 +210,12 @@ hero_summary: 'Burkina Faso’s strongest historical mysteries are not tales of 
 layout: default
 permalink: /which-mysteries-still-shape-burkina/
 nav_short_title: Which Mysteries Still Shape Burkina Faso's History?
-title: Which Mysteries Still Shape Burkina Faso's History?
+title: "Tracing Burkina Faso's Greatest Historical Mysteries"
 title_full: Which Mysteries Still Shape Burkina Faso's History?
 display_title_short: Which Mysteries Still Shape Burkina Faso's History?
-display_title: Which Mysteries Still Shape Burkina Faso's History?
+display_title: "Tracing Burkina Faso's Greatest Historical Mysteries"
 heading_title: Which Mysteries Still Shape Burkina Faso's History?
-page_heading_title: Which Mysteries Still Shape Burkina Faso's History?
+page_heading_title: "Tracing Burkina Faso's Greatest Historical Mysteries"
 source_count: 104
 infographic_count: 3
 page_website_name: Burkina Faso Mysteries

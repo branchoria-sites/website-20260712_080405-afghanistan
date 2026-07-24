@@ -329,8 +329,7 @@ An equally important unanswered question is whether the two disappearances were 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GaLdHd2J-xM" title="The Suspicious Case of the Reykjavik Confessions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GaLdHd2J-xM" target="_blank" rel="noopener noreferrer">The Suspicious Case of the Reykjavik Confessions</a></p><p class="youtube-embed-meta">Channel: BuzzFeed Unsolved Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GaLdHd2J-xM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GaLdHd2J-xM">Open on YouTube</a></p></div></div></div>
 
-## Why the Case Still Matters
-
+## The historical picture around 1974 Cases
 The 1974 disappearances occupy a unique place in Icelandic history because they combine two enduring mysteries in one story.
 
 The first mystery concerns the missing men themselves. Nearly half a century later, neither Guðmundur nor Geirfinnur has been found, and no definitive account of their fate has emerged.

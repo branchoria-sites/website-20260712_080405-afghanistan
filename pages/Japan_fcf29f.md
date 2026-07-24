@@ -1296,8 +1296,7 @@ Some evidence has suggested that items worn or carried by the offender had unusu
 
 The killings are recent compared with the other mysteries on this page, but they have acquired historical significance through their duration, the scale of the investigation and the extraordinary contrast between the traces left behind and the absence of an arrest. The case may still be solvable: new database matches, family-based genetic investigation where legally permissible, or credible witness information could create a breakthrough. Until that happens, responsible discussion should keep the victims at the centre rather than treating the offender’s behaviour as entertainment.
 
-## Why these mysteries endure
-
+## The historical picture around Japan's historical mysteries
 Japan’s unresolved cases survive for different reasons. Yamatai is obscured by the distance between ancient texts and archaeological interpretation. The Honjo Masamune disappeared during an administrative upheaval in which accurate records were not always preserved. The Shimoyama and Teigin cases were shaped by the instability of occupied Japan and by investigations whose conclusions remain contested. The 300 million yen robbery produced too many weak clues rather than one decisive clue, while the Setagaya investigation demonstrates the limits of forensic evidence without a matching identity.
 
 They also show why “mystery” should not be confused with “conspiracy”. Several cases invite dramatic explanations involving intelligence agencies, secret wartime units or suppressed discoveries. Such possibilities cannot always be ruled out, but possibility is not proof. The most reliable assessment begins by separating three categories:

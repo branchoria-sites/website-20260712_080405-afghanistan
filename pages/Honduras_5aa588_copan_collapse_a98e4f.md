@@ -324,8 +324,7 @@ Later inhabitants dismantled parts of the abandoned ceremonial centre to reuse d
 
 <img src="{{ "/assets/images/Honduras_5aa588_copan_collapse_a98e4f-Illustration-3-dark.svg" | relative_url }}" alt="Copan Collapse illustration 3" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588_copan_collapse_a98e4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588_copan_collapse_a98e4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## The unresolved legacy of Copan Collapse
 Copán's collapse remains a genuine historical mystery because archaeologists can reconstruct the broad sequence of events without fully explaining the exact mechanism that brought sacred kingship to an end.
 
 The strongest evidence no longer supports dramatic theories of a vanished civilisation or a single catastrophic disaster. Instead, research points towards a complex interaction of political fragility, environmental pressures, demographic strain and regional change. Different factors probably reinforced one another until the royal system could no longer sustain itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2824285/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>

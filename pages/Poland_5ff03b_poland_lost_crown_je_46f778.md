@@ -308,8 +308,7 @@ Other surviving items connected with the former treasury include selected ceremo
 
 <img src="{{ "/assets/images/Poland_5ff03b_poland_lost_crown_je_46f778-Illustration-3-dark.svg" | relative_url }}" alt="Crown Jewels illustration 3" data-theme-src-dark="{{ "/assets/images/Poland_5ff03b_poland_lost_crown_je_46f778-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Poland_5ff03b_poland_lost_crown_je_46f778-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Crown Jewels
 Unlike legends of buried wartime treasure, the mystery of Poland's crown jewels is rooted in absence rather than uncertainty over location. Historians possess unusually strong evidence explaining how the regalia disappeared, yet the destruction itself created an enduring historical wound.
 
 The missing crowns became powerful symbols during the nineteenth century, when Poland existed only under partition. Their disappearance represented not merely the loss of valuable objects but the deliberate dismantling of a state's visible identity. For that reason, discussions of the regalia continue to appear in debates about cultural heritage, wartime losses and national memory.

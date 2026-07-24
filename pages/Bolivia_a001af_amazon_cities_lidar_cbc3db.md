@@ -335,8 +335,7 @@ At present, none of these explanations has enough evidence to become the accepte
 
 <img src="{{ "/assets/images/Bolivia_a001af_amazon_cities_lidar_cbc3db-Illustration-3-dark.svg" | relative_url }}" alt="Amazon Cities illustration 3" data-theme-src-dark="{{ "/assets/images/Bolivia_a001af_amazon_cities_lidar_cbc3db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bolivia_a001af_amazon_cities_lidar_cbc3db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## The unresolved legacy of Amazon Cities
 The lidar discoveries replaced an old misconception with a richer historical puzzle. The mystery is no longer whether Bolivia's Amazon supported organised societies—it clearly did—but how those societies achieved large-scale engineering in a seasonally flooded landscape and why that system ultimately came to an end.
 
 The findings also serve as a reminder that archaeological visibility is not the same as historical importance. Dense vegetation concealed these landscapes from modern observers, yet their builders permanently reshaped thousands of square kilometres through roads, canals, reservoirs and monumental earthworks.

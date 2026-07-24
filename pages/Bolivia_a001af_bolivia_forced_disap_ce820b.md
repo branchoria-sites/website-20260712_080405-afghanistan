@@ -323,8 +323,7 @@ The commission represented an acknowledgement that Bolivia's earlier transition 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N_PeKReiqgo" title="BOLIVIA: 27TH ANNIVERSARY OF MILITARY COUP MARKED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N_PeKReiqgo" target="_blank" rel="noopener noreferrer">BOLIVIA: 27TH ANNIVERSARY OF MILITARY COUP MARKED</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N_PeKReiqgo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N_PeKReiqgo">Open on YouTube</a></p></div></div></div>
 
-## Why the Mystery Endures
-
+## The Disappeared in the wider historical record
 The central mystery is no longer whether enforced disappearances occurred; extensive judicial findings, survivor testimony and historical research have established that they did. The unresolved questions are more personal and, in many ways, more difficult:
 
 

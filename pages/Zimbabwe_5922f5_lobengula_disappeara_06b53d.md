@@ -308,8 +308,7 @@ Claims that he escaped to live for many years elsewhere, or that his grave conta
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5_lobengula_disappeara_06b53d-Illustration-3-dark.svg" | relative_url }}" alt="Lobengula illustration 3" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5_lobengula_disappeara_06b53d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5_lobengula_disappeara_06b53d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Lobengula
 The disappearance of King Lobengula is significant not simply because one grave has never been found, but because it marks the symbolic end of an independent African kingdom during the colonial conquest of Zimbabwe.
 
 The uncertainty surrounding his final days reflects the confusion of war, the destruction of political institutions and the uneven survival of historical records. It also demonstrates how easily genuine historical gaps become filled with legends about hidden riches, secret burials and miraculous escapes.

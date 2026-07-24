@@ -318,8 +318,7 @@ There has also been no definitive modern judicial investigation capable of estab
 
 <img src="{{ "/assets/images/Albania_79b9d2_mehmet_shehu_death_5f6a3b-Illustration-3-dark.svg" | relative_url }}" alt="Shehu s Death illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_mehmet_shehu_death_5f6a3b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_mehmet_shehu_death_5f6a3b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## The historical picture around Shehu's Death
 The mystery surrounding Mehmet Shehu's death is significant not simply because a prime minister died unexpectedly, but because it illustrates how authoritarian governments can obscure historical truth.
 
 Whether Shehu died by suicide or was murdered, the regime rapidly transformed the event into a political weapon. Official history was rewritten, personal reputations erased and entire families punished through guilt by association. The episode demonstrates how records produced by an authoritarian state may themselves become part of the mystery rather than a reliable solution.

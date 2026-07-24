@@ -348,8 +348,7 @@ These methods sometimes reinforce traditional accounts by showing continuous occ
 
 This distinction is important. A legend may preserve the memory of a genuinely ancient sacred place even if the present building dates from a much later reconstruction.
 
-## Why the mystery still matters
-
+## Questions left unresolved by Buried Past
 Bhutan's earliest history remains mysterious not because evidence points towards hidden civilisations or lost kingdoms, but because so much evidence has yet to be uncovered. The country's historical record has long depended on religious literature and oral tradition, while archaeology is only beginning to provide independent chronological evidence.
 
 The emerging picture is neither one of myth replacing history nor history dismissing myth. Instead, Bhutan's sacred landscapes appear to preserve cultural memories that archaeology can sometimes anchor in time, sometimes refine and sometimes leave unresolved.

@@ -322,8 +322,7 @@ Because many primary records remain classified or politically sensitive, these q
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tFBU7lz2q2I" title="Episode 49: The Cultural Revolution Part 5: The death of Lin Biao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tFBU7lz2q2I" target="_blank" rel="noopener noreferrer">Episode 49: The Cultural Revolution Part 5: The death of Lin Biao</a></p><p class="youtube-embed-meta">Channel: Sinobabble</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tFBU7lz2q2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tFBU7lz2q2I">Open on YouTube</a></p></div></div></div>
 
-## Why the Mystery Endures
-
+## Lin Biao Crash in the wider historical record
 The mystery survives not because the crash itself is inexplicable but because almost every political document surrounding it is contested.
 
 Several factors continue to limit certainty:

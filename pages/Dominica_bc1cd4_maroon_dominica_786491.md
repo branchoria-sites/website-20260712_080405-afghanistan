@@ -342,8 +342,7 @@ Modern GIS modelling has already identified likely settlement zones, making futu
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WXIfoMu-BpI" title="Maroons of Dominica (Neg Mawon) A British Nightmare!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WXIfoMu-BpI" target="_blank" rel="noopener noreferrer">Maroons of Dominica (Neg Mawon) A British Nightmare!</a></p><p class="youtube-embed-meta">Channel: Kweyol Caribbean</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WXIfoMu-BpI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WXIfoMu-BpI">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Maroon Dominica in the wider historical record
 The enduring puzzle surrounding Dominica's Maroons is not whether they resisted colonial rule, but how a relatively small population maintained autonomous communities for more than half a century despite repeated military campaigns.
 
 The answer increasingly appears to lie in a combination of geography, organisation and social networks rather than in any single hidden refuge. Mountain strongholds, carefully engineered access routes, alliances between camps, intelligence from plantations and detailed environmental knowledge created a resilient system that colonial governments never fully mastered.

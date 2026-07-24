@@ -317,8 +317,7 @@ None of these points proves that no coup existed. Equally, the government's accu
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9_1985_coup_plot_00ed26-Illustration-3-dark.svg" | relative_url }}" alt="Coup Plot illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9_1985_coup_plot_00ed26-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9_1985_coup_plot_00ed26-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Coup Plot
 The 1986 executions had consequences that extended well beyond the fate of the defendants. They demonstrated how accusations of treason could become intertwined with struggles over military authority in a country where constitutional institutions remained fragile.
 
 The episode also helped establish a pattern that would recur repeatedly in Guinea-Bissau's later history: alleged coup plots followed by political crises, disputed official narratives and continuing uncertainty about the balance between genuine security threats and political manoeuvring. Later governments would likewise announce foiled conspiracies, while critics questioned whether some allegations had been used to justify crackdowns on opponents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://2009-2017.state.gov/outofdate/bgn/guineabissau/91956.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2009-2017.state.gov">[State.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2009-2017.state.gov</span><span class="citation-popover-snippet">State.govGuinea-Bissau (05/07)...</span></span></span>

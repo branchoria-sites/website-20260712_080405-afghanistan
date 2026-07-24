@@ -316,8 +316,7 @@ Within Laos, discussion of the monarchy has long remained politically sensitive.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Je0N4oDFwoM" title="SYND 20-4-74 KING SAVANG VATTHANA MEETS PRINCE SOUPHANOUVONG OF LAOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Je0N4oDFwoM" target="_blank" rel="noopener noreferrer">SYND 20-4-74 KING SAVANG VATTHANA MEETS PRINCE SOUPHANOUVONG OF LAOS</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Je0N4oDFwoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Je0N4oDFwoM">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## Royal Family in the wider historical record
 The disappearance of Laos's last royal family is significant because it illustrates how political secrecy can leave even major historical events only partially documented.
 
 Unlike archaeological mysteries, the unanswered questions here are not caused by the passage of millennia but by restricted access to records and the absence of transparent official investigation. Historians broadly agree that the senior royals died while detained after their transfer to a re-education camp in 1977. What remains unresolved are the precise dates, medical causes, locations of burial and the documentary evidence that would allow the final years of Laos's last monarch, queen and crown prince to be reconstructed with certainty.

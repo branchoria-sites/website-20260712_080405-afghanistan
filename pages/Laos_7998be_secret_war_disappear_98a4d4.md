@@ -341,8 +341,7 @@ The third concerns archives themselves. As additional government records are dec
 
 <img src="{{ "/assets/images/Laos_7998be_secret_war_disappear_98a4d4-Illustration-3-dark.svg" | relative_url }}" alt="War Missing illustration 3" data-theme-src-dark="{{ "/assets/images/Laos_7998be_secret_war_disappear_98a4d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Laos_7998be_secret_war_disappear_98a4d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of War Missing
 The enduring mystery of Laos's Secret War is not primarily about hidden conspiracies. It is about the consequences of conducting a major conflict under conditions of secrecy and fragmentation. Covert operations left overlapping military, intelligence and civilian record systems that never produced a complete historical account.
 
 For foreign families, the mystery centred on recovering named individuals whose fate remained unknown. For many Lao families, the loss was even more profound: countless relatives disappeared into a war that left little official trace of their existence. The continuing recovery of remains, declassification of archives and preservation of local testimony have gradually narrowed some of these gaps, but a complete accounting of the war's human cost is unlikely ever to be achieved.

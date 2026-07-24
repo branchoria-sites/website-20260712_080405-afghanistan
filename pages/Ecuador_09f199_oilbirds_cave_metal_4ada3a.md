@@ -347,8 +347,7 @@ Several points can now be stated with considerable confidence.
 
 <img src="{{ "/assets/images/Ecuador_09f199_oilbirds_cave_metal_4ada3a-Illustration-3-dark.svg" | relative_url }}" alt="Metal Library illustration 3" data-theme-src-dark="{{ "/assets/images/Ecuador_09f199_oilbirds_cave_metal_4ada3a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ecuador_09f199_oilbirds_cave_metal_4ada3a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Metal Library
 The metal library story remains important not because the evidence points towards a hidden archive, but because it demonstrates how historical mysteries are created. A mixture of genuine exploration, unverifiable testimony, bestselling popular books and spectacular scenery transformed a natural cave into one of the world's most enduring archaeological legends.
 
 For Ecuador, the episode serves as a reminder that remarkable places do not require extraordinary claims to be historically significant. Cueva de los Tayos is already exceptional as a natural landmark and a place of Indigenous heritage. The mystery lies less beneath the rock than in the remarkable journey by which an unverified story became part of global popular culture.

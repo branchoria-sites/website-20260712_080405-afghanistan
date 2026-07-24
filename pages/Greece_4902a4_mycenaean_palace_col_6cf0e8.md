@@ -367,8 +367,7 @@ Different regions may have experienced these pressures in different combinations
 
 <img src="{{ "/assets/images/Greece_4902a4_mycenaean_palace_col_6cf0e8-Illustration-3-dark.svg" | relative_url }}" alt="Palace Collapse illustration 3" data-theme-src-dark="{{ "/assets/images/Greece_4902a4_mycenaean_palace_col_6cf0e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greece_4902a4_mycenaean_palace_col_6cf0e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Palace Collapse in the wider historical record
 The collapse of Mycenaean palace Greece remains important because it illustrates how difficult it is to explain the fall of a complex civilisation. The evidence does not support a dramatic single catastrophe that instantly ended Bronze Age Greece. Instead, it points towards a prolonged breakdown in which environmental pressures, economic disruption, political instability and violence reinforced one another.
 
 The mystery also reminds historians that archaeological evidence rarely preserves complete stories. Burnt walls, abandoned buildings and baked clay tablets reveal that something extraordinary happened around 1200 BC, but they cannot identify every decision, conflict or failed harvest that contributed to the end of the palace world. More than three thousand years later, the precise balance between those competing causes remains one of the most carefully debated questions in Greek archaeology.

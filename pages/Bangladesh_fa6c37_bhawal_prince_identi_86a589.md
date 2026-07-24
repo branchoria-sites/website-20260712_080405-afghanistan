@@ -303,8 +303,7 @@ The outcome therefore settled the inheritance dispute but not every mystery surr
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lWc-ZgIV5iw" title="The Prince Who Died Twice: The Mystery of Bhawal Sanyasi EPISODE 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lWc-ZgIV5iw" target="_blank" rel="noopener noreferrer">The Prince Who Died Twice: The Mystery of Bhawal Sanyasi EPISODE 3</a></p><p class="youtube-embed-meta">Channel: SATYA VACHAN &quot;TRUTH BEYOND HEADLINES&quot;</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lWc-ZgIV5iw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lWc-ZgIV5iw">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery endures
-
+## Questions left unresolved by Bhawal Prince
 The Bhawal case continues to fascinate because neither of its principal explanations is entirely free of difficulty.
 
 If the claimant truly was the prince, an extraordinary chain of events must be accepted: survival after apparent death, interruption of the cremation, rescue by ascetics, prolonged memory loss and eventual recovery of identity more than a decade later.

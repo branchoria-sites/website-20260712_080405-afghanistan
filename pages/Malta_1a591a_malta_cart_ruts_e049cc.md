@@ -368,8 +368,7 @@ Morphological analysis has also shown that many commonly repeated claims deserve
 
 Rather than solving the mystery outright, these studies have narrowed the range of plausible explanations. They strongly support an interpretation centred on transport while showing that the surviving networks may represent more than one historical phase.
 
-## Why the mystery endures
-
+## The historical picture around Cart Ruts
 Malta's cart ruts remain fascinating because the physical evidence is abundant while the historical context has largely disappeared. The grooves survive, but the carts, animals, goods, roads and written records that would explain them have vanished.
 
 The strongest current interpretation is that they formed part of practical transport systems serving everyday economic life, particularly the movement of heavy loads across limestone landscapes. The greatest remaining uncertainty concerns chronology rather than purpose: whether all the networks belong to one era or represent repeated adaptations over centuries.

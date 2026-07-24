@@ -331,8 +331,7 @@ No such evidence has yet been discovered. Until it is, the voyage remains an int
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SfGWve9qxIo" title="The African King Who Discovered America 200 Years Before Columbus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SfGWve9qxIo" target="_blank" rel="noopener noreferrer">The African King Who Discovered America 200 Years Before Columbus</a></p><p class="youtube-embed-meta">Channel: History Morsels</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SfGWve9qxIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SfGWve9qxIo">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## The unresolved legacy of Atlantic Voyage
 The enduring importance of the story does not depend on proving that medieval Mali reached the Americas.
 
 Instead, it reveals several important features of the Mali Empire:(#endnote-4 "Endnote 4")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mali_Empire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mali Empire</span><span class="citation-popover-snippet">Mali Empire</span></span></span>

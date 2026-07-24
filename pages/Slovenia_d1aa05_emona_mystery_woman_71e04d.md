@@ -316,8 +316,7 @@ This makes the Emona Woman a different kind of historical mystery. The puzzle is
 
 <img src="{{ "/assets/images/Slovenia_d1aa05_emona_mystery_woman_71e04d-Illustration-3-dark.svg" | relative_url }}" alt="Emona Woman illustration 3" data-theme-src-dark="{{ "/assets/images/Slovenia_d1aa05_emona_mystery_woman_71e04d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovenia_d1aa05_emona_mystery_woman_71e04d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Emona Woman
 The anonymous woman of Emona offers an unusually intimate glimpse into the transformation of the late Roman world. Her grave sits at the intersection of wealth, religion and changing burial customs during the centuries when Christianity was reshaping urban society across the Empire.
 
 For Slovenian archaeology, the discovery is particularly valuable because late Roman cemeteries in Emona had previously been studied far less thoroughly than earlier phases of the city. The excavation demonstrated not only the existence of an organised Christian community but also how one individual's burial could influence the development of an entire cemetery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mgml.si/en/city-museum/exhibitions/470/the-transparent-blue-glass-bowl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mgml.si">[MGLC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mgml.si</span><span class="citation-popover-title">MGLCThe transparent blue glass bowl • MGML</span><span class="citation-popover-snippet">MGLCThe transparent blue glass bowl • MGML</span></span></span>

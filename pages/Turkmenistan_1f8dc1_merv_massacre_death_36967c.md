@@ -338,8 +338,7 @@ Rather than treating the chronicles as statistical reports, historians generally
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1_merv_massacre_death_36967c-Illustration-3-dark.svg" | relative_url }}" alt="Merv Massacre illustration 3" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1_merv_massacre_death_36967c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1_merv_massacre_death_36967c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Merv Massacre in the wider historical record
 The disputed death toll at Merv illustrates a wider problem in medieval history: catastrophic events are often remembered more clearly than they can be measured.
 
 For Turkmenistan, Merv remains one of the country's most important archaeological landscapes and a reminder of both the splendour of the medieval Silk Road and the violence that reshaped Central Asia in the thirteenth century. The enduring debate is therefore not about whether one of history's great massacres occurred—it did—but about how historians should weigh literary testimony, demographic possibility and archaeological evidence when the surviving sources were written to convey overwhelming devastation rather than produce modern-style statistics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3A78c64807-5c43-43d9-999b-06ed6943d35b/files/dvx021f52m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">April 13, 2022...</span><span class="citation-popover-meta">Published: April 13, 2022</span></span></span>

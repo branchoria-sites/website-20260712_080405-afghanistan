@@ -308,8 +308,7 @@ This distinction is essential because medieval authors often accumulated legenda
 
 <img src="{{ "/assets/images/Georgia_9113c6_shota_rustaveli_iden_7c24f5-Illustration-3-dark.svg" | relative_url }}" alt="Rustaveli illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_shota_rustaveli_iden_7c24f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_shota_rustaveli_iden_7c24f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Rustaveli in the wider historical record
 The uncertainty surrounding Rustaveli's identity has not diminished his importance. If anything, it has focused attention even more sharply on the achievement that unquestionably survives: *The Knight in the Panther's Skin*. The poem can be studied, translated and appreciated with confidence, even while its author's life remains only partially recoverable.
 
 For historians, Rustaveli represents the limits of biography. Sometimes a person's influence far exceeds the surviving evidence about their life. Careful scholarship therefore separates three different levels of certainty:

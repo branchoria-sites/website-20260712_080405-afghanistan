@@ -210,12 +210,12 @@ hero_summary: 'Yemen’s deepest historical mysteries are not stories of hidden 
 layout: default
 permalink: /which-mysteries-still-shape-yemens-past/
 nav_short_title: Which Mysteries Still Shape Yemen's Past?
-title: Which Mysteries Still Shape Yemen's Past?
+title: "Yemen: What the Historical Record Still Cannot Settle"
 title_full: Which Mysteries Still Shape Yemen's Past?
 display_title_short: Which Mysteries Still Shape Yemen's Past?
-display_title: Which Mysteries Still Shape Yemen's Past?
+display_title: "Yemen: What the Historical Record Still Cannot Settle"
 heading_title: Which Mysteries Still Shape Yemen's Past?
-page_heading_title: Which Mysteries Still Shape Yemen's Past?
+page_heading_title: "Yemen: What the Historical Record Still Cannot Settle"
 source_count: 121
 infographic_count: 3
 page_website_name: Yemen Mysteries

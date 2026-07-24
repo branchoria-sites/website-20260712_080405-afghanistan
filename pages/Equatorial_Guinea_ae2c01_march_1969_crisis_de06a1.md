@@ -328,8 +328,7 @@ This use of an unresolved political crisis as a legitimising narrative helps exp
 
 <img src="{{ "/assets/images/Equatorial_Guinea_ae2c01_march_1969_crisis_de06a1-Illustration-3-dark.svg" | relative_url }}" alt="March 1969 illustration 3" data-theme-src-dark="{{ "/assets/images/Equatorial_Guinea_ae2c01_march_1969_crisis_de06a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Equatorial_Guinea_ae2c01_march_1969_crisis_de06a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## March 1969 in the wider historical record
 The March 1969 crisis remains difficult to reconstruct because nearly every category of evidence has limitations.
 
 Official government statements were issued by the victorious side and served immediate political purposes. Diplomatic reports from Spain, while valuable, reflected Spanish interests during a period of rapidly deteriorating relations. Survivor testimony is indispensable but was often recorded years later after exile, imprisonment or the collapse of the dictatorship. Many official records from Macías's government are incomplete, inaccessible or were never preserved.

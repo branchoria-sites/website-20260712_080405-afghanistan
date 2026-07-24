@@ -344,8 +344,7 @@ International forensic specialists have since assisted in exhumations at a numbe
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_santa_cruz_missing_v_c68aaa-Illustration-3-dark.svg" | relative_url }}" alt="Santa Cruz illustration 3" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_santa_cruz_missing_v_c68aaa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_santa_cruz_missing_v_c68aaa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Santa Cruz
 The Santa Cruz massacre occupies an unusual place in modern history. Unlike many historical atrocities, the shooting itself was captured on film and witnessed by international journalists. The mystery therefore does not concern whether the massacre occurred but what happened afterwards.
 
 Questions remain about the precise number of people who died, the identities of everyone who disappeared, where many victims were buried, and whether all relevant military records still exist. These unresolved issues continue to affect surviving families, many of whom have never been able to recover relatives' remains or obtain a complete official account of their fate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://icmp.int/the-missing/where-are-the-missing/east-timor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmp.int">[icmp.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmp.int</span><span class="citation-popover-title">East Timor</span><span class="citation-popover-snippet">East Timor - International Commission on Missing Persons...</span></span></span>

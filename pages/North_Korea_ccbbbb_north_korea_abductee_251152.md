@@ -331,8 +331,7 @@ The result is an unusual historical situation: the overall crime is well establi
 
 <img src="{{ "/assets/images/North_Korea_ccbbbb_north_korea_abductee_251152-Illustration-3-dark.svg" | relative_url }}" alt="Abductees illustration 3" data-theme-src-dark="{{ "/assets/images/North_Korea_ccbbbb_north_korea_abductee_251152-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Korea_ccbbbb_north_korea_abductee_251152-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Abductees
 The unresolved fate of North Korea's abductees remains politically important because it combines documented state action with enduring uncertainty about individual lives.
 
 For Japan, the missing abductees continue to shape policy towards Pyongyang, with successive governments insisting that normal diplomatic relations cannot proceed until convincing answers are provided. International support for that position has remained consistent, including repeated expressions of backing from allies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mofa.go.jp/region/asia-paci/n_korea/relation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofa.go.jp">[Ministry of Foreign Affairs of Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofa.go.jp</span><span class="citation-popover-snippet">Open source on go.jp.</span></span></span>

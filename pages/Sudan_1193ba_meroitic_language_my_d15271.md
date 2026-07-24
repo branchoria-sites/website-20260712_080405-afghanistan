@@ -384,8 +384,7 @@ At present, the history of Kush is reconstructed from monuments, excavated objec
 
 <img src="{{ "/assets/images/Sudan_1193ba_meroitic_language_my_d15271-Illustration-3-dark.svg" | relative_url }}" alt="Meroitic Script illustration 3" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_meroitic_language_my_d15271-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_meroitic_language_my_d15271-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## Meroitic Script in the wider historical record
 The enduring puzzle of Meroitic is not that scholars cannot read its writing. They can. The mystery lies in the gap between recognising sounds and understanding meaning.
 
 More than a century after Griffith established the script's phonetic values, researchers have made genuine progress by identifying grammatical patterns, classifying the language within a broader African family and expanding the corpus of known inscriptions. Yet the absence of a bilingual text, the limited range of surviving documents and the extinction of the language continue to prevent a complete translation.

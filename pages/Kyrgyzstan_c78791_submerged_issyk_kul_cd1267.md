@@ -345,8 +345,7 @@ Each new underwater survey has expanded the known extent of medieval occupation,
 
 <img src="{{ "/assets/images/Kyrgyzstan_c78791_submerged_issyk_kul_cd1267-Illustration-3-dark.svg" | relative_url }}" alt="Sunken Issyk Kul illustration 3" data-theme-src-dark="{{ "/assets/images/Kyrgyzstan_c78791_submerged_issyk_kul_cd1267-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kyrgyzstan_c78791_submerged_issyk_kul_cd1267-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Sunken Issyk Kul
 The submerged settlements of Lake Issyk-Kul illustrate how genuine historical mysteries often become more interesting as evidence accumulates. Archaeology has confirmed that medieval communities really were lost beneath the lake, validating the historical core of local tradition. At the same time, the discoveries have stripped away many of the exaggerated legends that later grew around the story.
 
 Instead of revealing a vanished super-civilisation or hidden treasure, the underwater remains offer something arguably more valuable: a remarkably preserved snapshot of everyday life along the medieval Silk Road. As underwater mapping continues, the mystery is shifting from asking whether a drowned city existed to understanding exactly how a dynamic landscape, shaped by earthquakes and changing water levels, transformed one of Central Asia's important trading regions into an underwater archaeological archive.

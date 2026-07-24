@@ -210,12 +210,12 @@ hero_summary: The Solomon Islands’ most compelling historical mysteries are no
 layout: default
 permalink: /what-really-happened-in-the-solomon/
 nav_short_title: What Really Happened in the Solomon Islands?
-title: What Really Happened in the Solomon Islands?
+title: "Inside the Historical Mysteries of the Solomon Islands"
 title_full: What Really Happened in the Solomon Islands?
 display_title_short: What Really Happened in the Solomon Islands?
-display_title: What Really Happened in the Solomon Islands?
+display_title: "Inside the Historical Mysteries of the Solomon Islands"
 heading_title: What Really Happened in the Solomon Islands?
-page_heading_title: What Really Happened in the Solomon Islands?
+page_heading_title: "Inside the Historical Mysteries of the Solomon Islands"
 source_count: 95
 infographic_count: 3
 page_website_name: Solomon Mysteries

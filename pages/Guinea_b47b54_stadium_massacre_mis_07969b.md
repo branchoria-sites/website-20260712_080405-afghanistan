@@ -342,8 +342,7 @@ Despite these obstacles, investigators assembled extensive documentary and testi
 
 <img src="{{ "/assets/images/Guinea_b47b54_stadium_massacre_mis_07969b-Illustration-3-dark.svg" | relative_url }}" alt="Stadium Victims illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea_b47b54_stadium_massacre_mis_07969b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea_b47b54_stadium_massacre_mis_07969b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Stadium Victims
 The enduring mystery is therefore not whether atrocities occurred. Independent investigations, witness testimony and judicial proceedings have established that security forces carried out widespread killings and later attempted to conceal their scale.
 
 What remains unresolved is narrower but deeply significant: exactly how many people died, where every victim was buried, whether all clandestine graves have ever been identified, and whether every individual responsible for removing bodies and suppressing evidence has been fully identified. For many Guinean families, those unanswered questions continue to define the legacy of the 28 September 2009 stadium massacre as much as the violence itself.

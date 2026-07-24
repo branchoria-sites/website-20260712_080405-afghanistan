@@ -329,8 +329,7 @@ Researchers also continue to investigate alterations made after British capture.
 
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_english_harbour_wrec_802d5a-Illustration-3-dark.svg" | relative_url }}" alt="Harbour Wreck illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_english_harbour_wrec_802d5a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_english_harbour_wrec_802d5a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Questions left unresolved by Harbour Wreck
 The importance of the English Harbour wreck extends well beyond identifying a single ship.
 
 If the identification continues to withstand scrutiny, the vessel represents one of the best-preserved archaeological examples of a French East India Company ship ever discovered. Its timbers preserve information about eighteenth-century French shipbuilding that written records alone cannot provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://antiguanewsroom.com/antigua-celebrates-at-international-archaeology-congress-for-contributions-to-caribbean-heritage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antiguanewsroom.com">[Antigua News Room]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antiguanewsroom.com</span><span class="citation-popover-snippet">Antigua News RoomAntigua Celebrates at International Archaeology Congress for Contributions to Caribbean Heritage - Antigua News RoomAugu...</span></span></span>

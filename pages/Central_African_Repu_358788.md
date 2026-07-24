@@ -210,12 +210,12 @@ hero_summary: The Central African Republic’s most compelling historical myster
 layout: default
 permalink: /central-african-republic/
 nav_short_title: Which Mysteries Still Haunt Central African History?
-title: Which Mysteries Still Haunt Central African History?
+title: "Central African Republic's Unresolved Past: Evidence and Open Questions"
 title_full: Which Mysteries Still Haunt Central African History?
 display_title_short: Which Mysteries Still Haunt Central African History?
-display_title: Which Mysteries Still Haunt Central African History?
+display_title: "Central African Republic's Unresolved Past: Evidence and Open Questions"
 heading_title: Which Mysteries Still Haunt Central African History?
-page_heading_title: Which Mysteries Still Haunt Central African History?
+page_heading_title: "Central African Republic's Unresolved Past: Evidence and Open Questions"
 source_count: 82
 infographic_count: 3
 page_website_name: Central African Mysteries

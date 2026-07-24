@@ -333,8 +333,7 @@ Rather than asking which single account is completely true, many historians inst
 
 <img src="{{ "/assets/images/Mexico_41937b_moctezuma_disputed_d_ba476c-Illustration-3-dark.svg" | relative_url }}" alt="Moctezuma s Death illustration 3" data-theme-src-dark="{{ "/assets/images/Mexico_41937b_moctezuma_disputed_d_ba476c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mexico_41937b_moctezuma_disputed_d_ba476c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The historical picture around Moctezuma's Death
 The debate over Moctezuma's death is about more than identifying a killer. It also shapes how the conquest of Mexico itself is understood.
 
 If the Spanish version is accepted, Moctezuma appears as a ruler abandoned by his own people after losing legitimacy. If the Indigenous version is preferred, he becomes a captive monarch executed by foreign conquerors when his political usefulness ended. Each interpretation carries different implications for responsibility, resistance and memory.

@@ -1278,8 +1278,7 @@ What would resolve these cases is not speculation but information: credible witn
 
 <img src="{{ "/assets/images/North_Macedonia_cece1d-Illustration-3-dark.svg" | relative_url }}" alt="What Do North Macedonia&#x27;s Mysteries Really... illustration 3" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these mysteries endure
-
+## Questions left unresolved by North Macedonia's historical mysteries
 North Macedonia’s unresolved past has been shaped by repeated changes of empire, war, borders and political systems. Ancient settlements were abandoned and their names forgotten. Bronze Age cultures left monuments but no written explanations. Twentieth-century conflict produced incomplete or inaccessible records. More recent tragedies unfolded amid weak public confidence in official institutions.
 
 The strongest cases also show why different kinds of mystery require different standards of proof:

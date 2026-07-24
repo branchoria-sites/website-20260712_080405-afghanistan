@@ -333,8 +333,7 @@ Finally, historians continue to debate exactly how much various state institutio
 
 <img src="{{ "/assets/images/El_Salvador_9b83b7_romero_assassination_3190f0-Illustration-3-dark.svg" | relative_url }}" alt="Romero Murder illustration 3" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_romero_assassination_3190f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_romero_assassination_3190f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case still matters
-
+## Romero Murder in the wider historical record
 Romero's assassination illustrates a different kind of historical mystery from an unsolved disappearance or unidentified victim. The essential facts of the crime are largely known, yet the complete network behind it has never been fully exposed in a court of law.
 
 For many Salvadorans, the enduring question is therefore not simply "Who killed Archbishop Romero?" but "How did an organised political murder remain protected for so long?" The answer lies in the interaction between clandestine death squads, powerful political allies, institutional obstruction and decades of impunity. That combination transformed a single assassination into one of the defining unresolved questions about governance, accountability and historical memory in modern El Salvador.

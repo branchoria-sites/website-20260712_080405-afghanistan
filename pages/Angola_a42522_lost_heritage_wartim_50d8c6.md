@@ -341,8 +341,7 @@ UNESCO's recognition of Mbanza Kongo has also encouraged continued archaeologica
 
 <img src="{{ "/assets/images/Angola_a42522_lost_heritage_wartim_50d8c6-Illustration-3-dark.svg" | relative_url }}" alt="Lost Heritage illustration 3" data-theme-src-dark="{{ "/assets/images/Angola_a42522_lost_heritage_wartim_50d8c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_lost_heritage_wartim_50d8c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## Lost Heritage in the wider historical record
 Angola's missing heritage illustrates how history can disappear without a single dramatic event. A royal object separated from its community, a damaged archive, an undocumented grave and an abandoned archaeological site all represent different forms of loss.
 
 Some mysteries are likely to become clearer through new excavations, museum provenance studies and digitisation projects. Others may never be completely resolved because the evidence has vanished. The challenge for historians is therefore not to uncover a hidden conspiracy but to piece together scattered fragments of material culture, written records and human memory into as complete a picture of Angola's past as possible.

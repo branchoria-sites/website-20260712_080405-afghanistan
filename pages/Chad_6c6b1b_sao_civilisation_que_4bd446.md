@@ -331,8 +331,7 @@ Rather than disappearing overnight, the people themselves almost certainly survi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jEfQg2n4dms" title="Sao Culture | A Forgotten African Civilization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jEfQg2n4dms" target="_blank" rel="noopener noreferrer">Sao Culture | A Forgotten African Civilization</a></p><p class="youtube-embed-meta">Channel: Study of Antiquity and the Middle Ages</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jEfQg2n4dms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jEfQg2n4dms">Open on YouTube</a></p></div></div></div>
 
-## Why the Mystery Still Matters
-
+## The unresolved legacy of The Sao
 The Sao question has become one of Chad's most enduring historical mysteries because it challenges simple ideas about identity in the distant past.
 
 The ruined settlements clearly represent sophisticated societies whose achievements were once underestimated. Yet archaeology increasingly shows that ancient cultures rarely fit neat modern labels. The impressive earthworks, terracotta sculptures and fortified towns around Lake Chad probably belonged to a landscape occupied by many interconnected communities rather than a single lost nation.

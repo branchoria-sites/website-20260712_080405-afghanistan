@@ -392,8 +392,7 @@ The cemeteries also demonstrate continuity. Rather than isolated burials, they r
 
 <img src="{{ "/assets/images/Eritrea_18740a_dahlak_tombstones_ee1cc1-Illustration-3-dark.svg" | relative_url }}" alt="Dahlak illustration 3" data-theme-src-dark="{{ "/assets/images/Eritrea_18740a_dahlak_tombstones_ee1cc1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eritrea_18740a_dahlak_tombstones_ee1cc1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Dahlak in the wider historical record
 The Dahlak tombstones remind historians that surviving evidence can be both abundant and incomplete. Hundreds of inscriptions preserve precise personal details across several centuries, yet the larger narrative of the Dahlak Sultanate remains elusive because administrative records, royal archives and local chronicles have largely vanished.
 
 This makes Dahlak one of Eritrea's most important archival mysteries. The islands preserve the voices of individuals but not the full story of the state they served. Each newly studied inscription helps fill another small gap, refining chronologies, identifying families and tracing connections across the Red Sea. Yet the central question remains unresolved: how exactly did this influential maritime sultanate develop, govern itself and eventually fade from history?

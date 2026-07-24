@@ -210,12 +210,12 @@ hero_summary: Congo’s most important historical mysteries are not tales of hid
 layout: default
 permalink: /which-mysteries-still-haunt-congos/
 nav_short_title: Which Mysteries Still Haunt Congo's History?
-title: Which Mysteries Still Haunt Congo's History?
+title: "Lost Records and Unsolved Questions in Congo"
 title_full: Which Mysteries Still Haunt Congo's History?
 display_title_short: Which Mysteries Still Haunt Congo's History?
-display_title: Which Mysteries Still Haunt Congo's History?
+display_title: "Lost Records and Unsolved Questions in Congo"
 heading_title: Which Mysteries Still Haunt Congo's History?
-page_heading_title: Which Mysteries Still Haunt Congo's History?
+page_heading_title: "Lost Records and Unsolved Questions in Congo"
 source_count: 110
 infographic_count: 3
 page_website_name: Congo Mysteries

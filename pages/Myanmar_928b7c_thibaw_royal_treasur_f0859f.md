@@ -317,8 +317,7 @@ Yet important gaps remain. Inventories produced during the conquest do not accou
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0u3D24NKAiY" title="The Enigma of the Nga Mauk Ruby: The Untold Story of Burma’s 98-Carat Treasur" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0u3D24NKAiY" target="_blank" rel="noopener noreferrer">The Enigma of the Nga Mauk Ruby: The Untold Story of Burma’s 98-Carat Treasur</a></p><p class="youtube-embed-meta">Channel: မီးတိုင် Torch</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0u3D24NKAiY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0u3D24NKAiY">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery remains unresolved
-
+## What would clarify Royal Treasures
 The missing treasures continue to generate debate because the available evidence is incomplete rather than entirely absent.
 
 Several factors make the mystery unusually difficult to solve:

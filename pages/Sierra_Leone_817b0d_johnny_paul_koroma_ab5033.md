@@ -316,8 +316,7 @@ Although certainty is impossible, several explanations have been proposed.
 
 <img src="{{ "/assets/images/Sierra_Leone_817b0d_johnny_paul_koroma_ab5033-Illustration-3-dark.svg" | relative_url }}" alt="Koroma illustration 3" data-theme-src-dark="{{ "/assets/images/Sierra_Leone_817b0d_johnny_paul_koroma_ab5033-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sierra_Leone_817b0d_johnny_paul_koroma_ab5033-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Koroma in the wider historical record
 Koroma's disappearance is significant for more than the unanswered question of one man's fate.
 
 His case illustrates one of the principal difficulties faced by post-conflict justice systems. Courts depend on witnesses, documents and physical evidence, yet civil wars frequently destroy precisely those forms of proof. When suspects disappear before trial, historical understanding can remain incomplete even if substantial evidence exists concerning the crimes themselves.

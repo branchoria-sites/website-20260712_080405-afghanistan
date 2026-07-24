@@ -300,8 +300,7 @@ The distinction is important. Historians generally accept that Harbi's death had
 
 <img src="{{ "/assets/images/Djibouti_60a8b0_mahamoud_harbi_crash_9d8cf5-Illustration-3-dark.svg" | relative_url }}" alt="Harbi Crash illustration 3" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0_mahamoud_harbi_crash_9d8cf5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0_mahamoud_harbi_crash_9d8cf5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Harbi Crash in the wider historical record
 Harbi's death altered the political landscape of French Somaliland at a crucial moment. Without one of its best-known nationalist leaders, the independence movement lost an internationally recognised spokesman only months before decolonisation accelerated across much of Africa. For supporters, his death became a symbol of opportunities lost and of unanswered questions surrounding the final years of colonial rule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mahmoud_Harbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mahmoud Harbi</span><span class="citation-popover-snippet">Mahmoud Harbi</span></span></span>
 
 The case also illustrates how historical mysteries can develop from incomplete evidence rather than hidden discoveries. Because the crash occurred over open sea, investigators were left with limited physical evidence. Because Harbi was an important political figure, ordinary uncertainty acquired lasting political significance. As a result, the debate has endured for more than six decades despite the absence of new evidence overturning the original findings.

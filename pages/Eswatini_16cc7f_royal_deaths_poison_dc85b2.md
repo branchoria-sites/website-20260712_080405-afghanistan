@@ -373,8 +373,7 @@ This careful distinction explains why modern scholarship usually discusses the a
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lh3o9ZkzvdE" title="Ngwenyama Sobhuza II: The African King Who Ruled for 82 Years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lh3o9ZkzvdE" target="_blank" rel="noopener noreferrer">Ngwenyama Sobhuza II: The African King Who Ruled for 82 Years</a></p><p class="youtube-embed-meta">Channel: HistoryVille</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lh3o9ZkzvdE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lh3o9ZkzvdE">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery still matters
-
+## The historical picture around Royal Deaths
 The enduring fascination of these royal deaths lies less in the possibility of an undiscovered poison than in what the rumours reveal about power, legitimacy and memory.
 
 Every disputed succession encouraged later generations to reinterpret the past through the lens of political advantage. Families and supporters could explain unexpected changes by pointing to hidden enemies rather than illness or chance. Over time, these explanations became embedded in popular historical memory, even though the documentary record remained fragmentary.

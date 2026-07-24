@@ -320,8 +320,7 @@ This diversity makes broad theories attractive but also difficult to prove. Each
 
 <img src="{{ "/assets/images/Ireland_eb2131_ireland_bog_bodies_1bdeb3-Illustration-3-dark.svg" | relative_url }}" alt="Bog Bodies illustration 3" data-theme-src-dark="{{ "/assets/images/Ireland_eb2131_ireland_bog_bodies_1bdeb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ireland_eb2131_ireland_bog_bodies_1bdeb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery endures
-
+## Questions left unresolved by Bog Bodies
 Ireland's bog bodies are unusual because they combine exceptional scientific evidence with profound historical uncertainty. Researchers know far more about these individuals than about most prehistoric Europeans: what they ate, aspects of their health, how they groomed themselves and, in many cases, exactly how they died.
 
 Yet the crucial question—why they died—remains beyond the reach of forensic science alone.

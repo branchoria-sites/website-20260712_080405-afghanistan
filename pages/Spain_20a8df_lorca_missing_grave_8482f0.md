@@ -340,8 +340,7 @@ The debate also reflects Spain's transition from dictatorship to democracy. For 
 
 <img src="{{ "/assets/images/Spain_20a8df_lorca_missing_grave_8482f0-Illustration-3-dark.svg" | relative_url }}" alt="Lorca s Grave illustration 3" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_lorca_missing_grave_8482f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_lorca_missing_grave_8482f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## Questions left unresolved by Lorca's Grave
 Lorca's missing grave remains one of Spain's best-known historical mysteries because it combines a genuine unresolved question with powerful symbolic meaning.
 
 The central mystery has never been solved. Archaeological searches have narrowed possibilities without identifying his remains. Every failed excavation demonstrates how fragile eyewitness testimony becomes after decades, how easily landscapes change, and how difficult forensic recovery can be when executions were deliberately concealed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federico García Lorca</span><span class="citation-popover-snippet">Federico García Lorca</span></span></span>

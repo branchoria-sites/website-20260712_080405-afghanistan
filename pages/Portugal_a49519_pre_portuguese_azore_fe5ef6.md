@@ -357,8 +357,7 @@ If people did establish a temporary presence, no historical record explains why 
 
 <img src="{{ "/assets/images/Portugal_a49519_pre_portuguese_azore_fe5ef6-Illustration-3-dark.svg" | relative_url }}" alt="Early Azores illustration 3" data-theme-src-dark="{{ "/assets/images/Portugal_a49519_pre_portuguese_azore_fe5ef6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Portugal_a49519_pre_portuguese_azore_fe5ef6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery matters
-
+## Early Azores in the wider historical record
 The debate illustrates how new scientific techniques can challenge long-standing historical narratives without immediately replacing them.
 
 For centuries, the accepted account was straightforward: the Portuguese reached an uninhabited archipelago in the fifteenth century and began permanent settlement. Environmental science has now introduced credible evidence that this picture may be incomplete. Yet archaeology has not produced the decisive physical discoveries needed to rewrite the history books.

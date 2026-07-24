@@ -332,8 +332,7 @@ These debates concern the balance between multiple interacting causes rather tha
 
 <img src="{{ "/assets/images/Syria_3ed104_northern_villages_ab_b36ecd-Illustration-3-dark.svg" | relative_url }}" alt="Ancient Villages illustration 3" data-theme-src-dark="{{ "/assets/images/Syria_3ed104_northern_villages_ab_b36ecd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syria_3ed104_northern_villages_ab_b36ecd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## The unresolved legacy of Ancient Villages
 The abandoned villages remain one of Syria's most remarkable archaeological landscapes because they preserve everyday rural life rather than royal palaces or imperial capitals. Their churches, farmhouses, workshops and olive presses show how ordinary communities prospered under the Roman and Byzantine empires before slowly fading from the historical record.
 
 The enduring mystery is therefore not the existence of an unknown catastrophe but understanding how prosperous rural societies respond when markets, political authority and strategic geography change together over generations. The villages demonstrate that civilisations do not always disappear in dramatic moments. Sometimes they empty gradually, leaving behind stone buildings so well preserved that later generations mistake slow historical transformation for sudden catastrophe.

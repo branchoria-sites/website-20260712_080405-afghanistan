@@ -300,8 +300,7 @@ These ideas also sit alongside other discoveries from Krapina, including modifie
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_uzK9E0Djgg" title="Did Neanderthals Eat Their Own Family? The Cannibal Skull Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_uzK9E0Djgg" target="_blank" rel="noopener noreferrer">Did Neanderthals Eat Their Own Family? The Cannibal Skull Mystery</a></p><p class="youtube-embed-meta">Channel: Documentary Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_uzK9E0Djgg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_uzK9E0Djgg">Open on YouTube</a></p></div></div></div>
 
-## Why the mystery remains unresolved
-
+## What keeps Krapina Bones unresolved
 The Krapina bones illustrate a recurring challenge in prehistoric archaeology: the same physical traces can result from different behaviours.
 
 Cut marks may indicate butchery, but they can also appear during careful removal of flesh before burial. Broken bones may represent marrow extraction for food, but they may also result from later disturbance, excavation damage or geological processes. Small traces of burning do not automatically demonstrate cooking. Without written records or direct observation, archaeologists must reconstruct events from incomplete physical evidence.

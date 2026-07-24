@@ -1282,8 +1282,7 @@ Low figures often count only deaths that can be linked to surviving records or n
 
 The distinction matters. Repeating an exact but unsupported figure can weaken an otherwise well-established case. Conversely, using only the narrowest documented list risks reproducing the gaps created by the perpetrators. The responsible conclusion is that mass killing occurred and that the surviving archive cannot settle its full human cost.
 
-## Why these mysteries endure
-
+## Questions left unresolved by Sao Tome and Principe's historical mysteries
 These cases share a common cause: the people most affected left the fewest written records. Enslaved workers, escaped communities, deported children and victims of colonial repression rarely controlled the documents through which later historians encountered them. Officials recorded labour, punishment and rebellion far more readily than family life, motives or individual deaths.
 
 The physical record has also been neglected. Archaeological investigation of So Toms early plantations and independent settlements began only recently. Work at the ruined Praia Melo sugar complex has recovered roof tiles, sugar moulds and a cowrie shell, but researchers have not yet located its kitchen or living quarters for enslaved workers. The excavation demonstrates how much remains unknown about everyday life beneath the broad outlines preserved in colonial accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/article/2024/jun/15/sao-tome-principe-excavation-slavery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>

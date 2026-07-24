@@ -323,8 +323,7 @@ Research since the early 2000s has concentrated on documenting the surviving sit
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b_diquis_stone_spheres_01d11b-Illustration-3-dark.svg" | relative_url }}" alt="Stone Spheres illustration 3" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_diquis_stone_spheres_01d11b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_diquis_stone_spheres_01d11b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Still Matters
-
+## The unresolved legacy of Stone Spheres
 The enduring puzzle surrounding the Diquís stone spheres is not whether they were made by Indigenous Costa Ricans—that question has been answered—but what they meant within the political and ceremonial life of those societies. The uncertainty reflects the limits of archaeological evidence rather than a failure of research.
 
 Each newly documented sphere preserved in its original setting offers another opportunity to understand how authority, ritual and public space were organised in pre-Columbian Costa Rica. As more damaged sites are studied with modern archaeological methods, researchers may refine current interpretations. Yet it is also possible that the spheres carried multiple meanings understood by their creators but never recorded in writing.

@@ -330,8 +330,7 @@ In this interpretation, an Angolan connection remains real, but it reflects lead
 
 <img src="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_angolares_origin_mys_77780c-Illustration-3-dark.svg" | relative_url }}" alt="Angolares illustration 3" data-theme-src-dark="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_angolares_origin_mys_77780c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_angolares_origin_mys_77780c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery remains unresolved
-
+## The evidence gaps around Angolares
 The debate continues because each type of evidence has limitations.
 
 Oral tradition preserves memories that written colonial archives often ignored or deliberately omitted. Conversely, oral histories may condense generations of gradual change into a single memorable founding event. Portuguese records are incomplete and naturally focus on colonial officials rather than communities living outside their authority. Archaeology has not yet uncovered decisive early settlement evidence, while genetics can reconstruct broad population history but cannot identify one specific historical event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://novaresearch.unl.pt/en/publications/do-ref%C3%BAgio-nos-picos-da-ilha-de-s%C3%A3o-tom%C3%A9-%C3%A0-absor%C3%A7%C3%A3o-colonial-a-qu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: novaresearch.unl.pt">[unl.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">novaresearch.unl.pt</span><span class="citation-popover-snippet">Universidade NOVA de LisboaDo refúgio nos picos da ilha de São Tomé à absorção colonial: a questão dos Angolares - Universidade NOVA de L...</span></span></span>

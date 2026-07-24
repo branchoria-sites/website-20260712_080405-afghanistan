@@ -347,8 +347,7 @@ Large digital catalogues now record every measurable feature of surviving khipus
 
 Instead of searching immediately for hidden words, researchers increasingly look for recurring structural patterns, relationships between archaeological sites and links to colonial census records. Successful matches between particular khipus and documented communities offer the best hope of eventually identifying recurring names, places or administrative conventions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/5037552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Open Khipu Repository</span><span class="citation-popover-snippet">The Open Khipu Repository...</span></span></span>
 
-## Why the mystery still matters
-
+## The unresolved legacy of Inca Khipus
 The importance of khipus extends beyond whether they qualify as "writing".
 
 If scholars eventually decipher substantial non-numerical content, historians could gain direct access to Inca voices rather than relying almost entirely on Spanish descriptions written after the conquest. Royal history, local administration, social organisation and indigenous perspectives might become far clearer.

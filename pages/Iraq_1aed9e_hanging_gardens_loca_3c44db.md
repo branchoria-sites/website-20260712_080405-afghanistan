@@ -332,8 +332,7 @@ A third possibility is that the classical Hanging Gardens were never a single, p
 
 <img src="{{ "/assets/images/Iraq_1aed9e_hanging_gardens_loca_3c44db-Illustration-3-dark.svg" | relative_url }}" alt="Hanging Gardens illustration 3" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e_hanging_gardens_loca_3c44db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e_hanging_gardens_loca_3c44db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the mystery still matters
-
+## Questions left unresolved by Hanging Gardens
 The debate over the Hanging Gardens illustrates how ancient history is reconstructed from incomplete evidence. Historians must weigh archaeological remains against texts written long after the events they describe, while recognising that both can contain gaps, misunderstandings and embellishments.
 
 For Iraq, the mystery also highlights the extraordinary achievements of ancient Mesopotamian civilisation. Whether the Wonder ultimately belonged to Babylon, Nineveh or emerged from a blending of both traditions, there is no doubt that rulers in ancient Iraq created vast royal gardens supported by sophisticated irrigation systems that astonished visitors.

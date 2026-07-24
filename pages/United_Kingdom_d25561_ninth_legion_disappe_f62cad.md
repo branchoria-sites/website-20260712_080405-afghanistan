@@ -311,8 +311,7 @@ Some recent historians therefore argue for a middle position: a detachment of th
 
 <img src="{{ "/assets/images/United_Kingdom_d25561_ninth_legion_disappe_f62cad-Illustration-2-dark.svg" | relative_url }}" alt="Ninth Legion illustration 2" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561_ninth_legion_disappe_f62cad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561_ninth_legion_disappe_f62cad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Remains Unresolved
-
+## What keeps Ninth Legion unresolved
 The disappearance of the Ninth Legion illustrates how historical mysteries often arise from incomplete records rather than dramatic events preserved in detail.
 
 Several factors prevent a definitive answer:
