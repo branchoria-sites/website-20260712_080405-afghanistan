@@ -209,12 +209,12 @@ description: Tunisia’s most compelling historical mysteries are not stories of
 hero_summary: Tunisia’s most compelling historical mysteries are not stories of supernatural forces or hidden global conspiracies. They are disputes created by damaged evidence, hostile ancient witnesses, incomplete excavations, sealed archives and political memories that remain contested.
 layout: default
 permalink: /what-really-happened-in-tunisias/
-nav_short_title: What Really Happened in Tunisia's Greatest Mysteries?
+nav_short_title: "Which Parts of Tunisia's Past Remain Unexplained?"
 title: "Which Parts of Tunisia's Past Remain Unexplained?"
-title_full: What Really Happened in Tunisia's Greatest Mysteries?
-display_title_short: What Really Happened in Tunisia's Greatest Mysteries?
+title_full: "Which Parts of Tunisia's Past Remain Unexplained?"
+display_title_short: "Which Parts of Tunisia's Past Remain Unexplained?"
 display_title: "Which Parts of Tunisia's Past Remain Unexplained?"
-heading_title: What Really Happened in Tunisia's Greatest Mysteries?
+heading_title: "Which Parts of Tunisia's Past Remain Unexplained?"
 page_heading_title: "Which Parts of Tunisia's Past Remain Unexplained?"
 source_count: 108
 infographic_count: 3

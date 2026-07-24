@@ -209,12 +209,12 @@ description: Kuwait’s most important historical mysteries are not tales of cur
 hero_summary: Kuwait’s most important historical mysteries are not tales of curses or hidden kingdoms. They concern people, records and objects that disappeared during war, and an island whose ruins preserve several incomplete chapters of Gulf history.
 layout: default
 permalink: /which-mysteries-still-shape-kuwaits/
-nav_short_title: Which Mysteries Still Shape Kuwait's History?
+nav_short_title: "Which Parts of Kuwait's Past Remain Unexplained?"
 title: "Which Parts of Kuwait's Past Remain Unexplained?"
-title_full: Which Mysteries Still Shape Kuwait's History?
-display_title_short: Which Mysteries Still Shape Kuwait's History?
+title_full: "Which Parts of Kuwait's Past Remain Unexplained?"
+display_title_short: "Which Parts of Kuwait's Past Remain Unexplained?"
 display_title: "Which Parts of Kuwait's Past Remain Unexplained?"
-heading_title: Which Mysteries Still Shape Kuwait's History?
+heading_title: "Which Parts of Kuwait's Past Remain Unexplained?"
 page_heading_title: "Which Parts of Kuwait's Past Remain Unexplained?"
 source_count: 121
 infographic_count: 2

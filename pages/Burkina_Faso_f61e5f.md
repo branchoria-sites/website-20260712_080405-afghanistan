@@ -209,12 +209,12 @@ description: Burkina Faso’s strongest historical mysteries are not tales of su
 hero_summary: 'Burkina Faso’s strongest historical mysteries are not tales of supernatural forces or hidden kingdoms. They are gaps in the public record: a revolutionary president assassinated during a coup, a journalist murdered while investigating abuse near the presidency, and a walled archaeological settlement whose builders left no surviving written explanation.'
 layout: default
 permalink: /which-mysteries-still-shape-burkina/
-nav_short_title: Which Mysteries Still Shape Burkina Faso's History?
+nav_short_title: "Tracing Burkina Faso's Greatest Historical Mysteries"
 title: "Tracing Burkina Faso's Greatest Historical Mysteries"
-title_full: Which Mysteries Still Shape Burkina Faso's History?
-display_title_short: Which Mysteries Still Shape Burkina Faso's History?
+title_full: "Tracing Burkina Faso's Greatest Historical Mysteries"
+display_title_short: "Tracing Burkina Faso's Greatest Historical Mysteries"
 display_title: "Tracing Burkina Faso's Greatest Historical Mysteries"
-heading_title: Which Mysteries Still Shape Burkina Faso's History?
+heading_title: "Tracing Burkina Faso's Greatest Historical Mysteries"
 page_heading_title: "Tracing Burkina Faso's Greatest Historical Mysteries"
 source_count: 104
 infographic_count: 3

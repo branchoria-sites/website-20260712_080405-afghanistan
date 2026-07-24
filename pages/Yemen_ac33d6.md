@@ -209,12 +209,12 @@ description: Yemen’s deepest historical mysteries are not stories of hidden ch
 hero_summary: 'Yemen’s deepest historical mysteries are not stories of hidden chambers or supernatural curses. They arise from a more compelling collision: an exceptionally rich past, fragmentary records, politically charged traditions and archaeological sites that remain difficult to investigate.'
 layout: default
 permalink: /which-mysteries-still-shape-yemens-past/
-nav_short_title: Which Mysteries Still Shape Yemen's Past?
+nav_short_title: "Yemen: What the Historical Record Still Cannot Settle"
 title: "Yemen: What the Historical Record Still Cannot Settle"
-title_full: Which Mysteries Still Shape Yemen's Past?
-display_title_short: Which Mysteries Still Shape Yemen's Past?
+title_full: "Yemen: What the Historical Record Still Cannot Settle"
+display_title_short: "Yemen: What the Historical Record Still Cannot Settle"
 display_title: "Yemen: What the Historical Record Still Cannot Settle"
-heading_title: Which Mysteries Still Shape Yemen's Past?
+heading_title: "Yemen: What the Historical Record Still Cannot Settle"
 page_heading_title: "Yemen: What the Historical Record Still Cannot Settle"
 source_count: 121
 infographic_count: 3

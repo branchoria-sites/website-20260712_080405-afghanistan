@@ -209,12 +209,12 @@ description: Uruguay’s most important historical mysteries are not tales of su
 hero_summary: Uruguay’s most important historical mysteries are not tales of supernatural forces or hidden civilisations. They are questions created by missing bodies, contradictory documents, wrecks buried in the muddy River Plate and deliberate attempts to obscure the past. The gravest concern the people forcibly disappeared during the dictatorship of 1973–1985.
 layout: default
 permalink: /which-mysteries-still-haunt-uruguays/
-nav_short_title: Which Mysteries Still Haunt Uruguay's History?
+nav_short_title: "Tracing Uruguay's Greatest Historical Mysteries"
 title: "Tracing Uruguay's Greatest Historical Mysteries"
-title_full: Which Mysteries Still Haunt Uruguay's History?
-display_title_short: Which Mysteries Still Haunt Uruguay's History?
+title_full: "Tracing Uruguay's Greatest Historical Mysteries"
+display_title_short: "Tracing Uruguay's Greatest Historical Mysteries"
 display_title: "Tracing Uruguay's Greatest Historical Mysteries"
-heading_title: Which Mysteries Still Haunt Uruguay's History?
+heading_title: "Tracing Uruguay's Greatest Historical Mysteries"
 page_heading_title: "Tracing Uruguay's Greatest Historical Mysteries"
 source_count: 87
 infographic_count: 3

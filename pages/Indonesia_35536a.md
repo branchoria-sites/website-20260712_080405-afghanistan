@@ -209,12 +209,12 @@ description: Indonesia’s most enduring historical mysteries are rarely puzzles
 hero_summary: Indonesia’s most enduring historical mysteries are rarely puzzles with a single missing clue. They are more often the result of inaccessible archives, political repression, lost documents, unreliable testimony or discoveries that became entangled with national identity.
 layout: default
 permalink: /which-mysteries-still-haunt-indonesias/
-nav_short_title: Which Mysteries Still Haunt Indonesia's History?
+nav_short_title: "Evidence, Legend and Mystery in Indonesia's Past"
 title: "Evidence, Legend and Mystery in Indonesia's Past"
-title_full: Which Mysteries Still Haunt Indonesia's History?
-display_title_short: Which Mysteries Still Haunt Indonesia's History?
+title_full: "Evidence, Legend and Mystery in Indonesia's Past"
+display_title_short: "Evidence, Legend and Mystery in Indonesia's Past"
 display_title: "Evidence, Legend and Mystery in Indonesia's Past"
-heading_title: Which Mysteries Still Haunt Indonesia's History?
+heading_title: "Evidence, Legend and Mystery in Indonesia's Past"
 page_heading_title: "Evidence, Legend and Mystery in Indonesia's Past"
 source_count: 101
 infographic_count: 3

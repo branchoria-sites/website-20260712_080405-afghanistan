@@ -209,12 +209,12 @@ description: El Salvador’s most important historical mysteries are not tales o
 hero_summary: El Salvador’s most important historical mysteries are not tales of supernatural forces or hidden cities laden with gold.
 layout: default
 permalink: /which-mysteries-still-haunt-el-salvador/
-nav_short_title: Which Mysteries Still Haunt El Salvador?
+nav_short_title: "Lost Records and Unsolved Questions in El Salvador"
 title: "Lost Records and Unsolved Questions in El Salvador"
-title_full: Which Mysteries Still Haunt El Salvador?
-display_title_short: Which Mysteries Still Haunt El Salvador?
+title_full: "Lost Records and Unsolved Questions in El Salvador"
+display_title_short: "Lost Records and Unsolved Questions in El Salvador"
 display_title: "Lost Records and Unsolved Questions in El Salvador"
-heading_title: Which Mysteries Still Haunt El Salvador?
+heading_title: "Lost Records and Unsolved Questions in El Salvador"
 page_heading_title: "Lost Records and Unsolved Questions in El Salvador"
 source_count: 126
 infographic_count: 3

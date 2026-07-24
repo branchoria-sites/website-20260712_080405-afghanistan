@@ -209,12 +209,12 @@ description: The Central African Republic’s most compelling historical mysteri
 hero_summary: The Central African Republic’s most compelling historical mysteries are not tales of hidden kingdoms or supernatural events. They are cases in which records are missing, official explanations remain incomplete, witnesses disagree or political violence has made certainty almost impossible.
 layout: default
 permalink: /central-african-republic/
-nav_short_title: Which Mysteries Still Haunt Central African History?
+nav_short_title: "Central African Republic's Unresolved Past: Evidence and Open Questions"
 title: "Central African Republic's Unresolved Past: Evidence and Open Questions"
-title_full: Which Mysteries Still Haunt Central African History?
-display_title_short: Which Mysteries Still Haunt Central African History?
+title_full: "Central African Republic's Unresolved Past: Evidence and Open Questions"
+display_title_short: "Central African Republic's Unresolved Past: Evidence and Open Questions"
 display_title: "Central African Republic's Unresolved Past: Evidence and Open Questions"
-heading_title: Which Mysteries Still Haunt Central African History?
+heading_title: "Central African Republic's Unresolved Past: Evidence and Open Questions"
 page_heading_title: "Central African Republic's Unresolved Past: Evidence and Open Questions"
 source_count: 82
 infographic_count: 3

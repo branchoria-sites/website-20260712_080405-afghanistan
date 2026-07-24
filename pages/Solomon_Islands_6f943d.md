@@ -209,12 +209,12 @@ description: The Solomon Islands’ most compelling historical mysteries are not
 hero_summary: The Solomon Islands’ most compelling historical mysteries are not tales of hidden civilisations or supernatural treasure.
 layout: default
 permalink: /what-really-happened-in-the-solomon/
-nav_short_title: What Really Happened in the Solomon Islands?
+nav_short_title: "Inside the Historical Mysteries of the Solomon Islands"
 title: "Inside the Historical Mysteries of the Solomon Islands"
-title_full: What Really Happened in the Solomon Islands?
-display_title_short: What Really Happened in the Solomon Islands?
+title_full: "Inside the Historical Mysteries of the Solomon Islands"
+display_title_short: "Inside the Historical Mysteries of the Solomon Islands"
 display_title: "Inside the Historical Mysteries of the Solomon Islands"
-heading_title: What Really Happened in the Solomon Islands?
+heading_title: "Inside the Historical Mysteries of the Solomon Islands"
 page_heading_title: "Inside the Historical Mysteries of the Solomon Islands"
 source_count: 95
 infographic_count: 3

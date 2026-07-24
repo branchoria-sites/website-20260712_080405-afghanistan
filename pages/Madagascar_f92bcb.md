@@ -209,12 +209,12 @@ description: Madagascar’s most compelling historical mysteries are not tales o
 hero_summary: Madagascar’s most compelling historical mysteries are not tales of monsters or secret kingdoms. They are evidence problems created by an island settled unusually late, a patchy archaeological record, powerful oral traditions and centuries of pirate mythology.
 layout: default
 permalink: /what-really-happened-in-madagascars/
-nav_short_title: What Really Happened in Madagascar's Mysterious Past?
+nav_short_title: "Evidence, Legend and Mystery in Madagascar's Past"
 title: "Evidence, Legend and Mystery in Madagascar's Past"
-title_full: What Really Happened in Madagascar's Mysterious Past?
-display_title_short: What Really Happened in Madagascar's Mysterious Past?
+title_full: "Evidence, Legend and Mystery in Madagascar's Past"
+display_title_short: "Evidence, Legend and Mystery in Madagascar's Past"
 display_title: "Evidence, Legend and Mystery in Madagascar's Past"
-heading_title: What Really Happened in Madagascar's Mysterious Past?
+heading_title: "Evidence, Legend and Mystery in Madagascar's Past"
 page_heading_title: "Evidence, Legend and Mystery in Madagascar's Past"
 source_count: 108
 infographic_count: 3

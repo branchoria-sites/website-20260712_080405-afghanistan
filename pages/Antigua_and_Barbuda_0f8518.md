@@ -209,12 +209,12 @@ description: Antigua and Barbuda’s strongest historical mysteries are not tale
 hero_summary: Antigua and Barbuda’s strongest historical mysteries are not tales of hidden civilisations or supernatural forces. They are puzzles created by incomplete archives, ambiguous ruins, disputed memories and objects whose identities have only partly emerged.
 layout: default
 permalink: /antigua-and-barbuda/
-nav_short_title: What Really Happened in Antigua's Greatest Mysteries?
+nav_short_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
 title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
-title_full: What Really Happened in Antigua's Greatest Mysteries?
-display_title_short: What Really Happened in Antigua's Greatest Mysteries?
+title_full: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
+display_title_short: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
 display_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
-heading_title: What Really Happened in Antigua's Greatest Mysteries?
+heading_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
 page_heading_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
 source_count: 100
 infographic_count: 3

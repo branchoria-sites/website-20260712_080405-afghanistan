@@ -209,12 +209,12 @@ description: Mongolia’s most compelling historical mysteries are not a collect
 hero_summary: Mongolia’s most compelling historical mysteries are not a collection of supernatural oddities. They are gaps created by secret burial customs, fragmentary chronicles, political censorship, vanished settlements and archaeological sites that preserve violence without preserving a written explanation.
 layout: default
 permalink: /what-really-happened-in-mongolias/
-nav_short_title: What Really Happened in Mongolia's Greatest Mysteries?
+nav_short_title: "Lost Records and Unsolved Questions in Mongolia"
 title: "Lost Records and Unsolved Questions in Mongolia"
-title_full: What Really Happened in Mongolia's Greatest Mysteries?
-display_title_short: What Really Happened in Mongolia's Greatest Mysteries?
+title_full: "Lost Records and Unsolved Questions in Mongolia"
+display_title_short: "Lost Records and Unsolved Questions in Mongolia"
 display_title: "Lost Records and Unsolved Questions in Mongolia"
-heading_title: What Really Happened in Mongolia's Greatest Mysteries?
+heading_title: "Lost Records and Unsolved Questions in Mongolia"
 page_heading_title: "Lost Records and Unsolved Questions in Mongolia"
 source_count: 108
 infographic_count: 3

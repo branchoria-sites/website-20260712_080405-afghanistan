@@ -209,12 +209,12 @@ description: Congo’s most important historical mysteries are not tales of hidd
 hero_summary: Congo’s most important historical mysteries are not tales of hidden jungle kingdoms or surviving dinosaurs. They are unresolved questions created by political violence, destroyed bodies, disputed investigations, inaccessible archives and artefacts whose meaning cannot be recovered with certainty.
 layout: default
 permalink: /which-mysteries-still-haunt-congos/
-nav_short_title: Which Mysteries Still Haunt Congo's History?
+nav_short_title: "Lost Records and Unsolved Questions in Congo"
 title: "Lost Records and Unsolved Questions in Congo"
-title_full: Which Mysteries Still Haunt Congo's History?
-display_title_short: Which Mysteries Still Haunt Congo's History?
+title_full: "Lost Records and Unsolved Questions in Congo"
+display_title_short: "Lost Records and Unsolved Questions in Congo"
 display_title: "Lost Records and Unsolved Questions in Congo"
-heading_title: Which Mysteries Still Haunt Congo's History?
+heading_title: "Lost Records and Unsolved Questions in Congo"
 page_heading_title: "Lost Records and Unsolved Questions in Congo"
 source_count: 110
 infographic_count: 3

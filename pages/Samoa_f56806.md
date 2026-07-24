@@ -209,12 +209,12 @@ description: Samoa’s strongest historical mysteries are not tales of hidden ki
 hero_summary: Samoa’s strongest historical mysteries are not tales of hidden kingdoms or supernatural forces. They are cases in which ships, monuments and official records preserve only part of the story. The most famous is the Joyita, found drifting in 1955 after all 25 people aboard vanished.
 layout: default
 permalink: /what-really-happened-in-samoas-greatest/
-nav_short_title: What Really Happened in Samoa's Greatest Mysteries?
+nav_short_title: "Evidence, Legend and Mystery in Samoa's Past"
 title: "Evidence, Legend and Mystery in Samoa's Past"
-title_full: What Really Happened in Samoa's Greatest Mysteries?
-display_title_short: What Really Happened in Samoa's Greatest Mysteries?
+title_full: "Evidence, Legend and Mystery in Samoa's Past"
+display_title_short: "Evidence, Legend and Mystery in Samoa's Past"
 display_title: "Evidence, Legend and Mystery in Samoa's Past"
-heading_title: What Really Happened in Samoa's Greatest Mysteries?
+heading_title: "Evidence, Legend and Mystery in Samoa's Past"
 page_heading_title: "Evidence, Legend and Mystery in Samoa's Past"
 source_count: 130
 infographic_count: 3

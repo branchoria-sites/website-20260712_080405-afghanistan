@@ -209,12 +209,12 @@ description: 'Saint Kitts and Nevis has one outstanding historical mystery: what
 hero_summary: 'Saint Kitts and Nevis has one outstanding historical mystery: what really happened to Jamestown, the supposedly sunken capital of Nevis.'
 layout: default
 permalink: /saint-kitts-and-nevis/
-nav_short_title: What Really Happened in Saint Kitts and Nevis?
+nav_short_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
 title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
-title_full: What Really Happened in Saint Kitts and Nevis?
-display_title_short: What Really Happened in Saint Kitts and Nevis?
+title_full: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
+display_title_short: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
 display_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
-heading_title: What Really Happened in Saint Kitts and Nevis?
+heading_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
 page_heading_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
 source_count: 85
 infographic_count: 3

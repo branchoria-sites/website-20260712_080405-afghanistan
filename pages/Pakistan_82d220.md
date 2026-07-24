@@ -209,12 +209,12 @@ description: Pakistan’s most enduring historical mysteries are not a single ca
 hero_summary: Pakistan’s most enduring historical mysteries are not a single catalogue of hidden treasure and supernatural legend.
 layout: default
 permalink: /what-really-happened-in-pakistans/
-nav_short_title: What Really Happened in Pakistan's Greatest Mysteries?
+nav_short_title: "Pakistan: What the Historical Record Still Cannot Settle"
 title: "Pakistan: What the Historical Record Still Cannot Settle"
-title_full: What Really Happened in Pakistan's Greatest Mysteries?
-display_title_short: What Really Happened in Pakistan's Greatest Mysteries?
+title_full: "Pakistan: What the Historical Record Still Cannot Settle"
+display_title_short: "Pakistan: What the Historical Record Still Cannot Settle"
 display_title: "Pakistan: What the Historical Record Still Cannot Settle"
-heading_title: What Really Happened in Pakistan's Greatest Mysteries?
+heading_title: "Pakistan: What the Historical Record Still Cannot Settle"
 page_heading_title: "Pakistan: What the Historical Record Still Cannot Settle"
 source_count: 103
 infographic_count: 3

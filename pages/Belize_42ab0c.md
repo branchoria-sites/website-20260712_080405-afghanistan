@@ -209,12 +209,12 @@ description: Belize’s most compelling historical mysteries are not stories of 
 hero_summary: 'Belize’s most compelling historical mysteries are not stories of supernatural forces or hidden conspiracies. They are problems created by incomplete records: abandoned Maya cities, human remains deep inside ritual caves, an artefact with a fabricated discovery story, and a colonial battle whose meaning remains more disputed than its outcome.'
 layout: default
 permalink: /what-really-happened-in-belizes-greatest/
-nav_short_title: What Really Happened in Belize's Greatest Mysteries?
+nav_short_title: "Lost Records and Unsolved Questions in Belize"
 title: "Lost Records and Unsolved Questions in Belize"
-title_full: What Really Happened in Belize's Greatest Mysteries?
-display_title_short: What Really Happened in Belize's Greatest Mysteries?
+title_full: "Lost Records and Unsolved Questions in Belize"
+display_title_short: "Lost Records and Unsolved Questions in Belize"
 display_title: "Lost Records and Unsolved Questions in Belize"
-heading_title: What Really Happened in Belize's Greatest Mysteries?
+heading_title: "Lost Records and Unsolved Questions in Belize"
 page_heading_title: "Lost Records and Unsolved Questions in Belize"
 source_count: 65
 infographic_count: 3

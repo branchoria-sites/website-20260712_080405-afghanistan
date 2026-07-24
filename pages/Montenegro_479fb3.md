@@ -209,12 +209,12 @@ description: Montenegro’s most compelling historical mysteries are not tales o
 hero_summary: Montenegro’s most compelling historical mysteries are not tales of the supernatural. They arise from missing identities, incomplete archives, politically contested decisions and archaeological finds whose meaning cannot yet be reconstructed.
 layout: default
 permalink: /which-mysteries-still-shape-montenegros/
-nav_short_title: Which Mysteries Still Shape Montenegro's Past?
+nav_short_title: "Inside the Historical Mysteries of Montenegro"
 title: "Inside the Historical Mysteries of Montenegro"
-title_full: Which Mysteries Still Shape Montenegro's Past?
-display_title_short: Which Mysteries Still Shape Montenegro's Past?
+title_full: "Inside the Historical Mysteries of Montenegro"
+display_title_short: "Inside the Historical Mysteries of Montenegro"
 display_title: "Inside the Historical Mysteries of Montenegro"
-heading_title: Which Mysteries Still Shape Montenegro's Past?
+heading_title: "Inside the Historical Mysteries of Montenegro"
 page_heading_title: "Inside the Historical Mysteries of Montenegro"
 source_count: 83
 infographic_count: 3

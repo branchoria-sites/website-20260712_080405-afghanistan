@@ -209,12 +209,12 @@ description: Thailand’s most enduring historical mysteries are not simply tale
 hero_summary: Thailand’s most enduring historical mysteries are not simply tales of hidden treasure or unexplained disappearances.
 layout: default
 permalink: /which-mysteries-still-haunt-thailands/
-nav_short_title: Which Mysteries Still Haunt Thailand's History?
+nav_short_title: "Thailand's Unresolved Past: Evidence and Open Questions"
 title: "Thailand's Unresolved Past: Evidence and Open Questions"
-title_full: Which Mysteries Still Haunt Thailand's History?
-display_title_short: Which Mysteries Still Haunt Thailand's History?
+title_full: "Thailand's Unresolved Past: Evidence and Open Questions"
+display_title_short: "Thailand's Unresolved Past: Evidence and Open Questions"
 display_title: "Thailand's Unresolved Past: Evidence and Open Questions"
-heading_title: Which Mysteries Still Haunt Thailand's History?
+heading_title: "Thailand's Unresolved Past: Evidence and Open Questions"
 page_heading_title: "Thailand's Unresolved Past: Evidence and Open Questions"
 source_count: 103
 infographic_count: 3
