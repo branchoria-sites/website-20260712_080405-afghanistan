@@ -355,7 +355,8 @@ Machine learning performs best when trained on large datasets. The Byblos Script
 
 <img src="{{ "/assets/images/Lebanon_5caa7f_byblos_script_17bf9f-Illustration-3-dark.svg" | relative_url }}" alt="Byblos Script illustration 3" data-theme-src-dark="{{ "/assets/images/Lebanon_5caa7f_byblos_script_17bf9f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lebanon_5caa7f_byblos_script_17bf9f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Byblos Script
+## Why the mystery still matters
+
 The enduring importance of the Byblos Script lies less in the hope of a spectacular hidden message than in what it represents for the history of writing in Lebanon and the eastern Mediterranean.
 
 If the script were securely deciphered, it could illuminate literacy, administration and cultural exchange in Bronze Age Byblos at a time when Egypt, the Levant and neighbouring societies were closely connected. It might clarify which language was spoken by the scribes, how writing evolved before the emergence of the Phoenician alphabet, and whether multiple writing traditions coexisted in the city.
@@ -363,89 +364,89 @@ If the script were securely deciphered, it could illuminate literacy, administra
 For now, the script remains a genuine historical puzzle because the evidence is incomplete rather than because scholars lack ideas. Every major decipherment has failed the same test: it cannot explain the entire corpus in a way that other specialists can independently verify. Until new inscriptions are discovered or an unexpected bilingual text emerges, the Byblos Script is likely to remain one of Lebanon's most significant unresolved archaeological and linguistic mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mnamon.sns.it/index.php?id=3&amp;lang=en&amp;page=Scrittura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mnamon.sns.it">[Mnamon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mnamon.sns.it</span><span class="citation-popover-title">Mnamon Byblos (Pseudo-hieroglyphic</span><span class="citation-popover-snippet">Mnamon Byblos (Pseudo-hieroglyphic</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Can Nobody Read the Byblos Script?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Can Nobody Read the Byblos Script?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Places Bronze Age Byblos in its wider historical world.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Places Bronze Age Byblos in its wider historical world.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Horse, the Wheel, and Language on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2549072-M.jpg" alt="Cover for The Horse, the Wheel, and Language" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horse, the Wheel, and Language">The Horse, the Wheel, and Language</a>
-        </h4>
-        <p class="fr-book-author">By David W. Anthony</p>
-
-        <p class="fr-book-desc">Introduces language history and evidence used in decipherment research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Horse, the Wheel, and Language on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2549072-M.jpg" alt="Cover for The Horse, the Wheel, and Language" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horse, the Wheel, and Language">The Horse, the Wheel, and Language</a>
+</h4>
+<p class="fr-book-author">By David W. Anthony</p>
+        
+<p class="fr-book-desc">Introduces language history and evidence used in decipherment research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s writing systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/122170-M.jpg" alt="Cover for The world&#x27;s writing systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s writing systems">The world&#x27;s writing systems</a>
-        </h4>
-        <p class="fr-book-author">By William Bright, Peter T. Daniels</p>
-
-        <p class="fr-book-desc">Explains how undeciphered scripts are analysed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s writing systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/122170-M.jpg" alt="Cover for The world&#x27;s writing systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s writing systems">The world&#x27;s writing systems</a>
+</h4>
+<p class="fr-book-author">By William Bright, Peter T. Daniels</p>
+        
+<p class="fr-book-desc">Explains how undeciphered scripts are analysed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alexander the Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8032437-M.jpg" alt="Cover for Alexander the Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alexander the Great">Alexander the Great</a>
-        </h4>
-        <p class="fr-book-author">By Freeman, Philip</p>
-
-        <p class="fr-book-desc">First published 2011. Subjects: Kings and rulers, Generals, Biography, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alexander the Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8032437-M.jpg" alt="Cover for Alexander the Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alexander the Great">Alexander the Great</a>
+</h4>
+<p class="fr-book-author">By Freeman, Philip</p>
+        
+<p class="fr-book-desc">First published 2011. Subjects: Kings and rulers, Generals, Biography, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Horse, the Wheel, and Language</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+writing+systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s writing systems</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Horse, the Wheel, and Language</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+writing+systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s writing systems</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

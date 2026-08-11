@@ -350,7 +350,8 @@ Rather than debating a simple yes-or-no question, researchers increasingly inves
 
 <img src="{{ "/assets/images/Tunisia_edf404_carthage_tophet_deba_2a9a58-Illustration-3-dark.svg" | relative_url }}" alt="Carthage Tophet illustration 3" data-theme-src-dark="{{ "/assets/images/Tunisia_edf404_carthage_tophet_deba_2a9a58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunisia_edf404_carthage_tophet_deba_2a9a58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Carthage Tophet
+## Why the mystery still matters
+
 The Tophet debate remains one of Tunisia's most important archaeological controversies because it illustrates how history is reconstructed when evidence is incomplete and deeply contested. The destruction of Carthage removed most of the civilisation's own written explanations, forcing historians to weigh hostile literary accounts against difficult archaeological evidence.
 
 The result is an enduring historical mystery built not on missing artefacts but on competing interpretations of the same physical remains. Scientific methods have greatly improved understanding of the bones, teeth and burial practices, yet they have not eliminated uncertainty. The Carthage Tophet therefore stands as a reminder that archaeology often answers broad questions while leaving the most human one unresolved: whether the children whose ashes filled those urns died by tragedy, by disease, or by ritual.
@@ -361,89 +362,89 @@ The result is an enduring historical mystery built not on missing artefacts but 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Carthage Really Sacrifice Its Children?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Carthage Really Sacrifice Its Children?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carthage must be destroyed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273668-M.jpg" alt="Cover for Carthage must be destroyed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
-        </h4>
-        <p class="fr-book-author">By Richard Miles</p>
-
-        <p class="fr-book-desc">Examines the Tophet and the child sacrifice debate in depth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carthage must be destroyed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273668-M.jpg" alt="Cover for Carthage must be destroyed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
+</h4>
+<p class="fr-book-author">By Richard Miles</p>
+        
+<p class="fr-book-desc">Examines the Tophet and the child sacrifice debate in depth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Punic wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2356720-M.jpg" alt="Cover for The Punic wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Punic wars">The Punic wars</a>
-        </h4>
-        <p class="fr-book-author">By Adrian Keith Goldsworthy</p>
-
-        <p class="fr-book-desc">Explains the conflict that shaped hostile ancient accounts of Carthage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Punic wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2356720-M.jpg" alt="Cover for The Punic wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Punic wars">The Punic wars</a>
+</h4>
+<p class="fr-book-author">By Adrian Keith Goldsworthy</p>
+        
+<p class="fr-book-desc">Explains the conflict that shaped hostile ancient accounts of Carthage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
-        </h4>
-        <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
-
-        <p class="fr-book-desc">Helps readers assess Roman literary evidence critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
+</h4>
+<p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
+        
+<p class="fr-book-desc">Helps readers assess Roman literary evidence critically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Phoenician+and+Punic+Mediterranean+Carolina+Lopez-Ruiz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oxford Handbook of the Phoenician and Punic Mediterranean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13753906-M.jpg" alt="Cover for Oxford Handbook of the Phoenician and Punic Mediterranean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Phoenician+and+Punic+Mediterranean+Carolina+Lopez-Ruiz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Phoenician and Punic Mediterranean">Oxford Handbook of the Phoenician and Punic Mediterranean</a>
-        </h4>
-        <p class="fr-book-author">By Carolina Lopez-Ruiz, Brian R. Doak</p>
-
-        <p class="fr-book-desc">Provides scholarly treatment of Punic culture and religion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Phoenician+and+Punic+Mediterranean+Carolina+Lopez-Ruiz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Phoenician+and+Punic+Mediterranean+Carolina+Lopez-Ruiz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oxford Handbook of the Phoenician and Punic Mediterranean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13753906-M.jpg" alt="Cover for Oxford Handbook of the Phoenician and Punic Mediterranean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Phoenician+and+Punic+Mediterranean+Carolina+Lopez-Ruiz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Phoenician and Punic Mediterranean">Oxford Handbook of the Phoenician and Punic Mediterranean</a>
+</h4>
+<p class="fr-book-author">By Carolina Lopez-Ruiz, Brian R. Doak</p>
+        
+<p class="fr-book-desc">Provides scholarly treatment of Punic culture and religion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Phoenician+and+Punic+Mediterranean+Carolina+Lopez-Ruiz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carthage must be destroyed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Punic+wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Punic wars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=SPQR&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SPQR</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carthage must be destroyed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Punic+wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Punic wars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=SPQR&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SPQR</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

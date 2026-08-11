@@ -374,7 +374,7 @@ Rather than a conspiracy built on speculation, this is an archival mystery roote
 <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Long Walk to Freedom">Long Walk to Freedom</a>
 </h4>
 <p class="fr-book-author">By Nelson Mandela</p>
-
+        
 <p class="fr-book-desc">First published 1994. Subjects: Biography, Politics and government, Presidents, African National Congress, Civil rights workers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Long+Walk+to+Freedom+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ Rather than a conspiracy built on speculation, this is an archival mystery roote
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Rather than a conspiracy built on speculation, this is an archival mystery roote
 <a href="https://www.amazon.com/s?k=My+traitor%27s+heart+Rian+Malan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My traitor&#x27;s heart">My traitor&#x27;s heart</a>
 </h4>
 <p class="fr-book-author">By Rian Malan</p>
-
+        
 <p class="fr-book-desc">First published 1989. Subjects: Biography, Exiles, Family, Genealogy, Huguenots.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=My+traitor%27s+heart+Rian+Malan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Rather than a conspiracy built on speculation, this is an archival mystery roote
 <a href="https://www.amazon.com/s?k=Country+of+my+skull+Antjie+Krog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Country of my skull">Country of my skull</a>
 </h4>
 <p class="fr-book-author">By Antjie Krog</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: South Africa, Apartheid, South Africa. Truth and Reconciliation Commission, Race relations, Political vio...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Country+of+my+skull+Antjie+Krog&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

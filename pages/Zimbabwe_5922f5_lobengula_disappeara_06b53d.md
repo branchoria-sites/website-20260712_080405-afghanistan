@@ -308,7 +308,8 @@ Claims that he escaped to live for many years elsewhere, or that his grave conta
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5_lobengula_disappeara_06b53d-Illustration-3-dark.svg" | relative_url }}" alt="Lobengula illustration 3" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5_lobengula_disappeara_06b53d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5_lobengula_disappeara_06b53d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Lobengula
+## Why the mystery still matters
+
 The disappearance of King Lobengula is significant not simply because one grave has never been found, but because it marks the symbolic end of an independent African kingdom during the colonial conquest of Zimbabwe.
 
 The uncertainty surrounding his final days reflects the confusion of war, the destruction of political institutions and the uneven survival of historical records. It also demonstrates how easily genuine historical gaps become filled with legends about hidden riches, secret burials and miraculous escapes.
@@ -321,89 +322,89 @@ For Zimbabwe, the mystery remains powerful because it combines documented histor
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened to King Lobengula?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened to King Lobengula?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=King+Solomon%27s+Mines+H.+Rider+Haggard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Solomon&#x27;s Mines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665393-M.jpg" alt="Cover for King Solomon&#x27;s Mines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=King+Solomon%27s+Mines+H.+Rider+Haggard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Solomon&#x27;s Mines">King Solomon&#x27;s Mines</a>
-        </h4>
-        <p class="fr-book-author">By H. Rider Haggard</p>
-
-        <p class="fr-book-desc">Reflects the colonial-era imagination that helped turn southern African rulers, hidden places and treasure stories into enduring legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=King+Solomon%27s+Mines+H.+Rider+Haggard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=King+Solomon%27s+Mines+H.+Rider+Haggard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Solomon&#x27;s Mines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665393-M.jpg" alt="Cover for King Solomon&#x27;s Mines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=King+Solomon%27s+Mines+H.+Rider+Haggard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Solomon&#x27;s Mines">King Solomon&#x27;s Mines</a>
+</h4>
+<p class="fr-book-author">By H. Rider Haggard</p>
+        
+<p class="fr-book-desc">Reflects the colonial-era imagination that helped turn southern African rulers, hidden places and treasure stories into enduring legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=King+Solomon%27s+Mines+H.+Rider+Haggard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+washing+of+the+spears+Donald+R.+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The washing of the spears on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/164913-M.jpg" alt="Cover for The washing of the spears" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+washing+of+the+spears+Donald+R.+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The washing of the spears">The washing of the spears</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Morris</p>
-
-        <p class="fr-book-desc">Provides comparative context for the rise of Ndebele power, regional military states and British conquest in southern Africa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+washing+of+the+spears+Donald+R.+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+washing+of+the+spears+Donald+R.+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The washing of the spears on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/164913-M.jpg" alt="Cover for The washing of the spears" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+washing+of+the+spears+Donald+R.+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The washing of the spears">The washing of the spears</a>
+</h4>
+<p class="fr-book-author">By Donald R. Morris</p>
+        
+<p class="fr-book-desc">Provides comparative context for the rise of Ndebele power, regional military states and British conquest in southern Africa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+washing+of+the+spears+Donald+R.+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, 1876-1912 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa, 1876-1912" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-
-        <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, 1876-1912 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
+</h4>
+<p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
+        
+<p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-
-        <p class="fr-book-desc">Describes the British expansion into southern Africa and the political and military forces that overwhelmed Lobengula&#x27;s kingdom.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
+</h4>
+<p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
+        
+<p class="fr-book-desc">Describes the British expansion into southern Africa and the political and military forces that overwhelmed Lobengula&#x27;s kingdom.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Solomon%27s+Mines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Solomon&#x27;s Mines</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+washing+of+the+spears&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The washing of the spears</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876+1912&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The scramble for Africa, 1876 1912</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Solomon%27s+Mines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Solomon&#x27;s Mines</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+washing+of+the+spears&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The washing of the spears</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876+1912&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The scramble for Africa,</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

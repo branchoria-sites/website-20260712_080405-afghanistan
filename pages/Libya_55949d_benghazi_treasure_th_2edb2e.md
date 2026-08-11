@@ -327,7 +327,8 @@ Specialist organisations later attempted to reconstruct missing documentation fr
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mmWTe2nPWGE" title="Stolen Blood Antiquities | How European Art Dealers Bankrolled the FATATICS!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mmWTe2nPWGE" target="_blank" rel="noopener noreferrer">Stolen Blood Antiquities | How European Art Dealers Bankrolled the FATATICS!</a></p><p class="youtube-embed-meta">Channel: Moconomy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mmWTe2nPWGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mmWTe2nPWGE">Open on YouTube</a></p></div></div></div>
 
-## The evidence gaps around Benghazi Treasure
+## Why the mystery remains unresolved
+
 Despite repeated international alerts, including notices distributed through international policing and heritage-protection networks, no comprehensive recovery has occurred. A few Libyan antiquities have been intercepted abroad in unrelated investigations, but the overwhelming majority of the Benghazi Treasure has never been publicly traced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2012/03/libyan-job/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">libyan job</span><span class="citation-popover-snippet">The Libyan Job: Insiders Used War to Steal Priceless Artifacts &#124; WIREDMarch 16, 2012...</span><span class="citation-popover-meta">Published: March 16, 2012</span></span></span>
 
 Several questions therefore remain unanswered:
@@ -348,7 +349,8 @@ Because no complete chain of evidence has emerged, historians distinguish carefu
 
 <img src="{{ "/assets/images/Libya_55949d_benghazi_treasure_th_2edb2e-Illustration-3-dark.svg" | relative_url }}" alt="Benghazi Treasure illustration 3" data-theme-src-dark="{{ "/assets/images/Libya_55949d_benghazi_treasure_th_2edb2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Libya_55949d_benghazi_treasure_th_2edb2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Benghazi Treasure
+## Why the case still matters
+
 The Benghazi Treasure illustrates how political upheaval can erase parts of a nation's archaeological record without destroying the sites themselves. Unlike monuments that can be rebuilt or excavated again, many of the stolen objects had unique archaeological value because their excavation histories helped scholars reconstruct Libya's ancient past.
 
 The case also demonstrates a recurring problem in cultural heritage crime: careful planning often leaves fewer traces than chaotic looting. In Benghazi, the greatest mystery is not simply where the artefacts went, but how a highly selective theft could be carried out during wartime without anyone later being able to identify those responsible. That combination of apparent planning, missing documentation and the continuing absence of most of the collection has kept the Benghazi Treasure one of Libya's enduring unresolved historical mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alaraby.co.uk/sites/default/files/2022-02/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9%20%D9%84%D9%84%D8%A8%D8%AD%D9%88%D8%AB%20%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alaraby.co.uk">[alaraby.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alaraby.co.uk</span><span class="citation-popover-title">العربي الجديدLooted Antiquities-Libya-ASOR Report-narrative-final</span><span class="citation-popover-snippet">العربي الجديدLooted Antiquities-Libya-ASOR Report-narrative-final</span></span></span>
@@ -359,89 +361,89 @@ The case also demonstrates a recurring problem in cultural heritage crime: caref
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Stole the Benghazi Treasure?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Stole the Benghazi Treasure?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179948-M.jpg" alt="Cover for Stealing history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing history">Stealing history</a>
-        </h4>
-        <p class="fr-book-author">By Roger Atwood</p>
-
-        <p class="fr-book-desc">Directly relevant to stolen archaeological collections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179948-M.jpg" alt="Cover for Stealing history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing history">Stealing history</a>
+</h4>
+<p class="fr-book-author">By Roger Atwood</p>
+        
+<p class="fr-book-desc">Directly relevant to stolen archaeological collections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Modern Libya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/349677-M.jpg" alt="Cover for A History of Modern Libya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Modern Libya">A History of Modern Libya</a>
-        </h4>
-        <p class="fr-book-author">By Dirk Vandewalle</p>
-
-        <p class="fr-book-desc">Places the 2011 upheaval behind the theft in context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Modern Libya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/349677-M.jpg" alt="Cover for A History of Modern Libya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Modern Libya">A History of Modern Libya</a>
+</h4>
+<p class="fr-book-author">By Dirk Vandewalle</p>
+        
+<p class="fr-book-desc">Places the 2011 upheaval behind the theft in context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Medici+Conspiracy+Peter+Watson%2C+Cecilia+Todeschini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Medici Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7265959-M.jpg" alt="Cover for The Medici Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Medici+Conspiracy+Peter+Watson%2C+Cecilia+Todeschini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Medici Conspiracy">The Medici Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Peter Watson, Cecilia Todeschini, Watson, Peter et al.</p>
-
-        <p class="fr-book-desc">Explains how antiquities trafficking networks operate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Medici+Conspiracy+Peter+Watson%2C+Cecilia+Todeschini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Medici+Conspiracy+Peter+Watson%2C+Cecilia+Todeschini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Medici Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7265959-M.jpg" alt="Cover for The Medici Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Medici+Conspiracy+Peter+Watson%2C+Cecilia+Todeschini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Medici Conspiracy">The Medici Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Peter Watson, Cecilia Todeschini, Watson, Peter et al.</p>
+        
+<p class="fr-book-desc">Explains how antiquities trafficking networks operate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Medici+Conspiracy+Peter+Watson%2C+Cecilia+Todeschini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Libya: From Colony to Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3001066-M.jpg" alt="Cover for Libya: From Colony to Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya: From Colony to Revolution">Libya: From Colony to Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Bruce St John</p>
-
-        <p class="fr-book-desc">Explains the conflict during which the treasure disappeared.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Libya: From Colony to Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3001066-M.jpg" alt="Cover for Libya: From Colony to Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya: From Colony to Revolution">Libya: From Colony to Revolution</a>
+</h4>
+<p class="fr-book-author">By Ronald Bruce St John</p>
+        
+<p class="fr-book-desc">Explains the conflict during which the treasure disappeared.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stealing+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stealing history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Modern+Libya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Modern Libya</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Medici+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Medici Conspiracy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stealing+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stealing history</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Modern+Libya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Modern Libya</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Medici+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Medici Conspiracy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

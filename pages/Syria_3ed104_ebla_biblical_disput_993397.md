@@ -388,89 +388,89 @@ Today the greatest achievement of the Ebla tablets is not that they confirmed fa
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Ebla Tablets Confirm Biblical Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Ebla Tablets Confirm Biblical Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bible unearthed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10715387-M.jpg" alt="Cover for The Bible unearthed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible unearthed">The Bible unearthed</a>
-        </h4>
-        <p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
-
-        <p class="fr-book-desc">Explores how archaeology supports and challenges biblical traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bible unearthed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10715387-M.jpg" alt="Cover for The Bible unearthed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible unearthed">The Bible unearthed</a>
+</h4>
+<p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
+        
+<p class="fr-book-desc">Explores how archaeology supports and challenges biblical traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
-        </h4>
-        <p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
-
-        <p class="fr-book-desc">Provides broader Late Bronze Age context relevant to Syrian archaeology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
+</h4>
+<p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
+        
+<p class="fr-book-desc">Provides broader Late Bronze Age context relevant to Syrian archaeology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ancient Near East: History, Society and Economy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8438696-M.jpg" alt="Cover for The Ancient Near East: History, Society and Economy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ancient Near East: History, Society and Economy">The Ancient Near East: History, Society and Economy</a>
-        </h4>
-        <p class="fr-book-author">By Mario Liverani</p>
-
-        <p class="fr-book-desc">Places Ebla within its historical setting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ancient Near East: History, Society and Economy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8438696-M.jpg" alt="Cover for The Ancient Near East: History, Society and Economy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ancient Near East: History, Society and Economy">The Ancient Near East: History, Society and Economy</a>
+</h4>
+<p class="fr-book-author">By Mario Liverani</p>
+        
+<p class="fr-book-desc">Places Ebla within its historical setting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy+Mario+Liverani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digging+up+Armageddon+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digging up Armageddon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13206734-M.jpg" alt="Cover for Digging up Armageddon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digging+up+Armageddon+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digging up Armageddon">Digging up Armageddon</a>
-        </h4>
-        <p class="fr-book-author">By Eric H. Cline</p>
-
-        <p class="fr-book-desc">Illustrates how archaeology is interpreted and sometimes misinterpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digging+up+Armageddon+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digging+up+Armageddon+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digging up Armageddon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13206734-M.jpg" alt="Cover for Digging up Armageddon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digging+up+Armageddon+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digging up Armageddon">Digging up Armageddon</a>
+</h4>
+<p class="fr-book-author">By Eric H. Cline</p>
+        
+<p class="fr-book-desc">Illustrates how archaeology is interpreted and sometimes misinterpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digging+up+Armageddon+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bible+unearthed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bible unearthed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ancient Near East: History, Society and Economy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bible+unearthed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bible unearthed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C.</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ancient+Near+East%3A+History%2C+Society+and+Economy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ancient Near East: History, Society and Economy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

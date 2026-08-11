@@ -1318,38 +1318,38 @@ These cases endure because they lie at the boundary between recovery and loss. M
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Armenia&#x27;s Ancient Mysteries Really Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Armenia&#x27;s Ancient Mysteries Really Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenia: A Historical Atlas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/141304-M.jpg" alt="Cover for Armenia: A Historical Atlas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenia: A Historical Atlas">Armenia: A Historical Atlas</a>
-        </h4>
-        <p class="fr-book-author">By Robert H. Hewsen</p>
-
-        <p class="fr-book-desc">Maps and explains archaeological and historical sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenia: A Historical Atlas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/141304-M.jpg" alt="Cover for Armenia: A Historical Atlas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenia: A Historical Atlas">Armenia: A Historical Atlas</a>
+</h4>
+<p class="fr-book-author">By Robert H. Hewsen</p>
+        
+<p class="fr-book-desc">Maps and explains archaeological and historical sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas+Robert+H.+Hewsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.amazon.com/s?k=Armenia%3A+A+Historical+Atlas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

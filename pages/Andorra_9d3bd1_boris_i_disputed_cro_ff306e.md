@@ -386,7 +386,7 @@ For historians, the mystery has largely shifted from "Was Boris really king?" to
 <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish Civil War">The Spanish Civil War</a>
 </h4>
 <p class="fr-book-author">By Antony Beevor</p>
-
+        
 <p class="fr-book-desc">First published 1982. Subjects: History, History of Spain, Spanish Civil War, Historia, Spain, history, civil war, 1936-1939.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ For historians, the mystery has largely shifted from "Was Boris really king?" to
 <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Spain">Ghosts of Spain</a>
 </h4>
 <p class="fr-book-author">By Giles Tremlett</p>
-
+        
 <p class="fr-book-desc">First published 2006. Subjects: Description and travel, History, Influence, Nonfiction, Social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ For historians, the mystery has largely shifted from "Was Boris really king?" to
 <a href="https://www.amazon.com/s?k=The+rough+guide+to+the+Pyrenees+Marc+Dubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rough guide to the Pyrenees">The rough guide to the Pyrenees</a>
 </h4>
 <p class="fr-book-author">By Marc Dubin</p>
-
+        
 <p class="fr-book-desc">First published 2007. Subjects: Guidebooks, Mountains, Nonfiction, Travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+rough+guide+to+the+Pyrenees+Marc+Dubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ For historians, the mystery has largely shifted from "Was Boris really king?" to
 <a href="https://www.amazon.com/s?k=The+Basque+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Basque">The Basque</a>
 </h4>
 <p class="fr-book-author">By Mark Kurlansky</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: History, Basques, Nonfiction, Geschichte, Nationalismus.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Basque+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

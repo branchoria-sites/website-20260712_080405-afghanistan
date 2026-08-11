@@ -331,95 +331,96 @@ Less likely, though still discussed, is the possibility that the bell was eventu
 
 <img src="{{ "/assets/images/Myanmar_928b7c_lost_dhammazedi_bell_1d286a-Illustration-3-dark.svg" | relative_url }}" alt="Lost Bell illustration 3" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_lost_dhammazedi_bell_1d286a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_lost_dhammazedi_bell_1d286a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Lost Bell
+## Why the mystery still matters
+
 The Dhammazedi Bell is important not only because of its possible monetary value but because it represents a powerful historical narrative. In Myanmar's popular memory, the story transforms an attempted act of conquest into one of failure: a sacred object is stolen, yet the plunderer never profits from it. That symbolism helps explain why each new search attracts national attention far beyond the archaeological question itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irrawaddy.com/features/murky-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irrawaddy.com">[The Irrawaddy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irrawaddy.com</span><span class="citation-popover-title">The Irrawaddy A Murky Story</span><span class="citation-popover-snippet">The IrrawaddyA Murky StoryMay 17, 2014...</span><span class="citation-popover-meta">Published: May 17, 2014</span></span></span>
 
 The case also illustrates how historical mysteries persist when evidence is incomplete rather than absent. An eyewitness account strongly supports the bell's existence, while centuries of tradition preserve the story of its disappearance. Between those points lie missing records, changing landscapes and unsuccessful expeditions that prevent historians from reaching a definitive conclusion. Until an authenticated recovery—or compelling contrary evidence—emerges, the Great Dhammazedi Bell will remain one of Myanmar's most enduring unresolved historical puzzles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irrawaddy.com/news/burma/spirits-prayers-mark-hunt-burmas-lost-bell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irrawaddy.com">[The Irrawaddy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irrawaddy.com</span><span class="citation-popover-title">The Irrawaddy Spirits, Prayers Mark Hunt for Myanmar’s Lost Bell</span><span class="citation-popover-snippet">The Irrawaddy Spirits, Prayers Mark Hunt for Myanmar’s Lost Bell</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is the Great Dhammazedi Bell Still Underwater?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is the Great Dhammazedi Bell Still Underwater?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Glass Palace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3326867-M.jpg" alt="Cover for The Glass Palace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
-        </h4>
-        <p class="fr-book-author">By Amitav Ghosh</p>
-
-        <p class="fr-book-desc">Captures Burma&#x27;s historical atmosphere and heritage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Glass Palace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3326867-M.jpg" alt="Cover for The Glass Palace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
+</h4>
+<p class="fr-book-author">By Amitav Ghosh</p>
+        
+<p class="fr-book-desc">Captures Burma&#x27;s historical atmosphere and heritage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Golden+earth+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Golden earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/702198-M.jpg" alt="Cover for Golden earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Golden+earth+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Golden earth">Golden earth</a>
-        </h4>
-        <p class="fr-book-author">By Norman Lewis</p>
-
-        <p class="fr-book-desc">Includes reflections on Burma&#x27;s cultural and religious heritage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Golden+earth+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Golden+earth+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Golden earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/702198-M.jpg" alt="Cover for Golden earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Golden+earth+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Golden earth">Golden earth</a>
+</h4>
+<p class="fr-book-author">By Norman Lewis</p>
+        
+<p class="fr-book-desc">Includes reflections on Burma&#x27;s cultural and religious heritage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Golden+earth+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Finding George Orwell in Burma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872278-M.jpg" alt="Cover for Finding George Orwell in Burma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finding George Orwell in Burma">Finding George Orwell in Burma</a>
-        </h4>
-        <p class="fr-book-author">By Emma Larkin</p>
-
-        <p class="fr-book-desc">First published 2004. Subjects: Travel, Politics and government, Description and travel, Nonfiction, Orwell, george, 1903-1950.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Finding George Orwell in Burma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872278-M.jpg" alt="Cover for Finding George Orwell in Burma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finding George Orwell in Burma">Finding George Orwell in Burma</a>
+</h4>
+<p class="fr-book-author">By Emma Larkin</p>
+        
+<p class="fr-book-desc">First published 2004. Subjects: Travel, Politics and government, Description and travel, Nonfiction, Orwell, george, 1903-1950.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The River of Lost Footsteps: Histories of Burma on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Lost Footsteps: Histories of Burma">The River of Lost Footsteps: Histories of Burma</a>
-        </h4>
-        <p class="fr-book-author">By Thant Myint-U</p>
-
-        <p class="fr-book-desc">Introduces the kingdoms and cultural heritage behind the bell.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The River of Lost Footsteps: Histories of Burma on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Lost Footsteps: Histories of Burma">The River of Lost Footsteps: Histories of Burma</a>
+</h4>
+<p class="fr-book-author">By Thant Myint-U</p>
+        
+<p class="fr-book-desc">Introduces the kingdoms and cultural heritage behind the bell.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Glass+Palace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Glass Palace</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Golden+earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Golden earth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Finding George Orwell in Burma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Glass+Palace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Glass Palace</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Golden+earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Golden earth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Finding George Orwell in Burma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

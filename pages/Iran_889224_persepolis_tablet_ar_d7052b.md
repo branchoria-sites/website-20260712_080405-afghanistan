@@ -332,89 +332,89 @@ Their mystery lies not in hidden codes or spectacular conspiracies but in the in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do the Persepolis Tablets Still Hide?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do the Persepolis Tablets Still Hide?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+Corpus+of+Sources+from+the+Achaemenid+Period+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Persian Empire: A Corpus of Sources from the Achaemenid Period on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139489-M.jpg" alt="Cover for The Persian Empire: A Corpus of Sources from the Achaemenid Period" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+Corpus+of+Sources+from+the+Achaemenid+Period+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Persian Empire: A Corpus of Sources from the Achaemenid Period">The Persian Empire: A Corpus of Sources from the Achaemenid P...</a>
-        </h4>
-        <p class="fr-book-author">By Allen, Lindsay.</p>
-
-        <p class="fr-book-desc">Collects and interprets Achaemenid sources, including administrative material essential to understanding Persepolis and imperial government.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+Corpus+of+Sources+from+the+Achaemenid+Period+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+Corpus+of+Sources+from+the+Achaemenid+Period+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Persian Empire: A Corpus of Sources from the Achaemenid Period on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139489-M.jpg" alt="Cover for The Persian Empire: A Corpus of Sources from the Achaemenid Period" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+Corpus+of+Sources+from+the+Achaemenid+Period+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Persian Empire: A Corpus of Sources from the Achaemenid Period">The Persian Empire: A Corpus of Sources from the Achaemenid P...</a>
+</h4>
+<p class="fr-book-author">By Allen, Lindsay.</p>
+        
+<p class="fr-book-desc">Collects and interprets Achaemenid sources, including administrative material essential to understanding Persepolis and imperial government.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+Corpus+of+Sources+from+the+Achaemenid+Period+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Persians: The Age of the Great Kings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13455944-M.jpg" alt="Cover for Persians: The Age of the Great Kings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Persians: The Age of the Great Kings">Persians: The Age of the Great Kings</a>
-        </h4>
-        <p class="fr-book-author">By Lloyd Llewellyn-Jones</p>
-
-        <p class="fr-book-desc">Uses Persian evidence to reconstruct the empire&#x27;s court, administration and society—the same world documented by the Persepolis archive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Persians: The Age of the Great Kings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13455944-M.jpg" alt="Cover for Persians: The Age of the Great Kings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Persians: The Age of the Great Kings">Persians: The Age of the Great Kings</a>
+</h4>
+<p class="fr-book-author">By Lloyd Llewellyn-Jones</p>
+        
+<p class="fr-book-desc">Uses Persian evidence to reconstruct the empire&#x27;s court, administration and society—the same world documented by the Persepolis archive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ancient+Persia%3A+A+Concise+History+of+the+Achaemenid+Empire%2C+550-330+BCE+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ancient Persia: A Concise History of the Achaemenid Empire, 550-330 BCE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8456342-M.jpg" alt="Cover for Ancient Persia: A Concise History of the Achaemenid Empire, 550-330 BCE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ancient+Persia%3A+A+Concise+History+of+the+Achaemenid+Empire%2C+550-330+BCE+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Persia: A Concise History of the Achaemenid Empire, 550-330 BCE">Ancient Persia: A Concise History of the Achaemenid Empire, 5...</a>
-        </h4>
-        <p class="fr-book-author">By Matt Waters</p>
-
-        <p class="fr-book-desc">Explains Achaemenid institutions, geography and sources while showing how archives reshape conventional accounts of the empire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ancient+Persia%3A+A+Concise+History+of+the+Achaemenid+Empire%2C+550-330+BCE+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ancient+Persia%3A+A+Concise+History+of+the+Achaemenid+Empire%2C+550-330+BCE+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ancient Persia: A Concise History of the Achaemenid Empire, 550-330 BCE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8456342-M.jpg" alt="Cover for Ancient Persia: A Concise History of the Achaemenid Empire, 550-330 BCE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ancient+Persia%3A+A+Concise+History+of+the+Achaemenid+Empire%2C+550-330+BCE+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Persia: A Concise History of the Achaemenid Empire, 550-330 BCE">Ancient Persia: A Concise History of the Achaemenid Empire, 5...</a>
+</h4>
+<p class="fr-book-author">By Matt Waters</p>
+        
+<p class="fr-book-desc">Explains Achaemenid institutions, geography and sources while showing how archives reshape conventional accounts of the empire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ancient+Persia%3A+A+Concise+History+of+the+Achaemenid+Empire%2C+550-330+BCE+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=King+of+the+World%3A+The+Life+of+Cyrus+the+Great+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King of the World: The Life of Cyrus the Great on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=King+of+the+World%3A+The+Life+of+Cyrus+the+Great+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King of the World: The Life of Cyrus the Great">King of the World: The Life of Cyrus the Great</a>
-        </h4>
-        <p class="fr-book-author">By Matt Waters</p>
-
-        <p class="fr-book-desc">Provides context for the creation of the Achaemenid imperial system later administered and documented at Persepolis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=King+of+the+World%3A+The+Life+of+Cyrus+the+Great+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=King+of+the+World%3A+The+Life+of+Cyrus+the+Great+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King of the World: The Life of Cyrus the Great on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=King+of+the+World%3A+The+Life+of+Cyrus+the+Great+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King of the World: The Life of Cyrus the Great">King of the World: The Life of Cyrus the Great</a>
+</h4>
+<p class="fr-book-author">By Matt Waters</p>
+        
+<p class="fr-book-desc">Provides context for the creation of the Achaemenid imperial system later administered and documented at Persepolis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=King+of+the+World%3A+The+Life+of+Cyrus+the+Great+Matt+Waters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+Corpus+of+Sources+from+the+Achaemenid+Period&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persian Empire: A Corpus of Sources from the Achaemenid Period</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Persians: The Age of the Great Kings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Persia%3A+A+Concise+History+of+the+Achaemenid+Empire%2C+550+330+BCE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Persia: A Concise History of the Achaemenid Empire, 550 330 BCE</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+Corpus+of+Sources+from+the+Achaemenid+Period&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persian Empire: A Corpus of Sources from the Achaemenid Period</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Persians: The Age of the Great Kings</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Persia%3A+A+Concise+History+of+the+Achaemenid+Empire%2C+550+330+BCE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Persia: A Concise History of the Achaemenid Empire, 550 330 BCE</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

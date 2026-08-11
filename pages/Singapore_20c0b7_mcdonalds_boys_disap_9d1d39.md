@@ -363,7 +363,8 @@ Over the decades the boys have been legally declared dead, but that legal status
 
 <img src="{{ "/assets/images/Singapore_20c0b7_mcdonalds_boys_disap_9d1d39-Illustration-3-dark.svg" | relative_url }}" alt="Missing Boys illustration 3" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_mcdonalds_boys_disap_9d1d39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_mcdonalds_boys_disap_9d1d39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Missing Boys in the wider historical record
+## Why the case still matters
+
 The McDonald's Boys case occupies a distinctive place in Singapore's history because it demonstrates how an unresolved disappearance can become part of national memory despite leaving remarkably little physical evidence.
 
 It also illustrates an important distinction between mystery and speculation. The enduring puzzle is not that there are countless dramatic theories. It is that the verified facts remain stubbornly few. After decades of investigation, the central historical question has changed very little: two schoolboys set out for class on an ordinary afternoon in May 1986 and, somewhere between home and school, vanished without leaving evidence sufficient to explain what became of them.
@@ -391,7 +392,7 @@ It also illustrates an important distinction between mystery and speculation. Th
 <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
 </h4>
 <p class="fr-book-author">By Roger Wilkes</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Homicide, Case studies, Cold cases (Criminal investigation), Crime, Criminal investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +409,7 @@ It also illustrates an important distinction between mystery and speculation. Th
 <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
 </h4>
 <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
-
+        
 <p class="fr-book-desc">First published 2001. Subjects: Murderers, Criminal psychology, Murder, Case studies, Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +426,7 @@ It also illustrates an important distinction between mystery and speculation. Th
 <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore">Singapore</a>
 </h4>
 <p class="fr-book-author">By Mark Ravinder Frost</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Biography, History, Singapore, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +443,7 @@ It also illustrates an important distinction between mystery and speculation. Th
 <a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Hundred Years">Seven Hundred Years</a>
 </h4>
 <p class="fr-book-author">By Kwa Chong Guan, Derek Thiam Soon Heng et al.</p>
-
+        
 <p class="fr-book-desc">First published 2019. Subjects: Asia, history, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

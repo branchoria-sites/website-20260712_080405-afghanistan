@@ -334,7 +334,8 @@ As a result, there remains a distinction between historical judgement and legal 
 
 <img src="{{ "/assets/images/Guyana_bc88a2_walter_rodney_assass_477154-Illustration-3-dark.svg" | relative_url }}" alt="Walter Rodney illustration 3" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2_walter_rodney_assass_477154-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2_walter_rodney_assass_477154-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Walter Rodney
+## Why the Case Still Matters
+
 Walter Rodney's assassination remains one of Guyana's defining unresolved historical cases because it combines well-established facts with enduring uncertainty about institutional responsibility.
 
 Today there is broad acceptance that Rodney did not accidentally kill himself and that Gregory Smith was responsible for delivering the disguised explosive device. The principal unanswered questions concern the extent of official planning, who authorised the operation, which state officials knowingly participated in the cover-up, and why those questions were never resolved through criminal justice rather than historical inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://parliament.gov.gy/documents/documents-laid/5851-report_of_the_commission_of_inquiry_appointed_to_enquire_and_report_on_the_circumstances_surrounding_the_death_in_an_explosion_of_the_late_dr_walter_rodney.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.gy">[parliament.gov.gy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.gy</span><span class="citation-popover-snippet">REPORTOFTHE COMMISSION OF INQUIRYAPPOINTED TO ENQUIRE AND REPORT ON THE CIRCUMSTANCESMarch 26, 2026...</span><span class="citation-popover-meta">Published: March 26, 2026</span></span></span>
@@ -342,89 +343,89 @@ Today there is broad acceptance that Rodney did not accidentally kill himself an
 For Guyana, the case has become more than the story of one political killing. It serves as a continuing test of how democratic societies confront periods of political violence, preserve historical evidence and distinguish between historical truth established through inquiry and accountability established in court. That unresolved gap explains why Walter Rodney's assassination continues to occupy a unique place among Guyana's enduring historical controversies.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Still Unknown About Rodney&#x27;s Assassination?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Still Unknown About Rodney&#x27;s Assassination?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+groundings+with+my+brothers+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The groundings with my brothers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/722407-M.jpg" alt="Cover for The groundings with my brothers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+groundings+with+my+brothers+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The groundings with my brothers">The groundings with my brothers</a>
-        </h4>
-        <p class="fr-book-author">By Walter Rodney</p>
-
-        <p class="fr-book-desc">Shows Rodney&#x27;s organising philosophy and engagement with popular political education, central to understanding his influence and perceive...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+groundings+with+my+brothers+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+groundings+with+my+brothers+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The groundings with my brothers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/722407-M.jpg" alt="Cover for The groundings with my brothers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+groundings+with+my+brothers+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The groundings with my brothers">The groundings with my brothers</a>
+</h4>
+<p class="fr-book-author">By Walter Rodney</p>
+        
+<p class="fr-book-desc">Shows Rodney&#x27;s organising philosophy and engagement with popular political education, central to understanding his influence and perceive...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+groundings+with+my+brothers+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought+Rupert+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Walter Rodney&#x27;s intellectual and political thought on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3793890-M.jpg" alt="Cover for Walter Rodney&#x27;s intellectual and political thought" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought+Rupert+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Walter Rodney&#x27;s intellectual and political thought">Walter Rodney&#x27;s intellectual and political thought</a>
-        </h4>
-        <p class="fr-book-author">By Rupert Lewis</p>
-
-        <p class="fr-book-desc">Examines the relationship between Rodney&#x27;s historical scholarship, revolutionary commitments and political activity in Guyana.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought+Rupert+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought+Rupert+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Walter Rodney&#x27;s intellectual and political thought on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3793890-M.jpg" alt="Cover for Walter Rodney&#x27;s intellectual and political thought" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought+Rupert+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Walter Rodney&#x27;s intellectual and political thought">Walter Rodney&#x27;s intellectual and political thought</a>
+</h4>
+<p class="fr-book-author">By Rupert Lewis</p>
+        
+<p class="fr-book-desc">Examines the relationship between Rodney&#x27;s historical scholarship, revolutionary commitments and political activity in Guyana.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought+Rupert+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Walter+Rodney+speaks+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Walter Rodney speaks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4130498-M.jpg" alt="Cover for Walter Rodney speaks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Walter+Rodney+speaks+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Walter Rodney speaks">Walter Rodney speaks</a>
-        </h4>
-        <p class="fr-book-author">By Walter Rodney</p>
-
-        <p class="fr-book-desc">Provides Rodney&#x27;s own perspective on his political formation and intellectual work, helping readers understand the person targeted in 1980.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Walter+Rodney+speaks+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Walter+Rodney+speaks+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Walter Rodney speaks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4130498-M.jpg" alt="Cover for Walter Rodney speaks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Walter+Rodney+speaks+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Walter Rodney speaks">Walter Rodney speaks</a>
+</h4>
+<p class="fr-book-author">By Walter Rodney</p>
+        
+<p class="fr-book-desc">Provides Rodney&#x27;s own perspective on his political formation and intellectual work, helping readers understand the person targeted in 1980.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Walter+Rodney+speaks+Walter+Rodney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Guyanese working people, 1881-1905 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5296911-M.jpg" alt="Cover for A history of the Guyanese working people, 1881-1905" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Guyanese working people, 1881-1905">A history of the Guyanese working people, 1881-1905</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Demonstrates the nationally focused historical research Rodney pursued while becoming a major opponent of the Burnham government.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Guyanese working people, 1881-1905 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5296911-M.jpg" alt="Cover for A history of the Guyanese working people," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Guyanese working people,">A history of the Guyanese working people,</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Demonstrates the nationally focused historical research Rodney pursued while becoming a major opponent of the Burnham government.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+the+Guyanese+working+people%2C+1881-1905+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+groundings+with+my+brothers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The groundings with my brothers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Walter Rodney&#x27;s intellectual and political thought</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Walter+Rodney+speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Walter Rodney speaks</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+groundings+with+my+brothers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The groundings with my brothers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Walter+Rodney%27s+intellectual+and+political+thought&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Walter Rodney&#x27;s intellectual and political thought</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Walter+Rodney+speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Walter Rodney speaks</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

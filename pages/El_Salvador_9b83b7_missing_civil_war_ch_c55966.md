@@ -325,7 +325,8 @@ Even where courts recognised state responsibility for inadequate investigations,
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BVRrIjLsLJo" title="Archive: Missing Children of El Salvador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BVRrIjLsLJo" target="_blank" rel="noopener noreferrer">Archive: Missing Children of El Salvador</a></p><p class="youtube-embed-meta">Channel: UW Video</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BVRrIjLsLJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BVRrIjLsLJo">Open on YouTube</a></p></div></div></div>
 
-## What would clarify Missing Children
+## Why the mystery remains unresolved
+
 Although hundreds of children have now been located, many cases remain open. The uncertainty persists because several different outcomes are plausible, and each requires different evidence to verify.
 
 Some children almost certainly died during military operations without being identified. Others survived and were adopted, either within El Salvador or abroad. Still others may still be living under different identities, unaware that relatives continue searching for them.
@@ -357,7 +358,7 @@ The mystery therefore survives not because historians doubt that children disapp
 <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
 </h4>
 <p class="fr-book-author">By Mark Danner</p>
-
+        
 <p class="fr-book-desc">First published 1994. Subjects: Politics and government, Massacres, History, El salvador, politics and government, El salvador, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +375,7 @@ The mystery therefore survives not because historians doubt that children disapp
 <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One day of life">One day of life</a>
 </h4>
 <p class="fr-book-author">By Manlio Argueta</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: war stories, fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +392,7 @@ The mystery therefore survives not because historians doubt that children disapp
 <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Revolution in El Salvador">Revolution in El Salvador</a>
 </h4>
 <p class="fr-book-author">By Tommie Sue Montgomery</p>
-
+        
 <p class="fr-book-desc">First published 1982. Subjects: History, Insurgency, Politics and government, Economic conditions, Catholic Church.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +409,7 @@ The mystery therefore survives not because historians doubt that children disapp
 <a href="https://www.amazon.com/s?k=El+Salvador+Tom+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="El Salvador">El Salvador</a>
 </h4>
 <p class="fr-book-author">By Tom Barry</p>
-
+        
 <p class="fr-book-desc">First published 1990. Subjects: El salvador, description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=El+Salvador+Tom+Barry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -345,7 +345,8 @@ Some prehistoric sacred places also remained important despite profound cultural
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kXwzfBHKk6E" title="Michael Button Debunked - The Worst Liar in Alt History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kXwzfBHKk6E" target="_blank" rel="noopener noreferrer">Michael Button Debunked - The Worst Liar in Alt History</a></p><p class="youtube-embed-meta">Channel: Spoken Past</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kXwzfBHKk6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kXwzfBHKk6E">Open on YouTube</a></p></div></div></div>
 
-## The historical picture around Temple Builders
+## Why the mystery endures
+
 The disappearance of Malta's temple-building culture remains mysterious because archaeologists lack written records and many key excavations took place before modern archaeological recording methods existed. Important evidence about chronology, environmental conditions and everyday settlement has therefore been lost permanently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2021.771683/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; The 4.2 ka Event and the End of the Maltese “Temple Period”January 11, 2022...</span><span class="citation-popover-meta">Published: January 11, 2022</span></span></span>
 
 Several conclusions nevertheless command broad agreement:
@@ -369,72 +370,72 @@ The enduring fascination of the mystery lies not in fantasies of a lost civilisa
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Malta&#x27;s Temple-Building Culture End?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Malta&#x27;s Temple-Building Culture End?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malta, prehistory and temples on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2305603-M.jpg" alt="Cover for Malta, prehistory and temples" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malta, prehistory and temples">Malta, prehistory and temples</a>
-        </h4>
-        <p class="fr-book-author">By David H. Trump</p>
-
-        <p class="fr-book-desc">Directly addresses the temple builders and their decline.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malta, prehistory and temples on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2305603-M.jpg" alt="Cover for Malta, prehistory and temples" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malta, prehistory and temples">Malta, prehistory and temples</a>
+</h4>
+<p class="fr-book-author">By David H. Trump</p>
+        
+<p class="fr-book-desc">Directly addresses the temple builders and their decline.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
-        </h4>
-        <p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
-
-        <p class="fr-book-desc">Introduces broader ideas about societal collapse and resilience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
+</h4>
+<p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
+        
+<p class="fr-book-desc">Introduces broader ideas about societal collapse and resilience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of Malta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15070349-M.jpg" alt="Cover for The story of Malta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of Malta">The story of Malta</a>
-        </h4>
-        <p class="fr-book-author">By Brian Blouet</p>
-
-        <p class="fr-book-desc">Provides long-term historical context after the Temple Period.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of Malta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15070349-M.jpg" alt="Cover for The story of Malta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of Malta">The story of Malta</a>
+</h4>
+<p class="fr-book-author">By Brian Blouet</p>
+        
+<p class="fr-book-desc">Provides long-term historical context after the Temple Period.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malta, prehistory and temples</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+Malta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of Malta</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malta, prehistory and temples</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C.</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+Malta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of Malta</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

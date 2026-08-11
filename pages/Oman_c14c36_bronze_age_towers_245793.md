@@ -352,7 +352,8 @@ Their visibility also mattered. Rising above surrounding villages, they would ha
 
 <img src="{{ "/assets/images/Oman_c14c36_bronze_age_towers_245793-Illustration-3-dark.svg" | relative_url }}" alt="Bronze Age Towers illustration 3" data-theme-src-dark="{{ "/assets/images/Oman_c14c36_bronze_age_towers_245793-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36_bronze_age_towers_245793-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Bronze Age Towers in the wider historical record
+## Why the mystery endures
+
 Excavation has answered many questions about how the towers were built but far fewer about why they existed.
 
 Several factors keep the debate open:
@@ -383,72 +384,72 @@ By around 2500–2000 BC, communities in northern Oman possessed the engineering
 Exactly what happened inside them remains uncertain. They may have managed water, coordinated trade, stored resources, hosted communal gatherings or embodied local political authority. The strongest interpretation today is not that one theory has defeated all the others, but that these remarkable monuments probably combined several of these functions. Their enduring mystery is therefore less about hidden secrets than about reconstructing how one of Arabia's earliest complex societies organised itself without leaving written explanations behind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/list/434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[unesco.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-title">World Heritage Centre Archaeological Sites of Bat, Al-Khutm and Al-Ayn</span><span class="citation-popover-snippet">UNESCO World Heritage CentreArchaeological Sites of Bat, Al-Khutm and Al-Ayn - UNESCO World Heritage Centre...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Ancient Oman Build Giant Stone Towers?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Ancient Oman Build Giant Stone Towers?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabian sands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/94300-M.jpg" alt="Cover for Arabian sands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian sands">Arabian sands</a>
-        </h4>
-        <p class="fr-book-author">By Wilfred Thesiger</p>
-
-        <p class="fr-book-desc">Offers landscape context for understanding Oman&#x27;s archaeology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabian sands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/94300-M.jpg" alt="Cover for Arabian sands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian sands">Arabian sands</a>
+</h4>
+<p class="fr-book-author">By Wilfred Thesiger</p>
+        
+<p class="fr-book-desc">Offers landscape context for understanding Oman&#x27;s archaeology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs">Arabia and the Arabs</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Places Oman&#x27;s Bronze Age within wider Arabian history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs">Arabia and the Arabs</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Places Oman&#x27;s Bronze Age within wider Arabian history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Archaeology+of+Arabia%3A+From+the+Stone+Age+to+the+Age+of+the+Incense+Trade+Peter+Magee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Arabia: From the Stone Age to the Age of the Incense Trade on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Arabia%3A+From+the+Stone+Age+to+the+Age+of+the+Incense+Trade+Peter+Magee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Arabia: From the Stone Age to the Age of the Incense Trade">The Archaeology of Arabia: From the Stone Age to the Age of t...</a>
-        </h4>
-        <p class="fr-book-author">By Peter Magee</p>
-
-        <p class="fr-book-desc">Covers Bronze Age Oman, Bat and monumental architecture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Arabia%3A+From+the+Stone+Age+to+the+Age+of+the+Incense+Trade+Peter+Magee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Archaeology+of+Arabia%3A+From+the+Stone+Age+to+the+Age+of+the+Incense+Trade+Peter+Magee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Arabia: From the Stone Age to the Age of the Incense Trade on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Archaeology+of+Arabia%3A+From+the+Stone+Age+to+the+Age+of+the+Incense+Trade+Peter+Magee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Arabia: From the Stone Age to the Age of the Incense Trade">The Archaeology of Arabia: From the Stone Age to the Age of t...</a>
+</h4>
+<p class="fr-book-author">By Peter Magee</p>
+        
+<p class="fr-book-desc">Covers Bronze Age Oman, Bat and monumental architecture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Archaeology+of+Arabia%3A+From+the+Stone+Age+to+the+Age+of+the+Incense+Trade+Peter+Magee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabian+sands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabian sands</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabia and the Arabs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archaeology+of+Arabia%3A+From+the+Stone+Age+to+the+Age+of+the+Incense+Trade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archaeology of Arabia: From the Stone Age to the Age of the Incense Trade</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabian+sands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabian sands</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabia and the Arabs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archaeology+of+Arabia%3A+From+the+Stone+Age+to+the+Age+of+the+Incense+Trade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archaeology of Arabia: From the Stone Age to the Age of the Incense Trade</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

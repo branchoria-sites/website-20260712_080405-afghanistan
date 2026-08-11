@@ -365,7 +365,8 @@ At Hatteras Island and inland sites, archaeology continues to recover isolated f
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UUd_sV4z-DE" title="Lost Colony of Roanoke Mystery Explained: 7 Theories Ranked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UUd_sV4z-DE" target="_blank" rel="noopener noreferrer">Lost Colony of Roanoke Mystery Explained: 7 Theories Ranked</a></p><p class="youtube-embed-meta">Channel: Parry This</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UUd_sV4z-DE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UUd_sV4z-DE">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by Roanoke
+## Why the mystery still matters
+
 Roanoke remains famous because it illustrates the difference between a genuine historical mystery and a popular legend.
 
 The strongest evidence no longer supports the idea that the colonists vanished without trace. Instead, it suggests that they acted rationally in response to isolation, food shortages and uncertainty by seeking help from neighbouring Indigenous communities or relocating to planned inland sites. What remains unresolved is the scale of that movement, how many survived, where different groups settled and how long they maintained an English identity before becoming absorbed into surrounding societies.
@@ -378,89 +379,89 @@ Recent archaeological discoveries on Hatteras Island and at inland locations hav
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Lost Colony Really Disappear?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Lost Colony Really Disappear?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+token+Andrew+Lawler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret token on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11104154-M.jpg" alt="Cover for The secret token" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+secret+token+Andrew+Lawler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret token">The secret token</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Lawler</p>
-
-        <p class="fr-book-desc">Explores evidence, archaeology and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+secret+token+Andrew+Lawler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+token+Andrew+Lawler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret token on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11104154-M.jpg" alt="Cover for The secret token" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+secret+token+Andrew+Lawler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret token">The secret token</a>
+</h4>
+<p class="fr-book-author">By Andrew Lawler</p>
+        
+<p class="fr-book-desc">Explores evidence, archaeology and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+secret+token+Andrew+Lawler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
-        </h4>
-        <p class="fr-book-author">By Charles C. Mann</p>
-
-        <p class="fr-book-desc">Provides Indigenous context relevant to relocation theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
+</h4>
+<p class="fr-book-author">By Charles C. Mann</p>
+        
+<p class="fr-book-desc">Provides Indigenous context relevant to relocation theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke+Jean+Fritz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost Colony of Roanoke on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/260102-M.jpg" alt="Cover for The Lost Colony of Roanoke" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke+Jean+Fritz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost Colony of Roanoke">The Lost Colony of Roanoke</a>
-        </h4>
-        <p class="fr-book-author">By Jean Fritz</p>
-
-        <p class="fr-book-desc">Introduces the enduring mystery clearly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke+Jean+Fritz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke+Jean+Fritz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost Colony of Roanoke on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/260102-M.jpg" alt="Cover for The Lost Colony of Roanoke" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke+Jean+Fritz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost Colony of Roanoke">The Lost Colony of Roanoke</a>
+</h4>
+<p class="fr-book-author">By Jean Fritz</p>
+        
+<p class="fr-book-desc">Introduces the enduring mystery clearly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke+Jean+Fritz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roanoke%3A+Solving+the+Mystery+of+the+Lost+Colony+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roanoke: Solving the Mystery of the Lost Colony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/787776-M.jpg" alt="Cover for Roanoke: Solving the Mystery of the Lost Colony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roanoke%3A+Solving+the+Mystery+of+the+Lost+Colony+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roanoke: Solving the Mystery of the Lost Colony">Roanoke: Solving the Mystery of the Lost Colony</a>
-        </h4>
-        <p class="fr-book-author">By Lee Miller, Lee G. Miller et al.</p>
-
-        <p class="fr-book-desc">Focuses directly on the colony&#x27;s disappearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roanoke%3A+Solving+the+Mystery+of+the+Lost+Colony+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roanoke%3A+Solving+the+Mystery+of+the+Lost+Colony+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roanoke: Solving the Mystery of the Lost Colony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/787776-M.jpg" alt="Cover for Roanoke: Solving the Mystery of the Lost Colony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roanoke%3A+Solving+the+Mystery+of+the+Lost+Colony+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roanoke: Solving the Mystery of the Lost Colony">Roanoke: Solving the Mystery of the Lost Colony</a>
+</h4>
+<p class="fr-book-author">By Lee Miller, Lee G. Miller et al.</p>
+        
+<p class="fr-book-desc">Focuses directly on the colony&#x27;s disappearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roanoke%3A+Solving+the+Mystery+of+the+Lost+Colony+Lee+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+token&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret token</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost Colony of Roanoke</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+token&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret token</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+Colony+of+Roanoke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost Colony of Roanoke</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

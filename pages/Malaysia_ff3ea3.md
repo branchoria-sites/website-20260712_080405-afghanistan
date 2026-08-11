@@ -1317,89 +1317,89 @@ The most responsible way to approach Malaysia’s historical enigmas is to ask w
 Those distinctions do not make the stories less compelling. They reveal the more interesting truth: Malaysia’s enduring mysteries are rarely blank spaces. They are layered records in which solid evidence, missing evidence, political memory and modern mythmaking have become difficult to separate.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Malaysian Mysteries Still Defy Explanation?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Malaysian Mysteries Still Defy Explanation?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Malay Archipelago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1056114-M.jpg" alt="Cover for The Malay Archipelago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
-        </h4>
-        <p class="fr-book-author">By Alfred Russel Wallace</p>
-
-        <p class="fr-book-desc">Adds historical context for Malaysia and the wider region.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Malay Archipelago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1056114-M.jpg" alt="Cover for The Malay Archipelago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
+</h4>
+<p class="fr-book-author">By Alfred Russel Wallace</p>
+        
+<p class="fr-book-desc">Adds historical context for Malaysia and the wider region.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Disappearing Spoon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10069131-M.jpg" alt="Cover for The Disappearing Spoon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
-        </h4>
-        <p class="fr-book-author">By Sam Kean</p>
-
-        <p class="fr-book-desc">Appeals to readers who enjoy intriguing real-world mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Disappearing Spoon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10069131-M.jpg" alt="Cover for The Disappearing Spoon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
+</h4>
+<p class="fr-book-author">By Sam Kean</p>
+        
+<p class="fr-book-desc">Appeals to readers who enjoy intriguing real-world mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+MH370+Ean+Higgins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for MH370 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+MH370+Ean+Higgins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for MH370">The Hunt for MH370</a>
-        </h4>
-        <p class="fr-book-author">By Ean Higgins</p>
-
-        <p class="fr-book-desc">Covers the disappearance, search and investigation of MH370.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+MH370+Ean+Higgins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+MH370+Ean+Higgins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for MH370 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+MH370+Ean+Higgins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for MH370">The Hunt for MH370</a>
+</h4>
+<p class="fr-book-author">By Ean Higgins</p>
+        
+<p class="fr-book-desc">Covers the disappearance, search and investigation of MH370.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+MH370+Ean+Higgins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Silk+King%3A+The+Life+of+Jim+Thompson+William+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk King: The Life of Jim Thompson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+King%3A+The+Life+of+Jim+Thompson+William+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk King: The Life of Jim Thompson">The Silk King: The Life of Jim Thompson</a>
-        </h4>
-        <p class="fr-book-author">By William Warren</p>
-
-        <p class="fr-book-desc">Provides essential background on the Jim Thompson mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+King%3A+The+Life+of+Jim+Thompson+William+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Silk+King%3A+The+Life+of+Jim+Thompson+William+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk King: The Life of Jim Thompson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Silk+King%3A+The+Life+of+Jim+Thompson+William+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk King: The Life of Jim Thompson">The Silk King: The Life of Jim Thompson</a>
+</h4>
+<p class="fr-book-author">By William Warren</p>
+        
+<p class="fr-book-desc">Provides essential background on the Jim Thompson mystery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Silk+King%3A+The+Life+of+Jim+Thompson+William+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Malay+Archipelago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Malay Archipelago</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Disappearing Spoon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+MH370&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for MH370</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Malay+Archipelago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Malay Archipelago</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Disappearing Spoon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+MH370&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for MH370</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

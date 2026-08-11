@@ -1346,7 +1346,7 @@ That distinction does not make the explained cases uninteresting. It reveals som
 <a href="https://www.amazon.com/s?k=The+Penguin+History+of+New+Zealand+King%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of New Zealand">The Penguin History of New Zealand</a>
 </h4>
 <p class="fr-book-author">By King, Michael</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: New zealand, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+History+of+New+Zealand+King%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ That distinction does not make the explained cases uninteresting. It reveals som
 <a href="https://www.amazon.com/s?k=The+Quiet+Earth%3A+Text+Classics+Craig+Harrison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Quiet Earth: Text Classics">The Quiet Earth: Text Classics</a>
 </h4>
 <p class="fr-book-author">By Craig Harrison</p>
-
+        
 <p class="fr-book-desc">First published 2013. Subjects: Fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Quiet+Earth%3A+Text+Classics+Craig+Harrison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1380,7 +1380,7 @@ That distinction does not make the explained cases uninteresting. It reveals som
 <a href="https://www.amazon.com/s?k=The+Trial+of+Arthur+Allan+Thomas+David+Yallop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Trial of Arthur Allan Thomas">The Trial of Arthur Allan Thomas</a>
 </h4>
 <p class="fr-book-author">By David Yallop</p>
-
+        
 <p class="fr-book-desc">Covers one of New Zealand&#x27;s defining unsolved historical mysteries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Trial+of+Arthur+Allan+Thomas+David+Yallop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1397,7 +1397,7 @@ That distinction does not make the explained cases uninteresting. It reveals som
 <a href="https://www.amazon.com/s?k=A+History+of+New+Zealand+Gavin+McLean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of New Zealand">A History of New Zealand</a>
 </h4>
 <p class="fr-book-author">By Gavin McLean</p>
-
+        
 <p class="fr-book-desc">Supports understanding of historical settings across the cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+New+Zealand+Gavin+McLean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

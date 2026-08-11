@@ -319,7 +319,8 @@ These standards are deliberately demanding because many earlier "solutions" work
 
 <img src="{{ "/assets/images/Cyprus_852add_cypro_minoan_script_aa8cff-Illustration-3-dark.svg" | relative_url }}" alt="Unread Script illustration 3" data-theme-src-dark="{{ "/assets/images/Cyprus_852add_cypro_minoan_script_aa8cff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cyprus_852add_cypro_minoan_script_aa8cff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Unread Script
+## Why the mystery still matters
+
 Even without being able to read the inscriptions, Cypro-Minoan provides important evidence about Bronze Age Cyprus. Its distribution shows that writing formed part of the island's commercial and political life during a period when Cyprus connected the Aegean, Anatolia and the Levant. The script also demonstrates that local communities adapted imported ideas about writing instead of merely copying neighbouring cultures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/elements/abs/cyprominoan-and-its-writers/E1BCBAA6C84B314461DBEEE04859DA63" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Cypro-Minoan and Its Writers</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentCypro-Minoan and Its Writers...</span></span></span>
 
 The mystery therefore extends beyond the translation of a lost language. A successful decipherment could reveal how Bronze Age Cypriots organised trade, recorded goods, identified people, expressed political authority or communicated with overseas partners. Until more inscriptions are discovered—or the unlikely appearance of a bilingual text—the Cypro-Minoan script remains one of the ancient Mediterranean's most important unread writing systems, offering tantalising evidence of a literate society whose written voice has yet to be recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cypro-Minoan_script" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cypro-Minoan script</span><span class="citation-popover-snippet">Cypro-Minoan script</span></span></span>
@@ -330,89 +331,89 @@ The mystery therefore extends beyond the translation of a lost language. A succe
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Can No One Read Cypro-Minoan?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Can No One Read Cypro-Minoan?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of writing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315650-M.jpg" alt="Cover for The story of writing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of writing">The story of writing</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Robinson</p>
-
-        <p class="fr-book-desc">Explains how scripts develop and why some remain unread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of writing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315650-M.jpg" alt="Cover for The story of writing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of writing">The story of writing</a>
+</h4>
+<p class="fr-book-author">By Andrew Robinson</p>
+        
+<p class="fr-book-desc">Explains how scripts develop and why some remain unread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s writing systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/122170-M.jpg" alt="Cover for The world&#x27;s writing systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s writing systems">The world&#x27;s writing systems</a>
-        </h4>
-        <p class="fr-book-author">By William Bright, Peter T. Daniels</p>
-
-        <p class="fr-book-desc">Provides scholarly background on ancient scripts and decipherment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s writing systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/122170-M.jpg" alt="Cover for The world&#x27;s writing systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s writing systems">The world&#x27;s writing systems</a>
+</h4>
+<p class="fr-book-author">By William Bright, Peter T. Daniels</p>
+        
+<p class="fr-book-desc">Provides scholarly background on ancient scripts and decipherment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world%27s+writing+systems+William+Bright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyprus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2042031-M.jpg" alt="Cover for Cyprus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyprus">Cyprus</a>
-        </h4>
-        <p class="fr-book-author">By William Mallinson</p>
-
-        <p class="fr-book-desc">First published 2005. Subjects: Cyprus, history, Cyprus, politics and government, International relations, History, Foreign relations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyprus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2042031-M.jpg" alt="Cover for Cyprus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyprus">Cyprus</a>
+</h4>
+<p class="fr-book-author">By William Mallinson</p>
+        
+<p class="fr-book-desc">First published 2005. Subjects: Cyprus, history, Cyprus, politics and government, International relations, History, Foreign relations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cyprus+William+Mallinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts">Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Robinson</p>
-
-        <p class="fr-book-desc">Includes undeciphered writing systems such as Cypro-Minoan.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts">Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts</a>
+</h4>
+<p class="fr-book-author">By Andrew Robinson</p>
+        
+<p class="fr-book-desc">Includes undeciphered writing systems such as Cypro-Minoan.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+writing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of writing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+writing+systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s writing systems</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyprus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyprus</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+writing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of writing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+writing+systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s writing systems</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyprus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyprus</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -343,7 +343,8 @@ Because only part of the statue has been excavated, archaeologists remain cautio
 
 <img src="{{ "/assets/images/Afghanistan_c69153_bamiyan_reclining_bu_06166d-Illustration-3-dark.svg" | relative_url }}" alt="Bamiyan Buddha illustration 3" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_bamiyan_reclining_bu_06166d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_bamiyan_reclining_bu_06166d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Bamiyan Buddha
+## Why the mystery endures
+
 Unlike many archaeological mysteries that depend mainly on legend, the search for Bamiyan's missing reclining Buddha rests on a combination of credible historical testimony and incomplete physical evidence. Xuanzang's descriptions of the standing Buddhas proved remarkably accurate, making it difficult to dismiss his account of the reclining figure outright. Yet decades of excavation have not revealed anything approaching the immense monument he described.
 
 The destruction of the standing Buddhas in 2001 has inevitably overshadowed this quieter mystery. International efforts since then have concentrated on stabilising the damaged cliffs, conserving surviving caves and documenting the wider cultural landscape rather than undertaking extensive new excavations. Large-scale archaeological work therefore proceeds cautiously and only when conditions permit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/list/208/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">UNESCO World Heritage CentreCultural Landscape and Archaeological Remains of the Bamiyan Valley - UNESCO World Heritage Centre...</span></span></span>
@@ -351,89 +352,89 @@ The destruction of the standing Buddhas in 2001 has inevitably overshadowed this
 For now, the evidence supports a balanced conclusion. Bamiyan unquestionably possessed reclining Buddha statues, as demonstrated by the 19-metre discovery. Whether an enormous reclining Buddha of the scale recorded by Xuanzang still lies hidden beneath the valley, was destroyed long ago, or never existed in quite the form later readers imagined remains one of Afghanistan's most intriguing unresolved archaeological questions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Is Bamiyan&#x27;s Colossal Reclining Buddha?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Is Bamiyan&#x27;s Colossal Reclining Buddha?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afghanistan A Cultural And Political History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7785911-M.jpg" alt="Cover for Afghanistan A Cultural And Political History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afghanistan A Cultural And Political History">Afghanistan A Cultural And Political History</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Barfield</p>
-
-        <p class="fr-book-desc">Explains the political upheavals, cultural crossroads and repeated disruptions that caused Afghan sites, archives, treasures and historic...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afghanistan A Cultural And Political History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7785911-M.jpg" alt="Cover for Afghanistan A Cultural And Political History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afghanistan A Cultural And Political History">Afghanistan A Cultural And Political History</a>
+</h4>
+<p class="fr-book-author">By Thomas Barfield</p>
+        
+<p class="fr-book-desc">Explains the political upheavals, cultural crossroads and repeated disruptions that caused Afghan sites, archives, treasures and historic...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
-        </h4>
-        <p class="fr-book-author">By Peter Frankopan</p>
-
-        <p class="fr-book-desc">Shows why Afghanistan became a meeting place for Indian, Persian, Chinese and Mediterranean cultures, the setting in which Bamiyan flouri...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+</h4>
+<p class="fr-book-author">By Peter Frankopan</p>
+        
+<p class="fr-book-desc">Shows why Afghanistan became a meeting place for Indian, Persian, Chinese and Mediterranean cultures, the setting in which Bamiyan flouri...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Road+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10171609-M.jpg" alt="Cover for The Silk Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Road+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Road">The Silk Road</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Explains how Buddhism, travellers and artistic traditions moved through Central Asia, providing the clearest broad context for Bamiyan an...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Road+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Road+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10171609-M.jpg" alt="Cover for The Silk Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Silk+Road+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Road">The Silk Road</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Explains how Buddhism, travellers and artistic traditions moved through Central Asia, providing the clearest broad context for Bamiyan an...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Silk+Road+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment">Lost Enlightenment</a>
-        </h4>
-        <p class="fr-book-author">By S. Frederick Starr</p>
-
-        <p class="fr-book-desc">Covers the intellectual and urban civilisation of medieval Central Asia, including regions and dynasties essential to understanding Afgha...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment">Lost Enlightenment</a>
+</h4>
+<p class="fr-book-author">By S. Frederick Starr</p>
+        
+<p class="fr-book-desc">Covers the intellectual and urban civilisation of medieval Central Asia, including regions and dynasties essential to understanding Afgha...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Afghanistan A Cultural And Political History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Road&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Road</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Afghanistan A Cultural And Political History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Road&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Road</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

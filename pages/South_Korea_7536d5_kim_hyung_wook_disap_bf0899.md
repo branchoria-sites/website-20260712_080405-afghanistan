@@ -340,7 +340,8 @@ These gaps mean historians distinguish between the broad conclusion—that Kim w
 
 <img src="{{ "/assets/images/South_Korea_7536d5_kim_hyung_wook_disap_bf0899-Illustration-3-dark.svg" | relative_url }}" alt="Kim Hyung wook illustration 3" data-theme-src-dark="{{ "/assets/images/South_Korea_7536d5_kim_hyung_wook_disap_bf0899-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Korea_7536d5_kim_hyung_wook_disap_bf0899-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Kim Hyung wook in the wider historical record
+## Why the case still matters
+
 Kim Hyung-wook's disappearance remains important because it illustrates how authoritarian intelligence services can obscure the historical record long after the immediate political crisis has passed.
 
 Unlike many famous disappearances, the enduring mystery is not primarily the identity of the likely perpetrators. Official investigations and later scholarship have made state involvement the strongest explanation. Instead, the unresolved questions concern the mechanics of the operation: who carried out the killing, how decisions were made inside the KCIA, what became of Kim's body, and how much documentation was deliberately erased.
@@ -353,89 +354,89 @@ For South Korea, the case has become a symbol of the country's continuing effort
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Made Kim Hyung-wook Disappear?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Made Kim Hyung-wook Disappear?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korea&#x27;s Place in the Sun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247060-M.jpg" alt="Cover for Korea&#x27;s Place in the Sun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea&#x27;s Place in the Sun">Korea&#x27;s Place in the Sun</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Cumings</p>
-
-        <p class="fr-book-desc">Explains the authoritarian era surrounding Kim Hyung-wook&#x27;s disappearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korea&#x27;s Place in the Sun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247060-M.jpg" alt="Cover for Korea&#x27;s Place in the Sun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea&#x27;s Place in the Sun">Korea&#x27;s Place in the Sun</a>
+</h4>
+<p class="fr-book-author">By Bruce Cumings</p>
+        
+<p class="fr-book-desc">Explains the authoritarian era surrounding Kim Hyung-wook&#x27;s disappearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun+Bruce+Cumings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The cleanest race on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9516159-M.jpg" alt="Cover for The cleanest race" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cleanest race">The cleanest race</a>
-        </h4>
-        <p class="fr-book-author">By B. R. Myers</p>
-
-        <p class="fr-book-desc">Offers additional perspective on modern Korean political culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The cleanest race on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9516159-M.jpg" alt="Cover for The cleanest race" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cleanest race">The cleanest race</a>
+</h4>
+<p class="fr-book-author">By B. R. Myers</p>
+        
+<p class="fr-book-desc">Offers additional perspective on modern Korean political culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Korea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10085697-M.jpg" alt="Cover for A history of Korea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Korea">A history of Korea</a>
-        </h4>
-        <p class="fr-book-author">By Kyung Moon Hwang</p>
-
-        <p class="fr-book-desc">Provides historical background to South Korea&#x27;s political evolution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Korea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10085697-M.jpg" alt="Cover for A history of Korea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Korea">A history of Korea</a>
+</h4>
+<p class="fr-book-author">By Kyung Moon Hwang</p>
+        
+<p class="fr-book-desc">Provides historical background to South Korea&#x27;s political evolution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+Korea+Kyung+Moon+Hwang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8822205-M.jpg" alt="Cover for Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes">Korea : The Impossible Country : South Korea&#x27;s Amazing Rise f...</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Tudor</p>
-
-        <p class="fr-book-desc">First published 2018. Subjects: Economic development, Korea, civilization, Civilization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8822205-M.jpg" alt="Cover for Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes">Korea : The Impossible Country : South Korea&#x27;s Amazing Rise f...</a>
+</h4>
+<p class="fr-book-author">By Daniel Tudor</p>
+        
+<p class="fr-book-desc">First published 2018. Subjects: Economic development, Korea, civilization, Civilization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Korea&#x27;s Place in the Sun</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+cleanest+race&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The cleanest race</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Korea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Korea</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Korea%27s+Place+in+the+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Korea&#x27;s Place in the Sun</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+cleanest+race&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The cleanest race</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Korea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Korea</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

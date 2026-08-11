@@ -350,7 +350,7 @@ Today, the most evidence-based conclusion is both modest and compelling: Leichha
 <a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fatal shore">The fatal shore</a>
 </h4>
 <p class="fr-book-author">By Robert Hughes</p>
-
+        
 <p class="fr-book-desc">First published 1986. Subjects: History, Penal colonies, Exiles, convicts, colonialism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ Today, the most evidence-based conclusion is both modest and compelling: Leichha
 <a href="https://www.amazon.com/s?k=The+explorers+Tim+F.+Flannery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The explorers">The explorers</a>
 </h4>
 <p class="fr-book-author">By Tim F. Flannery</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: Explorers, Discovery and exploration, Australia, history, Discoveries in geography, Colonization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+explorers+Tim+F.+Flannery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Today, the most evidence-based conclusion is both modest and compelling: Leichha
 <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
 </h4>
 <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
-
+        
 <p class="fr-book-desc">First published 2001. Subjects: Murderers, Criminal psychology, Murder, Case studies, Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ Today, the most evidence-based conclusion is both modest and compelling: Leichha
 <a href="https://www.amazon.com/s?k=Suspect+Kent+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspect">Suspect</a>
 </h4>
 <p class="fr-book-author">By Kent Alexander, Kevin Salwen</p>
-
+        
 <p class="fr-book-desc">First published 2019. Subjects: Mass murder, United states, history, 20th century, Centennial Olympic Park Bombing, Atlanta, Ga., 1996, P...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Suspect+Kent+Alexander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

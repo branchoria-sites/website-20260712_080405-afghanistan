@@ -353,7 +353,8 @@ As a result, the prevailing scholarly position is not that the treasure certainl
 
 <img src="{{ "/assets/images/Jordan_674027_copper_scroll_treasu_e24f64-Illustration-3-dark.svg" | relative_url }}" alt="Copper Scroll illustration 3" data-theme-src-dark="{{ "/assets/images/Jordan_674027_copper_scroll_treasu_e24f64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_copper_scroll_treasu_e24f64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Copper Scroll in the wider historical record
+## Why the mystery still matters
+
 The Copper Scroll occupies a unique place among the Dead Sea Scrolls because it combines archaeology, history and the enduring appeal of a lost treasure without yielding a definitive answer. Unlike fictional treasure maps, it is a genuine ancient document whose purpose remains uncertain.
 
 Its importance extends beyond the possibility of hidden gold. The scroll offers a rare glimpse into a period of political upheaval at the end of the Second Temple era and raises questions about how people sought to preserve wealth during war and crisis. It also demonstrates how even exceptionally well-preserved archaeological finds can leave historians with more questions than answers.
@@ -366,89 +367,89 @@ For Jordan, where the original scroll is preserved today, it remains one of the 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Copper Scroll Describe a Real Treasure?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Copper Scroll Describe a Real Treasure?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The meaning of the Dead Sea scrolls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/32573-M.jpg" alt="Cover for The meaning of the Dead Sea scrolls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The meaning of the Dead Sea scrolls">The meaning of the Dead Sea scrolls</a>
-        </h4>
-        <p class="fr-book-author">By James C. VanderKam, Peter Flint</p>
-
-        <p class="fr-book-desc">Explains the history, interpretation and significance of the scrolls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The meaning of the Dead Sea scrolls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/32573-M.jpg" alt="Cover for The meaning of the Dead Sea scrolls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The meaning of the Dead Sea scrolls">The meaning of the Dead Sea scrolls</a>
+</h4>
+<p class="fr-book-author">By James C. VanderKam, Peter Flint</p>
+        
+<p class="fr-book-desc">Explains the history, interpretation and significance of the scrolls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Dead Sea Scrolls in English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/98978-M.jpg" alt="Cover for The Complete Dead Sea Scrolls in English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dead Sea Scrolls in English">The Complete Dead Sea Scrolls in English</a>
-        </h4>
-        <p class="fr-book-author">By Géza Vermès</p>
-
-        <p class="fr-book-desc">Includes the Copper Scroll tradition within the wider Qumran corpus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Dead Sea Scrolls in English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/98978-M.jpg" alt="Cover for The Complete Dead Sea Scrolls in English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dead Sea Scrolls in English">The Complete Dead Sea Scrolls in English</a>
+</h4>
+<p class="fr-book-author">By Géza Vermès</p>
+        
+<p class="fr-book-desc">Includes the Copper Scroll tradition within the wider Qumran corpus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English+G%C3%A9za+Verm%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Jordan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4980966-M.jpg" alt="Cover for The Archaeology of Jordan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Jordan">The Archaeology of Jordan</a>
-        </h4>
-        <p class="fr-book-author">By Burton MacDonald, Russell B. Adams et al.</p>
-
-        <p class="fr-book-desc">Places the Copper Scroll within Jordan&#x27;s archaeological landscape.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Jordan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4980966-M.jpg" alt="Cover for The Archaeology of Jordan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Jordan">The Archaeology of Jordan</a>
+</h4>
+<p class="fr-book-author">By Burton MacDonald, Russell B. Adams et al.</p>
+        
+<p class="fr-book-desc">Places the Copper Scroll within Jordan&#x27;s archaeological landscape.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan+Burton+MacDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Bible+Martin+Abegg+Jr.%2C+Peter+Flint+and+Eugene+Ulrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Sea Scrolls Bible on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Bible+Martin+Abegg+Jr.%2C+Peter+Flint+and+Eugene+Ulrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Sea Scrolls Bible">The Dead Sea Scrolls Bible</a>
-        </h4>
-        <p class="fr-book-author">By Martin Abegg Jr., Peter Flint and Eugene Ulrich</p>
-
-        <p class="fr-book-desc">Provides context for the Qumran manuscripts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Bible+Martin+Abegg+Jr.%2C+Peter+Flint+and+Eugene+Ulrich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Bible+Martin+Abegg+Jr.%2C+Peter+Flint+and+Eugene+Ulrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Sea Scrolls Bible on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Bible+Martin+Abegg+Jr.%2C+Peter+Flint+and+Eugene+Ulrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Sea Scrolls Bible">The Dead Sea Scrolls Bible</a>
+</h4>
+<p class="fr-book-author">By Martin Abegg Jr., Peter Flint and Eugene Ulrich</p>
+        
+<p class="fr-book-desc">Provides context for the Qumran manuscripts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Bible+Martin+Abegg+Jr.%2C+Peter+Flint+and+Eugene+Ulrich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The meaning of the Dead Sea scrolls</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Dead Sea Scrolls in English</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archaeology of Jordan</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+meaning+of+the+Dead+Sea+scrolls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The meaning of the Dead Sea scrolls</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Dead+Sea+Scrolls+in+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Dead Sea Scrolls in English</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archaeology+of+Jordan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archaeology of Jordan</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

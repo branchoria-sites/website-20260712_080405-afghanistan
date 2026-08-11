@@ -320,7 +320,8 @@ This diversity makes broad theories attractive but also difficult to prove. Each
 
 <img src="{{ "/assets/images/Ireland_eb2131_ireland_bog_bodies_1bdeb3-Illustration-3-dark.svg" | relative_url }}" alt="Bog Bodies illustration 3" data-theme-src-dark="{{ "/assets/images/Ireland_eb2131_ireland_bog_bodies_1bdeb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ireland_eb2131_ireland_bog_bodies_1bdeb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Bog Bodies
+## Why the mystery endures
+
 Ireland's bog bodies are unusual because they combine exceptional scientific evidence with profound historical uncertainty. Researchers know far more about these individuals than about most prehistoric Europeans: what they ate, aspects of their health, how they groomed themselves and, in many cases, exactly how they died.
 
 Yet the crucial question—why they died—remains beyond the reach of forensic science alone.
@@ -333,89 +334,89 @@ That uncertainty explains why the bog bodies continue to fascinate both archaeol
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Were Ireland&#x27;s Bog Bodies Killed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Were Ireland&#x27;s Bog Bodies Killed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+bog+people+Peter+Vilhelm+Glob&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The bog people on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4676796-M.jpg" alt="Cover for The bog people" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+bog+people+Peter+Vilhelm+Glob&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The bog people">The bog people</a>
-        </h4>
-        <p class="fr-book-author">By Peter Vilhelm Glob, Rupert Bruce-Mitford (Translator)</p>
-
-        <p class="fr-book-desc">Foundational interpretation of preserved bog bodies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+bog+people+Peter+Vilhelm+Glob&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+bog+people+Peter+Vilhelm+Glob&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The bog people on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4676796-M.jpg" alt="Cover for The bog people" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+bog+people+Peter+Vilhelm+Glob&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The bog people">The bog people</a>
+</h4>
+<p class="fr-book-author">By Peter Vilhelm Glob, Rupert Bruce-Mitford (Translator)</p>
+        
+<p class="fr-book-desc">Foundational interpretation of preserved bog bodies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+bog+people+Peter+Vilhelm+Glob&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bog+bodies+uncovered+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bog bodies uncovered on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14617069-M.jpg" alt="Cover for Bog bodies uncovered" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bog+bodies+uncovered+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bog bodies uncovered">Bog bodies uncovered</a>
-        </h4>
-        <p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
-
-        <p class="fr-book-desc">Explains discoveries, forensic science and competing theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bog+bodies+uncovered+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bog+bodies+uncovered+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bog bodies uncovered on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14617069-M.jpg" alt="Cover for Bog bodies uncovered" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bog+bodies+uncovered+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bog bodies uncovered">Bog bodies uncovered</a>
+</h4>
+<p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
+        
+<p class="fr-book-desc">Explains discoveries, forensic science and competing theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bog+bodies+uncovered+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Ireland in 250 Episodes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8740613-M.jpg" alt="Cover for A History of Ireland in 250 Episodes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Ireland in 250 Episodes">A History of Ireland in 250 Episodes</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Bardon</p>
-
-        <p class="fr-book-desc">Places prehistoric archaeology within Ireland&#x27;s wider past.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Ireland in 250 Episodes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8740613-M.jpg" alt="Cover for A History of Ireland in 250 Episodes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Ireland in 250 Episodes">A History of Ireland in 250 Episodes</a>
+</h4>
+<p class="fr-book-author">By Jonathan Bardon</p>
+        
+<p class="fr-book-desc">Places prehistoric archaeology within Ireland&#x27;s wider past.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the Irish saved civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6800817-M.jpg" alt="Cover for How the Irish saved civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the Irish saved civilization">How the Irish saved civilization</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Cahill</p>
-
-        <p class="fr-book-desc">First published 1995. Subjects: Learning and scholarship, Classical Civilization, Monastic libraries, Scriptoria, Civilization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the Irish saved civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6800817-M.jpg" alt="Cover for How the Irish saved civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the Irish saved civilization">How the Irish saved civilization</a>
+</h4>
+<p class="fr-book-author">By Thomas Cahill</p>
+        
+<p class="fr-book-desc">First published 1995. Subjects: Learning and scholarship, Classical Civilization, Monastic libraries, Scriptoria, Civilization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+bog+people&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The bog people</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bog+bodies+uncovered&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bog bodies uncovered</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Ireland in 250 Episodes</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+bog+people&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The bog people</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bog+bodies+uncovered&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bog bodies uncovered</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Ireland in 250 Episodes</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

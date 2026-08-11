@@ -349,89 +349,89 @@ For Panama, the case also illustrates the challenges of searching mountainous tr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do the Last Photos Really Tell Us?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do the Last Photos Really Tell Us?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Survival%3A+Who+Lives%2C+Who+Dies%2C+and+Why+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Survival: Who Lives, Who Dies, and Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mQLDLn0GQfwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Survival: Who Lives, Who Dies, and Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Survival%3A+Who+Lives%2C+Who+Dies%2C+and+Why+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Survival: Who Lives, Who Dies, and Why">Deep Survival: Who Lives, Who Dies, and Why</a>
-        </h4>
-        <p class="fr-book-author">By Laurence Gonzales</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 16 Google Books ratings</p>
-        <p class="fr-book-desc">Explains decision-making during survival situations relevant to the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Survival%3A+Who+Lives%2C+Who+Dies%2C+and+Why+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Survival%3A+Who+Lives%2C+Who+Dies%2C+and+Why+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Survival: Who Lives, Who Dies, and Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mQLDLn0GQfwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Survival: Who Lives, Who Dies, and Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Survival%3A+Who+Lives%2C+Who+Dies%2C+and+Why+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Survival: Who Lives, Who Dies, and Why">Deep Survival: Who Lives, Who Dies, and Why</a>
+</h4>
+<p class="fr-book-author">By Laurence Gonzales</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 16 Google Books ratings</p>
+<p class="fr-book-desc">Explains decision-making during survival situations relevant to the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Survival%3A+Who+Lives%2C+Who+Dies%2C+and+Why+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+in+the+jungle+Yossi+Ghinsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost in the jungle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12930937-M.jpg" alt="Cover for Lost in the jungle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lost+in+the+jungle+Yossi+Ghinsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost in the jungle">Lost in the jungle</a>
-        </h4>
-        <p class="fr-book-author">By Yossi Ghinsberg</p>
-
-        <p class="fr-book-desc">Provides realistic perspective on wilderness emergencies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lost+in+the+jungle+Yossi+Ghinsberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+in+the+jungle+Yossi+Ghinsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost in the jungle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12930937-M.jpg" alt="Cover for Lost in the jungle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lost+in+the+jungle+Yossi+Ghinsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost in the jungle">Lost in the jungle</a>
+</h4>
+<p class="fr-book-author">By Yossi Ghinsberg</p>
+        
+<p class="fr-book-desc">Provides realistic perspective on wilderness emergencies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lost+in+the+jungle+Yossi+Ghinsberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 98.6 degrees on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/853929-M.jpg" alt="Cover for 98.6 degrees" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="98.6 degrees">98.6 degrees</a>
-        </h4>
-        <p class="fr-book-author">By Cody Lundin</p>
-
-        <p class="fr-book-desc">Offers insight into wilderness hazards similar to Panama&#x27;s terrain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 98.6 degrees on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/853929-M.jpg" alt="Cover for 98.6 degrees" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="98.6 degrees">98.6 degrees</a>
+</h4>
+<p class="fr-book-author">By Cody Lundin</p>
+        
+<p class="fr-book-desc">Offers insight into wilderness hazards similar to Panama&#x27;s terrain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
-        </h4>
-        <p class="fr-book-author">By David McCullough</p>
-
-        <p class="fr-book-desc">Provides broader historical context for readers interested in Panama.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
+</h4>
+<p class="fr-book-author">By David McCullough</p>
+        
+<p class="fr-book-desc">Provides broader historical context for readers interested in Panama.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Survival%3A+Who+Lives%2C+Who+Dies%2C+and+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Survival: Who Lives, Who Dies, and Why</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+in+the+jungle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost in the jungle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=98.6+degrees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">98.6 degrees</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Survival%3A+Who+Lives%2C+Who+Dies%2C+and+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Survival: Who Lives, Who Dies, and Why</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+in+the+jungle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost in the jungle</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=98.6+degrees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">98.6 degrees</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

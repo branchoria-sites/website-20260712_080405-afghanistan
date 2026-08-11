@@ -209,13 +209,13 @@ description: Belize’s most compelling historical mysteries are not stories of 
 hero_summary: 'Belize’s most compelling historical mysteries are not stories of supernatural forces or hidden conspiracies. They are problems created by incomplete records: abandoned Maya cities, human remains deep inside ritual caves, an artefact with a fabricated discovery story, and a colonial battle whose meaning remains more disputed than its outcome.'
 layout: default
 permalink: /what-really-happened-in-belizes-greatest/
-nav_short_title: "Lost Records and Unsolved Questions in Belize"
-title: "Lost Records and Unsolved Questions in Belize"
-title_full: "Lost Records and Unsolved Questions in Belize"
-display_title_short: "Lost Records and Unsolved Questions in Belize"
-display_title: "Lost Records and Unsolved Questions in Belize"
-heading_title: "Lost Records and Unsolved Questions in Belize"
-page_heading_title: "Lost Records and Unsolved Questions in Belize"
+nav_short_title: What Really Happened in Belize's Greatest Mysteries?
+title: What Really Happened in Belize's Greatest Mysteries?
+title_full: What Really Happened in Belize's Greatest Mysteries?
+display_title_short: What Really Happened in Belize's Greatest Mysteries?
+display_title: What Really Happened in Belize's Greatest Mysteries?
+heading_title: What Really Happened in Belize's Greatest Mysteries?
+page_heading_title: What Really Happened in Belize's Greatest Mysteries?
 source_count: 65
 infographic_count: 3
 page_website_name: Belize Mysteries
@@ -1336,7 +1336,7 @@ None requires a grand conspiracy. Their fascination comes from the harder task o
 <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
 </h4>
 <p class="fr-book-author">By Charles C. Mann</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Origin, Nature, Indians, Antiquities, nyt:paperback_nonfiction=2011-07-23.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1353,7 @@ None requires a grand conspiracy. Their fascination comes from the harder task o
 <a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Maya code">Breaking the Maya code</a>
 </h4>
 <p class="fr-book-author">By Michael D. Coe</p>
-
+        
 <p class="fr-book-desc">First published 1992. Subjects: Antiquities, Archaeology, Central America, History, Maya language.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ None requires a grand conspiracy. Their fascination comes from the harder task o
 <a href="https://www.amazon.com/s?k=The+ancient+Maya+Robert+J.+Sharer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ancient Maya">The ancient Maya</a>
 </h4>
 <p class="fr-book-author">By Robert J. Sharer, Robert Sharer et al.</p>
-
+        
 <p class="fr-book-desc">First published 1994. Subjects: Antiquities, Mayas, American history: pre-Columbian period, BCE to c 1500, Anthropology, Central American...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ancient+Maya+Robert+J.+Sharer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1387,7 +1387,7 @@ None requires a grand conspiracy. Their fascination comes from the harder task o
 <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe+and+Stephen+Houston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maya">The Maya</a>
 </h4>
 <p class="fr-book-author">By Michael D. Coe and Stephen Houston</p>
-
+        
 <p class="fr-book-desc">Directly covers Belize&#x27;s archaeological context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe+and+Stephen+Houston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -310,7 +310,8 @@ The disappearance of Dalton's remains further complicates any search for justice
 
 <img src="{{ "/assets/images/El_Salvador_9b83b7_roque_dalton_killing_9ac92c-Illustration-3-dark.svg" | relative_url }}" alt="Roque Dalton illustration 3" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_roque_dalton_killing_9ac92c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_roque_dalton_killing_9ac92c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Roque Dalton
+## Why the Mystery Still Matters
+
 Roque Dalton occupies a unique place in Salvadoran culture because he was both a major literary figure and an active revolutionary. His death therefore raises questions that extend beyond one individual case.
 
 The unresolved issues include:
@@ -351,7 +352,7 @@ Unlike many historical mysteries, this case is not driven by uncertainty over wh
 <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
 </h4>
 <p class="fr-book-author">By Mark Danner</p>
-
+        
 <p class="fr-book-desc">First published 1994. Subjects: Politics and government, Massacres, History, El salvador, politics and government, El salvador, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +369,7 @@ Unlike many historical mysteries, this case is not driven by uncertainty over wh
 <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One day of life">One day of life</a>
 </h4>
 <p class="fr-book-author">By Manlio Argueta</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: war stories, fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +386,7 @@ Unlike many historical mysteries, this case is not driven by uncertainty over wh
 <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Revolution in El Salvador">Revolution in El Salvador</a>
 </h4>
 <p class="fr-book-author">By Tommie Sue Montgomery</p>
-
+        
 <p class="fr-book-desc">First published 1982. Subjects: History, Insurgency, Politics and government, Economic conditions, Catholic Church.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +403,7 @@ Unlike many historical mysteries, this case is not driven by uncertainty over wh
 <a href="https://www.amazon.com/s?k=Poems+Roque+Dalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poems">Poems</a>
 </h4>
 <p class="fr-book-author">By Roque Dalton</p>
-
+        
 <p class="fr-book-desc">First published 1980. Subjects: Translations into English, Salvadoran Political poetry, Salvadoran poetry, English Translations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Poems+Roque+Dalton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

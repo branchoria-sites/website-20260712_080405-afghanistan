@@ -308,7 +308,8 @@ This careful distinction matters because the tragedy is historically significant
 
 <img src="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_deported_jewish_chil_b7e2b1-Illustration-3-dark.svg" | relative_url }}" alt="Jewish Children illustration 3" data-theme-src-dark="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_deported_jewish_chil_b7e2b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_deported_jewish_chil_b7e2b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Jewish Children
+## Why the mystery still matters
+
 The deported Jewish children occupy a distinctive place in the history of São Tomé because they were among the island's earliest non-voluntary settlers. Their story sits at the intersection of religious persecution, forced migration and the beginnings of the Atlantic plantation world that would later depend overwhelmingly on enslaved African labour.
 
 Their fate also illustrates how colonial history can erase individual lives. Historians know why the children were sent to São Tomé, but they rarely know their names, families, occupations or descendants. That gap in the record is the real mystery. It reminds us that some of the most important unanswered questions in history arise not from hidden secrets, but from the silence left behind when those with the least power vanished from the archives.
@@ -336,7 +337,7 @@ Their fate also illustrates how colonial history can erase individual lives. His
 <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The slave trade">The slave trade</a>
 </h4>
 <p class="fr-book-author">By Hugh Thomas</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: Slavenhandel, Slave-trade, Slave trade, Commerce, Esclaves.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+slave+trade+Hugh+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +354,7 @@ Their fate also illustrates how colonial history can erase individual lives. His
 <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Jews">A history of the Jews</a>
 </h4>
 <p class="fr-book-author">By Paul Bede Johnson</p>
-
+        
 <p class="fr-book-desc">First published 1987. Subjects: Jews, History, Historia, Judíos, Nonfiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +371,7 @@ Their fate also illustrates how colonial history can erase individual lives. His
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in Blackness">Born in Blackness</a>
 </h4>
 <p class="fr-book-author">By Howard W. French</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Africa, history, Slave trade, History, African diaspora, Modern History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +388,7 @@ Their fate also illustrates how colonial history can erase individual lives. His
 <a href="https://www.amazon.com/s?k=Story+of+the+Jews+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Story of the Jews">Story of the Jews</a>
 </h4>
 <p class="fr-book-author">By Simon Schama</p>
-
+        
 <p class="fr-book-desc">First published 2013. Subjects: Jews, history, Jews, civilization, Jews, social conditions, Jews, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Story+of+the+Jews+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

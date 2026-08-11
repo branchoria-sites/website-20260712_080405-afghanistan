@@ -368,7 +368,8 @@ Morphological analysis has also shown that many commonly repeated claims deserve
 
 Rather than solving the mystery outright, these studies have narrowed the range of plausible explanations. They strongly support an interpretation centred on transport while showing that the surviving networks may represent more than one historical phase.
 
-## The historical picture around Cart Ruts
+## Why the mystery endures
+
 Malta's cart ruts remain fascinating because the physical evidence is abundant while the historical context has largely disappeared. The grooves survive, but the carts, animals, goods, roads and written records that would explain them have vanished.
 
 The strongest current interpretation is that they formed part of practical transport systems serving everyday economic life, particularly the movement of heavy loads across limestone landscapes. The greatest remaining uncertainty concerns chronology rather than purpose: whether all the networks belong to one era or represent repeated adaptations over centuries.
@@ -381,89 +382,89 @@ That distinction matters because it changes how archaeologists understand Malta'
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Made Malta&#x27;s Mysterious Cart Ruts?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Made Malta&#x27;s Mysterious Cart Ruts?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malta, prehistory and temples on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2305603-M.jpg" alt="Cover for Malta, prehistory and temples" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malta, prehistory and temples">Malta, prehistory and temples</a>
-        </h4>
-        <p class="fr-book-author">By David H. Trump</p>
-
-        <p class="fr-book-desc">Discusses the archaeological setting of the cart ruts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malta, prehistory and temples on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2305603-M.jpg" alt="Cover for Malta, prehistory and temples" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malta, prehistory and temples">Malta, prehistory and temples</a>
+</h4>
+<p class="fr-book-author">By David H. Trump</p>
+        
+<p class="fr-book-desc">Discusses the archaeological setting of the cart ruts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of Malta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15070349-M.jpg" alt="Cover for The story of Malta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of Malta">The story of Malta</a>
-        </h4>
-        <p class="fr-book-author">By Brian Blouet</p>
-
-        <p class="fr-book-desc">Places the cart ruts within Malta&#x27;s long history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of Malta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15070349-M.jpg" alt="Cover for The story of Malta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of Malta">The story of Malta</a>
+</h4>
+<p class="fr-book-author">By Brian Blouet</p>
+        
+<p class="fr-book-desc">Places the cart ruts within Malta&#x27;s long history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+story+of+Malta+Brian+Blouet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Megalith: Studies in Stone on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Megalith: Studies in Stone">Megalith: Studies in Stone</a>
-        </h4>
-        <p class="fr-book-author">By Crowhurst Newman, Francis Heath et al.</p>
-
-        <p class="fr-book-desc">Offers wider context for interpreting prehistoric landscapes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Megalith: Studies in Stone on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Megalith: Studies in Stone">Megalith: Studies in Stone</a>
+</h4>
+<p class="fr-book-author">By Crowhurst Newman, Francis Heath et al.</p>
+        
+<p class="fr-book-desc">Offers wider context for interpreting prehistoric landscapes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Temples+of+Malta+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Temples of Malta on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Temples+of+Malta+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Temples of Malta">Temples of Malta</a>
-        </h4>
-        <p class="fr-book-author">By David H. Trump</p>
-
-        <p class="fr-book-desc">Provides context for prehistoric landscapes including transport features.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Temples+of+Malta+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Temples+of+Malta+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Temples of Malta on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Temples+of+Malta+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Temples of Malta">Temples of Malta</a>
+</h4>
+<p class="fr-book-author">By David H. Trump</p>
+        
+<p class="fr-book-desc">Provides context for prehistoric landscapes including transport features.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Temples+of+Malta+David+H.+Trump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malta, prehistory and temples</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+Malta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of Malta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Megalith: Studies in Stone</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Malta%2C+prehistory+and+temples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malta, prehistory and temples</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+Malta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of Malta</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Megalith%3A+Studies+in+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Megalith: Studies in Stone</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

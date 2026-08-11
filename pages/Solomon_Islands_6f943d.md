@@ -209,13 +209,13 @@ description: The Solomon Islands’ most compelling historical mysteries are not
 hero_summary: The Solomon Islands’ most compelling historical mysteries are not tales of hidden civilisations or supernatural treasure.
 layout: default
 permalink: /what-really-happened-in-the-solomon/
-nav_short_title: "Inside the Historical Mysteries of the Solomon Islands"
-title: "Inside the Historical Mysteries of the Solomon Islands"
-title_full: "Inside the Historical Mysteries of the Solomon Islands"
-display_title_short: "Inside the Historical Mysteries of the Solomon Islands"
-display_title: "Inside the Historical Mysteries of the Solomon Islands"
-heading_title: "Inside the Historical Mysteries of the Solomon Islands"
-page_heading_title: "Inside the Historical Mysteries of the Solomon Islands"
+nav_short_title: What Really Happened in the Solomon Islands?
+title: What Really Happened in the Solomon Islands?
+title_full: What Really Happened in the Solomon Islands?
+display_title_short: What Really Happened in the Solomon Islands?
+display_title: What Really Happened in the Solomon Islands?
+heading_title: What Really Happened in the Solomon Islands?
+page_heading_title: What Really Happened in the Solomon Islands?
 source_count: 95
 infographic_count: 3
 page_website_name: Solomon Mysteries
@@ -1324,89 +1324,89 @@ They also challenge an older habit of treating Pacific history as a sequence of 
 The most defensible answers are therefore measured ones. Teonimenu probably reflects a real vanished island, although its destruction has not been archaeologically dated. Tetepare was deliberately or forcibly depopulated, but likely through several pressures rather than one dramatic cause. La Pérouse’s ships were wrecked at Vanikoro, while the final voyage of some survivors remains unknown. The Solomon Islands campaign is extensively documented, yet individual ships, aircraft and human remains are still being located. In each case, the mystery survives not because there is no evidence, but because the surviving evidence stops just before the final answer.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in the Solomon Islands?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in the Solomon Islands?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Collapse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12915198-M.jpg" alt="Cover for Collapse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
-        </h4>
-        <p class="fr-book-author">By Jared Diamond</p>
-
-        <p class="fr-book-desc">Famously discusses the decline of the Classic Maya.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Collapse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12915198-M.jpg" alt="Cover for Collapse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
+</h4>
+<p class="fr-book-author">By Jared Diamond</p>
+        
+<p class="fr-book-desc">Famously discusses the decline of the Classic Maya.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
-        </h4>
-        <p class="fr-book-author">By Charles C. Mann</p>
-
-        <p class="fr-book-desc">Explains how complex Amazonian societies transformed archaeological thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
+</h4>
+<p class="fr-book-author">By Charles C. Mann</p>
+        
+<p class="fr-book-desc">Explains how complex Amazonian societies transformed archaeological thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The happy isles of Oceania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3972761-M.jpg" alt="Cover for The happy isles of Oceania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
-        </h4>
-        <p class="fr-book-author">By Paul Theroux</p>
-
-        <p class="fr-book-desc">Introduces readers to Melanesia and the wider Pacific cultural landscape.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The happy isles of Oceania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3972761-M.jpg" alt="Cover for The happy isles of Oceania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
+</h4>
+<p class="fr-book-author">By Paul Theroux</p>
+        
+<p class="fr-book-desc">Introduces readers to Melanesia and the wider Pacific cultural landscape.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pacific+worlds+Matt+K.+Matsuda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pacific worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14379736-M.jpg" alt="Cover for Pacific worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pacific+worlds+Matt+K.+Matsuda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pacific worlds">Pacific worlds</a>
-        </h4>
-        <p class="fr-book-author">By Matt K. Matsuda</p>
-
-        <p class="fr-book-desc">Provides broad historical context for the Solomon Islands and related mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pacific+worlds+Matt+K.+Matsuda&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pacific+worlds+Matt+K.+Matsuda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pacific worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14379736-M.jpg" alt="Cover for Pacific worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pacific+worlds+Matt+K.+Matsuda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pacific worlds">Pacific worlds</a>
+</h4>
+<p class="fr-book-author">By Matt K. Matsuda</p>
+        
+<p class="fr-book-desc">Provides broad historical context for the Solomon Islands and related mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pacific+worlds+Matt+K.+Matsuda&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Collapse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Collapse</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The happy isles of Oceania</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Collapse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Collapse</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The happy isles of Oceania</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

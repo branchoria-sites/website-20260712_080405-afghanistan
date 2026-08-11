@@ -1322,7 +1322,7 @@ The most dramatic explanation is rarely the strongest. Austria’s historical my
 <a href="https://www.amazon.com/s?k=The+Sleepwalkers+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleepwalkers">The Sleepwalkers</a>
 </h4>
 <p class="fr-book-author">By Christopher Clark</p>
-
+        
 <p class="fr-book-desc">First published 2013. Subjects: Diplomatic history, World War, 1914-1918, Politics and government, Causes, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sleepwalkers+Christopher+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1339,7 +1339,7 @@ The most dramatic explanation is rarely the strongest. Austria’s historical my
 <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Habsburgs">Habsburgs</a>
 </h4>
 <p class="fr-book-author">By Martyn Rady</p>
-
+        
 <p class="fr-book-desc">First published 2020. Subjects: Europe, history, Habsburg, house of, Austria, history, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1356,7 +1356,7 @@ The most dramatic explanation is rarely the strongest. Austria’s historical my
 <a href="https://www.amazon.com/s?k=Twilight+of+empire+Greg+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Twilight of empire">Twilight of empire</a>
 </h4>
 <p class="fr-book-author">By Greg King</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Politics and government, Princes, Biography, Rudolf, crown prince of austria, 1858-1889, Habsburg, house of.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Twilight+of+empire+Greg+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1373,7 +1373,7 @@ The most dramatic explanation is rarely the strongest. Austria’s historical my
 <a href="https://www.amazon.com/s?k=mozart+a+life+maynard+solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="mozart a life">mozart a life</a>
 </h4>
 <p class="fr-book-author">By maynard solomon</p>
-
+        
 <p class="fr-book-desc">First published 1995.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=mozart+a+life+maynard+solomon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

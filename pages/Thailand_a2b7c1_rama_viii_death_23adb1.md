@@ -342,7 +342,8 @@ Because of these weaknesses, scholars often distinguish between the judicial out
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Czx8XLo9GVA" title="TRAGEDY IN SIAM - MURDER, SUICIDE&#x27;amp;reg;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Czx8XLo9GVA" target="_blank" rel="noopener noreferrer">TRAGEDY IN SIAM - MURDER, SUICIDE&#x27;amp;reg;</a></p><p class="youtube-embed-meta">Channel: British Movietone</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Czx8XLo9GVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Czx8XLo9GVA">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by Rama VIII
+## Why the mystery still matters
+
 Rama VIII's death changed the course of Thai history. His younger brother immediately became King Bhumibol Adulyadej (Rama IX), whose seventy-year reign would profoundly shape modern Thailand. The unresolved circumstances surrounding Ananda's death therefore sit at a critical turning point in the country's political and royal history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://snl.no/Ananda_Mahidol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snl.no">[Store norske leksikon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snl.no</span><span class="citation-popover-title">Store norske leksikon Ananda Mahidol – Store norske leksikon</span><span class="citation-popover-snippet">Store norske leksikonAnanda Mahidol – Store norske leksikonNovember 26, 2024...</span><span class="citation-popover-meta">Published: November 26, 2024</span></span></span>
 
 The case also illustrates a broader problem familiar in historical mysteries: once a crime scene is compromised and early evidence is mishandled, later investigations may never recover enough reliable information to establish what happened. In this instance, decades of legal proceedings, political debate and new interpretations have not eliminated the central uncertainty.
@@ -372,7 +373,7 @@ The narrowest conclusion supported by the surviving evidence remains the most de
 <a href="https://www.amazon.com/s?k=A+history+of+Thailand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Thailand">A history of Thailand</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Covers the political environment surrounding the 1946 tragedy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Thailand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +390,7 @@ The narrowest conclusion supported by the surviving evidence remains the most de
 <a href="https://www.amazon.com/s?k=Thailand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thailand">Thailand</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Explains the broader historical period of the case.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thailand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +407,7 @@ The narrowest conclusion supported by the surviving evidence remains the most de
 <a href="https://www.amazon.com/s?k=The+King+Never+Smiles+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King Never Smiles">The King Never Smiles</a>
 </h4>
 <p class="fr-book-author">By Paul M. Handley</p>
-
+        
 <p class="fr-book-desc">Essential background for understanding the aftermath of Rama VIII&#x27;s death.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+King+Never+Smiles+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +424,7 @@ The narrowest conclusion supported by the surviving evidence remains the most de
 <a href="https://www.amazon.com/s?k=Kingdom+in+Crisis+Andrew+MacGregor+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kingdom in Crisis">Kingdom in Crisis</a>
 </h4>
 <p class="fr-book-author">By Andrew MacGregor Marshall</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Democracy, Thailand, politics and government, Politics and government, Kings and rulers, Lese majesty.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Kingdom+in+Crisis+Andrew+MacGregor+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

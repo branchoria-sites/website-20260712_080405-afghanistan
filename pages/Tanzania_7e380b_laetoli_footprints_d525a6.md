@@ -340,7 +340,8 @@ This distinction explains why debate continues despite the remarkable preservati
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S31Ejprjsoo" title="Conservation of the Laetoli Footprints: What Went Wrong?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S31Ejprjsoo" target="_blank" rel="noopener noreferrer">Conservation of the Laetoli Footprints: What Went Wrong?</a></p><p class="youtube-embed-meta">Channel: Dartmouth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S31Ejprjsoo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S31Ejprjsoo">Open on YouTube</a></p></div></div></div>
 
-## Laetoli in the wider historical record
+## Why the mystery still matters
+
 The enduring mystery is no longer whether the Laetoli footprints represent upright walking. That question is largely settled. Instead, the uncertainty concerns how many different kinds of early hominins shared East Africa nearly 3.7 million years ago.
 
 If only Site G existed, Laetoli would reinforce the long-held view that *Australopithecus afarensis* dominated the landscape. Site A instead hints that another lineage—with a differently shaped foot and a distinct walking style—may have lived alongside it. Although researchers remain cautious about assigning the prints to a specific species, the possibility of multiple contemporary hominins has become far more plausible than it once appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-04187-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Footprint evidence of early hominin locomotor diversity at Laetoli, Tanzania &#124; NatureDecember 1, 2021...</span><span class="citation-popover-meta">Published: December 1, 2021</span></span></span>
@@ -353,89 +354,89 @@ For Tanzania, Laetoli remains one of the country's most significant archaeologic
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Walked Across the Ash at Laetoli?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Walked Across the Ash at Laetoli?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Past: World Prehistory and the Development of Human Societies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316866-M.jpg" alt="Cover for The Human Past: World Prehistory and the Development of Human Societies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past: World Prehistory and the Development of Human Societies">The Human Past: World Prehistory and the Development of Human...</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
-
-        <p class="fr-book-desc">Places Laetoli within broader prehistoric developments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Past: World Prehistory and the Development of Human Societies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316866-M.jpg" alt="Cover for The Human Past: World Prehistory and the Development of Human Societies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past: World Prehistory and the Development of Human Societies">The Human Past: World Prehistory and the Development of Human...</a>
+</h4>
+<p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
+        
+<p class="fr-book-desc">Places Laetoli within broader prehistoric developments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open COMPLETE WORLD OF HUMAN EVOLUTION on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315829-M.jpg" alt="Cover for COMPLETE WORLD OF HUMAN EVOLUTION" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COMPLETE WORLD OF HUMAN EVOLUTION">COMPLETE WORLD OF HUMAN EVOLUTION</a>
-        </h4>
-        <p class="fr-book-author">By CHRIS STRINGER, Chris Stringer et al.</p>
-
-        <p class="fr-book-desc">Covers Laetoli footprints and early hominin evolution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open COMPLETE WORLD OF HUMAN EVOLUTION on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315829-M.jpg" alt="Cover for COMPLETE WORLD OF HUMAN EVOLUTION" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COMPLETE WORLD OF HUMAN EVOLUTION">COMPLETE WORLD OF HUMAN EVOLUTION</a>
+</h4>
+<p class="fr-book-author">By CHRIS STRINGER, Chris Stringer et al.</p>
+        
+<p class="fr-book-desc">Covers Laetoli footprints and early hominin evolution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+Introduction+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Evolution: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/117902-M.jpg" alt="Cover for Human Evolution: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+Introduction+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Evolution: A Very Short Introduction">Human Evolution: A Very Short Introduction</a>
-        </h4>
-        <p class="fr-book-author">By Bernard Wood</p>
-
-        <p class="fr-book-desc">Explains the significance of fossil footprints in human evolution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+Introduction+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+Introduction+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Evolution: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/117902-M.jpg" alt="Cover for Human Evolution: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+Introduction+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Evolution: A Very Short Introduction">Human Evolution: A Very Short Introduction</a>
+</h4>
+<p class="fr-book-author">By Bernard Wood</p>
+        
+<p class="fr-book-desc">Explains the significance of fossil footprints in human evolution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+Introduction+Bernard+Wood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lucy%3A+The+Beginnings+of+Humankind+Donald+Johanson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lucy: The Beginnings of Humankind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13939523-M.jpg" alt="Cover for Lucy: The Beginnings of Humankind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lucy%3A+The+Beginnings+of+Humankind+Donald+Johanson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lucy: The Beginnings of Humankind">Lucy: The Beginnings of Humankind</a>
-        </h4>
-        <p class="fr-book-author">By Donald Johanson, Maitland Armstrong Edey</p>
-
-        <p class="fr-book-desc">Provides context for debates over the Laetoli trackmakers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lucy%3A+The+Beginnings+of+Humankind+Donald+Johanson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lucy%3A+The+Beginnings+of+Humankind+Donald+Johanson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lucy: The Beginnings of Humankind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13939523-M.jpg" alt="Cover for Lucy: The Beginnings of Humankind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lucy%3A+The+Beginnings+of+Humankind+Donald+Johanson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lucy: The Beginnings of Humankind">Lucy: The Beginnings of Humankind</a>
+</h4>
+<p class="fr-book-author">By Donald Johanson, Maitland Armstrong Edey</p>
+        
+<p class="fr-book-desc">Provides context for debates over the Laetoli trackmakers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lucy%3A+The+Beginnings+of+Humankind+Donald+Johanson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past: World Prehistory and the Development of Human Societies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">COMPLETE WORLD OF HUMAN EVOLUTION</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Evolution: A Very Short books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past: World Prehistory and the Development of Human Societies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">COMPLETE WORLD OF HUMAN EVOLUTION</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Evolution%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Evolution: A Very Short books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

@@ -339,89 +339,89 @@ The monument demonstrates how powerful visual impressions can be. Human percepti
 For Japan, Yonaguni has become an enduring historical mystery precisely because it sits at the boundary between geology and archaeology. It remains an exceptional natural formation and a remarkable diving destination, but the balance of current evidence indicates that its terraces and steps are products of fractured sandstone shaped by tectonic activity and erosion rather than the ruins of a forgotten city. Until convincing archaeological evidence emerges, the lost-city interpretation remains an intriguing hypothesis rather than an established chapter of Japanese history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Yonaguni_Monument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Yonaguni Monument</span><span class="citation-popover-snippet">Yonaguni Monument</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Yonaguni a Ruin or Natural Rock?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Yonaguni a Ruin or Natural Rock?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/322542-M.jpg" alt="Cover for Fingerprints of the gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
-        </h4>
-        <p class="fr-book-author">By Graham Hancock</p>
-
-        <p class="fr-book-desc">Frequently associated with discussions of Yonaguni, even though its claims are controversial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/322542-M.jpg" alt="Cover for Fingerprints of the gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
+</h4>
+<p class="fr-book-author">By Graham Hancock</p>
+        
+<p class="fr-book-desc">Frequently associated with discussions of Yonaguni, even though its claims are controversial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Underworld: The Mysterious Origins of Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/745765-M.jpg" alt="Cover for Underworld: The Mysterious Origins of Civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underworld: The Mysterious Origins of Civilization">Underworld: The Mysterious Origins of Civilization</a>
-        </h4>
-        <p class="fr-book-author">By Graham Hancock</p>
-
-        <p class="fr-book-desc">Discusses submerged landscapes and includes Yonaguni-related themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Underworld: The Mysterious Origins of Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/745765-M.jpg" alt="Cover for Underworld: The Mysterious Origins of Civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underworld: The Mysterious Origins of Civilization">Underworld: The Mysterious Origins of Civilization</a>
+</h4>
+<p class="fr-book-author">By Graham Hancock</p>
+        
+<p class="fr-book-desc">Discusses submerged landscapes and includes Yonaguni-related themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Embracing Defeat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/249898-M.jpg" alt="Cover for Embracing Defeat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embracing Defeat">Embracing Defeat</a>
-        </h4>
-        <p class="fr-book-author">By John W. Dower</p>
-
-        <p class="fr-book-desc">First published 1999. Subjects: History, National Book Award Winner, award:national_book_award=1999, award:national_book_award=nonfiction...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Embracing Defeat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/249898-M.jpg" alt="Cover for Embracing Defeat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embracing Defeat">Embracing Defeat</a>
+</h4>
+<p class="fr-book-author">By John W. Dower</p>
+        
+<p class="fr-book-desc">First published 1999. Subjects: History, National Book Award Winner, award:national_book_award=1999, award:national_book_award=nonfiction...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Embracing+Defeat+John+W.+Dower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Japan, a modern history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253086-M.jpg" alt="Cover for Japan, a modern history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan, a modern history">Japan, a modern history</a>
-        </h4>
-        <p class="fr-book-author">By James L. McClain</p>
-
-        <p class="fr-book-desc">First published 2001. Subjects: History, Japan, history, New York Times reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Japan, a modern history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253086-M.jpg" alt="Cover for Japan, a modern history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan, a modern history">Japan, a modern history</a>
+</h4>
+<p class="fr-book-author">By James L. McClain</p>
+        
+<p class="fr-book-desc">First published 2001. Subjects: History, Japan, history, New York Times reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the gods</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Underworld: The Mysterious Origins of Civilization</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Embracing+Defeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Embracing Defeat</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the gods</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Underworld%3A+The+Mysterious+Origins+of+Civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Underworld: The Mysterious Origins of Civilization</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Embracing+Defeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Embracing Defeat</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

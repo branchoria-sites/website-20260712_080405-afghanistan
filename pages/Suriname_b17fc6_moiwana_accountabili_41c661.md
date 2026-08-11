@@ -345,7 +345,8 @@ These uncertainties are the reason Moiwana remains part of Suriname's unresolved
 
 <img src="{{ "/assets/images/Suriname_b17fc6_moiwana_accountabili_41c661-Illustration-3-dark.svg" | relative_url }}" alt="Moiwana illustration 3" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_moiwana_accountabili_41c661-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_moiwana_accountabili_41c661-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Moiwana in the wider historical record
+## Why the case still matters
+
 The Moiwana massacre has become a defining example of how impunity can persist even when the essential facts are widely accepted. International courts recognised the state's responsibility, survivors received important legal recognition and reparations were ordered, yet criminal justice for the killings themselves has remained absent.
 
 For the descendants of those who fled, accountability is about more than punishment. It also concerns recovering the identities of the dead, preserving the history of a destroyed community and acknowledging that forced displacement permanently altered the lives of hundreds of people.
@@ -358,89 +359,89 @@ The enduring mystery is therefore not whether the massacre occurred, but why a c
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Has No One Been Convicted for Moiwana?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Has No One Been Convicted for Moiwana?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Veins Of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
-        </h4>
-        <p class="fr-book-author">By Eduardo Galeano</p>
-
-        <p class="fr-book-desc">Places Suriname&#x27;s conflict in a broader Latin American context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Veins Of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
+</h4>
+<p class="fr-book-author">By Eduardo Galeano</p>
+        
+<p class="fr-book-desc">Places Suriname&#x27;s conflict in a broader Latin American context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa+Richard+A.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Politics of Truth and Reconciliation in South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa+Richard+A.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Politics of Truth and Reconciliation in South Africa">Politics of Truth and Reconciliation in South Africa</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Wilson</p>
-
-        <p class="fr-book-desc">Offers comparative lessons on post-conflict investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa+Richard+A.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa+Richard+A.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Politics of Truth and Reconciliation in South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa+Richard+A.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Politics of Truth and Reconciliation in South Africa">Politics of Truth and Reconciliation in South Africa</a>
+</h4>
+<p class="fr-book-author">By Richard A. Wilson</p>
+        
+<p class="fr-book-desc">Offers comparative lessons on post-conflict investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa+Richard+A.+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Globalizing Transitional Justice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14341602-M.jpg" alt="Cover for Globalizing Transitional Justice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Globalizing Transitional Justice">Globalizing Transitional Justice</a>
-        </h4>
-        <p class="fr-book-author">By Ruti G. Teitel</p>
-
-        <p class="fr-book-desc">First published 2014. Subjects: Justice, Human rights, Criminal justice, administration of, Transitional justice, Administration of Crimi...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Globalizing Transitional Justice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14341602-M.jpg" alt="Cover for Globalizing Transitional Justice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Globalizing Transitional Justice">Globalizing Transitional Justice</a>
+</h4>
+<p class="fr-book-author">By Ruti G. Teitel</p>
+        
+<p class="fr-book-desc">First published 2014. Subjects: Justice, Human rights, Criminal justice, administration of, Transitional justice, Administration of Crimi...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transitional Justice on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transitional Justice">Transitional Justice</a>
-        </h4>
-        <p class="fr-book-author">By Ruti G. Teitel</p>
-
-        <p class="fr-book-desc">Explains why accountability for mass violence can remain elusive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transitional Justice on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transitional Justice">Transitional Justice</a>
+</h4>
+<p class="fr-book-author">By Ruti G. Teitel</p>
+        
+<p class="fr-book-desc">Explains why accountability for mass violence can remain elusive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Transitional+Justice+Ruti+G.+Teitel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Veins Of Latin America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Politics of Truth and Reconciliation in South Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Globalizing Transitional Justice</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Veins Of Latin America</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Politics+of+Truth+and+Reconciliation+in+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Politics of Truth and Reconciliation in South Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Globalizing+Transitional+Justice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Globalizing Transitional Justice</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

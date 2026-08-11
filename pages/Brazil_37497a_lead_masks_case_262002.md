@@ -349,7 +349,8 @@ These connections helped transform the case into an international mystery, but t
 
 <img src="{{ "/assets/images/Brazil_37497a_lead_masks_case_262002-Illustration-3-dark.svg" | relative_url }}" alt="Lead Masks illustration 3" data-theme-src-dark="{{ "/assets/images/Brazil_37497a_lead_masks_case_262002-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brazil_37497a_lead_masks_case_262002-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Lead Masks in the wider historical record
+## Why the mystery endures
+
 The Lead Masks Case survives because it combines genuinely unusual physical evidence with permanently incomplete scientific evidence. The lead masks existed. The handwritten instructions existed. The journey to the hill is well documented. The unexplained deaths are real.
 
 What is missing is precisely the evidence needed to connect those facts into a coherent narrative. Modern readers often assume that every famous mystery conceals an extraordinary secret, but this case demonstrates how an ordinary investigative failure can produce decades of extraordinary speculation. Once the opportunity to identify a poison or drug was lost, later theories could neither be proved nor disproved.
@@ -357,89 +358,89 @@ What is missing is precisely the evidence needed to connect those facts into a c
 For that reason, the Lead Masks Case occupies a distinctive place in Brazil's history of unresolved mysteries. Unlike legends built on folklore or disputed sightings, its central puzzle rests on documented objects and documented deaths. The enduring uncertainty comes not from supernatural evidence, but from the irreversible loss of the forensic evidence that might have explained everything.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1966-lead-masks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[thecoldfile.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1966 lead masks</span><span class="citation-popover-snippet">The Cold FileThe Masks on Vintém Hill: The Lead Masks Case, 1966 &#124; The Cold File...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Killed the Men in the Lead Masks?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Killed the Men in the Lead Masks?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mammoth book of unsolved crimes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14370213-M.jpg" alt="Cover for The mammoth book of unsolved crimes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
-        </h4>
-        <p class="fr-book-author">By Roger Wilkes</p>
-
-        <p class="fr-book-desc">Provides context for famous unresolved criminal cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mammoth book of unsolved crimes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14370213-M.jpg" alt="Cover for The mammoth book of unsolved crimes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
+</h4>
+<p class="fr-book-author">By Roger Wilkes</p>
+        
+<p class="fr-book-desc">Provides context for famous unresolved criminal cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anatomy of motive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7437718-M.jpg" alt="Cover for The anatomy of motive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anatomy of motive">The anatomy of motive</a>
-        </h4>
-        <p class="fr-book-author">By John E. Douglas, John Douglas et al.</p>
-
-        <p class="fr-book-desc">Provides investigative perspective relevant to mysterious deaths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anatomy of motive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7437718-M.jpg" alt="Cover for The anatomy of motive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anatomy of motive">The anatomy of motive</a>
+</h4>
+<p class="fr-book-author">By John E. Douglas, John Douglas et al.</p>
+        
+<p class="fr-book-desc">Provides investigative perspective relevant to mysterious deaths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+anatomy+of+motive+John+E.+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensics+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12694553-M.jpg" alt="Cover for Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensics+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensics">Forensics</a>
-        </h4>
-        <p class="fr-book-author">By Val McDermid</p>
-
-        <p class="fr-book-desc">Explains why missing forensic evidence can leave cases unsolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensics+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensics+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12694553-M.jpg" alt="Cover for Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensics+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensics">Forensics</a>
+</h4>
+<p class="fr-book-author">By Val McDermid</p>
+        
+<p class="fr-book-desc">Explains why missing forensic evidence can leave cases unsolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensics+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The encyclopedia of unsolved mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594210-M.jpg" alt="Cover for The encyclopedia of unsolved mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of unsolved mysteries">The encyclopedia of unsolved mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
-
-        <p class="fr-book-desc">First published 1987. Subjects: Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The encyclopedia of unsolved mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594210-M.jpg" alt="Cover for The encyclopedia of unsolved mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of unsolved mysteries">The encyclopedia of unsolved mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
+        
+<p class="fr-book-desc">First published 1987. Subjects: Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mammoth book of unsolved crimes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anatomy+of+motive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anatomy of motive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mammoth book of unsolved crimes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anatomy+of+motive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anatomy of motive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

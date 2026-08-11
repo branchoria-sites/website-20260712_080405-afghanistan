@@ -315,72 +315,72 @@ The uncertain death toll remains one of the central historical puzzles of the 19
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Many People Died in the 1937 Massacre?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Many People Died in the 1937 Massacre?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why the cocks fight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/592511-M.jpg" alt="Cover for Why the cocks fight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
-        </h4>
-        <p class="fr-book-author">By Michele Wucker</p>
-
-        <p class="fr-book-desc">Places the massacre within the wider border conflict.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why the cocks fight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/592511-M.jpg" alt="Cover for Why the cocks fight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
+</h4>
+<p class="fr-book-author">By Michele Wucker</p>
+        
+<p class="fr-book-desc">Places the massacre within the wider border conflict.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictator&#x27;s seduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12839299-M.jpg" alt="Cover for The dictator&#x27;s seduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s seduction">The dictator&#x27;s seduction</a>
-        </h4>
-        <p class="fr-book-author">By Lauren Hutchinson Derby, Gilbert M. Joseph et al.</p>
-
-        <p class="fr-book-desc">Explains the political system behind the violence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictator&#x27;s seduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12839299-M.jpg" alt="Cover for The dictator&#x27;s seduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s seduction">The dictator&#x27;s seduction</a>
+</h4>
+<p class="fr-book-author">By Lauren Hutchinson Derby, Gilbert M. Joseph et al.</p>
+        
+<p class="fr-book-desc">Explains the political system behind the violence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+dictator%27s+seduction+Lauren+Hutchinson+Derby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic+Richard+Lee+Turits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Parsley Massacre: The Tragic Story of the 1937 Haitian Massacre in the Dominican Republic on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic+Richard+Lee+Turits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Parsley Massacre: The Tragic Story of the 1937 Haitian Massacre in the Dominican Republic">The Parsley Massacre: The Tragic Story of the 1937 Haitian Ma...</a>
-        </h4>
-        <p class="fr-book-author">By Richard Lee Turits</p>
-
-        <p class="fr-book-desc">Directly examines the killings, evidence and casualty estimates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic+Richard+Lee+Turits&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic+Richard+Lee+Turits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Parsley Massacre: The Tragic Story of the 1937 Haitian Massacre in the Dominican Republic on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic+Richard+Lee+Turits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Parsley Massacre: The Tragic Story of the 1937 Haitian Massacre in the Dominican Republic">The Parsley Massacre: The Tragic Story of the 1937 Haitian Ma...</a>
+</h4>
+<p class="fr-book-author">By Richard Lee Turits</p>
+        
+<p class="fr-book-desc">Directly examines the killings, evidence and casualty estimates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic+Richard+Lee+Turits&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+the+cocks+fight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why the cocks fight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+seduction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s seduction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Parsley Massacre: The Tragic Story of the 1937 Haitian Massacre in the Dominican Republic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+the+cocks+fight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why the cocks fight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+seduction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s seduction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Parsley+Massacre%3A+The+Tragic+Story+of+the+1937+Haitian+Massacre+in+the+Dominican+Republic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Parsley Massacre: The Tragic Story of the 1937 Haitian Massacre in the Dominican Republic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

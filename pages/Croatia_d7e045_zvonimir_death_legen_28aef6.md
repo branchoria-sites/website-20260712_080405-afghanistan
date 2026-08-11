@@ -359,7 +359,8 @@ Some historians have argued that the possibility of violence cannot be dismissed
 
 <img src="{{ "/assets/images/Croatia_d7e045_zvonimir_death_legen_28aef6-Illustration-3-dark.svg" | relative_url }}" alt="Zvonimir illustration 3" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_zvonimir_death_legen_28aef6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_zvonimir_death_legen_28aef6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Zvonimir
+## Why the mystery still matters
+
 The enduring fascination of Zvonimir's death lies less in uncertainty over how he died than in how history became legend.
 
 The assassination story illustrates how medieval societies created narratives that explained political upheaval through morality and divine justice. Over time, the legend became part of Croatian national memory, especially during periods when questions of sovereignty, identity and foreign rule carried renewed political importance.
@@ -367,89 +368,89 @@ The assassination story illustrates how medieval societies created narratives th
 For historians, the case is therefore doubly significant. It offers an unresolved question about the precise circumstances of an eleventh-century king's death, but it also provides a rare opportunity to watch a political myth develop across centuries of chroniclers, each reshaping the story to suit the concerns of their own age. The real historical mystery is not simply whether Zvonimir was murdered—it is how a probable natural death became one of Croatia's most influential national legends.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was King Zvonimir Really Murdered by His Nobles?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was King Zvonimir Really Murdered by His Nobles?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history+Margaret+Olwen+Macmillan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The uses and abuses of history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8343124-M.jpg" alt="Cover for The uses and abuses of history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history+Margaret+Olwen+Macmillan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The uses and abuses of history">The uses and abuses of history</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Olwen Macmillan</p>
-
-        <p class="fr-book-desc">Offers a useful framework for understanding why Zvonimir&#x27;s alleged murder and curse remained influential despite weak contemporary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history+Margaret+Olwen+Macmillan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history+Margaret+Olwen+Macmillan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The uses and abuses of history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8343124-M.jpg" alt="Cover for The uses and abuses of history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history+Margaret+Olwen+Macmillan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The uses and abuses of history">The uses and abuses of history</a>
+</h4>
+<p class="fr-book-author">By Margaret Olwen Macmillan</p>
+        
+<p class="fr-book-desc">Offers a useful framework for understanding why Zvonimir&#x27;s alleged murder and curse remained influential despite weak contemporary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history+Margaret+Olwen+Macmillan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
-        </h4>
-        <p class="fr-book-author">By Mark Mazower</p>
-
-        <p class="fr-book-desc">Helps readers understand how medieval events, foreign rule and later nationalism became intertwined in Balkan historical memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
+</h4>
+<p class="fr-book-author">By Mark Mazower</p>
+        
+<p class="fr-book-desc">Helps readers understand how medieval events, foreign rule and later nationalism became intertwined in Balkan historical memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+early+medieval+Balkans+John+V.+A.+%28John+Van+Antwerp%29+Fine%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The early medieval Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5540234-M.jpg" alt="Cover for The early medieval Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+early+medieval+Balkans+John+V.+A.+%28John+Van+Antwerp%29+Fine%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The early medieval Balkans">The early medieval Balkans</a>
-        </h4>
-        <p class="fr-book-author">By John V. A. (John Van Antwerp) Fine, Jr.</p>
-
-        <p class="fr-book-desc">Places Zvonimir and the Croatian kingdom within the political and ecclesiastical history of the early medieval Balkans.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+early+medieval+Balkans+John+V.+A.+%28John+Van+Antwerp%29+Fine%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+early+medieval+Balkans+John+V.+A.+%28John+Van+Antwerp%29+Fine%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The early medieval Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5540234-M.jpg" alt="Cover for The early medieval Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+early+medieval+Balkans+John+V.+A.+%28John+Van+Antwerp%29+Fine%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The early medieval Balkans">The early medieval Balkans</a>
+</h4>
+<p class="fr-book-author">By John V. A. (John Van Antwerp) Fine, Jr.</p>
+        
+<p class="fr-book-desc">Places Zvonimir and the Croatian kingdom within the political and ecclesiastical history of the early medieval Balkans.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+early+medieval+Balkans+John+V.+A.+%28John+Van+Antwerp%29+Fine%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Croatia: A History from the Middle Ages to the Present Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Croatia: A History from the Middle Ages to the Present Day">Croatia: A History from the Middle Ages to the Present Day</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Tanner</p>
-
-        <p class="fr-book-desc">Provides historical context for Zvonimir&#x27;s reign, the succession crisis and Croatia&#x27;s later union with Hungary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Croatia: A History from the Middle Ages to the Present Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Croatia: A History from the Middle Ages to the Present Day">Croatia: A History from the Middle Ages to the Present Day</a>
+</h4>
+<p class="fr-book-author">By Marcus Tanner</p>
+        
+<p class="fr-book-desc">Provides historical context for Zvonimir&#x27;s reign, the succession crisis and Croatia&#x27;s later union with Hungary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Croatia%3A+A+History+from+the+Middle+Ages+to+the+Present+Day+Marcus+Tanner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The uses and abuses of history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+early+medieval+Balkans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The early medieval Balkans</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+uses+and+abuses+of+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The uses and abuses of history</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+early+medieval+Balkans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The early medieval Balkans</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

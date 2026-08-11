@@ -1308,7 +1308,8 @@ The case demonstrates how historical investigation works when several kinds of e
 
 <img src="{{ "/assets/images/Saint_Vincent_and_th_3bce2a-Illustration-3-dark.svg" | relative_url }}" alt="Saint Vincent and the Grenadines illustration 3" data-theme-src-dark="{{ "/assets/images/Saint_Vincent_and_th_3bce2a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Vincent_and_th_3bce2a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Saint Vincent and the Grenadines' historical mysteries in the wider historical record
+## Why these mysteries endure
+
 The most enduring mysteries of Saint Vincent and the Grenadines share a common cause: unequal survival of evidence. Colonial governments generated extensive records, but those records reflected their own priorities. Indigenous and Garifuna knowledge was more often transmitted orally, while war, deportation and population dispersal broke the continuity through which stories and place-based knowledge were preserved.
 
 That imbalance explains why apparently simple questions remain difficult. The British recorded military victory but not Chatoyer’s own account of his final battle. Officials counted prisoners, yet did not leave a complete and uncontested record of those who died on Balliceaux. European observers described [Garifuna origins]({{ 'garifuna-origins/' | relative_url }}), but their stories cannot be separated easily from oral tradition, racial categorisation and political interests. Archaeologists can record the shapes of petroglyphs, but not recover with certainty the words once spoken beside them.
@@ -1323,72 +1324,72 @@ These cases continue to matter because they concern people whose descendants are
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Stories Define Saint Vincent&#x27;s Unresolved Past?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Stories Define Saint Vincent&#x27;s Unresolved Past?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Columbus and the Quest for Jerusalem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9044166-M.jpg" alt="Cover for Columbus and the Quest for Jerusalem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Columbus and the Quest for Jerusalem">Columbus and the Quest for Jerusalem</a>
-        </h4>
-        <p class="fr-book-author">By Carol Delaney</p>
-
-        <p class="fr-book-desc">Helps readers understand the mindset behind early European accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Columbus and the Quest for Jerusalem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9044166-M.jpg" alt="Cover for Columbus and the Quest for Jerusalem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Columbus and the Quest for Jerusalem">Columbus and the Quest for Jerusalem</a>
+</h4>
+<p class="fr-book-author">By Carol Delaney</p>
+        
+<p class="fr-book-desc">Helps readers understand the mindset behind early European accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the past on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the past" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
-        </h4>
-        <p class="fr-book-author">By Michel-Rolph Trouillot</p>
-
-        <p class="fr-book-desc">Directly addresses how colonial narratives shape historical memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the past on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the past" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
+</h4>
+<p class="fr-book-author">By Michel-Rolph Trouillot</p>
+        
+<p class="fr-book-desc">Directly addresses how colonial narratives shape historical memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Caribs (Garifuna) of Honduras on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Caribs (Garifuna) of Honduras">The Black Caribs (Garifuna) of Honduras</a>
-        </h4>
-        <p class="fr-book-author">By Ruy Galvao de Andrade Coelho</p>
-
-        <p class="fr-book-desc">Provides broad background on Garifuna origins and history central to several mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Caribs (Garifuna) of Honduras on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Caribs (Garifuna) of Honduras">The Black Caribs (Garifuna) of Honduras</a>
+</h4>
+<p class="fr-book-author">By Ruy Galvao de Andrade Coelho</p>
+        
+<p class="fr-book-desc">Provides broad background on Garifuna origins and history central to several mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Columbus and the Quest for Jerusalem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silencing+the+past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silencing the past</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Caribs (Garifuna) of Honduras</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Columbus and the Quest for Jerusalem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silencing+the+past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silencing the past</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Caribs (Garifuna) of Honduras</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

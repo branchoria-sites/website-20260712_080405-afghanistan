@@ -1299,7 +1299,8 @@ Each case also warns against a different kind of mythmaking. The stone circles s
 
 <img src="{{ "/assets/images/Gambia_7c3997-Illustration-3-dark.svg" | relative_url }}" alt="What Do Gambia&#x27;s Mysteries Really Reveal? illustration 3" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Gambia's historical mysteries
+## Why these mysteries endure
+
 All three mysteries survive because they stand where different forms of evidence meet. Archaeology records human action without preserving every name. Oral history preserves names and meanings without always preserving dates or independent verification. Colonial archives record ships, officials and commerce while often silencing the people most affected. Folklore preserves relationships with landscape through symbols that cannot be tested like ordinary eyewitness claims.
 
 The Gambia’s unresolved past is therefore not simply a collection of unanswered riddles. It is a demonstration of how history is made from unequal remains. The stones at Wassu and Kerbatch reveal organised societies whose identities have been lost. The Kunta Kinte controversy exposes the damage done when slavery separated people from recoverable ancestry. The Ninki Nanka shows how stories can preserve social and environmental knowledge even when their supernatural surface is not taken literally.
@@ -1312,89 +1313,89 @@ What remains mysterious is important, but so are the limits of the mystery. The 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Gambia&#x27;s Mysteries Really Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Gambia&#x27;s Mysteries Really Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roots+Alex+Haley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10027318-M.jpg" alt="Cover for Roots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roots+Alex+Haley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roots">Roots</a>
-        </h4>
-        <p class="fr-book-author">By Alex Haley</p>
-
-        <p class="fr-book-desc">Central to one of Gambia&#x27;s best-known historical debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roots+Alex+Haley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roots+Alex+Haley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10027318-M.jpg" alt="Cover for Roots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roots+Alex+Haley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roots">Roots</a>
+</h4>
+<p class="fr-book-author">By Alex Haley</p>
+        
+<p class="fr-book-desc">Central to one of Gambia&#x27;s best-known historical debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roots+Alex+Haley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/173446-M.jpg" alt="Cover for History of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Africa">History of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Shillington</p>
-
-        <p class="fr-book-desc">Places Gambian history within the wider African past.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/173446-M.jpg" alt="Cover for History of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Africa">History of Africa</a>
+</h4>
+<p class="fr-book-author">By Kevin Shillington</p>
+        
+<p class="fr-book-desc">Places Gambian history within the wider African past.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=History+of+Africa+Kevin+Shillington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African archaeology">African archaeology</a>
-        </h4>
-        <p class="fr-book-author">By David W. Phillipson</p>
-
-        <p class="fr-book-desc">Useful background for interpreting the stone circles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African archaeology">African archaeology</a>
+</h4>
+<p class="fr-book-author">By David W. Phillipson</p>
+        
+<p class="fr-book-desc">Useful background for interpreting the stone circles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=%C3%81frica+John+Iliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open África on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3114718-M.jpg" alt="Cover for África" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=%C3%81frica+John+Iliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="África">África</a>
-        </h4>
-        <p class="fr-book-author">By John Iliffe, JOHN ILIFFE et al.</p>
-
-        <p class="fr-book-desc">First published 1995. Subjects: Africa, history, Nonfiction, History, Histoire, Historia da africa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=%C3%81frica+John+Iliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=%C3%81frica+John+Iliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open África on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3114718-M.jpg" alt="Cover for África" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=%C3%81frica+John+Iliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="África">África</a>
+</h4>
+<p class="fr-book-author">By John Iliffe, JOHN ILIFFE et al.</p>
+        
+<p class="fr-book-desc">First published 1995. Subjects: Africa, history, Nonfiction, History, Histoire, Historia da africa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=%C3%81frica+John+Iliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roots</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African archaeology</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roots</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African archaeology</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

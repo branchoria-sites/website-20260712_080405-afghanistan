@@ -318,7 +318,8 @@ Other damaged fragments recovered from the ruins of Königsberg Castle have also
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uhd1kk5o3tw" title="The Amber Room: The Greatest Art Theft in History | History Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uhd1kk5o3tw" target="_blank" rel="noopener noreferrer">The Amber Room: The Greatest Art Theft in History | History Podcast</a></p><p class="youtube-embed-meta">Channel: Hoodie History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uhd1kk5o3tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uhd1kk5o3tw">Open on YouTube</a></p></div></div></div>
 
-## Amber Room in the wider historical record
+## Why the Mystery Endures
+
 The Amber Room survives in public imagination because each major explanation contains genuine strengths as well as important weaknesses.
 
 TheoryEvidence supporting itMain difficultyDestroyed in KönigsbergSupported by Soviet archival investigations, wartime destruction, and later historical researchNo complete physical remains have been identifiedHidden beneath KönigsbergSome witness accounts suggest the packed crates survived into late 1944Extensive searches have failed to locate themEvacuated elsewhereGermany did evacuate many cultural treasures during the warNo verified transport records or confirmed destinationLost at seaMaritime evacuations from East Prussia certainly occurredShipwreck investigations have produced no convincing evidence
@@ -336,89 +337,89 @@ The Amber Room is more than a treasure hunt. It represents the wider destruction
 Its disappearance also illustrates the challenges historians face when reconstructing events from incomplete archives, conflicting testimony and politically charged investigations. Every new bunker, shipwreck or underground chamber announced as a possible hiding place attracts international attention, yet none has altered the central historical picture. Eight decades after the fall of Königsberg, the original Amber Room remains missing, and while hidden-room theories continue to inspire expeditions, the evidence currently available makes wartime destruction the most convincing explanation for one of Germany's most famous historical mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/amber-room-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">amber room mystery</span><span class="citation-popover-snippet">WWII Mystery: What Happened to Russia&#x27;s Amber Room? &#124; HISTORYJune 16, 2025...</span><span class="citation-popover-meta">Published: June 16, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened to the Amber Room?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened to the Amber Room?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Amber Room on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6872314-M.jpg" alt="Cover for The Amber Room" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Amber Room">The Amber Room</a>
-        </h4>
-        <p class="fr-book-author">By Steve Berry (conflated)</p>
-
-        <p class="fr-book-desc">Directly investigates the Amber Room&#x27;s disappearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Amber Room on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6872314-M.jpg" alt="Cover for The Amber Room" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Amber Room">The Amber Room</a>
+</h4>
+<p class="fr-book-author">By Steve Berry (conflated)</p>
+        
+<p class="fr-book-desc">Directly investigates the Amber Room&#x27;s disappearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Amber+Room+Steve+Berry+%28conflated%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The monuments men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8759225-M.jpg" alt="Cover for The monuments men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
-        </h4>
-        <p class="fr-book-author">By Robert M. Edsel</p>
-
-        <p class="fr-book-desc">Explores wartime art recovery and Nazi cultural looting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The monuments men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8759225-M.jpg" alt="Cover for The monuments men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
+</h4>
+<p class="fr-book-author">By Robert M. Edsel</p>
+        
+<p class="fr-book-desc">Explores wartime art recovery and Nazi cultural looting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rape of Europa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/421015-M.jpg" alt="Cover for The Rape of Europa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rape of Europa">The Rape of Europa</a>
-        </h4>
-        <p class="fr-book-author">By Lynn H. Nicholas</p>
-
-        <p class="fr-book-desc">Provides the broader context for the Amber Room mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rape of Europa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/421015-M.jpg" alt="Cover for The Rape of Europa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rape of Europa">The Rape of Europa</a>
+</h4>
+<p class="fr-book-author">By Lynn H. Nicholas</p>
+        
+<p class="fr-book-desc">Provides the broader context for the Amber Room mystery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rape+of+Europa+Lynn+H.+Nicholas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shortest History of Germany on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8799192-M.jpg" alt="Cover for The Shortest History of Germany" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shortest History of Germany">The Shortest History of Germany</a>
-        </h4>
-        <p class="fr-book-author">By James Hawes</p>
-
-        <p class="fr-book-desc">Places the Amber Room story within German history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shortest History of Germany on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8799192-M.jpg" alt="Cover for The Shortest History of Germany" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shortest History of Germany">The Shortest History of Germany</a>
+</h4>
+<p class="fr-book-author">By James Hawes</p>
+        
+<p class="fr-book-desc">Places the Amber Room story within German history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shortest+History+of+Germany+James+Hawes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Amber+Room&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Amber Room</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+monuments+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The monuments men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rape+of+Europa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rape of Europa</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Amber+Room&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Amber Room</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+monuments+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The monuments men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rape+of+Europa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rape of Europa</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

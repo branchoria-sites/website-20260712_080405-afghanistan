@@ -323,7 +323,8 @@ Research since the early 2000s has concentrated on documenting the surviving sit
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b_diquis_stone_spheres_01d11b-Illustration-3-dark.svg" | relative_url }}" alt="Stone Spheres illustration 3" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_diquis_stone_spheres_01d11b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_diquis_stone_spheres_01d11b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Stone Spheres
+## Why the Mystery Still Matters
+
 The enduring puzzle surrounding the Diquís stone spheres is not whether they were made by Indigenous Costa Ricans—that question has been answered—but what they meant within the political and ceremonial life of those societies. The uncertainty reflects the limits of archaeological evidence rather than a failure of research.
 
 Each newly documented sphere preserved in its original setting offers another opportunity to understand how authority, ritual and public space were organised in pre-Columbian Costa Rica. As more damaged sites are studied with modern archaeological methods, researchers may refine current interpretations. Yet it is also possible that the spheres carried multiple meanings understood by their creators but never recorded in writing.
@@ -336,89 +337,89 @@ That combination of solid evidence and genuine uncertainty explains why the Diqu
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Costa Rica&#x27;s People Make Stone Spheres?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Costa Rica&#x27;s People Make Stone Spheres?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
-        </h4>
-        <p class="fr-book-author">By Charles C. Mann</p>
-
-        <p class="fr-book-desc">Explains how complex Amazonian societies transformed archaeological thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
+</h4>
+<p class="fr-book-author">By Charles C. Mann</p>
+        
+<p class="fr-book-desc">Explains how complex Amazonian societies transformed archaeological thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Costa+Rica+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Costa Rica on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12444226-M.jpg" alt="Cover for Lonely Planet Costa Rica" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Costa+Rica+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Costa Rica">Lonely Planet Costa Rica</a>
-        </h4>
-        <p class="fr-book-author">By Lonely Planet</p>
-
-        <p class="fr-book-desc">Introduces UNESCO archaeological sites including the spheres.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Costa+Rica+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Costa+Rica+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Costa Rica on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12444226-M.jpg" alt="Cover for Lonely Planet Costa Rica" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Costa+Rica+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Costa Rica">Lonely Planet Costa Rica</a>
+</h4>
+<p class="fr-book-author">By Lonely Planet</p>
+        
+<p class="fr-book-desc">Introduces UNESCO archaeological sites including the spheres.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Costa+Rica+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Moon+Costa+Rica+Christopher+P.+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moon Costa Rica on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1906037-M.jpg" alt="Cover for Moon Costa Rica" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Moon+Costa+Rica+Christopher+P.+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moon Costa Rica">Moon Costa Rica</a>
-        </h4>
-        <p class="fr-book-author">By Christopher P. Baker</p>
-
-        <p class="fr-book-desc">Helps visitors understand the stone sphere sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Moon+Costa+Rica+Christopher+P.+Baker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Moon+Costa+Rica+Christopher+P.+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moon Costa Rica on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1906037-M.jpg" alt="Cover for Moon Costa Rica" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Moon+Costa+Rica+Christopher+P.+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moon Costa Rica">Moon Costa Rica</a>
+</h4>
+<p class="fr-book-author">By Christopher P. Baker</p>
+        
+<p class="fr-book-desc">Helps visitors understand the stone sphere sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Moon+Costa+Rica+Christopher+P.+Baker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeology : theories, methods, and practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316824-M.jpg" alt="Cover for Archaeology : theories, methods, and practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
-        </h4>
-        <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-
-        <p class="fr-book-desc">Explains how archaeologists infer monument purpose.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeology : theories, methods, and practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316824-M.jpg" alt="Cover for Archaeology : theories, methods, and practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
+</h4>
+<p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
+        
+<p class="fr-book-desc">Explains how archaeologists infer monument purpose.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Costa+Rica&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Costa Rica</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Moon+Costa+Rica&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moon Costa Rica</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Costa+Rica&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Costa Rica</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Moon+Costa+Rica&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moon Costa Rica</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

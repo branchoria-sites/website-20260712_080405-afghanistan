@@ -327,7 +327,8 @@ This limitation is important because archaeology depends as much on context as o
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5_domagnano_treasure_370468-Illustration-3-dark.svg" | relative_url }}" alt="Domagnano illustration 3" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_domagnano_treasure_370468-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_domagnano_treasure_370468-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Domagnano
+## Why the mystery still matters
+
 The Domagnano Treasure is often described as one of the richest surviving finds from Ostrogothic Italy, but its greatest historical significance lies in what it teaches about lost evidence. The gold jewellery demonstrates remarkable craftsmanship and elite status, yet it cannot fully answer the questions that matter most: who owned it, why it was placed in the ground, and what happened to its owner.
 
 For San Marino, the treasure represents both national heritage and a cautionary tale. It links the republic to the wider world of late Roman and Ostrogothic Italy, while reminding historians how much knowledge can disappear when discoveries are driven by curiosity, secrecy and the antiquities market rather than careful archaeological recording. More than a century after its discovery, the missing context remains every bit as valuable—and every bit as elusive—as the gold itself.
@@ -338,89 +339,89 @@ For San Marino, the treasure represents both national heritage and a cautionary 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Hid the Domagnano Treasure and Why?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Hid the Domagnano Treasure and Why?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fall+of+the+Roman+Empire+Peter+Heather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fall of the Roman Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1128917-M.jpg" alt="Cover for The Fall of the Roman Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fall+of+the+Roman+Empire+Peter+Heather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fall of the Roman Empire">The Fall of the Roman Empire</a>
-        </h4>
-        <p class="fr-book-author">By Peter Heather</p>
-
-        <p class="fr-book-desc">Explains the transition into the Ostrogothic period.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fall+of+the+Roman+Empire+Peter+Heather&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fall+of+the+Roman+Empire+Peter+Heather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fall of the Roman Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1128917-M.jpg" alt="Cover for The Fall of the Roman Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fall+of+the+Roman+Empire+Peter+Heather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fall of the Roman Empire">The Fall of the Roman Empire</a>
+</h4>
+<p class="fr-book-author">By Peter Heather</p>
+        
+<p class="fr-book-desc">Explains the transition into the Ostrogothic period.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fall+of+the+Roman+Empire+Peter+Heather&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ostrogoths+Burns%2C+Thomas+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ostrogoths on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5302654-M.jpg" alt="Cover for The Ostrogoths" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ostrogoths+Burns%2C+Thomas+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ostrogoths">The Ostrogoths</a>
-        </h4>
-        <p class="fr-book-author">By Burns, Thomas S.</p>
-
-        <p class="fr-book-desc">Directly relevant to the culture that produced the Domagnano Treasure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ostrogoths+Burns%2C+Thomas+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ostrogoths+Burns%2C+Thomas+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ostrogoths on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5302654-M.jpg" alt="Cover for The Ostrogoths" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ostrogoths+Burns%2C+Thomas+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ostrogoths">The Ostrogoths</a>
+</h4>
+<p class="fr-book-author">By Burns, Thomas S.</p>
+        
+<p class="fr-book-desc">Directly relevant to the culture that produced the Domagnano Treasure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ostrogoths+Burns%2C+Thomas+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeology : theories, methods, and practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316824-M.jpg" alt="Cover for Archaeology : theories, methods, and practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
-        </h4>
-        <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-
-        <p class="fr-book-desc">Shows why lost excavation context creates historical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeology : theories, methods, and practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316824-M.jpg" alt="Cover for Archaeology : theories, methods, and practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
+</h4>
+<p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
+        
+<p class="fr-book-desc">Shows why lost excavation context creates historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
-        </h4>
-        <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
-
-        <p class="fr-book-desc">First published 2015. Subjects: Historia, History, Rome, history, Histoire, Antike.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
+</h4>
+<p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
+        
+<p class="fr-book-desc">First published 2015. Subjects: Historia, History, Rome, history, Histoire, Antike.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fall+of+the+Roman+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fall of the Roman Empire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ostrogoths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ostrogoths</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeology : theories, methods, and practice</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fall+of+the+Roman+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fall of the Roman Empire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ostrogoths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ostrogoths</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeology : theories, methods, and practice</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

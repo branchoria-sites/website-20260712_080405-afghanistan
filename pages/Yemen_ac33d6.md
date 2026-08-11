@@ -209,13 +209,13 @@ description: Yemen’s deepest historical mysteries are not stories of hidden ch
 hero_summary: 'Yemen’s deepest historical mysteries are not stories of hidden chambers or supernatural curses. They arise from a more compelling collision: an exceptionally rich past, fragmentary records, politically charged traditions and archaeological sites that remain difficult to investigate.'
 layout: default
 permalink: /which-mysteries-still-shape-yemens-past/
-nav_short_title: "Yemen: What the Historical Record Still Cannot Settle"
-title: "Yemen: What the Historical Record Still Cannot Settle"
-title_full: "Yemen: What the Historical Record Still Cannot Settle"
-display_title_short: "Yemen: What the Historical Record Still Cannot Settle"
-display_title: "Yemen: What the Historical Record Still Cannot Settle"
-heading_title: "Yemen: What the Historical Record Still Cannot Settle"
-page_heading_title: "Yemen: What the Historical Record Still Cannot Settle"
+nav_short_title: Which Mysteries Still Shape Yemen's Past?
+title: Which Mysteries Still Shape Yemen's Past?
+title_full: Which Mysteries Still Shape Yemen's Past?
+display_title_short: Which Mysteries Still Shape Yemen's Past?
+display_title: Which Mysteries Still Shape Yemen's Past?
+heading_title: Which Mysteries Still Shape Yemen's Past?
+page_heading_title: Which Mysteries Still Shape Yemen's Past?
 source_count: 121
 infographic_count: 3
 page_website_name: Yemen Mysteries
@@ -1342,89 +1342,89 @@ These cases endure because they concern more than unanswered questions. They sha
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Mysteries Still Shape Yemen&#x27;s Past?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Mysteries Still Shape Yemen&#x27;s Past?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+hidden+face+of+Eve+Nawal+El+Saadawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The hidden face of Eve on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4777536-M.jpg" alt="Cover for The hidden face of Eve" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+hidden+face+of+Eve+Nawal+El+Saadawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hidden face of Eve">The hidden face of Eve</a>
-        </h4>
-        <p class="fr-book-author">By Nawal El Saadawi, Nawāl al- Saʻdāwī et al.</p>
-
-        <p class="fr-book-desc">Offers wider regional context relevant to Arabian history and society.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+hidden+face+of+Eve+Nawal+El+Saadawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+hidden+face+of+Eve+Nawal+El+Saadawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The hidden face of Eve on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4777536-M.jpg" alt="Cover for The hidden face of Eve" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+hidden+face+of+Eve+Nawal+El+Saadawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hidden face of Eve">The hidden face of Eve</a>
+</h4>
+<p class="fr-book-author">By Nawal El Saadawi, Nawāl al- Saʻdāwī et al.</p>
+        
+<p class="fr-book-desc">Offers wider regional context relevant to Arabian history and society.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+hidden+face+of+Eve+Nawal+El+Saadawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ornament of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/189283-M.jpg" alt="Cover for The ornament of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ornament of the world">The ornament of the world</a>
-        </h4>
-        <p class="fr-book-author">By Maria Rosa Menocal</p>
-
-        <p class="fr-book-desc">Introduces readers to the broader medieval Islamic world surrounding Yemen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ornament of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/189283-M.jpg" alt="Cover for The ornament of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ornament of the world">The ornament of the world</a>
+</h4>
+<p class="fr-book-author">By Maria Rosa Menocal</p>
+        
+<p class="fr-book-desc">Introduces readers to the broader medieval Islamic world surrounding Yemen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yemen: Travels in Dictionary Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/457529-M.jpg" alt="Cover for Yemen: Travels in Dictionary Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen: Travels in Dictionary Land">Yemen: Travels in Dictionary Land</a>
-        </h4>
-        <p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
-
-        <p class="fr-book-desc">Brings Yemen&#x27;s history, culture and archaeology to life for general readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yemen: Travels in Dictionary Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/457529-M.jpg" alt="Cover for Yemen: Travels in Dictionary Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen: Travels in Dictionary Land">Yemen: Travels in Dictionary Land</a>
+</h4>
+<p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
+        
+<p class="fr-book-desc">Brings Yemen&#x27;s history, culture and archaeology to life for general readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs: From the Bronze Age to the Coming of Islam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs: From the Bronze Age to the Coming of Islam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs: From the Bronze Age to the Coming of Islam">Arabia and the Arabs: From the Bronze Age to the Coming of Islam</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Provides essential context for Yemen&#x27;s ancient kingdoms and historical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs: From the Bronze Age to the Coming of Islam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs: From the Bronze Age to the Coming of Islam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs: From the Bronze Age to the Coming of Islam">Arabia and the Arabs: From the Bronze Age to the Coming of Islam</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Provides essential context for Yemen&#x27;s ancient kingdoms and historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+hidden+face+of+Eve&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The hidden face of Eve</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ornament+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ornament of the world</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yemen: Travels in Dictionary Land</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+hidden+face+of+Eve&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The hidden face of Eve</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ornament+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ornament of the world</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yemen: Travels in Dictionary Land</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

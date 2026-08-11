@@ -327,89 +327,89 @@ The Beilis affair occupies a distinctive place among [Ukraine]({{ 'what-still-re
 The case also illustrates how a genuine crime can become overshadowed by propaganda. Public memory often centres on the spectacular trial rather than on Andriy Yushchinskyi himself, whose death became the vehicle for a wider campaign of antisemitic mobilisation within the final years of the Russian Empire. The failure to solve his murder therefore stands as both a criminal mystery and a reminder that prejudice can permanently distort the historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://encyclopedia.yivo.org/article.aspx/Beilis_Mendel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.yivo.org">[yivo.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.yivo.org</span><span class="citation-popover-title">Encyclopedia Beilis, Mendel</span><span class="citation-popover-snippet">YIVO EncyclopediaBeilis, Mendel - YIVO EncyclopediaFebruary 12, 2010...</span><span class="citation-popover-meta">Published: February 12, 2010</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Killed Andriy Yushchinskyi?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Killed Andriy Yushchinskyi?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gates of Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8872269-M.jpg" alt="Cover for The Gates of Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gates of Europe">The Gates of Europe</a>
-        </h4>
-        <p class="fr-book-author">By Serhii Plokhy</p>
-
-        <p class="fr-book-desc">Places the Beilis affair within broader Ukrainian history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gates of Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8872269-M.jpg" alt="Cover for The Gates of Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gates of Europe">The Gates of Europe</a>
+</h4>
+<p class="fr-book-author">By Serhii Plokhy</p>
+        
+<p class="fr-book-desc">Places the Beilis affair within broader Ukrainian history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gates+of+Europe+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Jews on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7091923-M.jpg" alt="Cover for A history of the Jews" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Jews">A history of the Jews</a>
-        </h4>
-        <p class="fr-book-author">By Paul Bede Johnson</p>
-
-        <p class="fr-book-desc">First published 1987. Subjects: Jews, History, Historia, Judíos, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Jews on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7091923-M.jpg" alt="Cover for A history of the Jews" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Jews">A history of the Jews</a>
+</h4>
+<p class="fr-book-author">By Paul Bede Johnson</p>
+        
+<p class="fr-book-desc">First published 1987. Subjects: Jews, History, Historia, Judíos, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ukraine+Orest+Subtelny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ukraine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/568114-M.jpg" alt="Cover for Ukraine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ukraine+Orest+Subtelny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ukraine">Ukraine</a>
-        </h4>
-        <p class="fr-book-author">By Orest Subtelny</p>
-
-        <p class="fr-book-desc">First published 1988. Subjects: History, Histoire, Ukraine, Textbook, Ukraine, history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ukraine+Orest+Subtelny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ukraine+Orest+Subtelny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ukraine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/568114-M.jpg" alt="Cover for Ukraine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ukraine+Orest+Subtelny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ukraine">Ukraine</a>
+</h4>
+<p class="fr-book-author">By Orest Subtelny</p>
+        
+<p class="fr-book-desc">First published 1988. Subjects: History, Histoire, Ukraine, Textbook, Ukraine, history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ukraine+Orest+Subtelny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Case+of+Mendel+Beilis+Albert+S.+Lindemann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case of Mendel Beilis on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+of+Mendel+Beilis+Albert+S.+Lindemann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case of Mendel Beilis">The Case of Mendel Beilis</a>
-        </h4>
-        <p class="fr-book-author">By Albert S. Lindemann</p>
-
-        <p class="fr-book-desc">Directly examines the murder, investigation and trial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+of+Mendel+Beilis+Albert+S.+Lindemann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Case+of+Mendel+Beilis+Albert+S.+Lindemann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case of Mendel Beilis on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Case+of+Mendel+Beilis+Albert+S.+Lindemann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case of Mendel Beilis">The Case of Mendel Beilis</a>
+</h4>
+<p class="fr-book-author">By Albert S. Lindemann</p>
+        
+<p class="fr-book-desc">Directly examines the murder, investigation and trial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Case+of+Mendel+Beilis+Albert+S.+Lindemann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gates+of+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gates of Europe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+the+Jews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of the Jews</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ukraine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ukraine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gates+of+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gates of Europe</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+the+Jews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of the Jews</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ukraine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ukraine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

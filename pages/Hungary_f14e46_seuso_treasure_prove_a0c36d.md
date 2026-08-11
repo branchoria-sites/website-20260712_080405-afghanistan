@@ -348,7 +348,8 @@ The repatriation did not resolve the archaeological mystery. Modern research pro
 
 <img src="{{ "/assets/images/Hungary_f14e46_seuso_treasure_prove_a0c36d-Illustration-3-dark.svg" | relative_url }}" alt="Seuso Treasure illustration 3" data-theme-src-dark="{{ "/assets/images/Hungary_f14e46_seuso_treasure_prove_a0c36d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hungary_f14e46_seuso_treasure_prove_a0c36d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Seuso Treasure
+## Why the mystery endures
+
 The Seuso Treasure remains one of Hungary's most significant historical mysteries because the central question has never been conclusively answered. The silver itself is genuine, exceptionally well preserved and securely dated to the late Roman Empire. The uncertainty lies entirely in its modern history.
 
 Today, many archaeologists consider a Hungarian origin the most persuasive explanation, drawing together the Pelso inscription, the Polgárdi silver stand, regional archaeological evidence and historical testimony. Yet none of these strands has supplied the definitive proof required to identify the precise place where the treasure emerged from the ground.
@@ -373,7 +374,7 @@ That missing piece of evidence continues to shape every discussion of the Seuso 
 <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
 </h4>
 <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: Historia, History, Rome, history, Histoire, Antike.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +391,7 @@ That missing piece of evidence continues to shape every discussion of the Seuso 
 <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Habsburgs">Habsburgs</a>
 </h4>
 <p class="fr-book-author">By Martyn Rady</p>
-
+        
 <p class="fr-book-desc">First published 2020. Subjects: Europe, history, Habsburg, house of, Austria, history, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Habsburgs+Martyn+Rady&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +408,7 @@ That missing piece of evidence continues to shape every discussion of the Seuso 
 <a href="https://www.amazon.com/s?k=The+Hungarians+Paul+Lendvai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hungarians">The Hungarians</a>
 </h4>
 <p class="fr-book-author">By Paul Lendvai</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: History, Hungarians, Hungary, history, Hungary, biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hungarians+Paul+Lendvai&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +425,7 @@ That missing piece of evidence continues to shape every discussion of the Seuso 
 <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The archaeology book">The archaeology book</a>
 </h4>
 <p class="fr-book-author">By David Down</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Juvenile literature, Archaeology, Christian education, Antiquities, Creationism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+archaeology+book+David+Down&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

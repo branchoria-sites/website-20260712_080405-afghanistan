@@ -381,7 +381,7 @@ These unresolved questions explain why the Thiaroye massacre continues to occupy
 <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fortunes of Africa">The fortunes of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: History, Wealth, Africa, economic conditions, Africa, history, Economic conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ These unresolved questions explain why the Thiaroye massacre continues to occupy
 <a href="https://www.amazon.com/s?k=Africa+since+1940+Frederick+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since 1940">Africa since 1940</a>
 </h4>
 <p class="fr-book-author">By Frederick Cooper, Frederick Cooper</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: Politics and government, History, Decolonization, Colonial influence, Africa, politics and government.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Africa+since+1940+Frederick+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ These unresolved questions explain why the Thiaroye massacre continues to occupy
 <a href="https://www.amazon.com/s?k=The+Tirailleurs+S%C3%A9n%C3%A9galais%3A+The+French+Colonial+Infantry%2C+1857+1957+Myron+J.+Echenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tirailleurs Sénégalais: The French Colonial Infantry,">The Tirailleurs Sénégalais: The French Colonial Infantry, 185...</a>
 </h4>
 <p class="fr-book-author">By Myron J. Echenberg</p>
-
+        
 <p class="fr-book-desc">Directly relevant to the soldiers involved at Thiaroye.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Tirailleurs+S%C3%A9n%C3%A9galais%3A+The+French+Colonial+Infantry%2C+1857+1957+Myron+J.+Echenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ These unresolved questions explain why the Thiaroye massacre continues to occupy
 <a href="https://www.amazon.com/s?k=A+History+of+Modern+Senegal+Sheldon+Gellar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Modern Senegal">A History of Modern Senegal</a>
 </h4>
 <p class="fr-book-author">By Sheldon Gellar</p>
-
+        
 <p class="fr-book-desc">Provides context for the massacre and its aftermath.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Modern+Senegal+Sheldon+Gellar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

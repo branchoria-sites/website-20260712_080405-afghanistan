@@ -317,7 +317,8 @@ Yet important gaps remain. Inventories produced during the conquest do not accou
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0u3D24NKAiY" title="The Enigma of the Nga Mauk Ruby: The Untold Story of Burma’s 98-Carat Treasur" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0u3D24NKAiY" target="_blank" rel="noopener noreferrer">The Enigma of the Nga Mauk Ruby: The Untold Story of Burma’s 98-Carat Treasur</a></p><p class="youtube-embed-meta">Channel: မီးတိုင် Torch</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0u3D24NKAiY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0u3D24NKAiY">Open on YouTube</a></p></div></div></div>
 
-## What would clarify Royal Treasures
+## Why the mystery remains unresolved
+
 The missing treasures continue to generate debate because the available evidence is incomplete rather than entirely absent.
 
 Several factors make the mystery unusually difficult to solve:
@@ -367,7 +368,7 @@ Modern museum research has clarified the history of many individual artefacts, s
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
 </h4>
 <p class="fr-book-author">By Amitav Ghosh</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: Fiction, History, Historical fiction, Love stories, Domestic fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +385,7 @@ Modern museum research has clarified the history of many individual artefacts, s
 <a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finding George Orwell in Burma">Finding George Orwell in Burma</a>
 </h4>
 <p class="fr-book-author">By Emma Larkin</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Travel, Politics and government, Description and travel, Nonfiction, Orwell, george, 1903-1950.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +402,7 @@ Modern museum research has clarified the history of many individual artefacts, s
 <a href="https://www.amazon.com/s?k=Golden+earth+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Golden earth">Golden earth</a>
 </h4>
 <p class="fr-book-author">By Norman Lewis</p>
-
+        
 <p class="fr-book-desc">First published 1952. Subjects: Description and travel, Journey, Travel, Burma, description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Golden+earth+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +419,7 @@ Modern museum research has clarified the history of many individual artefacts, s
 <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Lost Footsteps: Histories of Burma">The River of Lost Footsteps: Histories of Burma</a>
 </h4>
 <p class="fr-book-author">By Thant Myint-U</p>
-
+        
 <p class="fr-book-desc">Explains the British conquest and the fate of the monarchy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

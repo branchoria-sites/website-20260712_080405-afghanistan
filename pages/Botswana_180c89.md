@@ -1244,7 +1244,7 @@ This distinction matters because Tsodilo does not need an archaeological superla
 
 ## Who was the man returned from the Banyoles museum?
 
-In October 2000, human remains arrived at Sir Seretse Khama International Airport from Spain. They belonged to a man who had spent much of the twentieth century displayed in the Darder Museum in Banyoles as a taxidermied racial specimen. Museum visitors knew him only by a degrading nickname meaning “the Black man”. Botswana accepted the remains and buried them in Gaborone’s Tsholofelo Park.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780203165775/49e6086f-758b-48cd-a010-b0ab7a15ee54/relatedobjects/chapters/chapter027/9780203165775-27.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAQFVOSJ57XWHVIVN3%2F20260605%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260605T091740Z&amp;X-Amz-Expires=172800&amp;X-Amz-Signature=d30da758ce027bad503a0e41d027d2628433e6eb175450a9fbfaf395ef29fbcb&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780203165775-27_chapterpdf.pdf%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com">[Amazon S3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com</span><span class="citation-popover-snippet">Open source on amazonaws.com.</span></span></span>
+In October 2000, human remains arrived at Sir Seretse Khama International Airport from Spain. They belonged to a man who had spent much of the twentieth century displayed in the Darder Museum in Banyoles as a taxidermied racial specimen. Museum visitors knew him only by a degrading nickname meaning “the Black man”. Botswana accepted the remains and buried them in Gaborone’s Tsholofelo Park.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780203165775/49e6086f-758b-48cd-a010-b0ab7a15ee54/relatedobjects/chapters/chapter027/9780203165775-27.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=REDACTED&amp;X-Amz-Date=20260605T091740Z&amp;X-Amz-Expires=172800&amp;X-Amz-Signature=REDACTED&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780203165775-27_chapterpdf.pdf%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com">[Amazon S3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com</span><span class="citation-popover-snippet">Open source on amazonaws.com.</span></span></span>
 
 The repatriation appeared to correct an obvious historical wrong. The man’s corpse had reportedly been taken in southern Africa during the early nineteenth century, preserved by French taxidermists and transported to Europe. After passing through private collections, it became a museum attraction. By the late twentieth century, campaigners argued that displaying a dead African person as a curiosity was incompatible with human dignity.
 
@@ -1316,72 +1316,72 @@ The most enduring national enigmas are often not puzzles with a concealed, drama
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Botswana&#x27;s Greatest Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Botswana&#x27;s Greatest Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African archaeology">African archaeology</a>
-        </h4>
-        <p class="fr-book-author">By David W. Phillipson</p>
-
-        <p class="fr-book-desc">Provides context for archaeological mysteries including southern Africa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African archaeology">African archaeology</a>
+</h4>
+<p class="fr-book-author">By David W. Phillipson</p>
+        
+<p class="fr-book-desc">Provides context for archaeological mysteries including southern Africa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Through+the+Kalahari+Desert%3B+G.+Antonio+Farini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Through the Kalahari Desert; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4787878-M.jpg" alt="Cover for Through the Kalahari Desert;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Through+the+Kalahari+Desert%3B+G.+Antonio+Farini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Through the Kalahari Desert;">Through the Kalahari Desert;</a>
-        </h4>
-        <p class="fr-book-author">By G. Antonio Farini</p>
-
-        <p class="fr-book-desc">Primary source for the Lost City claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Through+the+Kalahari+Desert%3B+G.+Antonio+Farini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Through+the+Kalahari+Desert%3B+G.+Antonio+Farini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Through the Kalahari Desert; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4787878-M.jpg" alt="Cover for Through the Kalahari Desert;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Through+the+Kalahari+Desert%3B+G.+Antonio+Farini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Through the Kalahari Desert;">Through the Kalahari Desert;</a>
+</h4>
+<p class="fr-book-author">By G. Antonio Farini</p>
+        
+<p class="fr-book-desc">Primary source for the Lost City claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Through+the+Kalahari+Desert%3B+G.+Antonio+Farini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lost+City+of+the+Kalahari+Murray+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost City of the Kalahari on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lost+City+of+the+Kalahari+Murray+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of the Kalahari">The Lost City of the Kalahari</a>
-        </h4>
-        <p class="fr-book-author">By Murray Chapman</p>
-
-        <p class="fr-book-desc">Directly covers the Lost City legend discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lost+City+of+the+Kalahari+Murray+Chapman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lost+City+of+the+Kalahari+Murray+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost City of the Kalahari on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lost+City+of+the+Kalahari+Murray+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of the Kalahari">The Lost City of the Kalahari</a>
+</h4>
+<p class="fr-book-author">By Murray Chapman</p>
+        
+<p class="fr-book-desc">Directly covers the Lost City legend discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lost+City+of+the+Kalahari+Murray+Chapman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African archaeology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Through+the+Kalahari+Desert%3B&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Through the Kalahari Desert;</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+City+of+the+Kalahari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost City of the Kalahari</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African archaeology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Through+the+Kalahari+Desert%3B&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Through the Kalahari Desert;</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+City+of+the+Kalahari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost City of the Kalahari</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
@@ -1820,7 +1820,7 @@ The most enduring national enigmas are often not puzzles with a concealed, drama
 
 29.<a id="endnote-29"></a>
    Source: s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com  
-   Link:<a href="https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780203165775/49e6086f-758b-48cd-a010-b0ab7a15ee54/relatedobjects/chapters/chapter027/9780203165775-27.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAQFVOSJ57XWHVIVN3%2F20260605%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260605T091740Z&amp;X-Amz-Expires=172800&amp;X-Amz-Signature=d30da758ce027bad503a0e41d027d2628433e6eb175450a9fbfaf395ef29fbcb&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780203165775-27_chapterpdf.pdf%22" target="_blank" rel="noopener noreferrer nofollow">https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780203165775/49e6086f-758b-48cd-a010-b0ab7a15ee54/relatedobjects/chapters/chapter027/9780203165775-27.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAQFVOSJ57XWHVIVN3%2F20260605%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260605T091740Z&amp;X-Amz-Expires=172800&amp;X-Amz-Signature=d30da758ce027bad503a0e41d027d2628433e6eb175450a9fbfaf395ef29fbcb&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780203165775-27_chapterpdf.pdf%22</a>  
+   Link:<a href="https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780203165775/49e6086f-758b-48cd-a010-b0ab7a15ee54/relatedobjects/chapters/chapter027/9780203165775-27.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=REDACTED&amp;X-Amz-Date=20260605T091740Z&amp;X-Amz-Expires=172800&amp;X-Amz-Signature=REDACTED&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780203165775-27_chapterpdf.pdf%22" target="_blank" rel="noopener noreferrer nofollow">https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780203165775/49e6086f-758b-48cd-a010-b0ab7a15ee54/relatedobjects/chapters/chapter027/9780203165775-27.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=REDACTED&amp;X-Amz-Date=20260605T091740Z&amp;X-Amz-Expires=172800&amp;X-Amz-Signature=REDACTED&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780203165775-27_chapterpdf.pdf%22</a>  
 
 30.<a id="endnote-30"></a>
    Source: theguardian.com  

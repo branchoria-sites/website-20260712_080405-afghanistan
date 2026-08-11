@@ -405,7 +405,7 @@ Modern scholarship increasingly favours the view that the Mahdia wreck represent
 <a href="https://www.amazon.com/s?k=Beneath+the+seven+seas+George+Fletcher+Bass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beneath the seven seas">Beneath the seven seas</a>
 </h4>
 <p class="fr-book-author">By George Fletcher Bass, George F. Bass</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Underwater archaeology, Institute of Nautical Archaeology (U.S.), Onderwaterarcheologie, Archéologie sous...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Beneath+the+seven+seas+George+Fletcher+Bass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Modern scholarship increasingly favours the view that the Mahdia wreck represent
 <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
 </h4>
 <p class="fr-book-author">By Richard Miles</p>
-
+        
 <p class="fr-book-desc">First published 2010. Subjects: History, Hannibal, 247 b.c-182 b.c., Carthage (extinct city), Rome, history, Rome, history, republic, 510...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ Modern scholarship increasingly favours the view that the Mahdia wreck represent
 <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
 </h4>
 <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: Historia, History, Rome, history, Histoire, Antike.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ Modern scholarship increasingly favours the view that the Mahdia wreck represent
 <a href="https://www.amazon.com/s?k=The+Sea+Hunters+Clive+Cussler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Hunters">The Sea Hunters</a>
 </h4>
 <p class="fr-book-author">By Clive Cussler, Craig Dirgo</p>
-
+        
 <p class="fr-book-desc">First published 1996. Subjects: Underwater archaeology, Open Library Staff Picks, Personal Beauty, Shipwrecks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sea+Hunters+Clive+Cussler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

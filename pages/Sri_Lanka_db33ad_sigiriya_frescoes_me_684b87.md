@@ -317,7 +317,8 @@ Recent cultural scholarship has likewise examined the Mirror Wall not simply as 
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_sigiriya_frescoes_me_684b87-Illustration-3-dark.svg" | relative_url }}" alt="Sigiriya illustration 3" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_sigiriya_frescoes_me_684b87-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_sigiriya_frescoes_me_684b87-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Sigiriya
+## Why the mystery endures
+
 The enduring puzzle of Sigiriya lies not in hidden chambers or lost treasure but in missing intention. Archaeology can reconstruct Kassapa's ambitious landscape with considerable confidence, yet it cannot recover the explanation that once connected the paintings, architecture and ceremonial route into a single programme.
 
 The surviving evidence supports several conclusions. The frescoes formed part of a much larger visual scheme. The Mirror Wall proves that generations of visitors found the women captivating, but their poems reflect medieval interpretation rather than fifth-century meaning. The architecture was carefully designed to communicate royal authority through spectacle, engineering and movement, yet whether that authority was presented chiefly as political power, sacred kingship or a vision of a mythical mountain remains unresolved.
@@ -330,89 +331,89 @@ That uncertainty explains why Sigiriya continues to fascinate historians. Its my
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Were the Women Painted at Sigiriya?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Were the Women Painted at Sigiriya?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent+J.+C.+Harle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art and architecture of the Indian subcontinent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/160057-M.jpg" alt="Cover for The art and architecture of the Indian subcontinent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent+J.+C.+Harle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art and architecture of the Indian subcontinent">The art and architecture of the Indian subcontinent</a>
-        </h4>
-        <p class="fr-book-author">By J. C. Harle</p>
-
-        <p class="fr-book-desc">Provides artistic context for interpreting the frescoes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent+J.+C.+Harle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent+J.+C.+Harle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art and architecture of the Indian subcontinent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/160057-M.jpg" alt="Cover for The art and architecture of the Indian subcontinent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent+J.+C.+Harle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art and architecture of the Indian subcontinent">The art and architecture of the Indian subcontinent</a>
+</h4>
+<p class="fr-book-author">By J. C. Harle</p>
+        
+<p class="fr-book-desc">Provides artistic context for interpreting the frescoes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent+J.+C.+Harle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sigiriya%3A+City%2C+Palace%2C+and+Royal+Gardens+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sigiriya: City, Palace, and Royal Gardens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4915745-M.jpg" alt="Cover for Sigiriya: City, Palace, and Royal Gardens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sigiriya%3A+City%2C+Palace%2C+and+Royal+Gardens+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sigiriya: City, Palace, and Royal Gardens">Sigiriya: City, Palace, and Royal Gardens</a>
-        </h4>
-        <p class="fr-book-author">By Senake Bandaranayake</p>
-
-        <p class="fr-book-desc">Directly examines the site&#x27;s architecture, frescoes and interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sigiriya%3A+City%2C+Palace%2C+and+Royal+Gardens+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sigiriya%3A+City%2C+Palace%2C+and+Royal+Gardens+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sigiriya: City, Palace, and Royal Gardens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4915745-M.jpg" alt="Cover for Sigiriya: City, Palace, and Royal Gardens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sigiriya%3A+City%2C+Palace%2C+and+Royal+Gardens+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sigiriya: City, Palace, and Royal Gardens">Sigiriya: City, Palace, and Royal Gardens</a>
+</h4>
+<p class="fr-book-author">By Senake Bandaranayake</p>
+        
+<p class="fr-book-desc">Directly examines the site&#x27;s architecture, frescoes and interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sigiriya%3A+City%2C+Palace%2C+and+Royal+Gardens+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Historical Relation of the Island Ceylon in the East Indies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1755588-M.jpg" alt="Cover for An Historical Relation of the Island Ceylon in the East Indies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Historical Relation of the Island Ceylon in the East Indies">An Historical Relation of the Island Ceylon in the East Indies</a>
-        </h4>
-        <p class="fr-book-author">By Robert Knox</p>
-
-        <p class="fr-book-desc">First published 2006.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Historical Relation of the Island Ceylon in the East Indies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1755588-M.jpg" alt="Cover for An Historical Relation of the Island Ceylon in the East Indies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Historical Relation of the Island Ceylon in the East Indies">An Historical Relation of the Island Ceylon in the East Indies</a>
+</h4>
+<p class="fr-book-author">By Robert Knox</p>
+        
+<p class="fr-book-desc">First published 2006.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies+Robert+Knox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sigiriya+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sigiriya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4915745-M.jpg" alt="Cover for Sigiriya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sigiriya+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sigiriya">Sigiriya</a>
-        </h4>
-        <p class="fr-book-author">By Senake Bandaranayake</p>
-
-        <p class="fr-book-desc">First published 1999. Subjects: Description and travel, Excavations (Archaeology), Art, Architecture, Antiquities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sigiriya+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sigiriya+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sigiriya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4915745-M.jpg" alt="Cover for Sigiriya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sigiriya+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sigiriya">Sigiriya</a>
+</h4>
+<p class="fr-book-author">By Senake Bandaranayake</p>
+        
+<p class="fr-book-desc">First published 1999. Subjects: Description and travel, Excavations (Archaeology), Art, Architecture, Antiquities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sigiriya+Senake+Bandaranayake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art and architecture of the Indian subcontinent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sigiriya%3A+City%2C+Palace%2C+and+Royal+Gardens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sigiriya: City, Palace, and Royal Gardens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Historical Relation of the Island Ceylon in the East Indies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+and+architecture+of+the+Indian+subcontinent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art and architecture of the Indian subcontinent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sigiriya%3A+City%2C+Palace%2C+and+Royal+Gardens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sigiriya: City, Palace, and Royal Gardens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Historical+Relation+of+the+Island+Ceylon+in+the+East+Indies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Historical Relation of the Island Ceylon in the East Indies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

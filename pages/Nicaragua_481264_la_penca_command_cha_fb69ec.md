@@ -304,7 +304,8 @@ Finally, no definitive documentary archive has surfaced. Researchers have uncove
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zRPZEH--BMs" title="Sobrevivió a La Penca: la historia del periodista costarricense Nelson Murillo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zRPZEH--BMs" target="_blank" rel="noopener noreferrer">Sobrevivió a La Penca: la historia del periodista costarricense Nelson Murillo</a></p><p class="youtube-embed-meta">Channel: Realidades</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zRPZEH--BMs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zRPZEH--BMs">Open on YouTube</a></p></div></div></div>
 
-## La Penca in the wider historical record
+## Why the Mystery Still Matters
+
 The La Penca bombing remains historically important because it illustrates how intelligence operations can leave behind sharply different levels of certainty. The operational level is comparatively well understood: a false photographer almost certainly carried the bomb into the press conference under an assumed identity. The strategic level is not. Historians still debate whether the operation ultimately served Sandinista intelligence, rogue elements within broader revolutionary networks, or a more complex multinational covert structure.
 
 Most modern assessments therefore distinguish between two separate questions. The first—who physically carried out the attack—has a stronger evidential answer centred on Vital Roberto Gaguine. The second—who authorised the assassination attempt—remains unresolved because no investigation has produced a complete, verifiable chain of command linking the bomber to an undisputed political decision-maker. That gap keeps La Penca among Nicaragua's most significant unresolved historical mysteries, not because the explosion itself is unexplained, but because the authority behind it has never been conclusively proven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/La_Penca_bombing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">La Penca bombing</span><span class="citation-popover-snippet">La Penca bombing</span></span></span>
@@ -315,89 +316,89 @@ Most modern assessments therefore distinguish between two separate questions. Th
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Ordered the La Penca Press Conference Bombing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Ordered the La Penca Press Conference Bombing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legacy of Ashes: The History of the CIA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=obptf9pGlbUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Legacy of Ashes: The History of the CIA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes: The History of the CIA">Legacy of Ashes: The History of the CIA</a>
-        </h4>
-        <p class="fr-book-author">By Tim Weiner</p>
-
-        <p class="fr-book-desc">Explains the culture and history of covert operations that form the wider intelligence backdrop to competing claims about La Penca.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legacy of Ashes: The History of the CIA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=obptf9pGlbUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Legacy of Ashes: The History of the CIA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes: The History of the CIA">Legacy of Ashes: The History of the CIA</a>
+</h4>
+<p class="fr-book-author">By Tim Weiner</p>
+        
+<p class="fr-book-desc">Explains the culture and history of covert operations that form the wider intelligence backdrop to competing claims about La Penca.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jaguar Smile: A Nicaraguan Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8304189-M.jpg" alt="Cover for The Jaguar Smile: A Nicaraguan Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jaguar Smile: A Nicaraguan Journey">The Jaguar Smile: A Nicaraguan Journey</a>
-        </h4>
-        <p class="fr-book-author">By Salman Rushdie</p>
-
-        <p class="fr-book-desc">Provides political and social context for Sandinista Nicaragua during the same turbulent decade as the La Penca bombing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jaguar Smile: A Nicaraguan Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8304189-M.jpg" alt="Cover for The Jaguar Smile: A Nicaraguan Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jaguar Smile: A Nicaraguan Journey">The Jaguar Smile: A Nicaraguan Journey</a>
+</h4>
+<p class="fr-book-author">By Salman Rushdie</p>
+        
+<p class="fr-book-desc">Provides political and social context for Sandinista Nicaragua during the same turbulent decade as the La Penca bombing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey+Salman+Rushdie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Killing Hope: U.S. Military and CIA Interventions Since World War II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3050368-M.jpg" alt="Cover for Killing Hope: U.S. Military and CIA Interventions Since World War II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Killing Hope: U.S. Military and CIA Interventions Since World War II">Killing Hope: U.S. Military and CIA Interventions Since World...</a>
-        </h4>
-        <p class="fr-book-author">By William Blum</p>
-
-        <p class="fr-book-desc">Includes Nicaragua within a broader account of United States covert operations and disputed intervention abroad.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Killing Hope: U.S. Military and CIA Interventions Since World War II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3050368-M.jpg" alt="Cover for Killing Hope: U.S. Military and CIA Interventions Since World War II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Killing Hope: U.S. Military and CIA Interventions Since World War II">Killing Hope: U.S. Military and CIA Interventions Since World...</a>
+</h4>
+<p class="fr-book-author">By William Blum</p>
+        
+<p class="fr-book-desc">Includes Nicaragua within a broader account of United States covert operations and disputed intervention abroad.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II+William+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581579-M.jpg" alt="Cover for Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq">Overthrow: America&#x27;s Century of Regime Change from Hawaii to...</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Kinzer, Stephen Kinzer et al.</p>
-
-        <p class="fr-book-desc">Places Nicaragua within the longer history of United States-backed political and military intervention in other countries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581579-M.jpg" alt="Cover for Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq">Overthrow: America&#x27;s Century of Regime Change from Hawaii to...</a>
+</h4>
+<p class="fr-book-author">By Stephen Kinzer, Stephen Kinzer et al.</p>
+        
+<p class="fr-book-desc">Places Nicaragua within the longer history of United States-backed political and military intervention in other countries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legacy of Ashes: The History of the CIA</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jaguar Smile: A Nicaraguan Journey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Killing Hope: U.S. Military and CIA Interventions Since World War II</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Legacy+of+Ashes%3A+The+History+of+the+CIA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legacy of Ashes: The History of the CIA</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jaguar+Smile%3A+A+Nicaraguan+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jaguar Smile: A Nicaraguan Journey</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Killing+Hope%3A+U.S.+Military+and+CIA+Interventions+Since+World+War+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Killing Hope: U.S. Military and CIA Interventions Since World War II</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

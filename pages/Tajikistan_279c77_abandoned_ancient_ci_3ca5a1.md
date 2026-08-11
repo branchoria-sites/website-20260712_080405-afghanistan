@@ -305,7 +305,8 @@ Modern archaeological methods also help refine older theories. Radiocarbon datin
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t-lQ9pyhPbY" title="Sarazm - World Heritage Site of Tajikistan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t-lQ9pyhPbY" target="_blank" rel="noopener noreferrer">Sarazm - World Heritage Site of Tajikistan</a></p><p class="youtube-embed-meta">Channel: HoonArts Fair Trade</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t-lQ9pyhPbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t-lQ9pyhPbY">Open on YouTube</a></p></div></div></div>
 
-## The historical picture around Lost Cities
+## Why the mystery still matters
+
 Sarazm and ancient Panjikent are often grouped together as Tajikistan's "lost cities", yet their histories illustrate two very different pathways to abandonment. Sarazm demonstrates how a prosperous settlement can slowly lose its regional importance over centuries as trade, resources and settlement patterns evolve. Panjikent shows how military conquest and political change can rapidly end an urban centre while leaving much of its physical fabric intact.
 
 The enduring mystery is therefore not simply why these cities were abandoned, but how different combinations of environmental conditions, commerce, politics and migration reshaped Central Asia across widely separated periods. Ongoing excavations continue to refine that picture, replacing simple stories of mysterious disappearance with a richer understanding of how ancient societies adapted—or failed to adapt—to changing worlds.
@@ -316,89 +317,89 @@ The enduring mystery is therefore not simply why these cities were abandoned, bu
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Were Tajikistan&#x27;s Ancient Cities Abandoned?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Were Tajikistan&#x27;s Ancient Cities Abandoned?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
-        </h4>
-        <p class="fr-book-author">By Peter Frankopan</p>
-
-        <p class="fr-book-desc">Trade networks are central to understanding urban decline.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+</h4>
+<p class="fr-book-author">By Peter Frankopan</p>
+        
+<p class="fr-book-desc">Trade networks are central to understanding urban decline.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of the Silk Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8644472-M.jpg" alt="Cover for Empires of the Silk Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Silk Road">Empires of the Silk Road</a>
-        </h4>
-        <p class="fr-book-author">By Christopher I. Beckwith</p>
-
-        <p class="fr-book-desc">Explains long-term political and economic changes affecting settlements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of the Silk Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8644472-M.jpg" alt="Cover for Empires of the Silk Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Silk Road">Empires of the Silk Road</a>
+</h4>
+<p class="fr-book-author">By Christopher I. Beckwith</p>
+        
+<p class="fr-book-desc">Explains long-term political and economic changes affecting settlements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Golden+Road+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Golden Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14817293-M.jpg" alt="Cover for Golden Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Golden+Road+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Golden Road">Golden Road</a>
-        </h4>
-        <p class="fr-book-author">By William Dalrymple</p>
-
-        <p class="fr-book-desc">Explores cultural and commercial connections across Asia.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Golden+Road+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Golden+Road+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Golden Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14817293-M.jpg" alt="Cover for Golden Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Golden+Road+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Golden Road">Golden Road</a>
+</h4>
+<p class="fr-book-author">By William Dalrymple</p>
+        
+<p class="fr-book-desc">Explores cultural and commercial connections across Asia.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Golden+Road+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7633414-M.jpg" alt="Cover for Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane">Lost Enlightenment Central Asias Golden Age From The Arab Con...</a>
-        </h4>
-        <p class="fr-book-author">By S. Frederick Starr</p>
-
-        <p class="fr-book-desc">First published 2013. Subjects: History, Civilization, Asia, central, history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7633414-M.jpg" alt="Cover for Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane">Lost Enlightenment Central Asias Golden Age From The Arab Con...</a>
+</h4>
+<p class="fr-book-author">By S. Frederick Starr</p>
+        
+<p class="fr-book-desc">First published 2013. Subjects: History, Civilization, Asia, central, history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of the Silk Road</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Golden+Road&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Golden Road</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of the Silk Road</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Golden+Road&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Golden Road</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

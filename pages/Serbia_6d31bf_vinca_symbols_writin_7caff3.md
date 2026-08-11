@@ -385,89 +385,89 @@ That uncertainty is precisely what makes the Vinča symbols one of Serbia's most
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Vinča Symbols Europe&#x27;s First Writing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Vinča Symbols Europe&#x27;s First Writing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of writing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315650-M.jpg" alt="Cover for The story of writing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of writing">The story of writing</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Robinson</p>
-
-        <p class="fr-book-desc">Directly addresses how writing systems originated and are identified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The story of writing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315650-M.jpg" alt="Cover for The story of writing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The story of writing">The story of writing</a>
+</h4>
+<p class="fr-book-author">By Andrew Robinson</p>
+        
+<p class="fr-book-desc">Directly addresses how writing systems originated and are identified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+story+of+writing+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Horse, the Wheel, and Language on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2549072-M.jpg" alt="Cover for The Horse, the Wheel, and Language" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horse, the Wheel, and Language">The Horse, the Wheel, and Language</a>
-        </h4>
-        <p class="fr-book-author">By David W. Anthony</p>
-
-        <p class="fr-book-desc">Provides authoritative background on prehistoric Europe and archaeological interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Horse, the Wheel, and Language on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2549072-M.jpg" alt="Cover for The Horse, the Wheel, and Language" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horse, the Wheel, and Language">The Horse, the Wheel, and Language</a>
+</h4>
+<p class="fr-book-author">By David W. Anthony</p>
+        
+<p class="fr-book-desc">Provides authoritative background on prehistoric Europe and archaeological interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
-        </h4>
-        <p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
-
-        <p class="fr-book-desc">Introduces archaeological reasoning and evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C.">1177 B.C.</a>
+</h4>
+<p class="fr-book-author">By Eric H. Cline, Eric H. Cline et al.</p>
+        
+<p class="fr-book-desc">Introduces archaeological reasoning and evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1177+B.C.+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts">Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Robinson</p>
-
-        <p class="fr-book-desc">Examines undeciphered symbols and the standards for recognizing true writing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts">Lost Languages: The Enigma of the World&#x27;s Undeciphered Scripts</a>
+</h4>
+<p class="fr-book-author">By Andrew Robinson</p>
+        
+<p class="fr-book-desc">Examines undeciphered symbols and the standards for recognizing true writing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lost+Languages%3A+The+Enigma+of+the+World%27s+Undeciphered+Scripts+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+writing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of writing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Horse, the Wheel, and Language</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C.</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+story+of+writing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The story of writing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Horse, the Wheel, and Language</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C.</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
@@ -563,4 +563,6 @@ That uncertainty is precisely what makes the Vinča symbols one of Serbia's most
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery AN INVESTIGATION INTO THE ORIGINS OF WRITING  
    Link:<a href="https://discovery.ucl.ac.uk/id/eprint/10082208/3/Josiffe_10082208_thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10082208/3/Josiffe_10082208_thesis.pdf</a>
+
+
 

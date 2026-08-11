@@ -322,7 +322,8 @@ Finally, the political consequences of the crisis were so enormous that later pa
 
 <img src="{{ "/assets/images/Indonesia_35536a_indonesia_1965_crisi_c02bd3-Illustration-3-dark.svg" | relative_url }}" alt="1965 Crisis illustration 3" data-theme-src-dark="{{ "/assets/images/Indonesia_35536a_indonesia_1965_crisi_c02bd3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indonesia_35536a_indonesia_1965_crisi_c02bd3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around 1965 Crisis
+## Why the mystery still matters
+
 The unresolved questions surrounding the 1965 crisis are inseparable from Indonesia's modern political history. The official explanation of the 30 September Movement became the ideological foundation of Suharto's New Order, justifying the destruction of the PKI, widespread imprisonment without trial and mass killings during 1965–66 that claimed hundreds of thousands of lives according to most scholarly estimates. Because the legitimacy of the new regime rested heavily on its interpretation of the crisis, disagreement over who organised the movement remains more than an academic debate.
 
 Since Suharto's fall in 1998, historians have gained greater freedom to examine previously neglected evidence and challenge official narratives. Even so, the central mystery has not [disappeared]({{ 'disappeared/' | relative_url }}). The surviving evidence supports neither a simple Communist coup nor a proven conspiracy orchestrated by Suharto. Instead, the most persuasive modern interpretations describe a confused operation involving a limited circle of military officers and civilian allies that quickly spiralled beyond their control, creating the opportunity for Suharto to reshape Indonesia's political future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ecommons.cornell.edu/bitstreams/0185ffd8-047a-4e2f-aee2-a865730b12d6/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecommons.cornell.edu">[cornell.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecommons.cornell.edu</span><span class="citation-popover-snippet">Cornell eCommonsJohn Roosa. Pretext for Mass Murder: The September 30th Movement andFebruary 11, 2026...</span><span class="citation-popover-meta">Published: February 11, 2026</span></span></span>
@@ -333,89 +334,89 @@ Since Suharto's fall in 1998, historians have gained greater freedom to examine 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Really Controlled Indonesia&#x27;s 1965 Crisis?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Really Controlled Indonesia&#x27;s 1965 Crisis?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jakarta Method on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13158267-M.jpg" alt="Cover for The Jakarta Method" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
-        </h4>
-        <p class="fr-book-author">By Vincent Bevins</p>
-
-        <p class="fr-book-desc">Examines the 1965 crisis and its international consequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jakarta Method on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13158267-M.jpg" alt="Cover for The Jakarta Method" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
+</h4>
+<p class="fr-book-author">By Vincent Bevins</p>
+        
+<p class="fr-book-desc">Examines the 1965 crisis and its international consequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder+John+Roosa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pretext for Mass Murder on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5371275-M.jpg" alt="Cover for Pretext for Mass Murder" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder+John+Roosa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pretext for Mass Murder">Pretext for Mass Murder</a>
-        </h4>
-        <p class="fr-book-author">By John Roosa</p>
-
-        <p class="fr-book-desc">Focuses directly on competing explanations for the crisis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder+John+Roosa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder+John+Roosa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pretext for Mass Murder on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5371275-M.jpg" alt="Cover for Pretext for Mass Murder" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder+John+Roosa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pretext for Mass Murder">Pretext for Mass Murder</a>
+</h4>
+<p class="fr-book-author">By John Roosa</p>
+        
+<p class="fr-book-desc">Focuses directly on competing explanations for the crisis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder+John+Roosa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Indonesia since c. 1200 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/577988-M.jpg" alt="Cover for A history of modern Indonesia since c. 1200" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Indonesia since c. 1200">A history of modern Indonesia since c. 1200</a>
-        </h4>
-        <p class="fr-book-author">By M. C. Ricklefs</p>
-
-        <p class="fr-book-desc">Places the crisis within Indonesia&#x27;s longer political history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Indonesia since c. 1200 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/577988-M.jpg" alt="Cover for A history of modern Indonesia since c. 1200" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Indonesia since c. 1200">A history of modern Indonesia since c. 1200</a>
+</h4>
+<p class="fr-book-author">By M. C. Ricklefs</p>
+        
+<p class="fr-book-desc">Places the crisis within Indonesia&#x27;s longer political history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+army+and+politics+in+Indonesia+Harold+A.+Crouch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The army and politics in Indonesia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8228010-M.jpg" alt="Cover for The army and politics in Indonesia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+army+and+politics+in+Indonesia+Harold+A.+Crouch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The army and politics in Indonesia">The army and politics in Indonesia</a>
-        </h4>
-        <p class="fr-book-author">By Harold A. Crouch</p>
-
-        <p class="fr-book-desc">Explains the Indonesian military&#x27;s political role before and after 1965.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+army+and+politics+in+Indonesia+Harold+A.+Crouch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+army+and+politics+in+Indonesia+Harold+A.+Crouch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The army and politics in Indonesia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8228010-M.jpg" alt="Cover for The army and politics in Indonesia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+army+and+politics+in+Indonesia+Harold+A.+Crouch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The army and politics in Indonesia">The army and politics in Indonesia</a>
+</h4>
+<p class="fr-book-author">By Harold A. Crouch</p>
+        
+<p class="fr-book-desc">Explains the Indonesian military&#x27;s political role before and after 1965.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+army+and+politics+in+Indonesia+Harold+A.+Crouch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jakarta+Method&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jakarta Method</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pretext for Mass Murder</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Indonesia since c. 1200</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jakarta+Method&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jakarta Method</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pretext+for+Mass+Murder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pretext for Mass Murder</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Indonesia since c. 1200</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

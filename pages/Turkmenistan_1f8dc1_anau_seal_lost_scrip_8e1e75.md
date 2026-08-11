@@ -317,7 +317,8 @@ Finally, the discovery challenges older assumptions that Bronze Age Central Asia
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1_anau_seal_lost_scrip_8e1e75-Illustration-3-dark.svg" | relative_url }}" alt="Anau Seal illustration 3" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1_anau_seal_lost_scrip_8e1e75-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1_anau_seal_lost_scrip_8e1e75-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Anau Seal
+## Why the mystery endures
+
 More than two decades after its discovery, the Anau Seal remains undeciphered because the fundamental problem has not changed: there is still only one known inscription of its kind.
 
 Future excavations at Anau or nearby Bronze Age settlements could transform the picture. Additional seals carrying the same signs, longer inscriptions or clay impressions made from the seal would allow researchers to test whether the symbols follow consistent patterns. Even a handful of related examples could reveal whether the marks functioned as writing, ownership symbols or ritual iconography.
@@ -330,89 +331,89 @@ Until such discoveries are made, the Anau Seal occupies a distinctive place amon
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does the Anau Seal Preserve a Lost Script?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does the Anau Seal Preserve a Lost Script?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
-        </h4>
-        <p class="fr-book-author">By Peter Frankopan</p>
-
-        <p class="fr-book-desc">Offers wider regional historical background.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+</h4>
+<p class="fr-book-author">By Peter Frankopan</p>
+        
+<p class="fr-book-desc">Offers wider regional historical background.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Horse, the Wheel, and Language on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2549072-M.jpg" alt="Cover for The Horse, the Wheel, and Language" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horse, the Wheel, and Language">The Horse, the Wheel, and Language</a>
-        </h4>
-        <p class="fr-book-author">By David W. Anthony</p>
-
-        <p class="fr-book-desc">Provides broader Bronze Age context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Horse, the Wheel, and Language on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2549072-M.jpg" alt="Cover for The Horse, the Wheel, and Language" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horse, the Wheel, and Language">The Horse, the Wheel, and Language</a>
+</h4>
+<p class="fr-book-author">By David W. Anthony</p>
+        
+<p class="fr-book-desc">Provides broader Bronze Age context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language+David+W.+Anthony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of the Silk Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8644472-M.jpg" alt="Cover for Empires of the Silk Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Silk Road">Empires of the Silk Road</a>
-        </h4>
-        <p class="fr-book-author">By Christopher I. Beckwith</p>
-
-        <p class="fr-book-desc">Introduces the wider Central Asian setting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of the Silk Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8644472-M.jpg" alt="Cover for Empires of the Silk Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Silk Road">Empires of the Silk Road</a>
+</h4>
+<p class="fr-book-author">By Christopher I. Beckwith</p>
+        
+<p class="fr-book-desc">Introduces the wider Central Asian setting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road+Christopher+I.+Beckwith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+First+Writing+Stephen+D.+Houston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The First Writing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/358698-M.jpg" alt="Cover for The First Writing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+First+Writing+Stephen+D.+Houston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The First Writing">The First Writing</a>
-        </h4>
-        <p class="fr-book-author">By Stephen D. Houston</p>
-
-        <p class="fr-book-desc">Explains how scholars evaluate possible early scripts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+First+Writing+Stephen+D.+Houston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+First+Writing+Stephen+D.+Houston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The First Writing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/358698-M.jpg" alt="Cover for The First Writing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+First+Writing+Stephen+D.+Houston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The First Writing">The First Writing</a>
+</h4>
+<p class="fr-book-author">By Stephen D. Houston</p>
+        
+<p class="fr-book-desc">Explains how scholars evaluate possible early scripts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+First+Writing+Stephen+D.+Houston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Horse, the Wheel, and Language</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of the Silk Road</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Horse%2C+the+Wheel%2C+and+Language&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Horse, the Wheel, and Language</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+the+Silk+Road&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of the Silk Road</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

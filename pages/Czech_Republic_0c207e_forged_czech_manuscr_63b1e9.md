@@ -321,7 +321,8 @@ The controversy also reshaped Czech intellectual life. It demonstrated that patr
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHRfh7pQEb8" title="Dvořák / Songs from the Dvůr Králové Manuscript: Žežhulice (The Cuckoo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHRfh7pQEb8" target="_blank" rel="noopener noreferrer">Dvořák / Songs from the Dvůr Králové Manuscript: Žežhulice (The Cuckoo)</a></p><p class="youtube-embed-meta">Channel: scrymgeour34</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHRfh7pQEb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHRfh7pQEb8">Open on YouTube</a></p></div></div></div>
 
-## The historical picture around Forged Epics
+## Why the mystery still matters
+
 The real mystery today is no longer whether the manuscripts are authentic. Most specialists consider that question effectively settled. Instead, the enduring puzzle is how forged texts acquired such extraordinary authority and why they continued to inspire generations even after their exposure.
 
 Several lessons explain their lasting significance.
@@ -338,89 +339,89 @@ Finally, the affair illustrates the self-correcting nature of scholarship. Decad
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Forged Epics Rewrote Czech History. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Forged Epics Rewrote Czech History. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Forger%27s+Spell+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Forger&#x27;s Spell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6420799-M.jpg" alt="Cover for The Forger&#x27;s Spell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Forger%27s+Spell+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Forger&#x27;s Spell">The Forger&#x27;s Spell</a>
-        </h4>
-        <p class="fr-book-author">By Edward Dolnick</p>
-
-        <p class="fr-book-desc">Provides accessible context for famous historical deceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Forger%27s+Spell+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Forger%27s+Spell+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Forger&#x27;s Spell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6420799-M.jpg" alt="Cover for The Forger&#x27;s Spell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Forger%27s+Spell+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Forger&#x27;s Spell">The Forger&#x27;s Spell</a>
+</h4>
+<p class="fr-book-author">By Edward Dolnick</p>
+        
+<p class="fr-book-desc">Provides accessible context for famous historical deceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Forger%27s+Spell+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret history of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2950446-M.jpg" alt="Cover for The secret history of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret history of the world">The secret history of the world</a>
-        </h4>
-        <p class="fr-book-author">By Mark Booth</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in famous historical mysteries and myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret history of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2950446-M.jpg" alt="Cover for The secret history of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret history of the world">The secret history of the world</a>
+</h4>
+<p class="fr-book-author">By Mark Booth</p>
+        
+<p class="fr-book-desc">Appeals to readers interested in famous historical mysteries and myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Maze: A Biography of Prague on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10873155-M.jpg" alt="Cover for The Golden Maze: A Biography of Prague" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Maze: A Biography of Prague">The Golden Maze: A Biography of Prague</a>
-        </h4>
-        <p class="fr-book-author">By Richard Fidler</p>
-
-        <p class="fr-book-desc">Gives wider historical context for Czech cultural identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Maze: A Biography of Prague on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10873155-M.jpg" alt="Cover for The Golden Maze: A Biography of Prague" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Maze: A Biography of Prague">The Golden Maze: A Biography of Prague</a>
+</h4>
+<p class="fr-book-author">By Richard Fidler</p>
+        
+<p class="fr-book-desc">Gives wider historical context for Czech cultural identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prague: A Cultural and Literary History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/807169-M.jpg" alt="Cover for Prague: A Cultural and Literary History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague: A Cultural and Literary History">Prague: A Cultural and Literary History</a>
-        </h4>
-        <p class="fr-book-author">By Richard D. E. Burton</p>
-
-        <p class="fr-book-desc">Explains the cultural environment behind Czech literary nationalism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prague: A Cultural and Literary History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/807169-M.jpg" alt="Cover for Prague: A Cultural and Literary History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague: A Cultural and Literary History">Prague: A Cultural and Literary History</a>
+</h4>
+<p class="fr-book-author">By Richard D. E. Burton</p>
+        
+<p class="fr-book-desc">Explains the cultural environment behind Czech literary nationalism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Forger%27s+Spell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Forger&#x27;s Spell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+history+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret history of the world</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forged+Epics+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forged Epics biography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Forger%27s+Spell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Forger&#x27;s Spell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+history+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret history of the world</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forged+Epics+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forged Epics biography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -209,13 +209,13 @@ description: 'Saint Kitts and Nevis has one outstanding historical mystery: what
 hero_summary: 'Saint Kitts and Nevis has one outstanding historical mystery: what really happened to Jamestown, the supposedly sunken capital of Nevis.'
 layout: default
 permalink: /saint-kitts-and-nevis/
-nav_short_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
-title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
-title_full: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
-display_title_short: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
-display_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
-heading_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
-page_heading_title: "Saint Kitts and Nevis' Unresolved Past: Evidence and Open Questions"
+nav_short_title: What Really Happened in Saint Kitts and Nevis?
+title: What Really Happened in Saint Kitts and Nevis?
+title_full: What Really Happened in Saint Kitts and Nevis?
+display_title_short: What Really Happened in Saint Kitts and Nevis?
+display_title: What Really Happened in Saint Kitts and Nevis?
+heading_title: What Really Happened in Saint Kitts and Nevis?
+page_heading_title: What Really Happened in Saint Kitts and Nevis?
 source_count: 85
 infographic_count: 3
 page_website_name: Saint Kitts and Nevis Mysteries
@@ -1312,89 +1312,89 @@ The enduring mystery is therefore not simply whether a city sank, a conspiracy e
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Saint Kitts and Nevis?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Saint Kitts and Nevis?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10165246-M.jpg" alt="Cover for A Brief History of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
-        </h4>
-        <p class="fr-book-author">By Jan Rogozinski</p>
-
-        <p class="fr-book-desc">Provides essential context for the island&#x27;s colonial history and historical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10165246-M.jpg" alt="Cover for A Brief History of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
+</h4>
+<p class="fr-book-author">By Jan Rogozinski</p>
+        
+<p class="fr-book-desc">Provides essential context for the island&#x27;s colonial history and historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II+P.+J.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford History of the British Empire: Volume II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/132999-M.jpg" alt="Cover for The Oxford History of the British Empire: Volume II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II+P.+J.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford History of the British Empire: Volume II">The Oxford History of the British Empire: Volume II</a>
-        </h4>
-        <p class="fr-book-author">By P. J. Marshall</p>
-
-        <p class="fr-book-desc">Places the islands within British imperial development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II+P.+J.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II+P.+J.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford History of the British Empire: Volume II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/132999-M.jpg" alt="Cover for The Oxford History of the British Empire: Volume II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II+P.+J.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford History of the British Empire: Volume II">The Oxford History of the British Empire: Volume II</a>
+</h4>
+<p class="fr-book-author">By P. J. Marshall</p>
+        
+<p class="fr-book-desc">Places the islands within British imperial development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II+P.+J.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Empire%2C+colony%2C+genocide+A.+Dirk+Moses&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empire, colony, genocide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6256693-M.jpg" alt="Cover for Empire, colony, genocide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Empire%2C+colony%2C+genocide+A.+Dirk+Moses&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire, colony, genocide">Empire, colony, genocide</a>
-        </h4>
-        <p class="fr-book-author">By A. Dirk Moses</p>
-
-        <p class="fr-book-desc">Helps interpret colonial violence and contested historical narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Empire%2C+colony%2C+genocide+A.+Dirk+Moses&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Empire%2C+colony%2C+genocide+A.+Dirk+Moses&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empire, colony, genocide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6256693-M.jpg" alt="Cover for Empire, colony, genocide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Empire%2C+colony%2C+genocide+A.+Dirk+Moses&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire, colony, genocide">Empire, colony, genocide</a>
+</h4>
+<p class="fr-book-author">By A. Dirk Moses</p>
+        
+<p class="fr-book-desc">Helps interpret colonial violence and contested historical narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Empire%2C+colony%2C+genocide+A.+Dirk+Moses&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pirates of the Americas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pirates of the Americas">Pirates of the Americas</a>
-        </h4>
-        <p class="fr-book-author">By Padraic Carlin, David F. Marley</p>
-
-        <p class="fr-book-desc">Useful background for local pirate legends and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pirates of the Americas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pirates of the Americas">Pirates of the Americas</a>
+</h4>
+<p class="fr-book-author">By Padraic Carlin, David F. Marley</p>
+        
+<p class="fr-book-desc">Useful background for local pirate legends and folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pirates+of+the+Americas+Padraic+Carlin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of the Caribbean</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford History of the British Empire: Volume II</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Empire%2C+colony%2C+genocide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empire, colony, genocide</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of the Caribbean</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+History+of+the+British+Empire%3A+Volume+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford History of the British Empire: Volume II</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Empire%2C+colony%2C+genocide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empire, colony, genocide</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

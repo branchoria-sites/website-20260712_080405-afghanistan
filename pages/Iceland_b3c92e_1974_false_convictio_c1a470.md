@@ -329,7 +329,8 @@ An equally important unanswered question is whether the two disappearances were 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GaLdHd2J-xM" title="The Suspicious Case of the Reykjavik Confessions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GaLdHd2J-xM" target="_blank" rel="noopener noreferrer">The Suspicious Case of the Reykjavik Confessions</a></p><p class="youtube-embed-meta">Channel: BuzzFeed Unsolved Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GaLdHd2J-xM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GaLdHd2J-xM">Open on YouTube</a></p></div></div></div>
 
-## The historical picture around 1974 Cases
+## Why the Case Still Matters
+
 The 1974 disappearances occupy a unique place in Icelandic history because they combine two enduring mysteries in one story.
 
 The first mystery concerns the missing men themselves. Nearly half a century later, neither Guðmundur nor Geirfinnur has been found, and no definitive account of their fate has emerged.
@@ -339,89 +340,89 @@ The second concerns the justice system. The investigation has become an internat
 For Iceland, the case therefore remains significant not because it has been solved, but because it demonstrates that correcting a wrongful conviction does not necessarily resolve the original historical mystery. The disappearances of Guðmundur Einarsson and Geirfinnur Einarsson remain unexplained, leaving one of the country's most famous unanswered questions exactly where it began: two men vanished, and nobody yet knows why.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/332415031_Out_of_the_Icelandic_cold_murder_they_wrote_The_Gudmundur_and_Geirfinnur_criminal_case_of_1974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Out of the Icelandic cold murder they wrote: The Guðmundur and Geirfinnur criminal case of 1974...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Were People Convicted Without Bodies or Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Were People Convicted Without Bodies or Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Picking+Cotton+Jennifer+Thompson-Cannino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Picking Cotton on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2Bp3JMdp_MgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Picking Cotton" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Picking+Cotton+Jennifer+Thompson-Cannino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Picking Cotton">Picking Cotton</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Thompson-Cannino, Ronald Cotton et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Illustrates how miscarriages of justice can occur and later be corrected.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Picking+Cotton+Jennifer+Thompson-Cannino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Picking+Cotton+Jennifer+Thompson-Cannino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Picking Cotton on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2Bp3JMdp_MgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Picking Cotton" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Picking+Cotton+Jennifer+Thompson-Cannino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Picking Cotton">Picking Cotton</a>
+</h4>
+<p class="fr-book-author">By Jennifer Thompson-Cannino, Ronald Cotton et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Illustrates how miscarriages of justice can occur and later be corrected.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Picking+Cotton+Jennifer+Thompson-Cannino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Convicting the Innocent: Where Criminal Prosecutions Go Wrong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6990358-M.jpg" alt="Cover for Convicting the Innocent: Where Criminal Prosecutions Go Wrong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Convicting the Innocent: Where Criminal Prosecutions Go Wrong">Convicting the Innocent: Where Criminal Prosecutions Go Wrong</a>
-        </h4>
-        <p class="fr-book-author">By Brandon L. Garrett</p>
-
-        <p class="fr-book-desc">Directly examines how innocent people can be convicted despite weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Convicting the Innocent: Where Criminal Prosecutions Go Wrong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6990358-M.jpg" alt="Cover for Convicting the Innocent: Where Criminal Prosecutions Go Wrong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Convicting the Innocent: Where Criminal Prosecutions Go Wrong">Convicting the Innocent: Where Criminal Prosecutions Go Wrong</a>
+</h4>
+<p class="fr-book-author">By Brandon L. Garrett</p>
+        
+<p class="fr-book-desc">Directly examines how innocent people can be convicted despite weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong+Brandon+L.+Garrett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Iceland Changed the World: The Big History of a Small Island on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11069472-M.jpg" alt="Cover for How Iceland Changed the World: The Big History of a Small Island" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Iceland Changed the World: The Big History of a Small Island">How Iceland Changed the World: The Big History of a Small Island</a>
-        </h4>
-        <p class="fr-book-author">By Egill Bjarnason</p>
-
-        <p class="fr-book-desc">Provides historical and cultural background for understanding Iceland&#x27;s most famous criminal case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Iceland Changed the World: The Big History of a Small Island on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11069472-M.jpg" alt="Cover for How Iceland Changed the World: The Big History of a Small Island" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Iceland Changed the World: The Big History of a Small Island">How Iceland Changed the World: The Big History of a Small Island</a>
+</h4>
+<p class="fr-book-author">By Egill Bjarnason</p>
+        
+<p class="fr-book-desc">Provides historical and cultural background for understanding Iceland&#x27;s most famous criminal case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Duped%3A+Why+Innocent+People+Confess%E2%80%94and+Why+We+Believe+Their+Confessions+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Duped: Why Innocent People Confess—and Why We Believe Their Confessions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Duped%3A+Why+Innocent+People+Confess%E2%80%94and+Why+We+Believe+Their+Confessions+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Duped: Why Innocent People Confess—and Why We Believe Their Confessions">Duped: Why Innocent People Confess—and Why We Believe Their C...</a>
-        </h4>
-        <p class="fr-book-author">By Saul Kassin</p>
-
-        <p class="fr-book-desc">Explains the psychology behind false confessions central to the Iceland case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Duped%3A+Why+Innocent+People+Confess%E2%80%94and+Why+We+Believe+Their+Confessions+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Duped%3A+Why+Innocent+People+Confess%E2%80%94and+Why+We+Believe+Their+Confessions+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Duped: Why Innocent People Confess—and Why We Believe Their Confessions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Duped%3A+Why+Innocent+People+Confess%E2%80%94and+Why+We+Believe+Their+Confessions+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Duped: Why Innocent People Confess—and Why We Believe Their Confessions">Duped: Why Innocent People Confess—and Why We Believe Their C...</a>
+</h4>
+<p class="fr-book-author">By Saul Kassin</p>
+        
+<p class="fr-book-desc">Explains the psychology behind false confessions central to the Iceland case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Duped%3A+Why+Innocent+People+Confess%E2%80%94and+Why+We+Believe+Their+Confessions+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Picking+Cotton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Picking Cotton</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Convicting the Innocent: Where Criminal Prosecutions Go Wrong</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Iceland Changed the World: The Big History of a Small Island</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Picking+Cotton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Picking Cotton</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Convicting+the+Innocent%3A+Where+Criminal+Prosecutions+Go+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Convicting the Innocent: Where Criminal Prosecutions Go Wrong</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World%3A+The+Big+History+of+a+Small+Island&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Iceland Changed the World: The Big History of a Small Island</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -325,7 +325,8 @@ The case therefore demonstrates the practical limits of forensic science. Modern
 
 <img src="{{ "/assets/images/Norway_988455_isdal_woman_identity_85d53f-Illustration-3-dark.svg" | relative_url }}" alt="Isdal Woman illustration 3" data-theme-src-dark="{{ "/assets/images/Norway_988455_isdal_woman_identity_85d53f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_isdal_woman_identity_85d53f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Isdal Woman
+## Why the case still matters
+
 The enduring importance of the Isdal Woman lies less in spectacular theories than in the challenge it poses to assumptions about identity. Most unidentified-person investigations begin with very little information. This one begins with an abundance of evidence that seems designed to point everywhere except towards a real name.
 
 That paradox has helped keep the case alive in public memory. Renewed investigations by Norwegian journalists, forensic specialists and international collaborators have demonstrated that scientific advances can refine the picture of her life even without solving the mystery outright. Each new finding has reduced uncertainty about where she came from while leaving unanswered the simplest question of all: who she actually was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.norwegianamerican.com/bergens-cold-case-isdal-woman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norwegianamerican.com">[Norwegian American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norwegianamerican.com</span><span class="citation-popover-title">Norwegian American Bergen’s cold case heats up</span><span class="citation-popover-snippet">Norwegian AmericanBergen’s cold case heats up - The Norwegian American...</span></span></span>
@@ -336,89 +337,89 @@ That paradox has helped keep the case alive in public memory. Renewed investigat
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Was the Woman Found in Isdalen?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Was the Woman Found in Isdalen?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The spy and the traitor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8824555-M.jpg" alt="Cover for The spy and the traitor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
-        </h4>
-        <p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in Cold War spy theories surrounding the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The spy and the traitor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8824555-M.jpg" alt="Cover for The spy and the traitor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
+</h4>
+<p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
+        
+<p class="fr-book-desc">Appeals to readers interested in Cold War spy theories surrounding the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Suspicions of Mr. Whicher on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10302466-M.jpg" alt="Cover for The Suspicions of Mr. Whicher" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
-        </h4>
-        <p class="fr-book-author">By Kate Summerscale</p>
-
-        <p class="fr-book-desc">Appeals to readers fascinated by enduring unsolved investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Suspicions of Mr. Whicher on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10302466-M.jpg" alt="Cover for The Suspicions of Mr. Whicher" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
+</h4>
+<p class="fr-book-author">By Kate Summerscale</p>
+        
+<p class="fr-book-desc">Appeals to readers fascinated by enduring unsolved investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unmasked+Paul+Holes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unmasked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13763399-M.jpg" alt="Cover for Unmasked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unmasked+Paul+Holes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unmasked">Unmasked</a>
-        </h4>
-        <p class="fr-book-author">By Paul Holes, Ryan Doherty</p>
-
-        <p class="fr-book-desc">Explains modern forensic techniques relevant to unidentified persons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unmasked+Paul+Holes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unmasked+Paul+Holes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unmasked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13763399-M.jpg" alt="Cover for Unmasked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unmasked+Paul+Holes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unmasked">Unmasked</a>
+</h4>
+<p class="fr-book-author">By Paul Holes, Ryan Doherty</p>
+        
+<p class="fr-book-desc">Explains modern forensic techniques relevant to unidentified persons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unmasked+Paul+Holes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Killer+of+Little+Shepherds+Douglas+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Killer of Little Shepherds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9126811-M.jpg" alt="Cover for The Killer of Little Shepherds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Killer+of+Little+Shepherds+Douglas+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Killer of Little Shepherds">The Killer of Little Shepherds</a>
-        </h4>
-        <p class="fr-book-author">By Douglas Starr</p>
-
-        <p class="fr-book-desc">Shows how scientific investigation evolves in difficult cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Killer+of+Little+Shepherds+Douglas+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Killer+of+Little+Shepherds+Douglas+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Killer of Little Shepherds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9126811-M.jpg" alt="Cover for The Killer of Little Shepherds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Killer+of+Little+Shepherds+Douglas+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Killer of Little Shepherds">The Killer of Little Shepherds</a>
+</h4>
+<p class="fr-book-author">By Douglas Starr</p>
+        
+<p class="fr-book-desc">Shows how scientific investigation evolves in difficult cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Killer+of+Little+Shepherds+Douglas+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+spy+and+the+traitor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The spy and the traitor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Suspicions of Mr. Whicher</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unmasked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unmasked</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+spy+and+the+traitor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The spy and the traitor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Suspicions of Mr. Whicher</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Unmasked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unmasked</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -354,7 +354,8 @@ Because the surviving evidence is so limited, no hypothesis has displaced the co
 
 <img src="{{ "/assets/images/Yemen_ac33d6_queen_of_sheba_saba_2e3ce7-Illustration-3-dark.svg" | relative_url }}" alt="Queen of Sheba illustration 3" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_queen_of_sheba_saba_2e3ce7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_queen_of_sheba_saba_2e3ce7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Queen of Sheba
+## Why the mystery still matters
+
 The Queen of Sheba remains important not because historians have identified her, but because she illustrates how archaeology can both illuminate and frustrate the past.
 
 The kingdom of Saba is one of the best-documented civilisations of ancient Arabia. Its cities, temples, engineering works and inscriptions reveal a prosperous state that played a major role in regional trade. Yet the figure who made Saba famous around the world exists only in literary and religious tradition.
@@ -362,89 +363,89 @@ The kingdom of Saba is one of the best-documented civilisations of ancient Arabi
 For Yemen, this creates an unusual historical puzzle. The landscape associated with the Queen of Sheba is real, the civilisation behind the story is real, but the queen herself remains historically elusive. Unless new inscriptions or archaeological discoveries emerge from Marib or elsewhere in ancient South Arabia, the question of whether the Queen of Sheba was an actual Sabaean ruler is likely to remain unanswered.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Queen of Sheba Really Yemeni?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Queen of Sheba Really Yemeni?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bible unearthed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10715387-M.jpg" alt="Cover for The Bible unearthed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible unearthed">The Bible unearthed</a>
-        </h4>
-        <p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
-
-        <p class="fr-book-desc">Shows how archaeology evaluates biblical traditions including royal narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bible unearthed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10715387-M.jpg" alt="Cover for The Bible unearthed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible unearthed">The Bible unearthed</a>
+</h4>
+<p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
+        
+<p class="fr-book-desc">Shows how archaeology evaluates biblical traditions including royal narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Eden+to+Exile+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Eden to Exile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4992026-M.jpg" alt="Cover for From Eden to Exile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=From+Eden+to+Exile+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Eden to Exile">From Eden to Exile</a>
-        </h4>
-        <p class="fr-book-author">By Eric H. Cline, Eric H. Cline</p>
-
-        <p class="fr-book-desc">Helps readers understand evidence behind ancient Near Eastern traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=From+Eden+to+Exile+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Eden+to+Exile+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Eden to Exile on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4992026-M.jpg" alt="Cover for From Eden to Exile" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=From+Eden+to+Exile+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Eden to Exile">From Eden to Exile</a>
+</h4>
+<p class="fr-book-author">By Eric H. Cline, Eric H. Cline</p>
+        
+<p class="fr-book-desc">Helps readers understand evidence behind ancient Near Eastern traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=From+Eden+to+Exile+Eric+H.+Cline&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yemen: Travels in Dictionary Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/457529-M.jpg" alt="Cover for Yemen: Travels in Dictionary Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen: Travels in Dictionary Land">Yemen: Travels in Dictionary Land</a>
-        </h4>
-        <p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
-
-        <p class="fr-book-desc">Provides rich historical context for Saba and Marib.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yemen: Travels in Dictionary Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/457529-M.jpg" alt="Cover for Yemen: Travels in Dictionary Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen: Travels in Dictionary Land">Yemen: Travels in Dictionary Land</a>
+</h4>
+<p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
+        
+<p class="fr-book-desc">Provides rich historical context for Saba and Marib.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs: From the Bronze Age to the Coming of Islam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs: From the Bronze Age to the Coming of Islam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs: From the Bronze Age to the Coming of Islam">Arabia and the Arabs: From the Bronze Age to the Coming of Islam</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Explains the historical kingdom of Saba in its wider Arabian setting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia and the Arabs: From the Bronze Age to the Coming of Islam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265328-M.jpg" alt="Cover for Arabia and the Arabs: From the Bronze Age to the Coming of Islam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia and the Arabs: From the Bronze Age to the Coming of Islam">Arabia and the Arabs: From the Bronze Age to the Coming of Islam</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Explains the historical kingdom of Saba in its wider Arabian setting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Arabia+and+the+Arabs%3A+From+the+Bronze+Age+to+the+Coming+of+Islam+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bible+unearthed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bible unearthed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=From+Eden+to+Exile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">From Eden to Exile</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yemen: Travels in Dictionary Land</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bible+unearthed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bible unearthed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=From+Eden+to+Exile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">From Eden to Exile</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yemen: Travels in Dictionary Land</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

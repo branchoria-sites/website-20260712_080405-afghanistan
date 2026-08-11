@@ -359,7 +359,8 @@ This distinction matters because outside observers sometimes confuse ordinary ta
 
 The sacred importance of tabots is also reflected in international debates over cultural heritage. Several tabots taken by British forces during the 1868 expedition to Maqdala remain outside Ethiopia, although some institutions have returned or agreed in principle to return examples because of their exceptional religious significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/feb/19/westminster-abbey-agrees-in-principle-to-return-sacred-tablet-to-ethiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The tabot, which symbolically represents the Ark of the Covenant and the Ten Commandments, was looted by British forces in 1868 during th...</span></span></span>
 
-## Aksum Ark in the wider historical record
+## Why the Mystery Endures
+
 The Aksum Ark remains compelling precisely because it cannot be resolved by ordinary historical methods.
 
 If the chapel were opened for scientific examination, researchers could potentially determine:
@@ -427,7 +428,7 @@ That unresolved gap between enduring faith and inaccessible evidence is what mak
 <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sign and the Seal">The Sign and the Seal</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-
+        
 <p class="fr-book-desc">First published 1992. Subjects: Ark of the Covenant, Travel, Description and travel, Miscellanea, Hancock, Graham -- Travel -- Ethiopia.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +445,7 @@ That unresolved gap between enduring faith and inaccessible evidence is what mak
 <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Ethiopia">A history of Ethiopia</a>
 </h4>
 <p class="fr-book-author">By Harold G. Marcus</p>
-
+        
 <p class="fr-book-desc">First published 1994. Subjects: History, Histoire, Ethiopia, history, East.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +462,7 @@ That unresolved gap between enduring faith and inaccessible evidence is what mak
 <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ethiopians">The Ethiopians</a>
 </h4>
 <p class="fr-book-author">By Pankhurst, Richard.</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Ethnology, History, Ethiopia, history, Ethnology, ethiopia.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -478,7 +479,7 @@ That unresolved gap between enduring faith and inaccessible evidence is what mak
 <a href="https://www.amazon.com/s?k=The+Quest+for+the+Ark+of+the+Covenant+Tudor+Parfitt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Quest for the Ark of the Covenant">The Quest for the Ark of the Covenant</a>
 </h4>
 <p class="fr-book-author">By Tudor Parfitt</p>
-
+        
 <p class="fr-book-desc">Evaluates competing historical claims about the Ark.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Quest+for+the+Ark+of+the+Covenant+Tudor+Parfitt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

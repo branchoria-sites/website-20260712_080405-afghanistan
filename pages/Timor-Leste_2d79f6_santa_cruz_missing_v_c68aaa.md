@@ -344,7 +344,8 @@ International forensic specialists have since assisted in exhumations at a numbe
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_santa_cruz_missing_v_c68aaa-Illustration-3-dark.svg" | relative_url }}" alt="Santa Cruz illustration 3" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_santa_cruz_missing_v_c68aaa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_santa_cruz_missing_v_c68aaa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Santa Cruz
+## Why the mystery still matters
+
 The Santa Cruz massacre occupies an unusual place in modern history. Unlike many historical atrocities, the shooting itself was captured on film and witnessed by international journalists. The mystery therefore does not concern whether the massacre occurred but what happened afterwards.
 
 Questions remain about the precise number of people who died, the identities of everyone who disappeared, where many victims were buried, and whether all relevant military records still exist. These unresolved issues continue to affect surviving families, many of whom have never been able to recover relatives' remains or obtain a complete official account of their fate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://icmp.int/the-missing/where-are-the-missing/east-timor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmp.int">[icmp.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmp.int</span><span class="citation-popover-title">East Timor</span><span class="citation-popover-snippet">East Timor - International Commission on Missing Persons...</span></span></span>
@@ -352,72 +353,72 @@ Questions remain about the precise number of people who died, the identities of 
 For Timor-Leste, Santa Cruz is remembered both as a tragedy and as a turning point. The images from the cemetery drew unprecedented international attention to the occupation, but the missing victims remain a reminder that even well-documented atrocities can leave unanswered questions that persist for generations.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Were the Santa Cruz Victims Taken?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Were the Santa Cruz Victims Taken?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Not-So-Distant Horror on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1508310-M.jpg" alt="Cover for A Not-So-Distant Horror" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Nevins</p>
-
-        <p class="fr-book-desc">Covers the violence and its human consequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Not-So-Distant Horror on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1508310-M.jpg" alt="Cover for A Not-So-Distant Horror" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
+</h4>
+<p class="fr-book-author">By Joseph Nevins</p>
+        
+<p class="fr-book-desc">Covers the violence and its human consequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East Timor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6876206-M.jpg" alt="Cover for East Timor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
-        </h4>
-        <p class="fr-book-author">By Jill Jolliffe</p>
-
-        <p class="fr-book-desc">Provides the essential context for the Santa Cruz massacre.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East Timor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6876206-M.jpg" alt="Cover for East Timor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
+</h4>
+<p class="fr-book-author">By Jill Jolliffe</p>
+        
+<p class="fr-book-desc">Provides the essential context for the Santa Cruz massacre.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Not on our watch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6890447-M.jpg" alt="Cover for Not on our watch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Not on our watch">Not on our watch</a>
-        </h4>
-        <p class="fr-book-author">By Don Cheadle, John Prendergast</p>
-
-        <p class="fr-book-desc">Examines East Timor&#x27;s international significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Not on our watch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6890447-M.jpg" alt="Cover for Not on our watch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Not on our watch">Not on our watch</a>
+</h4>
+<p class="fr-book-author">By Don Cheadle, John Prendergast</p>
+        
+<p class="fr-book-desc">Examines East Timor&#x27;s international significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Not+So+Distant+Horror&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Not So Distant Horror</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=East+Timor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East Timor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Not+on+our+watch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Not on our watch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Not+So+Distant+Horror&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Not So Distant Horror</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=East+Timor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East Timor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Not+on+our+watch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Not on our watch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

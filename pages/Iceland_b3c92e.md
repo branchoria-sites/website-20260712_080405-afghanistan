@@ -1324,89 +1324,89 @@ Iceland’s enduring enigmas matter because they expose how history is made from
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Are Iceland&#x27;s Greatest Unresolved Historical Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Are Iceland&#x27;s Greatest Unresolved Historical Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Iceland Changed the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11069472-M.jpg" alt="Cover for How Iceland Changed the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Iceland Changed the World">How Iceland Changed the World</a>
-        </h4>
-        <p class="fr-book-author">By Egill Bjarnason</p>
-
-        <p class="fr-book-desc">Provides historical context for many of Iceland&#x27;s enduring mysteries and legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Iceland Changed the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11069472-M.jpg" alt="Cover for How Iceland Changed the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Iceland Changed the World">How Iceland Changed the World</a>
+</h4>
+<p class="fr-book-author">By Egill Bjarnason</p>
+        
+<p class="fr-book-desc">Provides historical context for many of Iceland&#x27;s enduring mysteries and legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World+Egill+Bjarnason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9412396-M.jpg" alt="Cover for Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent">Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent</a>
-        </h4>
-        <p class="fr-book-author">By Hannah Kent</p>
-
-        <p class="fr-book-desc">First published 2013. Subjects: Fiction, biographical, Iceland, fiction, Criminals, fiction, Fiction, suspense, Fiction, historical, gene...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9412396-M.jpg" alt="Cover for Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent">Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent</a>
+</h4>
+<p class="fr-book-author">By Hannah Kent</p>
+        
+<p class="fr-book-desc">First published 2013. Subjects: Fiction, biographical, Iceland, fiction, Criminals, fiction, Fiction, suspense, Fiction, historical, gene...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The prose Edda of Snorri Sturluson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The prose Edda of Snorri Sturluson">The prose Edda of Snorri Sturluson</a>
-        </h4>
-        <p class="fr-book-author">By Snorri Sturluson</p>
-
-        <p class="fr-book-desc">First published 1954. Subjects: Norse Mythology, Scalds and scaldic poetry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The prose Edda of Snorri Sturluson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The prose Edda of Snorri Sturluson">The prose Edda of Snorri Sturluson</a>
+</h4>
+<p class="fr-book-author">By Snorri Sturluson</p>
+        
+<p class="fr-book-desc">First published 1954. Subjects: Norse Mythology, Scalds and scaldic poetry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Sagas+of+Icelanders+Various&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sagas of Icelanders on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sagas+of+Icelanders+Various&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sagas of Icelanders">The Sagas of Icelanders</a>
-        </h4>
-        <p class="fr-book-author">By Various</p>
-
-        <p class="fr-book-desc">The sagas underpin many of Iceland&#x27;s debated historical events and traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sagas+of+Icelanders+Various&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Sagas+of+Icelanders+Various&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sagas of Icelanders on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sagas+of+Icelanders+Various&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sagas of Icelanders">The Sagas of Icelanders</a>
+</h4>
+<p class="fr-book-author">By Various</p>
+        
+<p class="fr-book-desc">The sagas underpin many of Iceland&#x27;s debated historical events and traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sagas+of+Icelanders+Various&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Iceland Changed the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The prose Edda of Snorri Sturluson</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Iceland+Changed+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Iceland Changed the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The prose Edda of Snorri Sturluson</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

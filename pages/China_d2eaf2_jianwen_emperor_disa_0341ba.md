@@ -316,7 +316,8 @@ For these reasons, many historians judge death in the palace fire to be the most
 
 <img src="{{ "/assets/images/China_d2eaf2_jianwen_emperor_disa_0341ba-Illustration-3-dark.svg" | relative_url }}" alt="Jianwen illustration 3" data-theme-src-dark="{{ "/assets/images/China_d2eaf2_jianwen_emperor_disa_0341ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2_jianwen_emperor_disa_0341ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Jianwen
+## Why the mystery still matters
+
 The Jianwen Emperor's disappearance is important not simply because an emperor vanished, but because it illustrates how fragile historical evidence can become after a successful coup. Victorious governments often control archives, shape official narratives and erase inconvenient records. In this case, those actions transformed what may originally have been a tragic but ordinary wartime death into one of China's longest-lasting historical mysteries.
 
 The enduring fascination lies less in the possibility of a secret escape than in the difficulty of separating political narrative from historical reality. The palace fire destroyed more than buildings; it marked the point at which the historical record itself became contested, ensuring that the fate of the Jianwen Emperor would remain an unresolved question in Chinese history.
@@ -327,89 +328,89 @@ The enduring fascination lies less in the possibility of a secret escape than in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Jianwen Emperor Escape the Flames?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Jianwen Emperor Escape the Flames?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chronicle of the Chinese emperors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315788-M.jpg" alt="Cover for Chronicle of the Chinese emperors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chronicle of the Chinese emperors">Chronicle of the Chinese emperors</a>
-        </h4>
-        <p class="fr-book-author">By Ann Paludan</p>
-
-        <p class="fr-book-desc">Covers the Jianwen and Yongle reigns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chronicle of the Chinese emperors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315788-M.jpg" alt="Cover for Chronicle of the Chinese emperors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chronicle of the Chinese emperors">Chronicle of the Chinese emperors</a>
+</h4>
+<p class="fr-book-author">By Ann Paludan</p>
+        
+<p class="fr-book-desc">Covers the Jianwen and Yongle reigns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for modern China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246705-M.jpg" alt="Cover for The search for modern China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan D. Spence</p>
-
-        <p class="fr-book-desc">Strong parent-topic recommendation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for modern China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246705-M.jpg" alt="Cover for The search for modern China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
+</h4>
+<p class="fr-book-author">By Jonathan D. Spence</p>
+        
+<p class="fr-book-desc">Strong parent-topic recommendation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge illustrated history of China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101852-M.jpg" alt="Cover for The Cambridge illustrated history of China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
-        </h4>
-        <p class="fr-book-author">By Ebrey, Patricia Buckley</p>
-
-        <p class="fr-book-desc">Explains the Ming dynasty in context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge illustrated history of China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101852-M.jpg" alt="Cover for The Cambridge illustrated history of China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
+</h4>
+<p class="fr-book-author">By Ebrey, Patricia Buckley</p>
+        
+<p class="fr-book-desc">Explains the Ming dynasty in context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open China A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7520402-M.jpg" alt="Cover for China A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="China A History">China A History</a>
-        </h4>
-        <p class="fr-book-author">By John Keay</p>
-
-        <p class="fr-book-desc">Broad context for imperial succession and court politics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open China A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7520402-M.jpg" alt="Cover for China A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="China A History">China A History</a>
+</h4>
+<p class="fr-book-author">By John Keay</p>
+        
+<p class="fr-book-desc">Broad context for imperial succession and court politics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=China+A+History+John+Keay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chronicle of the Chinese emperors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+modern+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for modern China</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge illustrated history of China</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chronicle of the Chinese emperors</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+modern+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for modern China</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge illustrated history of China</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

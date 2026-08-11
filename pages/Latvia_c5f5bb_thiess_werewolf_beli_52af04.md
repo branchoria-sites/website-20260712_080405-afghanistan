@@ -346,7 +346,7 @@ The mystery therefore is cultural rather than supernatural. The surviving docume
 <a href="https://www.amazon.com/s?k=The+werewolf+in+lore+and+legend+Montague+Summers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The werewolf in lore and legend">The werewolf in lore and legend</a>
 </h4>
 <p class="fr-book-author">By Montague Summers</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Werewolves, Animals, mythical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+werewolf+in+lore+and+legend+Montague+Summers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ The mystery therefore is cultural rather than supernatural. The surviving docume
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The mystery therefore is cultural rather than supernatural. The surviving docume
 <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
 </h4>
 <p class="fr-book-author">By Alan Warwick Palmer</p>
-
+        
 <p class="fr-book-desc">First published 2006. Subjects: History, Baltic states, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The mystery therefore is cultural rather than supernatural. The surviving docume
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

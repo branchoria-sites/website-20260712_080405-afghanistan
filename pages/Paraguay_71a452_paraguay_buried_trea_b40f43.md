@@ -350,7 +350,8 @@ Finally, more than 150 years of searching has produced no verified discovery mat
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nm1eqSUEtUU" title="Treasure hunting in Paraguay poses risk to country’s cultural heritage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nm1eqSUEtUU" target="_blank" rel="noopener noreferrer">Treasure hunting in Paraguay poses risk to country’s cultural heritage</a></p><p class="youtube-embed-meta">Channel: CGTN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nm1eqSUEtUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nm1eqSUEtUU">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by Buried Treasure
+## Why the mystery endures
+
 The enduring appeal of Paraguay's lost war treasure has less to do with hidden gold than with the trauma of the Paraguayan War itself.
 
 The conflict destroyed communities, scattered families and erased countless personal records. In that setting, stories about buried wealth offered hope that something valuable from the lost world before the war might still survive beneath the ground.
@@ -394,7 +395,7 @@ Today, the most balanced assessment is that **small wartime caches almost certai
 <a href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig+John+Gimlette&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="At the tomb of the inflatable pig">At the tomb of the inflatable pig</a>
 </h4>
 <p class="fr-book-author">By John Gimlette</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Travel, Description and travel, History, Paraguay, Geografi.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig+John+Gimlette&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +412,7 @@ Today, the most balanced assessment is that **small wartime caches almost certai
 <a href="https://www.amazon.com/s?k=The+lost+treasure+of+the+Knights+Templar+Steven+Sora&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lost treasure of the Knights Templar">The lost treasure of the Knights Templar</a>
 </h4>
 <p class="fr-book-author">By Steven Sora</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Antiquities, Discovery and exploration, History, Scottish, Templars.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lost+treasure+of+the+Knights+Templar+Steven+Sora&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +429,7 @@ Today, the most balanced assessment is that **small wartime caches almost certai
 <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predatory States">Predatory States</a>
 </h4>
 <p class="fr-book-author">By J. Patrice McSherry, J. Patrice McSherry</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: State-sponsored terrorism, Operación Cóndor (South American countersubversion association), Political cri...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +446,7 @@ Today, the most balanced assessment is that **small wartime caches almost certai
 <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paraguayan War, Volume 1">The Paraguayan War, Volume 1</a>
 </h4>
 <p class="fr-book-author">By Thomas L. Whigham</p>
-
+        
 <p class="fr-book-desc">First published 2002.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

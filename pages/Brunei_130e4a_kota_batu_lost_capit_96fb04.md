@@ -338,89 +338,89 @@ For now, Kota Batu stands as a reminder that some of Southeast Asia's greatest h
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Lies Beneath Brunei&#x27;s Lost Capital?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Lies Beneath Brunei&#x27;s Lost Capital?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Brunei on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1344289-M.jpg" alt="Cover for A history of Brunei" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Brunei">A history of Brunei</a>
-        </h4>
-        <p class="fr-book-author">By Graham E. Saunders</p>
-
-        <p class="fr-book-desc">Includes the development of Kota Batu and the sultanate&#x27;s capital.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Brunei on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1344289-M.jpg" alt="Cover for A history of Brunei" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Brunei">A history of Brunei</a>
+</h4>
+<p class="fr-book-author">By Graham E. Saunders</p>
+        
+<p class="fr-book-desc">Includes the development of Kota Batu and the sultanate&#x27;s capital.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+Brunei+Graham+E.+Saunders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Malay Archipelago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1056114-M.jpg" alt="Cover for The Malay Archipelago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
-        </h4>
-        <p class="fr-book-author">By Alfred Russel Wallace</p>
-
-        <p class="fr-book-desc">Provides historical perspective on Borneo and its environment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Malay Archipelago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1056114-M.jpg" alt="Cover for The Malay Archipelago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
+</h4>
+<p class="fr-book-author">By Alfred Russel Wallace</p>
+        
+<p class="fr-book-desc">Provides historical perspective on Borneo and its environment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Khersonese on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9317698-M.jpg" alt="Cover for The Golden Khersonese" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Khersonese">The Golden Khersonese</a>
-        </h4>
-        <p class="fr-book-author">By Paul Wheatley</p>
-
-        <p class="fr-book-desc">Useful for understanding historical geography around Brunei.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Khersonese on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9317698-M.jpg" alt="Cover for The Golden Khersonese" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Khersonese">The Golden Khersonese</a>
+</h4>
+<p class="fr-book-author">By Paul Wheatley</p>
+        
+<p class="fr-book-desc">Useful for understanding historical geography around Brunei.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10464119-M.jpg" alt="Cover for Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula">Early Kingdoms of the Indonesian Archipelago and the Malay Pe...</a>
-        </h4>
-        <p class="fr-book-author">By Paul Michel Munoz</p>
-
-        <p class="fr-book-desc">Places Brunei&#x27;s archaeological record into regional context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10464119-M.jpg" alt="Cover for Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula">Early Kingdoms of the Indonesian Archipelago and the Malay Pe...</a>
+</h4>
+<p class="fr-book-author">By Paul Michel Munoz</p>
+        
+<p class="fr-book-desc">Places Brunei&#x27;s archaeological record into regional context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Brunei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Brunei</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Malay+Archipelago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Malay Archipelago</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Khersonese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Khersonese</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Brunei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Brunei</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Malay+Archipelago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Malay Archipelago</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Khersonese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Khersonese</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

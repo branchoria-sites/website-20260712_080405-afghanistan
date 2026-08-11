@@ -307,7 +307,8 @@ Since then, occasional sonar contacts and renewed interest have kept the mystery
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_ss_waratah_disappear_926c13-Illustration-3-dark.svg" | relative_url }}" alt="SS Waratah illustration 3" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_ss_waratah_disappear_926c13-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_ss_waratah_disappear_926c13-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## SS Waratah in the wider historical record
+## Why the mystery endures
+
 The *Waratah* occupies a distinctive place in South African maritime history because the evidence is unusually incomplete. Many famous shipwrecks eventually yielded wreckage, survivors or identifiable remains that allowed investigators to reconstruct events. The *Waratah* has produced none of these.
 
 As a result, historians can establish the broad outline of what happened: the vessel entered a region of severe weather, disappeared after its last confirmed sighting off the Eastern Cape and was never seen again. What cannot yet be established is the precise sequence of failures that caused the loss, or the location of the wreck itself.
@@ -320,89 +321,89 @@ Until the seabed yields a positively identified *Waratah*, the disappearance wil
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Did the SS Waratah Finally Sink?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Did the SS Waratah Finally Sink?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ship of gold in the deep blue sea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/660477-M.jpg" alt="Cover for Ship of gold in the deep blue sea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ship of gold in the deep blue sea">Ship of gold in the deep blue sea</a>
-        </h4>
-        <p class="fr-book-author">By Gary Kinder</p>
-
-        <p class="fr-book-desc">Explores the challenges of locating historic shipwrecks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ship of gold in the deep blue sea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/660477-M.jpg" alt="Cover for Ship of gold in the deep blue sea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ship of gold in the deep blue sea">Ship of gold in the deep blue sea</a>
+</h4>
+<p class="fr-book-author">By Gary Kinder</p>
+        
+<p class="fr-book-desc">Explores the challenges of locating historic shipwrecks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lie of 1652 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11135860-M.jpg" alt="Cover for The Lie of 1652" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lie of 1652">The Lie of 1652</a>
-        </h4>
-        <p class="fr-book-author">By Patric Tariq Mellet, Patric MELLET</p>
-
-        <p class="fr-book-desc">First published 2020. Subjects: Social history, Colonies, History, Slavery, Colonial Labor laws and legislation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lie of 1652 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11135860-M.jpg" alt="Cover for The Lie of 1652" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lie of 1652">The Lie of 1652</a>
+</h4>
+<p class="fr-book-author">By Patric Tariq Mellet, Patric MELLET</p>
+        
+<p class="fr-book-desc">First published 2020. Subjects: Social history, Colonies, History, Slavery, Colonial Labor laws and legislation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Wake: The Last Crossing of the Lusitania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8629114-M.jpg" alt="Cover for Dead Wake: The Last Crossing of the Lusitania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Wake: The Last Crossing of the Lusitania">Dead Wake: The Last Crossing of the Lusitania</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in dramatic passenger-ship disasters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Wake: The Last Crossing of the Lusitania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8629114-M.jpg" alt="Cover for Dead Wake: The Last Crossing of the Lusitania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Wake: The Last Crossing of the Lusitania">Dead Wake: The Last Crossing of the Lusitania</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Appeals to readers interested in dramatic passenger-ship disasters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Erik Larson Bestselling 4 Books Set. the Devil in the White City, the Splendid and the Vile, in the Garden of Beasts, Dead Wake by Erik Larson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Erik Larson Bestselling 4 Books Set. the Devil in the White City, the Splendid and the Vile, in the Garden of Beasts, Dead Wake by Erik Larson">Erik Larson Bestselling 4 Books Set. the Devil in the White C...</a>
-        </h4>
-        <p class="fr-book-author">By Erik Larson</p>
-
-        <p class="fr-book-desc">First published 2022. Subjects: Biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Erik Larson Bestselling 4 Books Set. the Devil in the White City, the Splendid and the Vile, in the Garden of Beasts, Dead Wake by Erik Larson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Erik Larson Bestselling 4 Books Set. the Devil in the White City, the Splendid and the Vile, in the Garden of Beasts, Dead Wake by Erik Larson">Erik Larson Bestselling 4 Books Set. the Devil in the White C...</a>
+</h4>
+<p class="fr-book-author">By Erik Larson</p>
+        
+<p class="fr-book-desc">First published 2022. Subjects: Biography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ship of gold in the deep blue sea</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lie+of+1652&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lie of 1652</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dead Wake: The Last Crossing of the Lusitania</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ship of gold in the deep blue sea</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lie+of+1652&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lie of 1652</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dead+Wake%3A+The+Last+Crossing+of+the+Lusitania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dead Wake: The Last Crossing of the Lusitania</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

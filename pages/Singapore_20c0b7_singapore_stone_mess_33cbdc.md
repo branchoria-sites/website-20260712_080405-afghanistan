@@ -326,7 +326,8 @@ Modern technology has improved imaging, digital modelling and comparative analys
 
 Future discoveries could still alter understanding. Better comparisons with newly identified Kawi inscriptions elsewhere in Southeast Asia, improved readings of surviving characters, or the unexpected rediscovery of one of the lost Calcutta fragments might provide additional clues. Even so, historians increasingly accept that a complete translation may never be possible because too much of the original monument has disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblioasia.nlb.gov.sg/all-sections/vol-21-issue-1-apr-jun-2025-origins-badang-strongman-singapore-stone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblioasia.nlb.gov.sg">[BiblioAsia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblioasia.nlb.gov.sg</span><span class="citation-popover-title">Biblio Asia Uncovering the Origins of Badang the Strongman &#124; Biblio Asia</span><span class="citation-popover-snippet">Biblio Asia Uncovering the Origins of Badang the Strongman &#124; Biblio Asia</span></span></span>
 
-## The historical picture around Singapore Stone
+## Why the mystery still matters
+
 The enduring importance of the Singapore Stone lies less in what it says than in what its survival—and partial destruction—reveals. It provides the earliest known written evidence from Singapore while simultaneously reminding historians how much of the island's early past has been lost through development, incomplete documentation and the passage of time. The mystery is therefore genuine but carefully bounded: there is no credible evidence of hidden codes, secret civilisations or lost prophecies. The unanswered question is simply one of history. A substantial inscription once stood beside the Singapore River, and because most of it was destroyed before it could be preserved, its message may remain one of Singapore's greatest unsolved archaeological puzzles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roots.gov.sg/Collection-Landing/listing/1148198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roots.gov.sg">[Roots]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roots.gov.sg</span><span class="citation-popover-title">Roots Inscribed sandstone known as the &#x27;Singapore Stone</span><span class="citation-popover-snippet">Roots Inscribed sandstone known as the &#x27;Singapore Stone</span></span></span>
 
 
@@ -335,89 +336,89 @@ The enduring importance of the Singapore Stone lies less in what it says than in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Singapore Stone Actually Say?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Singapore Stone Actually Say?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10464119-M.jpg" alt="Cover for Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula">Early Kingdoms of the Indonesian Archipelago and the Malay Pe...</a>
-        </h4>
-        <p class="fr-book-author">By Paul Michel Munoz</p>
-
-        <p class="fr-book-desc">Provides context for inscriptions and early states.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10464119-M.jpg" alt="Cover for Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula">Early Kingdoms of the Indonesian Archipelago and the Malay Pe...</a>
+</h4>
+<p class="fr-book-author">By Paul Michel Munoz</p>
+        
+<p class="fr-book-desc">Provides context for inscriptions and early states.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula+Paul+Michel+Munoz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Khersonese on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9317698-M.jpg" alt="Cover for The Golden Khersonese" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Khersonese">The Golden Khersonese</a>
-        </h4>
-        <p class="fr-book-author">By Paul Wheatley</p>
-
-        <p class="fr-book-desc">Relevant to ancient Singapore and regional inscriptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Khersonese on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9317698-M.jpg" alt="Cover for The Golden Khersonese" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Khersonese">The Golden Khersonese</a>
+</h4>
+<p class="fr-book-author">By Paul Wheatley</p>
+        
+<p class="fr-book-desc">Relevant to ancient Singapore and regional inscriptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Golden+Khersonese+Paul+Wheatley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Singapore: A Biography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12837270-M.jpg" alt="Cover for Singapore: A Biography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore: A Biography">Singapore: A Biography</a>
-        </h4>
-        <p class="fr-book-author">By Mark Ravinder Frost</p>
-
-        <p class="fr-book-desc">Explains pre-colonial Singapore and historical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Singapore: A Biography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12837270-M.jpg" alt="Cover for Singapore: A Biography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore: A Biography">Singapore: A Biography</a>
+</h4>
+<p class="fr-book-author">By Mark Ravinder Frost</p>
+        
+<p class="fr-book-desc">Explains pre-colonial Singapore and historical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Seven+Hundred+Years%3A+A+History+of+Singapore+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Hundred Years: A History of Singapore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Seven+Hundred+Years%3A+A+History+of+Singapore+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Hundred Years: A History of Singapore">Seven Hundred Years: A History of Singapore</a>
-        </h4>
-        <p class="fr-book-author">By Kwa Chong Guan, Derek Thiam Soon Heng et al.</p>
-
-        <p class="fr-book-desc">Covers the Singapore Stone and early history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Seven+Hundred+Years%3A+A+History+of+Singapore+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Seven+Hundred+Years%3A+A+History+of+Singapore+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Hundred Years: A History of Singapore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Seven+Hundred+Years%3A+A+History+of+Singapore+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Hundred Years: A History of Singapore">Seven Hundred Years: A History of Singapore</a>
+</h4>
+<p class="fr-book-author">By Kwa Chong Guan, Derek Thiam Soon Heng et al.</p>
+        
+<p class="fr-book-desc">Covers the Singapore Stone and early history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Seven+Hundred+Years%3A+A+History+of+Singapore+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Khersonese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Khersonese</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Did+Singapore+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Did Singapore biography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Early+Kingdoms+of+the+Indonesian+Archipelago+and+the+Malay+Peninsula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Khersonese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Khersonese</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Did+Singapore+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Did Singapore biography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

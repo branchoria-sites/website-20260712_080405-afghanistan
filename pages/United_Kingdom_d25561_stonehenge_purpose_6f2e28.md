@@ -361,7 +361,8 @@ Instead of portraying Stonehenge as a local project, the evidence increasingly p
 
 <img src="{{ "/assets/images/United_Kingdom_d25561_stonehenge_purpose_6f2e28-Illustration-3-dark.svg" | relative_url }}" alt="Stonehenge illustration 3" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561_stonehenge_purpose_6f2e28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561_stonehenge_purpose_6f2e28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Stonehenge
+## Why the Mystery Endures
+
 Stonehenge remains mysterious not because archaeology has failed, but because archaeology has succeeded in revealing an increasingly complex story.
 
 Scientific dating, isotope analysis, ancient DNA, landscape archaeology and geological fingerprinting have answered questions that would have seemed impossible only a few decades ago. They have identified where many stones originated, reconstructed changing construction phases and shown that people travelled considerable distances to gather in the surrounding landscape.
@@ -376,89 +377,89 @@ That is why most specialists no longer search for a single hidden purpose. The s
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Was Stonehenge Really Built For?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Was Stonehenge Really Built For?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stonehenge+Rosemary+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stonehenge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8723342-M.jpg" alt="Cover for Stonehenge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stonehenge+Rosemary+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stonehenge">Stonehenge</a>
-        </h4>
-        <p class="fr-book-author">By Rosemary Hill</p>
-
-        <p class="fr-book-desc">Directly explores the monument and competing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stonehenge+Rosemary+Hill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stonehenge+Rosemary+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stonehenge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8723342-M.jpg" alt="Cover for Stonehenge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stonehenge+Rosemary+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stonehenge">Stonehenge</a>
+</h4>
+<p class="fr-book-author">By Rosemary Hill</p>
+        
+<p class="fr-book-desc">Directly explores the monument and competing interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stonehenge+Rosemary+Hill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Britain BC on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9471-M.jpg" alt="Cover for Britain BC" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Britain BC">Britain BC</a>
-        </h4>
-        <p class="fr-book-author">By Francis Pryor</p>
-
-        <p class="fr-book-desc">Places Stonehenge within wider prehistoric Britain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Britain BC on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9471-M.jpg" alt="Cover for Britain BC" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Britain BC">Britain BC</a>
+</h4>
+<p class="fr-book-author">By Francis Pryor</p>
+        
+<p class="fr-book-desc">Places Stonehenge within wider prehistoric Britain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Britain+BC+Francis+Pryor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megalithic European on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10124-M.jpg" alt="Cover for The Megalithic European" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megalithic European">The Megalithic European</a>
-        </h4>
-        <p class="fr-book-author">By Julian Cope</p>
-
-        <p class="fr-book-desc">Explores prehistoric stone monuments across Britain and Europe.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megalithic European on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10124-M.jpg" alt="Cover for The Megalithic European" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megalithic European">The Megalithic European</a>
+</h4>
+<p class="fr-book-author">By Julian Cope</p>
+        
+<p class="fr-book-desc">Explores prehistoric stone monuments across Britain and Europe.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Celts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12933885-M.jpg" alt="Cover for The Celts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celts">The Celts</a>
-        </h4>
-        <p class="fr-book-author">By Alice M. Roberts</p>
-
-        <p class="fr-book-desc">Provides broader archaeological context for ancient Britain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Celts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12933885-M.jpg" alt="Cover for The Celts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celts">The Celts</a>
+</h4>
+<p class="fr-book-author">By Alice M. Roberts</p>
+        
+<p class="fr-book-desc">Provides broader archaeological context for ancient Britain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stonehenge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stonehenge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Britain+BC&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Britain BC</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Megalithic+European&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Megalithic European</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stonehenge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stonehenge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Britain+BC&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Britain BC</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Megalithic+European&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Megalithic European</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

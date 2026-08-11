@@ -340,7 +340,8 @@ The debate also reflects Spain's transition from dictatorship to democracy. For 
 
 <img src="{{ "/assets/images/Spain_20a8df_lorca_missing_grave_8482f0-Illustration-3-dark.svg" | relative_url }}" alt="Lorca s Grave illustration 3" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_lorca_missing_grave_8482f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_lorca_missing_grave_8482f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Lorca's Grave
+## Why the Mystery Still Matters
+
 Lorca's missing grave remains one of Spain's best-known historical mysteries because it combines a genuine unresolved question with powerful symbolic meaning.
 
 The central mystery has never been solved. Archaeological searches have narrowed possibilities without identifying his remains. Every failed excavation demonstrates how fragile eyewitness testimony becomes after decades, how easily landscapes change, and how difficult forensic recovery can be when executions were deliberately concealed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federico García Lorca</span><span class="citation-popover-snippet">Federico García Lorca</span></span></span>
@@ -355,89 +356,89 @@ For that reason, the unanswered question of where Lorca lies continues to stand 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Has Lorca&#x27;s Grave Never Been Found?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Has Lorca&#x27;s Grave Never Been Found?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spanish Civil War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8376515-M.jpg" alt="Cover for The Spanish Civil War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish Civil War">The Spanish Civil War</a>
-        </h4>
-        <p class="fr-book-author">By Antony Beevor</p>
-
-        <p class="fr-book-desc">Explains the circumstances that created thousands of unmarked graves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spanish Civil War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8376515-M.jpg" alt="Cover for The Spanish Civil War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish Civil War">The Spanish Civil War</a>
+</h4>
+<p class="fr-book-author">By Antony Beevor</p>
+        
+<p class="fr-book-desc">Explains the circumstances that created thousands of unmarked graves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Spanish+Civil+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Spain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/378859-M.jpg" alt="Cover for Ghosts of Spain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Spain">Ghosts of Spain</a>
-        </h4>
-        <p class="fr-book-author">By Giles Tremlett</p>
-
-        <p class="fr-book-desc">Explores Civil War memory, mass graves and unresolved historical wounds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Spain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/378859-M.jpg" alt="Cover for Ghosts of Spain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Spain">Ghosts of Spain</a>
+</h4>
+<p class="fr-book-author">By Giles Tremlett</p>
+        
+<p class="fr-book-desc">Explores Civil War memory, mass graves and unresolved historical wounds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Spain+Giles+Tremlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Poet+in+New+York+Federico+Garc%C3%ADa+Lorca&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Poet in New York on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/108013-M.jpg" alt="Cover for Poet in New York" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Poet+in+New+York+Federico+Garc%C3%ADa+Lorca&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poet in New York">Poet in New York</a>
-        </h4>
-        <p class="fr-book-author">By Federico García Lorca, Greg Simon et al.</p>
-
-        <p class="fr-book-desc">Introduces readers to Lorca&#x27;s work while exploring interest in his life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Poet+in+New+York+Federico+Garc%C3%ADa+Lorca&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Poet+in+New+York+Federico+Garc%C3%ADa+Lorca&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Poet in New York on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/108013-M.jpg" alt="Cover for Poet in New York" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Poet+in+New+York+Federico+Garc%C3%ADa+Lorca&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poet in New York">Poet in New York</a>
+</h4>
+<p class="fr-book-author">By Federico García Lorca, Greg Simon et al.</p>
+        
+<p class="fr-book-desc">Introduces readers to Lorca&#x27;s work while exploring interest in his life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Poet+in+New+York+Federico+Garc%C3%ADa+Lorca&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lorca%3B+A+Dream+of+Life+Leslie+Stainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lorca; A Dream of Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/487191-M.jpg" alt="Cover for Lorca; A Dream of Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lorca%3B+A+Dream+of+Life+Leslie+Stainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lorca; A Dream of Life">Lorca; A Dream of Life</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Stainton</p>
-
-        <p class="fr-book-desc">Examines Lorca&#x27;s life, death and the enduring mystery of his burial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lorca%3B+A+Dream+of+Life+Leslie+Stainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lorca%3B+A+Dream+of+Life+Leslie+Stainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lorca; A Dream of Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/487191-M.jpg" alt="Cover for Lorca; A Dream of Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lorca%3B+A+Dream+of+Life+Leslie+Stainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lorca; A Dream of Life">Lorca; A Dream of Life</a>
+</h4>
+<p class="fr-book-author">By Leslie Stainton</p>
+        
+<p class="fr-book-desc">Examines Lorca&#x27;s life, death and the enduring mystery of his burial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lorca%3B+A+Dream+of+Life+Leslie+Stainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spanish+Civil+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spanish Civil War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Spain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Spain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Poet+in+New+York&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Poet in New York</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spanish+Civil+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spanish Civil War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Spain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Spain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Poet+in+New+York&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Poet in New York</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

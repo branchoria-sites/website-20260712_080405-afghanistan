@@ -336,89 +336,89 @@ The enduring puzzle is therefore not how Kārlis Ulmanis died, but how a figure 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Was Karlis Ulmanis Really Buried?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Was Karlis Ulmanis Really Buried?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baltic%3A+A+History+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baltic: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/851023-M.jpg" alt="Cover for The Baltic: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Baltic%3A+A+History+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic: A History">The Baltic: A History</a>
-        </h4>
-        <p class="fr-book-author">By Alan Warwick Palmer</p>
-
-        <p class="fr-book-desc">Places Ulmanis within Latvia&#x27;s national story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Baltic%3A+A+History+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baltic%3A+A+History+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baltic: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/851023-M.jpg" alt="Cover for The Baltic: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Baltic%3A+A+History+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic: A History">The Baltic: A History</a>
+</h4>
+<p class="fr-book-author">By Alan Warwick Palmer</p>
+        
+<p class="fr-book-desc">Places Ulmanis within Latvia&#x27;s national story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Baltic%3A+A+History+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands: Europe Between Hitler and Stalin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands: Europe Between Hitler and Stalin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands: Europe Between Hitler and Stalin">Bloodlands: Europe Between Hitler and Stalin</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Snyder</p>
-
-        <p class="fr-book-desc">Provides context for Soviet imprisonment, disappearances and unmarked graves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands: Europe Between Hitler and Stalin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands: Europe Between Hitler and Stalin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands: Europe Between Hitler and Stalin">Bloodlands: Europe Between Hitler and Stalin</a>
+</h4>
+<p class="fr-book-author">By Timothy Snyder</p>
+        
+<p class="fr-book-desc">Provides context for Soviet imprisonment, disappearances and unmarked graves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/160012-M.jpg" alt="Cover for The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence">The Baltic Revolution: Estonia, Latvia, Lithuania and the Pat...</a>
-        </h4>
-        <p class="fr-book-author">By Anatol Lieven</p>
-
-        <p class="fr-book-desc">Explains the legacy of Latvian statehood and Soviet rule surrounding Ulmanis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/160012-M.jpg" alt="Cover for The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence">The Baltic Revolution: Estonia, Latvia, Lithuania and the Pat...</a>
+</h4>
+<p class="fr-book-author">By Anatol Lieven</p>
+        
+<p class="fr-book-desc">Explains the legacy of Latvian statehood and Soviet rule surrounding Ulmanis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
-        </h4>
-        <p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
-
-        <p class="fr-book-desc">First published 1973.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
+</h4>
+<p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
+        
+<p class="fr-book-desc">First published 1973.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Baltic%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Baltic: A History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bloodlands: Europe Between Hitler and Stalin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Baltic%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Baltic: A History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bloodlands: Europe Between Hitler and Stalin</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Baltic+Revolution%3A+Estonia%2C+Latvia%2C+Lithuania+and+the+Path+to+Independence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 

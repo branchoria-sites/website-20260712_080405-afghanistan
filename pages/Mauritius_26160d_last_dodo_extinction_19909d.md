@@ -343,7 +343,8 @@ These approaches do not necessarily contradict one another. It is entirely possi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KEivrJeeKB4" title="Did the Dodo Really Go Extinct? The Mystery Hidden in Mauritius 🦤" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KEivrJeeKB4" target="_blank" rel="noopener noreferrer">Did the Dodo Really Go Extinct? The Mystery Hidden in Mauritius 🦤</a></p><p class="youtube-embed-meta">Channel: Tekweni</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KEivrJeeKB4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KEivrJeeKB4">Open on YouTube</a></p></div></div></div>
 
-## Last Dodo in the wider historical record
+## Why the mystery still matters
+
 The dodo has become the world's best-known symbol of extinction, yet one of the most basic questions about its disappearance remains unanswered. The uncertainty illustrates how easily an animal can vanish before anyone realises that careful documentation is needed.
 
 For Mauritius, the mystery also highlights the limitations of colonial archives. The records preserve valuable fragments of information but leave crucial gaps about the island's natural world. Rather than pointing to a hidden conspiracy or a lost surviving population, the debate shows how history is reconstructed from incomplete evidence.
@@ -351,89 +352,89 @@ For Mauritius, the mystery also highlights the limitations of colonial archives.
 Today, most scholars agree on three broad conclusions: the dodo became rare well before 1662, the last indisputable sighting dates from that year, and the species may have survived for a short time afterwards, although later documentary references remain open to competing interpretations. The exact moment when the final dodo died is therefore still one of Mauritius's most enduring—and scientifically grounded—historical uncertainties.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Did the Last Dodo Really Die?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Did the Last Dodo Really Die?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sixth Extinction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7910870-M.jpg" alt="Cover for The Sixth Extinction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
-
-        <p class="fr-book-desc">Places the dodo within the wider story of extinction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sixth Extinction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7910870-M.jpg" alt="Cover for The Sixth Extinction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
+</h4>
+<p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
+        
+<p class="fr-book-desc">Places the dodo within the wider story of extinction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Dodo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1019514-M.jpg" alt="Cover for The Song of the Dodo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Dodo">The Song of the Dodo</a>
-        </h4>
-        <p class="fr-book-author">By David Quammen</p>
-
-        <p class="fr-book-desc">Explains why island species like the dodo disappeared.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Dodo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1019514-M.jpg" alt="Cover for The Song of the Dodo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Dodo">The Song of the Dodo</a>
+</h4>
+<p class="fr-book-author">By David Quammen</p>
+        
+<p class="fr-book-desc">Explains why island species like the dodo disappeared.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonderful Life the Burgess on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1364687-M.jpg" alt="Cover for Wonderful Life the Burgess" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonderful Life the Burgess">Wonderful Life the Burgess</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Jay Gould</p>
-
-        <p class="fr-book-desc">First published 1988. Subjects: Life, British Columbia, Invertebrate fossils, Paleontology, Burgess Shale.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonderful Life the Burgess on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1364687-M.jpg" alt="Cover for Wonderful Life the Burgess" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonderful Life the Burgess">Wonderful Life the Burgess</a>
+</h4>
+<p class="fr-book-author">By Stephen Jay Gould</p>
+        
+<p class="fr-book-desc">First published 1988. Subjects: Life, British Columbia, Invertebrate fossils, Paleontology, Burgess Shale.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dodo and the Solitaire. A Natural History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256249-M.jpg" alt="Cover for The Dodo and the Solitaire. A Natural History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dodo and the Solitaire. A Natural History">The Dodo and the Solitaire. A Natural History</a>
-        </h4>
-        <p class="fr-book-author">By Jolyon C. Parish</p>
-
-        <p class="fr-book-desc">First published 2013. Subjects: Extinct birds, Dodo, Solitaire (Bird), Pictorial works, Birds in art.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dodo and the Solitaire. A Natural History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256249-M.jpg" alt="Cover for The Dodo and the Solitaire. A Natural History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dodo and the Solitaire. A Natural History">The Dodo and the Solitaire. A Natural History</a>
+</h4>
+<p class="fr-book-author">By Jolyon C. Parish</p>
+        
+<p class="fr-book-desc">First published 2013. Subjects: Extinct birds, Dodo, Solitaire (Bird), Pictorial works, Birds in art.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sixth+Extinction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sixth Extinction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Dodo</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonderful Life the Burgess</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sixth+Extinction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sixth Extinction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Dodo</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonderful Life the Burgess</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

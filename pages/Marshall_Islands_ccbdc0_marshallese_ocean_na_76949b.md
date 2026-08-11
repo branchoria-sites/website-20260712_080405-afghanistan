@@ -367,7 +367,7 @@ Rather than diminishing Marshallese navigation, this uncertainty highlights its 
 <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We, the navigators">We, the navigators</a>
 </h4>
 <p class="fr-book-author">By David Lewis, Derek Oulton</p>
-
+        
 <p class="fr-book-desc">First published 1972. Subjects: Navigation, Micronesians, Polynesians, Micronésiens, Entdeckung.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Rather than diminishing Marshallese navigation, this uncertainty highlights its 
 <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
 </h4>
 <p class="fr-book-author">By Christina Thompson</p>
-
+        
 <p class="fr-book-desc">First published 2019. Subjects: Polynesia, history, Polynesians, History, Navigation, Discovery and exploration.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ Rather than diminishing Marshallese navigation, this uncertainty highlights its 
 <a href="https://www.amazon.com/s?k=East+is+a+big+bird+Thomas+Gladwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East is a big bird">East is a big bird</a>
 </h4>
 <p class="fr-book-author">By Thomas Gladwin</p>
-
+        
 <p class="fr-book-desc">First published 1970. Subjects: Cognitive styles, Navigation, Ethnology, polynesia, Anthropology, Cultural.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=East+is+a+big+bird+Thomas+Gladwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ Rather than diminishing Marshallese navigation, this uncertainty highlights its 
 <a href="https://www.amazon.com/s?k=Surviving+paradise+Peter+Rudiak-Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Surviving paradise">Surviving paradise</a>
 </h4>
 <p class="fr-book-author">By Peter Rudiak-Gould</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Travel, Description and travel, Marshall islands.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Surviving+paradise+Peter+Rudiak-Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

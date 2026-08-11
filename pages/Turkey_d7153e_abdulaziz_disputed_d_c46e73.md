@@ -317,7 +317,8 @@ Because each body of evidence carries its own potential bias, no interpretation 
 
 <img src="{{ "/assets/images/Turkey_d7153e_abdulaziz_disputed_d_c46e73-Illustration-3-dark.svg" | relative_url }}" alt="Abdulaziz illustration 3" data-theme-src-dark="{{ "/assets/images/Turkey_d7153e_abdulaziz_disputed_d_c46e73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkey_d7153e_abdulaziz_disputed_d_c46e73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Abdulaziz in the wider historical record
+## Why the Mystery Still Matters
+
 The disputed death of Sultan Abdulaziz remains significant not only because of uncertainty over how he died but because it illustrates how historical mysteries can be shaped as much by politics as by missing evidence.
 
 Unlike many famous unsolved deaths, the case produced an official verdict, a later criminal trial and generations of competing interpretations. Each stage reflected the political priorities of its own era. For that reason, the question "Was Sultan Abdulaziz murdered after his deposition?" continues to be discussed not because historians lack theories, but because every major piece of evidence is connected to institutions and witnesses whose impartiality has itself become part of the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cmes.fas.harvard.edu/publications/ottoman-rule-law-and-modern-political-trial-yildiz-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmes.fas.harvard.edu">[Center for Middle Eastern Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmes.fas.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
@@ -328,89 +329,89 @@ Unlike many famous unsolved deaths, the case produced an official verdict, a lat
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Sultan Abdulaziz Murdered After His Deposition?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Sultan Abdulaziz Murdered After His Deposition?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fall of the Ottomans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7350616-M.jpg" alt="Cover for The fall of the Ottomans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fall of the Ottomans">The fall of the Ottomans</a>
-        </h4>
-        <p class="fr-book-author">By Eugene L. Rogan</p>
-
-        <p class="fr-book-desc">Explains the late Ottoman state that emerged after Abdulaziz&#x27;s reign.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fall of the Ottomans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7350616-M.jpg" alt="Cover for The fall of the Ottomans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fall of the Ottomans">The fall of the Ottomans</a>
+</h4>
+<p class="fr-book-author">By Eugene L. Rogan</p>
+        
+<p class="fr-book-desc">Explains the late Ottoman state that emerged after Abdulaziz&#x27;s reign.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lords+of+the+horizons+Jason+Goodwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lords of the horizons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/181668-M.jpg" alt="Cover for Lords of the horizons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lords+of+the+horizons+Jason+Goodwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lords of the horizons">Lords of the horizons</a>
-        </h4>
-        <p class="fr-book-author">By Jason Goodwin</p>
-
-        <p class="fr-book-desc">Introduces Ottoman politics and institutions for non-specialists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lords+of+the+horizons+Jason+Goodwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lords+of+the+horizons+Jason+Goodwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lords of the horizons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/181668-M.jpg" alt="Cover for Lords of the horizons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lords+of+the+horizons+Jason+Goodwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lords of the horizons">Lords of the horizons</a>
+</h4>
+<p class="fr-book-author">By Jason Goodwin</p>
+        
+<p class="fr-book-desc">Introduces Ottoman politics and institutions for non-specialists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lords+of+the+horizons+Jason+Goodwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ottomans+Marc+David+Baer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ottomans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12364491-M.jpg" alt="Cover for Ottomans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ottomans+Marc+David+Baer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ottomans">Ottomans</a>
-        </h4>
-        <p class="fr-book-author">By Marc David Baer</p>
-
-        <p class="fr-book-desc">Provides context for the late Ottoman political crises surrounding Abdulaziz.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ottomans+Marc+David+Baer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ottomans+Marc+David+Baer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ottomans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12364491-M.jpg" alt="Cover for Ottomans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ottomans+Marc+David+Baer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ottomans">Ottomans</a>
+</h4>
+<p class="fr-book-author">By Marc David Baer</p>
+        
+<p class="fr-book-desc">Provides context for the late Ottoman political crises surrounding Abdulaziz.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ottomans+Marc+David+Baer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Osman%27s+Dream+the+History+of+the+Ottoman+Empire+Caroline+Finkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Osman&#x27;s Dream the History of the Ottoman Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298535-M.jpg" alt="Cover for Osman&#x27;s Dream the History of the Ottoman Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Osman%27s+Dream+the+History+of+the+Ottoman+Empire+Caroline+Finkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Osman&#x27;s Dream the History of the Ottoman Empire">Osman&#x27;s Dream the History of the Ottoman Empire</a>
-        </h4>
-        <p class="fr-book-author">By Caroline Finkel</p>
-
-
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Osman%27s+Dream+the+History+of+the+Ottoman+Empire+Caroline+Finkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Osman%27s+Dream+the+History+of+the+Ottoman+Empire+Caroline+Finkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Osman&#x27;s Dream the History of the Ottoman Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298535-M.jpg" alt="Cover for Osman&#x27;s Dream the History of the Ottoman Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Osman%27s+Dream+the+History+of+the+Ottoman+Empire+Caroline+Finkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Osman&#x27;s Dream the History of the Ottoman Empire">Osman&#x27;s Dream the History of the Ottoman Empire</a>
+</h4>
+<p class="fr-book-author">By Caroline Finkel</p>
+        
+        
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Osman%27s+Dream+the+History+of+the+Ottoman+Empire+Caroline+Finkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fall of the Ottomans</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lords+of+the+horizons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lords of the horizons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ottomans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ottomans</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fall+of+the+Ottomans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fall of the Ottomans</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lords+of+the+horizons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lords of the horizons</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ottomans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ottomans</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

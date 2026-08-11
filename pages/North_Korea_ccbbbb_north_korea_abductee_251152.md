@@ -331,7 +331,8 @@ The result is an unusual historical situation: the overall crime is well establi
 
 <img src="{{ "/assets/images/North_Korea_ccbbbb_north_korea_abductee_251152-Illustration-3-dark.svg" | relative_url }}" alt="Abductees illustration 3" data-theme-src-dark="{{ "/assets/images/North_Korea_ccbbbb_north_korea_abductee_251152-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Korea_ccbbbb_north_korea_abductee_251152-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Abductees
+## Why the mystery still matters
+
 The unresolved fate of North Korea's abductees remains politically important because it combines documented state action with enduring uncertainty about individual lives.
 
 For Japan, the missing abductees continue to shape policy towards Pyongyang, with successive governments insisting that normal diplomatic relations cannot proceed until convincing answers are provided. International support for that position has remained consistent, including repeated expressions of backing from allies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mofa.go.jp/region/asia-paci/n_korea/relation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofa.go.jp">[Ministry of Foreign Affairs of Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofa.go.jp</span><span class="citation-popover-snippet">Open source on go.jp.</span></span></span>
@@ -346,89 +347,89 @@ The central mystery today is therefore no longer whether North Korea carried out
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened to North Korea&#x27;s Abductees?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened to North Korea&#x27;s Abductees?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Without you, there is no us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7320315-M.jpg" alt="Cover for Without you, there is no us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without you, there is no us">Without you, there is no us</a>
-        </h4>
-        <p class="fr-book-author">By Suki Kim</p>
-
-        <p class="fr-book-desc">Explains the secretive system behind unresolved human rights cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Without you, there is no us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7320315-M.jpg" alt="Cover for Without you, there is no us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without you, there is no us">Without you, there is no us</a>
+</h4>
+<p class="fr-book-author">By Suki Kim</p>
+        
+<p class="fr-book-desc">Explains the secretive system behind unresolved human rights cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The aquariums of Pyongyang on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298314-M.jpg" alt="Cover for The aquariums of Pyongyang" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The aquariums of Pyongyang">The aquariums of Pyongyang</a>
-        </h4>
-        <p class="fr-book-author">By Kang Chol-Hwan, Pierre Rigoulot et al.</p>
-
-        <p class="fr-book-desc">Illustrates the realities of captivity and repression.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The aquariums of Pyongyang on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298314-M.jpg" alt="Cover for The aquariums of Pyongyang" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The aquariums of Pyongyang">The aquariums of Pyongyang</a>
+</h4>
+<p class="fr-book-author">By Kang Chol-Hwan, Pierre Rigoulot et al.</p>
+        
+<p class="fr-book-desc">Illustrates the realities of captivity and repression.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang+Kang+Chol-Hwan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dear+Leader+Jang+Jin-sung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dear Leader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8972029-M.jpg" alt="Cover for Dear Leader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dear+Leader+Jang+Jin-sung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dear Leader">Dear Leader</a>
-        </h4>
-        <p class="fr-book-author">By Jang Jin-sung</p>
-
-        <p class="fr-book-desc">Provides insight into the regime responsible for the abductions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dear+Leader+Jang+Jin-sung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dear+Leader+Jang+Jin-sung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dear Leader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8972029-M.jpg" alt="Cover for Dear Leader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dear+Leader+Jang+Jin-sung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dear Leader">Dear Leader</a>
+</h4>
+<p class="fr-book-author">By Jang Jin-sung</p>
+        
+<p class="fr-book-desc">Provides insight into the regime responsible for the abductions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dear+Leader+Jang+Jin-sung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing to envy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948097-M.jpg" alt="Cover for Nothing to envy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
-
-        <p class="fr-book-desc">Provides broader context for disappearances and state secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing to envy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948097-M.jpg" alt="Cover for Nothing to envy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
+</h4>
+<p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
+        
+<p class="fr-book-desc">Provides broader context for disappearances and state secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Without you, there is no us</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The aquariums of Pyongyang</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dear+Leader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dear Leader</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Without you, there is no us</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+aquariums+of+Pyongyang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The aquariums of Pyongyang</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dear+Leader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dear Leader</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

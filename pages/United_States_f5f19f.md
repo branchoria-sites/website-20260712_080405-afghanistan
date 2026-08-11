@@ -1328,89 +1328,89 @@ Until evidence of that quality appears, the most honest conclusions remain quali
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do America&#x27;s Greatest Mysteries Really Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do America&#x27;s Greatest Mysteries Really Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mammoth book of unsolved crimes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14370213-M.jpg" alt="Cover for The mammoth book of unsolved crimes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
-        </h4>
-        <p class="fr-book-author">By Roger Wilkes</p>
-
-        <p class="fr-book-desc">Covers famous unsolved historical mysteries including several American cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mammoth book of unsolved crimes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14370213-M.jpg" alt="Cover for The mammoth book of unsolved crimes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
+</h4>
+<p class="fr-book-author">By Roger Wilkes</p>
+        
+<p class="fr-book-desc">Covers famous unsolved historical mysteries including several American cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Disappearing Spoon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10069131-M.jpg" alt="Cover for The Disappearing Spoon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
-        </h4>
-        <p class="fr-book-author">By Sam Kean</p>
-
-        <p class="fr-book-desc">Provides accessible scientific context for evidence and investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Disappearing Spoon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10069131-M.jpg" alt="Cover for The Disappearing Spoon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
+</h4>
+<p class="fr-book-author">By Sam Kean</p>
+        
+<p class="fr-book-desc">Provides accessible scientific context for evidence and investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cases That Haunt Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/403793-M.jpg" alt="Cover for Cases That Haunt Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
-        </h4>
-        <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
-
-        <p class="fr-book-desc">Examines famous unresolved crimes through investigative methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cases That Haunt Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/403793-M.jpg" alt="Cover for Cases That Haunt Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
+</h4>
+<p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
+        
+<p class="fr-book-desc">Examines famous unresolved crimes through investigative methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Sherlock%3A+Murder%2C+Forensics%2C+and+the+Birth+of+American+CSI+Kate+Winkler+Dawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Sherlock:  Murder, Forensics, and the Birth of American CSI on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Sherlock%3A+Murder%2C+Forensics%2C+and+the+Birth+of+American+CSI+Kate+Winkler+Dawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Sherlock:  Murder, Forensics, and the Birth of American CSI">American Sherlock: Murder, Forensics, and the Birth of Americ...</a>
-        </h4>
-        <p class="fr-book-author">By Kate Winkler Dawson</p>
-
-        <p class="fr-book-desc">Explains how forensic investigation tackles enduring mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Sherlock%3A+Murder%2C+Forensics%2C+and+the+Birth+of+American+CSI+Kate+Winkler+Dawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Sherlock%3A+Murder%2C+Forensics%2C+and+the+Birth+of+American+CSI+Kate+Winkler+Dawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Sherlock:  Murder, Forensics, and the Birth of American CSI on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Sherlock%3A+Murder%2C+Forensics%2C+and+the+Birth+of+American+CSI+Kate+Winkler+Dawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Sherlock:  Murder, Forensics, and the Birth of American CSI">American Sherlock: Murder, Forensics, and the Birth of Americ...</a>
+</h4>
+<p class="fr-book-author">By Kate Winkler Dawson</p>
+        
+<p class="fr-book-desc">Explains how forensic investigation tackles enduring mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Sherlock%3A+Murder%2C+Forensics%2C+and+the+Birth+of+American+CSI+Kate+Winkler+Dawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mammoth book of unsolved crimes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Disappearing Spoon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cases+That+Haunt+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cases That Haunt Us</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mammoth book of unsolved crimes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Disappearing Spoon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cases+That+Haunt+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cases That Haunt Us</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

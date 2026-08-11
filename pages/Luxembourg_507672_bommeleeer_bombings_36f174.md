@@ -373,89 +373,89 @@ That distinction explains why the "insider question" continues to dominate discu
 Today, the bombings remain officially unsolved. The continuing legal proceedings concerning alleged false testimony demonstrate that Luxembourg's justice system is still attempting to clarify parts of the historical record, even if the identity and motives of those responsible for the explosions themselves remain unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://justice.public.lu/fr/actualites/2025/06/communique-parquet-luxembourg-reprise-proces-bommeleeer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.public.lu">[public.lu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.public.lu</span><span class="citation-popover-snippet">Justice LuxembourgCommuniqué du parquet de Luxembourg en relation avec la reprise du procès dit « Bommeleeër » - Actualités - La Justice...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Was Behind Luxembourg&#x27;s Unsolved Bombing Campaign?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Was Behind Luxembourg&#x27;s Unsolved Bombing Campaign?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War : A New History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9293787-M.jpg" alt="Cover for The Cold War : A New History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War : A New History">The Cold War : A New History</a>
-        </h4>
-        <p class="fr-book-author">By John Lewis Gaddis</p>
-
-        <p class="fr-book-desc">Explains security structures and tensions relevant to stay-behind theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War : A New History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9293787-M.jpg" alt="Cover for The Cold War : A New History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War : A New History">The Cold War : A New History</a>
+</h4>
+<p class="fr-book-author">By John Lewis Gaddis</p>
+        
+<p class="fr-book-desc">Explains security structures and tensions relevant to stay-behind theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Killing+Pablo+Mark+Bowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Killing Pablo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1048203-M.jpg" alt="Cover for Killing Pablo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Killing+Pablo+Mark+Bowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Killing Pablo">Killing Pablo</a>
-        </h4>
-        <p class="fr-book-author">By Mark Bowden</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in complex criminal investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Killing+Pablo+Mark+Bowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Killing+Pablo+Mark+Bowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Killing Pablo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1048203-M.jpg" alt="Cover for Killing Pablo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Killing+Pablo+Mark+Bowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Killing Pablo">Killing Pablo</a>
+</h4>
+<p class="fr-book-author">By Mark Bowden</p>
+        
+<p class="fr-book-desc">Appeals to readers interested in complex criminal investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Killing+Pablo+Mark+Bowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Postwar: A History of Europe Since 1945 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/111385-M.jpg" alt="Cover for Postwar: A History of Europe Since 1945" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Postwar: A History of Europe Since 1945">Postwar: A History of Europe Since 1945</a>
-        </h4>
-        <p class="fr-book-author">By Tony Judt</p>
-
-        <p class="fr-book-desc">Places the bombings within wider late Cold War Europe.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Postwar: A History of Europe Since 1945 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/111385-M.jpg" alt="Cover for Postwar: A History of Europe Since 1945" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Postwar: A History of Europe Since 1945">Postwar: A History of Europe Since 1945</a>
+</h4>
+<p class="fr-book-author">By Tony Judt</p>
+        
+<p class="fr-book-desc">Places the bombings within wider late Cold War Europe.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945+Tony+Judt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Terrorism%3A+A+Very+Short+Introduction+Townshend%2C+Charles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Terrorism: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/117732-M.jpg" alt="Cover for Terrorism: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Terrorism%3A+A+Very+Short+Introduction+Townshend%2C+Charles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Terrorism: A Very Short Introduction">Terrorism: A Very Short Introduction</a>
-        </h4>
-        <p class="fr-book-author">By Townshend, Charles., Charles Townshend</p>
-
-        <p class="fr-book-desc">Helps readers understand bombing campaigns and investigative context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Terrorism%3A+A+Very+Short+Introduction+Townshend%2C+Charles.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Terrorism%3A+A+Very+Short+Introduction+Townshend%2C+Charles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Terrorism: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/117732-M.jpg" alt="Cover for Terrorism: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Terrorism%3A+A+Very+Short+Introduction+Townshend%2C+Charles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Terrorism: A Very Short Introduction">Terrorism: A Very Short Introduction</a>
+</h4>
+<p class="fr-book-author">By Townshend, Charles., Charles Townshend</p>
+        
+<p class="fr-book-desc">Helps readers understand bombing campaigns and investigative context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Terrorism%3A+A+Very+Short+Introduction+Townshend%2C+Charles.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War : A New History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Killing+Pablo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Killing Pablo</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Postwar: A History of Europe Since 1945</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War : A New History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Killing+Pablo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Killing Pablo</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Postwar%3A+A+History+of+Europe+Since+1945&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Postwar: A History of Europe Since 1945</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -209,13 +209,13 @@ description: Tunisia’s most compelling historical mysteries are not stories of
 hero_summary: Tunisia’s most compelling historical mysteries are not stories of supernatural forces or hidden global conspiracies. They are disputes created by damaged evidence, hostile ancient witnesses, incomplete excavations, sealed archives and political memories that remain contested.
 layout: default
 permalink: /what-really-happened-in-tunisias/
-nav_short_title: "Which Parts of Tunisia's Past Remain Unexplained?"
-title: "Which Parts of Tunisia's Past Remain Unexplained?"
-title_full: "Which Parts of Tunisia's Past Remain Unexplained?"
-display_title_short: "Which Parts of Tunisia's Past Remain Unexplained?"
-display_title: "Which Parts of Tunisia's Past Remain Unexplained?"
-heading_title: "Which Parts of Tunisia's Past Remain Unexplained?"
-page_heading_title: "Which Parts of Tunisia's Past Remain Unexplained?"
+nav_short_title: What Really Happened in Tunisia's Greatest Mysteries?
+title: What Really Happened in Tunisia's Greatest Mysteries?
+title_full: What Really Happened in Tunisia's Greatest Mysteries?
+display_title_short: What Really Happened in Tunisia's Greatest Mysteries?
+display_title: What Really Happened in Tunisia's Greatest Mysteries?
+heading_title: What Really Happened in Tunisia's Greatest Mysteries?
+page_heading_title: What Really Happened in Tunisia's Greatest Mysteries?
 source_count: 108
 infographic_count: 3
 page_website_name: Tunisia Mysteries
@@ -1310,89 +1310,89 @@ Tunisia’s mysteries also reflect the country’s position at the centre of Med
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Tunisia&#x27;s Greatest Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Tunisia&#x27;s Greatest Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carthage must be destroyed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273668-M.jpg" alt="Cover for Carthage must be destroyed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
-        </h4>
-        <p class="fr-book-author">By Richard Miles</p>
-
-        <p class="fr-book-desc">Covers several of Tunisia&#x27;s biggest historical controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carthage must be destroyed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273668-M.jpg" alt="Cover for Carthage must be destroyed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
+</h4>
+<p class="fr-book-author">By Richard Miles</p>
+        
+<p class="fr-book-desc">Covers several of Tunisia&#x27;s biggest historical controversies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Punic wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2356720-M.jpg" alt="Cover for The Punic wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Punic wars">The Punic wars</a>
-        </h4>
-        <p class="fr-book-author">By Adrian Keith Goldsworthy</p>
-
-        <p class="fr-book-desc">Provides context for Carthage and Roman accounts central to many mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Punic wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2356720-M.jpg" alt="Cover for The Punic wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Punic wars">The Punic wars</a>
+</h4>
+<p class="fr-book-author">By Adrian Keith Goldsworthy</p>
+        
+<p class="fr-book-desc">Provides context for Carthage and Roman accounts central to many mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Punic+wars+Adrian+Keith+Goldsworthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
-        </h4>
-        <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
-
-        <p class="fr-book-desc">Provides Roman context for interpreting ancient sources on Carthage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
+</h4>
+<p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
+        
+<p class="fr-book-desc">Provides Roman context for interpreting ancient sources on Carthage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tunisia%3A+An+Arab+Anomaly+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tunisia: An Arab Anomaly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8801306-M.jpg" alt="Cover for Tunisia: An Arab Anomaly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tunisia%3A+An+Arab+Anomaly+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tunisia: An Arab Anomaly">Tunisia: An Arab Anomaly</a>
-        </h4>
-        <p class="fr-book-author">By Safwan M. Masri</p>
-
-        <p class="fr-book-desc">Explains the country&#x27;s modern political history and contested narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tunisia%3A+An+Arab+Anomaly+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tunisia%3A+An+Arab+Anomaly+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tunisia: An Arab Anomaly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8801306-M.jpg" alt="Cover for Tunisia: An Arab Anomaly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tunisia%3A+An+Arab+Anomaly+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tunisia: An Arab Anomaly">Tunisia: An Arab Anomaly</a>
+</h4>
+<p class="fr-book-author">By Safwan M. Masri</p>
+        
+<p class="fr-book-desc">Explains the country&#x27;s modern political history and contested narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tunisia%3A+An+Arab+Anomaly+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carthage must be destroyed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Punic+wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Punic wars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=SPQR&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SPQR</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carthage must be destroyed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Punic+wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Punic wars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=SPQR&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SPQR</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

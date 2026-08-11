@@ -1296,7 +1296,8 @@ Some evidence has suggested that items worn or carried by the offender had unusu
 
 The killings are recent compared with the other mysteries on this page, but they have acquired historical significance through their duration, the scale of the investigation and the extraordinary contrast between the traces left behind and the absence of an arrest. The case may still be solvable: new database matches, family-based genetic investigation where legally permissible, or credible witness information could create a breakthrough. Until that happens, responsible discussion should keep the victims at the centre rather than treating the offender’s behaviour as entertainment.
 
-## The historical picture around Japan's historical mysteries
+## Why these mysteries endure
+
 Japan’s unresolved cases survive for different reasons. Yamatai is obscured by the distance between ancient texts and archaeological interpretation. The Honjo Masamune disappeared during an administrative upheaval in which accurate records were not always preserved. The Shimoyama and Teigin cases were shaped by the instability of occupied Japan and by investigations whose conclusions remain contested. The 300 million yen robbery produced too many weak clues rather than one decisive clue, while the Setagaya investigation demonstrates the limits of forensic evidence without a matching identity.
 
 They also show why “mystery” should not be confused with “conspiracy”. Several cases invite dramatic explanations involving intelligence agencies, secret wartime units or suppressed discoveries. Such possibilities cannot always be ruled out, but possibility is not proof. The most reliable assessment begins by separating three categories:
@@ -1335,7 +1336,7 @@ That distinction does not make the mysteries less interesting. It reveals what i
 <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Modern History of Japan">A Modern History of Japan</a>
 </h4>
 <p class="fr-book-author">By Andrew Gordon</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: History, Nonfiction, Japan, history, Edo-Zeit, Meiji-Periode.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1353,7 @@ That distinction does not make the mysteries less interesting. It reveals what i
 <a href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Japan">A history of Japan</a>
 </h4>
 <p class="fr-book-author">By Sansom, George Bailey Sir</p>
-
+        
 <p class="fr-book-desc">First published 1964. Subjects: History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,7 +1370,7 @@ That distinction does not make the mysteries less interesting. It reveals what i
 <a href="https://www.amazon.com/s?k=Lost+Japan+Alex+Kerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Japan">Lost Japan</a>
 </h4>
 <p class="fr-book-author">By Alex Kerr</p>
-
+        
 <p class="fr-book-desc">First published 1996. Subjects: Fiction, Travel Literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lost+Japan+Alex+Kerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1386,7 +1387,7 @@ That distinction does not make the mysteries less interesting. It reveals what i
 <a href="https://www.amazon.com/s?k=Japan%3A+A+History+Conrad+Totman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan: A History">Japan: A History</a>
 </h4>
 <p class="fr-book-author">By Conrad Totman</p>
-
+        
 <p class="fr-book-desc">Provides context from ancient to modern Japan.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Japan%3A+A+History+Conrad+Totman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

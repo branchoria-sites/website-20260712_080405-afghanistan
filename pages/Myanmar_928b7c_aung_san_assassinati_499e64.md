@@ -319,7 +319,8 @@ The third is whether **senior British political or intelligence authorities dire
 
 <img src="{{ "/assets/images/Myanmar_928b7c_aung_san_assassinati_499e64-Illustration-3-dark.svg" | relative_url }}" alt="Aung San illustration 3" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_aung_san_assassinati_499e64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_aung_san_assassinati_499e64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Aung San
+## Why the mystery still matters
+
 The significance of the assassination extends far beyond identifying the killers. Aung San had negotiated Burma's independence and sought agreements with many of the country's ethnic communities. His death removed the politician most widely viewed as capable of holding together a fragile coalition at a critical moment.
 
 This has encouraged later generations to ask whether Burma's subsequent instability—including civil conflict, military intervention and repeated constitutional crises—might have unfolded differently had he survived. That counterfactual cannot be answered, but it explains why the search for a wider conspiracy carries such emotional and political weight.
@@ -349,7 +350,7 @@ The enduring mystery, therefore, is not whether U Saw bore responsibility. That 
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
 </h4>
 <p class="fr-book-author">By Amitav Ghosh</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: Fiction, History, Historical fiction, Love stories, Domestic fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +367,7 @@ The enduring mystery, therefore, is not whether U Saw bore responsibility. That 
 <a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finding George Orwell in Burma">Finding George Orwell in Burma</a>
 </h4>
 <p class="fr-book-author">By Emma Larkin</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Travel, Politics and government, Description and travel, Nonfiction, Orwell, george, 1903-1950.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Finding+George+Orwell+in+Burma+Emma+Larkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +384,7 @@ The enduring mystery, therefore, is not whether U Saw bore responsibility. That 
 <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Lost Footsteps: Histories of Burma">The River of Lost Footsteps: Histories of Burma</a>
 </h4>
 <p class="fr-book-author">By Thant Myint-U</p>
-
+        
 <p class="fr-book-desc">Explains Aung San&#x27;s career and the political context of his assassination.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +401,7 @@ The enduring mystery, therefore, is not whether U Saw bore responsibility. That 
 <a href="https://www.amazon.com/s?k=Burma%3A+The+Longest+War+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burma: The Longest War">Burma: The Longest War</a>
 </h4>
 <p class="fr-book-author">By Thant Myint-U</p>
-
+        
 <p class="fr-book-desc">Places the assassination within Burma&#x27;s broader political trajectory.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Burma%3A+The+Longest+War+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

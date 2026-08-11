@@ -357,89 +357,89 @@ That missing state trail has made the assassination an enduring symbol of both C
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Really Ordered Georgi Markov&#x27;s Murder?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Really Ordered Georgi Markov&#x27;s Murder?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The spy and the traitor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8824555-M.jpg" alt="Cover for The spy and the traitor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
-        </h4>
-        <p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
-
-        <p class="fr-book-desc">Provides accessible background on Soviet-bloc intelligence operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The spy and the traitor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8824555-M.jpg" alt="Cover for The spy and the traitor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
+</h4>
+<p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
+        
+<p class="fr-book-desc">Provides accessible background on Soviet-bloc intelligence operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+truth+that+killed+Georgi+Markov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The truth that killed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4184782-M.jpg" alt="Cover for The truth that killed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+truth+that+killed+Georgi+Markov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The truth that killed">The truth that killed</a>
-        </h4>
-        <p class="fr-book-author">By Georgi Markov</p>
-
-        <p class="fr-book-desc">Collects Markov&#x27;s influential essays and broadcasts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+truth+that+killed+Georgi+Markov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+truth+that+killed+Georgi+Markov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The truth that killed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4184782-M.jpg" alt="Cover for The truth that killed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+truth+that+killed+Georgi+Markov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The truth that killed">The truth that killed</a>
+</h4>
+<p class="fr-book-author">By Georgi Markov</p>
+        
+<p class="fr-book-desc">Collects Markov&#x27;s influential essays and broadcasts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+truth+that+killed+Georgi+Markov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A concise history of Bulgaria on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346477-M.jpg" alt="Cover for A concise history of Bulgaria" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A concise history of Bulgaria">A concise history of Bulgaria</a>
-        </h4>
-        <p class="fr-book-author">By R. J. Crampton</p>
-
-        <p class="fr-book-desc">Explains the communist period and state security context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A concise history of Bulgaria on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346477-M.jpg" alt="Cover for A concise history of Bulgaria" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A concise history of Bulgaria">A concise history of Bulgaria</a>
+</h4>
+<p class="fr-book-author">By R. J. Crampton</p>
+        
+<p class="fr-book-desc">Explains the communist period and state security context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria+R.+J.+Crampton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Umbrella+Murder+Ulrik+Skotte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Umbrella Murder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Umbrella+Murder+Ulrik+Skotte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Umbrella Murder">Umbrella Murder</a>
-        </h4>
-        <p class="fr-book-author">By Ulrik Skotte</p>
-
-        <p class="fr-book-desc">Focuses directly on the murder, investigation and intelligence background.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Umbrella+Murder+Ulrik+Skotte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Umbrella+Murder+Ulrik+Skotte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Umbrella Murder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Umbrella+Murder+Ulrik+Skotte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Umbrella Murder">Umbrella Murder</a>
+</h4>
+<p class="fr-book-author">By Ulrik Skotte</p>
+        
+<p class="fr-book-desc">Focuses directly on the murder, investigation and intelligence background.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Umbrella+Murder+Ulrik+Skotte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+spy+and+the+traitor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The spy and the traitor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+truth+that+killed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The truth that killed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A concise history of Bulgaria</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+spy+and+the+traitor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The spy and the traitor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+truth+that+killed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The truth that killed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+concise+history+of+Bulgaria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A concise history of Bulgaria</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

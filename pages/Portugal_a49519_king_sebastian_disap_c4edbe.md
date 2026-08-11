@@ -355,89 +355,89 @@ The enduring fascination therefore rests on two intertwined questions. The histo
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Portugal&#x27;s Lost King Really Die in Morocco?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Portugal&#x27;s Lost King Really Die in Morocco?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History Of Portugal And The Portuguese Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7581573-M.jpg" alt="Cover for A History Of Portugal And The Portuguese Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Portugal And The Portuguese Empire">A History Of Portugal And The Portuguese Empire</a>
-        </h4>
-        <p class="fr-book-author">By A. R. Disney</p>
-
-        <p class="fr-book-desc">Explains Sebastian&#x27;s reign, death and succession crisis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History Of Portugal And The Portuguese Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7581573-M.jpg" alt="Cover for A History Of Portugal And The Portuguese Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History Of Portugal And The Portuguese Empire">A History Of Portugal And The Portuguese Empire</a>
+</h4>
+<p class="fr-book-author">By A. R. Disney</p>
+        
+<p class="fr-book-desc">Explains Sebastian&#x27;s reign, death and succession crisis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire+A.+R.+Disney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre+Natalie+Zemon+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Return of Martin Guerre on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4221780-M.jpg" alt="Cover for The Return of Martin Guerre" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre+Natalie+Zemon+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return of Martin Guerre">The Return of Martin Guerre</a>
-        </h4>
-        <p class="fr-book-author">By Natalie Zemon Davis, Jean-Claude Carrière et al.</p>
-
-        <p class="fr-book-desc">Useful comparison for legends of missing historical figures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre+Natalie+Zemon+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre+Natalie+Zemon+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Return of Martin Guerre on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4221780-M.jpg" alt="Cover for The Return of Martin Guerre" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre+Natalie+Zemon+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return of Martin Guerre">The Return of Martin Guerre</a>
+</h4>
+<p class="fr-book-author">By Natalie Zemon Davis, Jean-Claude Carrière et al.</p>
+        
+<p class="fr-book-desc">Useful comparison for legends of missing historical figures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre+Natalie+Zemon+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046603-M.jpg" alt="Cover for The Portuguese: A Modern History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese: A Modern History">The Portuguese: A Modern History</a>
-        </h4>
-        <p class="fr-book-author">By Barry Hatton</p>
-
-        <p class="fr-book-desc">Explains Sebastianism&#x27;s lasting place in Portuguese identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046603-M.jpg" alt="Cover for The Portuguese: A Modern History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese: A Modern History">The Portuguese: A Modern History</a>
+</h4>
+<p class="fr-book-author">By Barry Hatton</p>
+        
+<p class="fr-book-desc">Explains Sebastianism&#x27;s lasting place in Portuguese identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors: How Portugal Forged the First Global Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors: How Portugal Forged the First Global Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors: How Portugal Forged the First Global Empire">Conquerors: How Portugal Forged the First Global Empire</a>
-        </h4>
-        <p class="fr-book-author">By Roger Crowley</p>
-
-        <p class="fr-book-desc">Covers the era that culminated in Sebastian&#x27;s campaign.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors: How Portugal Forged the First Global Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors: How Portugal Forged the First Global Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors: How Portugal Forged the First Global Empire">Conquerors: How Portugal Forged the First Global Empire</a>
+</h4>
+<p class="fr-book-author">By Roger Crowley</p>
+        
+<p class="fr-book-desc">Covers the era that culminated in Sebastian&#x27;s campaign.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History Of Portugal And The Portuguese Empire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Return of Martin Guerre</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese: A Modern History</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+Of+Portugal+And+The+Portuguese+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History Of Portugal And The Portuguese Empire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Return+of+Martin+Guerre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Return of Martin Guerre</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese: A Modern History</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

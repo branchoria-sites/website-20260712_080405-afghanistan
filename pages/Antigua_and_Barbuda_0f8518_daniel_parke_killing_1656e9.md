@@ -304,7 +304,8 @@ Several important questions continue to resist definitive answers because surviv
 
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_daniel_parke_killing_1656e9-Illustration-3-dark.svg" | relative_url }}" alt="Daniel Parke illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_daniel_parke_killing_1656e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_daniel_parke_killing_1656e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Daniel Parke
+## Why the case still matters
+
 Daniel Parke's death remains historically significant because it exposed the limits of imperial authority in the early eighteenth-century Caribbean. The episode demonstrated that even a governor appointed directly by the Crown could be overwhelmed when military force, local political power and public anger converged against him.
 
 Equally important is the unresolved aftermath. The absence of successful prosecutions left later generations with competing narratives: one emphasising rebellion against lawful government, another portraying resistance to an abusive ruler. Because the legal process never established a widely accepted account of responsibility, historians must reconstruct events from partisan letters, official reports and later recollections, all shaped by the political conflicts that produced the killing itself. That incomplete reckoning is what makes Daniel Parke's death one of Antigua and Barbuda's most enduring historical mysteries.
@@ -332,7 +333,7 @@ Equally important is the unresolved aftermath. The absence of successful prosecu
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
 </h4>
 <p class="fr-book-author">By Jan Rogozinski</p>
-
+        
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -349,7 +350,7 @@ Equally important is the unresolved aftermath. The absence of successful prosecu
 <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1493">1493</a>
 </h4>
 <p class="fr-book-author">By Charles C. Mann</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: New York Times bestseller, Economic history, Commerce, History, Ecology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +367,7 @@ Equally important is the unresolved aftermath. The absence of successful prosecu
 <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire&#x27;s Crossroads">Empire&#x27;s Crossroads</a>
 </h4>
 <p class="fr-book-author">By Carrie Gibson</p>
-
+        
 <p class="fr-book-desc">First published 2001. Subjects: Caribbean area, history, Caribbean area, social conditions, New York Times reviewed, History, Social cond...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +384,7 @@ Equally important is the unresolved aftermath. The absence of successful prosecu
 <a href="https://www.amazon.com/s?k=A+History+of+Antigua%3A+The+Unsuspected+Isle+Christopher+K.+Dobson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Antigua: The Unsuspected Isle">A History of Antigua: The Unsuspected Isle</a>
 </h4>
 <p class="fr-book-author">By Christopher K. Dobson</p>
-
+        
 <p class="fr-book-desc">Covers colonial Antigua and the Parke episode.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Antigua%3A+The+Unsuspected+Isle+Christopher+K.+Dobson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -323,7 +323,8 @@ Improved dating of individual fields, together with further environmental and se
 
 <img src="{{ "/assets/images/Tanzania_7e380b_engaruka_abandonment_c730d8-Illustration-3-dark.svg" | relative_url }}" alt="Engaruka illustration 3" data-theme-src-dark="{{ "/assets/images/Tanzania_7e380b_engaruka_abandonment_c730d8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tanzania_7e380b_engaruka_abandonment_c730d8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Engaruka
+## Why the mystery still matters
+
 Engaruka remains significant because it overturns a once-popular narrative that ancient irrigation societies inevitably destroyed their own environment. Instead, the archaeological evidence increasingly portrays a community capable of adapting its farming practices over centuries in a challenging landscape.
 
 The real mystery is therefore not how the irrigation worked, but why people eventually stopped using a system that appears to have been both sophisticated and resilient. The strongest current interpretation is that abandonment resulted from several interacting pressures—including changing water availability, regional economic shifts, social and political change, and gradual migration—rather than from one catastrophic environmental collapse. That combination makes Engaruka one of Tanzania's most intriguing examples of an archaeological puzzle where the engineering survives far better than the human story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/quaternary-research/article/geoarchaeological-evidence-for-the-construction-irrigation-cultivation-and-resilience-of-15th18th-century-ad-terraced-landscape-at-engaruka-tanzania/05DBDE9BE807417CB5A0FD6A564943EA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentGeoarchaeological evidence for the construction, irrigation, cultivation, and resilience of 15th...</span></span></span>
@@ -334,89 +335,89 @@ The real mystery is therefore not how the irrigation worked, but why people even
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Engaruka&#x27;s Farmers Leave?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Engaruka&#x27;s Farmers Leave?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Collapse%3A+How+Societies+Choose+to+Fail+or+Succeed+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Collapse: How Societies Choose to Fail or Succeed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12915198-M.jpg" alt="Cover for Collapse: How Societies Choose to Fail or Succeed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Collapse%3A+How+Societies+Choose+to+Fail+or+Succeed+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse: How Societies Choose to Fail or Succeed">Collapse: How Societies Choose to Fail or Succeed</a>
-        </h4>
-        <p class="fr-book-author">By Jared Diamond</p>
-
-        <p class="fr-book-desc">Explores competing explanations for abandoned societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Collapse%3A+How+Societies+Choose+to+Fail+or+Succeed+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Collapse%3A+How+Societies+Choose+to+Fail+or+Succeed+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Collapse: How Societies Choose to Fail or Succeed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12915198-M.jpg" alt="Cover for Collapse: How Societies Choose to Fail or Succeed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Collapse%3A+How+Societies+Choose+to+Fail+or+Succeed+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse: How Societies Choose to Fail or Succeed">Collapse: How Societies Choose to Fail or Succeed</a>
+</h4>
+<p class="fr-book-author">By Jared Diamond</p>
+        
+<p class="fr-book-desc">Explores competing explanations for abandoned societies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Collapse%3A+How+Societies+Choose+to+Fail+or+Succeed+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Past: World Prehistory and the Development of Human Societies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316866-M.jpg" alt="Cover for The Human Past: World Prehistory and the Development of Human Societies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past: World Prehistory and the Development of Human Societies">The Human Past: World Prehistory and the Development of Human...</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
-
-        <p class="fr-book-desc">Offers broader context for prehistoric agricultural societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Past: World Prehistory and the Development of Human Societies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316866-M.jpg" alt="Cover for The Human Past: World Prehistory and the Development of Human Societies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Past: World Prehistory and the Development of Human Societies">The Human Past: World Prehistory and the Development of Human...</a>
+</h4>
+<p class="fr-book-author">By Christopher Scarre, Chris Scarre</p>
+        
+<p class="fr-book-desc">Offers broader context for prehistoric agricultural societies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies+Christopher+Scarre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Archaeology: A Critical Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African Archaeology: A Critical Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Archaeology: A Critical Introduction">African Archaeology: A Critical Introduction</a>
-        </h4>
-        <p class="fr-book-author">By David W. Phillipson</p>
-
-        <p class="fr-book-desc">Explains evidence for settlement change and landscape archaeology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Archaeology: A Critical Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African Archaeology: A Critical Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Archaeology: A Critical Introduction">African Archaeology: A Critical Introduction</a>
+</h4>
+<p class="fr-book-author">By David W. Phillipson</p>
+        
+<p class="fr-book-desc">Explains evidence for settlement change and landscape archaeology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Africa: Food, Metals and Towns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12755656-M.jpg" alt="Cover for The Archaeology of Africa: Food, Metals and Towns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Africa: Food, Metals and Towns">The Archaeology of Africa: Food, Metals and Towns</a>
-        </h4>
-        <p class="fr-book-author">By Thurstan Shaw</p>
-
-        <p class="fr-book-desc">Places Engaruka within broader regional developments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Africa: Food, Metals and Towns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12755656-M.jpg" alt="Cover for The Archaeology of Africa: Food, Metals and Towns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Africa: Food, Metals and Towns">The Archaeology of Africa: Food, Metals and Towns</a>
+</h4>
+<p class="fr-book-author">By Thurstan Shaw</p>
+        
+<p class="fr-book-desc">Places Engaruka within broader regional developments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Collapse%3A+How+Societies+Choose+to+Fail+or+Succeed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Collapse: How Societies Choose to Fail or Succeed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past: World Prehistory and the Development of Human Societies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Archaeology: A Critical books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Collapse%3A+How+Societies+Choose+to+Fail+or+Succeed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Collapse: How Societies Choose to Fail or Succeed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Past%3A+World+Prehistory+and+the+Development+of+Human+Societies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Past: World Prehistory and the Development of Human Societies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Archaeology: A Critical books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

@@ -385,7 +385,7 @@ The result is a rare case where two mysteries exist simultaneously: the physical
 <a href="https://www.amazon.com/s?k=The+Northern+Crusades+Eric+Christiansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Northern Crusades">The Northern Crusades</a>
 </h4>
 <p class="fr-book-author">By Eric Christiansen</p>
-
+        
 <p class="fr-book-desc">First published 1980. Subjects: Crusades, Civilization, Medieval, Medieval Civilization, Church history, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Northern+Crusades+Eric+Christiansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The result is a rare case where two mysteries exist simultaneously: the physical
 <a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of Lithuania">The History of Lithuania</a>
 </h4>
 <p class="fr-book-author">By Zigmantas Kiaupa</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ The result is a rare case where two mysteries exist simultaneously: the physical
 <a href="https://www.amazon.com/s?k=The+Crusades+Thomas+Asbridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Crusades">The Crusades</a>
 </h4>
 <p class="fr-book-author">By Thomas Asbridge</p>
-
+        
 <p class="fr-book-desc">First published 2010. Subjects: History, Nonfiction, Religion and civilization, Religious aspects, Relations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Crusades+Thomas+Asbridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ The result is a rare case where two mysteries exist simultaneously: the physical
 <a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lithuania ascending">Lithuania ascending</a>
 </h4>
 <p class="fr-book-author">By S. C. Rowell</p>
-
+        
 <p class="fr-book-desc">First published 1994. Subjects: History, Lithuania, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

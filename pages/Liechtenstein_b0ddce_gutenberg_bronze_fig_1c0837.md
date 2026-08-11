@@ -367,7 +367,7 @@ That combination of strong physical evidence and permanently incomplete interpre
 <a href="https://www.amazon.com/s?k=The+Ancient+Celts+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ancient Celts">The Ancient Celts</a>
 </h4>
 <p class="fr-book-author">By Barry W. Cunliffe</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: Celtic antiquities, Celtic Civilization, Arkeologi, Celts - History - Europe, Celts.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ancient+Celts+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ That combination of strong physical evidence and permanently incomplete interpre
 <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
 </h4>
 <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Archaeology, Textbooks, Methodology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ That combination of strong physical evidence and permanently incomplete interpre
 <a href="https://www.amazon.com/s?k=Europe+between+the+oceans+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe between the oceans">Europe between the oceans</a>
 </h4>
 <p class="fr-book-author">By Barry W. Cunliffe</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Civilization, Western Civilization, Civilization, Western, History, Civilization, western, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Europe+between+the+oceans+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ That combination of strong physical evidence and permanently incomplete interpre
 <a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celts">The Celts</a>
 </h4>
 <p class="fr-book-author">By Alice M. Roberts</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: Celts, Celtic Civilization, History, Civilisation celtique, Celtes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Celts+Alice+M.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

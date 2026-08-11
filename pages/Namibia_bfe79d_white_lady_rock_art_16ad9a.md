@@ -329,89 +329,89 @@ The White Lady therefore stands as both a masterpiece of Indigenous southern Afr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Namibia&#x27;s White Lady Ever a Woman?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Namibia&#x27;s White Lady Ever a Woman?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mind in the Cave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315818-M.jpg" alt="Cover for The Mind in the Cave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mind in the Cave">The Mind in the Cave</a>
-        </h4>
-        <p class="fr-book-author">By J. David Lewis-Williams</p>
-
-        <p class="fr-book-desc">Explains the interpretive framework used for San rock art.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mind in the Cave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315818-M.jpg" alt="Cover for The Mind in the Cave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mind in the Cave">The Mind in the Cave</a>
+</h4>
+<p class="fr-book-author">By J. David Lewis-Williams</p>
+        
+<p class="fr-book-desc">Explains the interpretive framework used for San rock art.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Empires+of+the+Sea+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of the Sea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2733835-M.jpg" alt="Cover for Empires of the Sea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Empires+of+the+Sea+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Sea">Empires of the Sea</a>
-        </h4>
-        <p class="fr-book-author">By Roger Crowley</p>
-
-        <p class="fr-book-desc">First published 2008. Subjects: Islam, Naval battles, Relations, Christianity, Naval History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Empires+of+the+Sea+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Empires+of+the+Sea+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empires of the Sea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2733835-M.jpg" alt="Cover for Empires of the Sea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Empires+of+the+Sea+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empires of the Sea">Empires of the Sea</a>
+</h4>
+<p class="fr-book-author">By Roger Crowley</p>
+        
+<p class="fr-book-desc">First published 2008. Subjects: Islam, Naval battles, Relations, Christianity, Naval History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Empires+of+the+Sea+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Namibia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/886840-M.jpg" alt="Cover for Namibia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Namibia">Namibia</a>
-        </h4>
-        <p class="fr-book-author">By Chris McIntyre</p>
-
-        <p class="fr-book-desc">First published 1998. Subjects: Guidebooks, Namibia, description and travel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Namibia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/886840-M.jpg" alt="Cover for Namibia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Namibia">Namibia</a>
+</h4>
+<p class="fr-book-author">By Chris McIntyre</p>
+        
+<p class="fr-book-desc">First published 1998. Subjects: Guidebooks, Namibia, description and travel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Namibia+Chris+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Shamans+of+Prehistory+David+Lewis-Williams+and+Jean+Clottes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shamans of Prehistory on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shamans+of+Prehistory+David+Lewis-Williams+and+Jean+Clottes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shamans of Prehistory">The Shamans of Prehistory</a>
-        </h4>
-        <p class="fr-book-author">By David Lewis-Williams and Jean Clottes</p>
-
-        <p class="fr-book-desc">Explores shamanistic interpretations relevant to the White Lady.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shamans+of+Prehistory+David+Lewis-Williams+and+Jean+Clottes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Shamans+of+Prehistory+David+Lewis-Williams+and+Jean+Clottes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shamans of Prehistory on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shamans+of+Prehistory+David+Lewis-Williams+and+Jean+Clottes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shamans of Prehistory">The Shamans of Prehistory</a>
+</h4>
+<p class="fr-book-author">By David Lewis-Williams and Jean Clottes</p>
+        
+<p class="fr-book-desc">Explores shamanistic interpretations relevant to the White Lady.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shamans+of+Prehistory+David+Lewis-Williams+and+Jean+Clottes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mind+in+the+Cave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mind in the Cave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+the+Sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of the Sea</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Namibia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Namibia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mind+in+the+Cave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mind in the Cave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Empires+of+the+Sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empires of the Sea</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Namibia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Namibia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

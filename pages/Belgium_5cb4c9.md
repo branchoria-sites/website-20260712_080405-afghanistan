@@ -1347,7 +1347,7 @@ The most responsible reading is less dramatic but more interesting. Belgium’s 
 <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The monuments men">The monuments men</a>
 </h4>
 <p class="fr-book-author">By Robert M. Edsel</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Allied Forces, Art treasures in war, Art and the war, Confiscations and contributions, Protection.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+monuments+men+Robert+M.+Edsel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1364,7 +1364,7 @@ The most responsible reading is less dramatic but more interesting. Belgium’s 
 <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
 </h4>
 <p class="fr-book-author">By Kate Summerscale</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Detectives, biography, Murder, great britain, Murder, Wiltshire, Case studies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1381,7 +1381,7 @@ The most responsible reading is less dramatic but more interesting. Belgium’s 
 <a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Adversary">The Adversary</a>
 </h4>
 <p class="fr-book-author">By Emmanuel Carrère</p>
-
+        
 <p class="fr-book-desc">First published 2001. Subjects: Swindlers and swindling, Murder, france, Murderers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Adversary+Emmanuel+Carr%C3%A8re&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1398,7 +1398,7 @@ The most responsible reading is less dramatic but more interesting. Belgium’s 
 <a href="https://www.amazon.com/s?k=The+Burgundians+Bart+Van+Loo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Burgundians">The Burgundians</a>
 </h4>
 <p class="fr-book-author">By Bart Van Loo</p>
-
+        
 <p class="fr-book-desc">Provides historical context for Belgium&#x27;s heritage and identity.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Burgundians+Bart+Van+Loo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

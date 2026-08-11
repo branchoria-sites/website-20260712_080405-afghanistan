@@ -352,89 +352,89 @@ The Sarajevo Haggadah's missing centuries have become part of its significance. 
 Today the Haggadah is recognised on UNESCO's Memory of the World Register and remains one of Bosnia and Herzegovina's most important cultural treasures. Its incomplete journey reminds historians that silence in the archive is not evidence of conspiracy. More often, it reflects the ordinary losses created by exile, migration and centuries of historical upheaval—leaving a remarkable manuscript whose destination is known, but whose route can still only be traced in fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/memory-world/sarajevo-haggadah-manuscript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">The Sarajevo Haggadah manuscript</span><span class="citation-popover-snippet">The Sarajevo Haggadah manuscript - Memory of the World...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did the Sarajevo Haggadah Reach Bosnia?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did the Sarajevo Haggadah Reach Bosnia?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=People+of+the+book+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open People of the book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14355945-M.jpg" alt="Cover for People of the book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=People+of+the+book+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="People of the book">People of the book</a>
-        </h4>
-        <p class="fr-book-author">By Geraldine Brooks</p>
-
-        <p class="fr-book-desc">Introduces the manuscript&#x27;s remarkable historical journey through fiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=People+of+the+book+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=People+of+the+book+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open People of the book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14355945-M.jpg" alt="Cover for People of the book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=People+of+the+book+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="People of the book">People of the book</a>
+</h4>
+<p class="fr-book-author">By Geraldine Brooks</p>
+        
+<p class="fr-book-desc">Introduces the manuscript&#x27;s remarkable historical journey through fiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=People+of+the+book+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Jews on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7091923-M.jpg" alt="Cover for A history of the Jews" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Jews">A history of the Jews</a>
-        </h4>
-        <p class="fr-book-author">By Paul Bede Johnson</p>
-
-        <p class="fr-book-desc">Provides background on Sephardic Jewish migrations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of the Jews on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7091923-M.jpg" alt="Cover for A history of the Jews" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Jews">A history of the Jews</a>
+</h4>
+<p class="fr-book-author">By Paul Bede Johnson</p>
+        
+<p class="fr-book-desc">Provides background on Sephardic Jewish migrations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+the+Jews+Paul+Bede+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jews+of+Spain+Jane+S.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jews of Spain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4001518-M.jpg" alt="Cover for Jews of Spain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jews+of+Spain+Jane+S.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jews of Spain">Jews of Spain</a>
-        </h4>
-        <p class="fr-book-author">By Jane S. Gerber</p>
-
-        <p class="fr-book-desc">Explains the historical movements behind the Haggadah&#x27;s likely route.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jews+of+Spain+Jane+S.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Jews+of+Spain+Jane+S.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jews of Spain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4001518-M.jpg" alt="Cover for Jews of Spain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jews+of+Spain+Jane+S.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jews of Spain">Jews of Spain</a>
+</h4>
+<p class="fr-book-author">By Jane S. Gerber</p>
+        
+<p class="fr-book-desc">Explains the historical movements behind the Haggadah&#x27;s likely route.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jews+of+Spain+Jane+S.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Sarajevo+Haggadah+Shalom+Sabar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sarajevo Haggadah on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sarajevo+Haggadah+Shalom+Sabar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sarajevo Haggadah">The Sarajevo Haggadah</a>
-        </h4>
-        <p class="fr-book-author">By Shalom Sabar</p>
-
-        <p class="fr-book-desc">Directly addresses the Haggadah&#x27;s origins, artistry and history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sarajevo+Haggadah+Shalom+Sabar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Sarajevo+Haggadah+Shalom+Sabar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sarajevo Haggadah on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sarajevo+Haggadah+Shalom+Sabar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sarajevo Haggadah">The Sarajevo Haggadah</a>
+</h4>
+<p class="fr-book-author">By Shalom Sabar</p>
+        
+<p class="fr-book-desc">Directly addresses the Haggadah&#x27;s origins, artistry and history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sarajevo+Haggadah+Shalom+Sabar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=People+of+the+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">People of the book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+the+Jews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of the Jews</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jews+of+Spain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jews of Spain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=People+of+the+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">People of the book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+the+Jews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of the Jews</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Jews+of+Spain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jews of Spain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

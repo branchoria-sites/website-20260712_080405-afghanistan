@@ -1335,89 +1335,89 @@ The responsible conclusion is rarely that “anything could have happened”. Us
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Australian Mysteries Still Defy Explanation?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Australian Mysteries Still Defy Explanation?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fatal shore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/254448-M.jpg" alt="Cover for The fatal shore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fatal shore">The fatal shore</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hughes</p>
-
-        <p class="fr-book-desc">Provides rich historical context for many enduring Australian mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fatal shore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/254448-M.jpg" alt="Cover for The fatal shore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fatal shore">The fatal shore</a>
+</h4>
+<p class="fr-book-author">By Robert Hughes</p>
+        
+<p class="fr-book-desc">Provides rich historical context for many enduring Australian mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fatal+shore+Robert+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mammoth book of unsolved crimes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14370213-M.jpg" alt="Cover for The mammoth book of unsolved crimes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
-        </h4>
-        <p class="fr-book-author">By Roger Wilkes</p>
-
-        <p class="fr-book-desc">Places Australian mysteries within wider unsolved-crime history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mammoth book of unsolved crimes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14370213-M.jpg" alt="Cover for The mammoth book of unsolved crimes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
+</h4>
+<p class="fr-book-author">By Roger Wilkes</p>
+        
+<p class="fr-book-desc">Places Australian mysteries within wider unsolved-crime history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unknown Man: A Suspicious Death at Somerton Beach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8479038-M.jpg" alt="Cover for The Unknown Man: A Suspicious Death at Somerton Beach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unknown Man: A Suspicious Death at Somerton Beach">The Unknown Man: A Suspicious Death at Somerton Beach</a>
-        </h4>
-        <p class="fr-book-author">By G M Feltus</p>
-
-        <p class="fr-book-desc">Explores one of Australia&#x27;s most famous unexplained deaths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unknown Man: A Suspicious Death at Somerton Beach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8479038-M.jpg" alt="Cover for The Unknown Man: A Suspicious Death at Somerton Beach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unknown Man: A Suspicious Death at Somerton Beach">The Unknown Man: A Suspicious Death at Somerton Beach</a>
+</h4>
+<p class="fr-book-author">By G M Feltus</p>
+        
+<p class="fr-book-desc">Explores one of Australia&#x27;s most famous unexplained deaths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach+G+M+Feltus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+You%3A+The+Beaumont+Children%2C+Australia%27s+Most+Famous+Cold+Case+Richard+Yallop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing You: The Beaumont Children, Australia&#x27;s Most Famous Cold Case on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+You%3A+The+Beaumont+Children%2C+Australia%27s+Most+Famous+Cold+Case+Richard+Yallop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing You: The Beaumont Children, Australia&#x27;s Most Famous Cold Case">Missing You: The Beaumont Children, Australia&#x27;s Most Famous C...</a>
-        </h4>
-        <p class="fr-book-author">By Richard Yallop</p>
-
-        <p class="fr-book-desc">Covers the country&#x27;s defining missing-person mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+You%3A+The+Beaumont+Children%2C+Australia%27s+Most+Famous+Cold+Case+Richard+Yallop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+You%3A+The+Beaumont+Children%2C+Australia%27s+Most+Famous+Cold+Case+Richard+Yallop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing You: The Beaumont Children, Australia&#x27;s Most Famous Cold Case on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+You%3A+The+Beaumont+Children%2C+Australia%27s+Most+Famous+Cold+Case+Richard+Yallop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing You: The Beaumont Children, Australia&#x27;s Most Famous Cold Case">Missing You: The Beaumont Children, Australia&#x27;s Most Famous C...</a>
+</h4>
+<p class="fr-book-author">By Richard Yallop</p>
+        
+<p class="fr-book-desc">Covers the country&#x27;s defining missing-person mystery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+You%3A+The+Beaumont+Children%2C+Australia%27s+Most+Famous+Cold+Case+Richard+Yallop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fatal+shore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fatal shore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mammoth book of unsolved crimes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unknown Man: A Suspicious Death at Somerton Beach</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fatal+shore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fatal shore</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mammoth book of unsolved crimes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unknown+Man%3A+A+Suspicious+Death+at+Somerton+Beach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unknown Man: A Suspicious Death at Somerton Beach</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

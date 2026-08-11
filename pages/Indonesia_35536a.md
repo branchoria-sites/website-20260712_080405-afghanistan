@@ -209,13 +209,13 @@ description: Indonesia’s most enduring historical mysteries are rarely puzzles
 hero_summary: Indonesia’s most enduring historical mysteries are rarely puzzles with a single missing clue. They are more often the result of inaccessible archives, political repression, lost documents, unreliable testimony or discoveries that became entangled with national identity.
 layout: default
 permalink: /which-mysteries-still-haunt-indonesias/
-nav_short_title: "Evidence, Legend and Mystery in Indonesia's Past"
-title: "Evidence, Legend and Mystery in Indonesia's Past"
-title_full: "Evidence, Legend and Mystery in Indonesia's Past"
-display_title_short: "Evidence, Legend and Mystery in Indonesia's Past"
-display_title: "Evidence, Legend and Mystery in Indonesia's Past"
-heading_title: "Evidence, Legend and Mystery in Indonesia's Past"
-page_heading_title: "Evidence, Legend and Mystery in Indonesia's Past"
+nav_short_title: Which Mysteries Still Haunt Indonesia's History?
+title: Which Mysteries Still Haunt Indonesia's History?
+title_full: Which Mysteries Still Haunt Indonesia's History?
+display_title_short: Which Mysteries Still Haunt Indonesia's History?
+display_title: Which Mysteries Still Haunt Indonesia's History?
+heading_title: Which Mysteries Still Haunt Indonesia's History?
+page_heading_title: Which Mysteries Still Haunt Indonesia's History?
 source_count: 101
 infographic_count: 3
 page_website_name: Indonesia Mysteries
@@ -1314,7 +1314,8 @@ The *Ourang Medan* remains culturally interesting, but it should not be ranked a
 
 <img src="{{ "/assets/images/Indonesia_35536a-Illustration-3-dark.svg" | relative_url }}" alt="Which Mysteries Still Haunt Indonesia&#x27;s... illustration 3" data-theme-src-dark="{{ "/assets/images/Indonesia_35536a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indonesia_35536a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Indonesia's historical mysteries
+## Why these mysteries endure
+
 Indonesia’s unresolved history reflects the conditions under which evidence was created and preserved. Authoritarian government restricted investigation; military and intelligence institutions kept crucial activities secret; families of victims lacked access to records; colonial officials filtered Indigenous testimony; and fragile archaeological findings entered political and popular debate before specialists had reached agreement.
 
 The cases also show that “unresolved” has several meanings:
@@ -1341,89 +1342,89 @@ These distinctions matter. A missing archive should not automatically be treated
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt Indonesia&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt Indonesia&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Indonesia since c. 1200 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/577988-M.jpg" alt="Cover for A history of modern Indonesia since c. 1200" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Indonesia since c. 1200">A history of modern Indonesia since c. 1200</a>
-        </h4>
-        <p class="fr-book-author">By M. C. Ricklefs</p>
-
-        <p class="fr-book-desc">Provides context for Indonesia&#x27;s major historical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Indonesia since c. 1200 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/577988-M.jpg" alt="Cover for A history of modern Indonesia since c. 1200" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Indonesia since c. 1200">A history of modern Indonesia since c. 1200</a>
+</h4>
+<p class="fr-book-author">By M. C. Ricklefs</p>
+        
+<p class="fr-book-desc">Provides context for Indonesia&#x27;s major historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jakarta Method on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13158267-M.jpg" alt="Cover for The Jakarta Method" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
-        </h4>
-        <p class="fr-book-author">By Vincent Bevins</p>
-
-        <p class="fr-book-desc">Explains the global significance of Indonesia&#x27;s 1965 crisis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jakarta Method on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13158267-M.jpg" alt="Cover for The Jakarta Method" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
+</h4>
+<p class="fr-book-author">By Vincent Bevins</p>
+        
+<p class="fr-book-desc">Explains the global significance of Indonesia&#x27;s 1965 crisis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indonesia+etc+Elizabeth+Pisani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indonesia etc on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10295530-M.jpg" alt="Cover for Indonesia etc" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indonesia+etc+Elizabeth+Pisani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indonesia etc">Indonesia etc</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Pisani</p>
-
-        <p class="fr-book-desc">Introduces Indonesia&#x27;s regions, politics and historical complexity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indonesia+etc+Elizabeth+Pisani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indonesia+etc+Elizabeth+Pisani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indonesia etc on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10295530-M.jpg" alt="Cover for Indonesia etc" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indonesia+etc+Elizabeth+Pisani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indonesia etc">Indonesia etc</a>
+</h4>
+<p class="fr-book-author">By Elizabeth Pisani</p>
+        
+<p class="fr-book-desc">Introduces Indonesia&#x27;s regions, politics and historical complexity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indonesia+etc+Elizabeth+Pisani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indonesia%3A+Peoples+and+Histories+Jean+Gelman+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indonesia: Peoples and Histories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1161957-M.jpg" alt="Cover for Indonesia: Peoples and Histories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indonesia%3A+Peoples+and+Histories+Jean+Gelman+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indonesia: Peoples and Histories">Indonesia: Peoples and Histories</a>
-        </h4>
-        <p class="fr-book-author">By Jean Gelman Taylor</p>
-
-        <p class="fr-book-desc">Provides balanced historical background across Indonesian history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indonesia%3A+Peoples+and+Histories+Jean+Gelman+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indonesia%3A+Peoples+and+Histories+Jean+Gelman+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indonesia: Peoples and Histories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1161957-M.jpg" alt="Cover for Indonesia: Peoples and Histories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indonesia%3A+Peoples+and+Histories+Jean+Gelman+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indonesia: Peoples and Histories">Indonesia: Peoples and Histories</a>
+</h4>
+<p class="fr-book-author">By Jean Gelman Taylor</p>
+        
+<p class="fr-book-desc">Provides balanced historical background across Indonesian history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indonesia%3A+Peoples+and+Histories+Jean+Gelman+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Indonesia since c. 1200</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jakarta+Method&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jakarta Method</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indonesia+etc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indonesia etc</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Indonesia+since+c.+1200&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Indonesia since c. 1200</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jakarta+Method&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jakarta Method</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indonesia+etc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indonesia etc</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

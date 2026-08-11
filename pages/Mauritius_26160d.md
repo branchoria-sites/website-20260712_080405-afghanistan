@@ -1318,89 +1318,89 @@ That distinction between fact, inference and legend does not diminish the storie
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Mauritian Mysteries Are History or Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Mauritian Mysteries Are History or Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The republic of pirates on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10102420-M.jpg" alt="Cover for The republic of pirates" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The republic of pirates">The republic of pirates</a>
-        </h4>
-        <p class="fr-book-author">By Colin Woodard</p>
-
-        <p class="fr-book-desc">Provides context for Indian Ocean pirate legends including La Buse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The republic of pirates on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10102420-M.jpg" alt="Cover for The republic of pirates" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The republic of pirates">The republic of pirates</a>
+</h4>
+<p class="fr-book-author">By Colin Woodard</p>
+        
+<p class="fr-book-desc">Provides context for Indian Ocean pirate legends including La Buse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+republic+of+pirates+Colin+Woodard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blue Latitudes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/26320-M.jpg" alt="Cover for Blue Latitudes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Latitudes">Blue Latitudes</a>
-        </h4>
-        <p class="fr-book-author">By Tony Horwitz</p>
-
-        <p class="fr-book-desc">Provides wider Indian Ocean and exploration context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blue Latitudes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/26320-M.jpg" alt="Cover for Blue Latitudes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Latitudes">Blue Latitudes</a>
+</h4>
+<p class="fr-book-author">By Tony Horwitz</p>
+        
+<p class="fr-book-desc">Provides wider Indian Ocean and exploration context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dodo and the Solitaire. A Natural History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256249-M.jpg" alt="Cover for The Dodo and the Solitaire. A Natural History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dodo and the Solitaire. A Natural History">The Dodo and the Solitaire. A Natural History</a>
-        </h4>
-        <p class="fr-book-author">By Jolyon C. Parish</p>
-
-        <p class="fr-book-desc">First published 2013. Subjects: Extinct birds, Dodo, Solitaire (Bird), Pictorial works, Birds in art.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dodo and the Solitaire. A Natural History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256249-M.jpg" alt="Cover for The Dodo and the Solitaire. A Natural History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dodo and the Solitaire. A Natural History">The Dodo and the Solitaire. A Natural History</a>
+</h4>
+<p class="fr-book-author">By Jolyon C. Parish</p>
+        
+<p class="fr-book-desc">First published 2013. Subjects: Extinct birds, Dodo, Solitaire (Bird), Pictorial works, Birds in art.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History+Jolyon+C.+Parish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Last+Island+Adam+Goodheart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Last Island on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11575107-M.jpg" alt="Cover for The Last Island" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Last+Island+Adam+Goodheart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Island">The Last Island</a>
-        </h4>
-        <p class="fr-book-author">By Adam Goodheart</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in island histories and historical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Last+Island+Adam+Goodheart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Last+Island+Adam+Goodheart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Last Island on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11575107-M.jpg" alt="Cover for The Last Island" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Last+Island+Adam+Goodheart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Island">The Last Island</a>
+</h4>
+<p class="fr-book-author">By Adam Goodheart</p>
+        
+<p class="fr-book-desc">Appeals to readers interested in island histories and historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Last+Island+Adam+Goodheart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+republic+of+pirates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The republic of pirates</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Blue+Latitudes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blue Latitudes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dodo and the Solitaire. A Natural History</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+republic+of+pirates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The republic of pirates</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Blue+Latitudes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blue Latitudes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dodo+and+the+Solitaire.+A+Natural+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dodo and the Solitaire. A Natural History</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

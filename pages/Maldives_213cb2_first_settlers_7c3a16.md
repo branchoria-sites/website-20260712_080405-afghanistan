@@ -354,7 +354,8 @@ This interpretation also explains why Maldivian culture contains influences from
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v91ngjCx3VM" title="Maldives Through Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v91ngjCx3VM" target="_blank" rel="noopener noreferrer">Maldives Through Time</a></p><p class="youtube-embed-meta">Channel: Countries History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v91ngjCx3VM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v91ngjCx3VM">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by First Settlers
+## Why the mystery still matters
+
 The question of the Maldives' first settlers is important because it shapes how the country's earliest history is understood. Instead of revealing an isolated island kingdom founded by one people, the available evidence points to a society that developed through centuries of movement across the Indian Ocean.
 
 The mystery is therefore not simply "Who arrived first?" but "How did repeated migrations create a distinct Maldivian identity?" Archaeology confirms an ancient pre-Islamic civilisation, genetics demonstrates multiple ancestral sources, and language preserves traces of diverse cultural contacts. Together they suggest that the Maldives emerged as a maritime crossroads whose history cannot be reduced to a single founding event.
@@ -379,7 +380,7 @@ While future excavations or new ancient DNA discoveries may clarify aspects of e
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
 </h4>
 <p class="fr-book-author">By Peter Frankopan</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: East and West, HISTORY / World, Trade routes, Acculturation, TRAVEL / Asia / China.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +397,7 @@ While future excavations or new ancient DNA discoveries may clarify aspects of e
 <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Indians">Early Indians</a>
 </h4>
 <p class="fr-book-author">By Tony Joseph</p>
-
+        
 <p class="fr-book-desc">First published 2018. Subjects: Antiquities, Ethnology, Human genetics, Civilization, Prehistoric peoples.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Early+Indians+Tony+Joseph&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +414,7 @@ While future excavations or new ancient DNA discoveries may clarify aspects of e
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maldives">The Maldives</a>
 </h4>
 <p class="fr-book-author">By J.J. Robinson</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: Democracy, Maldives, Politics and government, Social conditions, Islam.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +431,7 @@ While future excavations or new ancient DNA discoveries may clarify aspects of e
 <a href="https://www.amazon.com/s?k=Folk+Tales+of+the+Maldives+Romero+Frias+Xavier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Tales of the Maldives">Folk Tales of the Maldives</a>
 </h4>
 <p class="fr-book-author">By Romero Frias Xavier</p>
-
+        
 <p class="fr-book-desc">First published 2021.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folk+Tales+of+the+Maldives+Romero+Frias+Xavier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

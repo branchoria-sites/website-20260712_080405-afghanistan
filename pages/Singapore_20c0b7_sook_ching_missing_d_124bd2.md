@@ -304,7 +304,8 @@ Importantly, the memorial is not a complete cemetery for all victims. It contain
 
 <img src="{{ "/assets/images/Singapore_20c0b7_sook_ching_missing_d_124bd2-Illustration-3-dark.svg" | relative_url }}" alt="Sook Ching illustration 3" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_sook_ching_missing_d_124bd2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_sook_ching_missing_d_124bd2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Sook Ching
+## Why the mystery endures
+
 The unresolved questions surrounding Sook Ching arise from missing evidence rather than competing conspiracy theories.
 
 Several factors ensure that some uncertainty is likely to remain permanent:
@@ -329,89 +330,89 @@ For that reason, the central mystery is not whether Sook Ching happened but how 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Many People Died in Sook Ching?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Many People Died in Sook Ching?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Singapore+Burning+Colin+Smith+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Singapore Burning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/402942-M.jpg" alt="Cover for Singapore Burning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Singapore+Burning+Colin+Smith+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore Burning">Singapore Burning</a>
-        </h4>
-        <p class="fr-book-author">By Colin Smith undifferentiated</p>
-
-        <p class="fr-book-desc">Explains the fall of Singapore preceding the massacres.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Singapore+Burning+Colin+Smith+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Singapore+Burning+Colin+Smith+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Singapore Burning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/402942-M.jpg" alt="Cover for Singapore Burning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Singapore+Burning+Colin+Smith+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore Burning">Singapore Burning</a>
+</h4>
+<p class="fr-book-author">By Colin Smith undifferentiated</p>
+        
+<p class="fr-book-desc">Explains the fall of Singapore preceding the massacres.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Singapore+Burning+Colin+Smith+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rising+sun+John+Willard+Toland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rising sun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/606090-M.jpg" alt="Cover for The rising sun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+rising+sun+John+Willard+Toland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rising sun">The rising sun</a>
-        </h4>
-        <p class="fr-book-author">By John Willard Toland</p>
-
-        <p class="fr-book-desc">Provides wider wartime context for Japanese policy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+rising+sun+John+Willard+Toland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rising+sun+John+Willard+Toland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rising sun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/606090-M.jpg" alt="Cover for The rising sun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+rising+sun+John+Willard+Toland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rising sun">The rising sun</a>
+</h4>
+<p class="fr-book-author">By John Willard Toland</p>
+        
+<p class="fr-book-desc">Provides wider wartime context for Japanese policy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+rising+sun+John+Willard+Toland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Syonan+years+Lee%2C+Geok+Boi.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Syonan years on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Syonan+years+Lee%2C+Geok+Boi.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Syonan years">The Syonan years</a>
-        </h4>
-        <p class="fr-book-author">By Lee, Geok Boi.</p>
-
-        <p class="fr-book-desc">Directly covers Sook Ching and the occupation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Syonan+years+Lee%2C+Geok+Boi.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Syonan+years+Lee%2C+Geok+Boi.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Syonan years on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Syonan+years+Lee%2C+Geok+Boi.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Syonan years">The Syonan years</a>
+</h4>
+<p class="fr-book-author">By Lee, Geok Boi.</p>
+        
+<p class="fr-book-desc">Directly covers Sook Ching and the occupation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Syonan+years+Lee%2C+Geok+Boi.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Hundred Years on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Hundred Years">Seven Hundred Years</a>
-        </h4>
-        <p class="fr-book-author">By Kwa Chong Guan, Derek Thiam Soon Heng et al.</p>
-
-        <p class="fr-book-desc">Places Sook Ching within Singapore&#x27;s historical narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Hundred Years on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Hundred Years">Seven Hundred Years</a>
+</h4>
+<p class="fr-book-author">By Kwa Chong Guan, Derek Thiam Soon Heng et al.</p>
+        
+<p class="fr-book-desc">Places Sook Ching within Singapore&#x27;s historical narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Seven+Hundred+Years+Kwa+Chong+Guan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Singapore+Burning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Singapore Burning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rising+sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The rising sun</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Syonan+years&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Syonan years</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Singapore+Burning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Singapore Burning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rising+sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The rising sun</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Syonan+years&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Syonan years</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

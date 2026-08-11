@@ -337,7 +337,8 @@ More elaborate claims—that the monarchy concealed the truth, that political or
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i0uZudyWokk" title="New Clue May Help Find the Irish Crown Jewels After 100 Years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i0uZudyWokk" target="_blank" rel="noopener noreferrer">New Clue May Help Find the Irish Crown Jewels After 100 Years</a></p><p class="youtube-embed-meta">Channel: Facts Verse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i0uZudyWokk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i0uZudyWokk">Open on YouTube</a></p></div></div></div>
 
-## The unresolved legacy of Crown Jewels
+## Why the mystery still matters
+
 The disappearance of the Irish Crown Jewels has endured because it represents more than a valuable theft. It exposed weaknesses at the heart of British government administration in Ireland at a politically sensitive moment and demonstrated how institutional failures, personal reputations and political embarrassment can complicate criminal investigations.
 
 Official records have never identified a culprit. In August 1907 the government confirmed in Parliament that the jewels had not been traced, recovered or redeemed, and that position has never changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/1907-08-13/debates/98b7c6d8-707c-473c-b983-28cc3fac30a5/TheTheftOfTheIrishCrownJewels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard The Theft Of The Irish Crown Jewels</span><span class="citation-popover-snippet">The Theft Of The Irish Crown Jewels - Hansard - UK Parliament...</span></span></span>
@@ -367,7 +368,7 @@ Modern historians therefore distinguish between what is well established and wha
 <a href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the Irish saved civilization">How the Irish saved civilization</a>
 </h4>
 <p class="fr-book-author">By Thomas Cahill</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: Learning and scholarship, Classical Civilization, Monastic libraries, Scriptoria, Civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+the+Irish+saved+civilization+Thomas+Cahill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +385,7 @@ Modern historians therefore distinguish between what is well established and wha
 <a href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Ireland in 250 Episodes">A History of Ireland in 250 Episodes</a>
 </h4>
 <p class="fr-book-author">By Jonathan Bardon</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Ireland, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Ireland+in+250+Episodes+Jonathan+Bardon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +402,7 @@ Modern historians therefore distinguish between what is well established and wha
 <a href="https://www.amazon.com/s?k=The+graves+are+walking+John+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The graves are walking">The graves are walking</a>
 </h4>
 <p class="fr-book-author">By John Kelly</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Emigration and immigration, History, Migrations, Famines, Irish.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+graves+are+walking+John+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +419,7 @@ Modern historians therefore distinguish between what is well established and wha
 <a href="https://www.amazon.com/s?k=The+Theft+of+the+Irish+Crown+Jewels+Myles+Dungan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Theft of the Irish Crown Jewels">The Theft of the Irish Crown Jewels</a>
 </h4>
 <p class="fr-book-author">By Myles Dungan</p>
-
+        
 <p class="fr-book-desc">Focuses directly on the disappearance and investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Theft+of+the+Irish+Crown+Jewels+Myles+Dungan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

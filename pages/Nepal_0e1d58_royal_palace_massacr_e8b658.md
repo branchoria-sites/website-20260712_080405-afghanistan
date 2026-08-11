@@ -340,7 +340,8 @@ Claims that King Gyanendra, foreign intelligence agencies, palace guards or disg
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UHbxrXm0d1Q" title="The Shocking Massacre of the Nepalese Royal Family (2001)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UHbxrXm0d1Q" target="_blank" rel="noopener noreferrer">The Shocking Massacre of the Nepalese Royal Family (2001)</a></p><p class="youtube-embed-meta">Channel: Journeyman Pictures</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UHbxrXm0d1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UHbxrXm0d1Q">Open on YouTube</a></p></div></div></div>
 
-## Palace Massacre in the wider historical record
+## Why the case still matters
+
 The Royal Palace Massacre transformed Nepal's history. It weakened public confidence in the monarchy, accelerated political instability during the civil war and became one of the events that ultimately preceded the abolition of the monarchy in 2008. Yet its historical importance also lies in how it illustrates the consequences of an investigation that failed to convince the public.
 
 The strongest available evidence continues to support the conclusion that Crown Prince Dipendra carried out the killings. The enduring mystery is therefore not primarily *who* fired the shots, but *why* the official inquiry proved unable to command lasting trust. That distinction explains why the massacre remains one of Nepal's most debated historical events: a case in which the central explanation is comparatively well supported, while confidence in the process that produced it has never been fully restored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/abs/political-change-and-public-culture-in-post1990-nepal/royal-palace-massacre-conspiracy-theories-and-nepali-street-literature/F0C0407A3F22F6F51F6E151A19A8E3A8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe Royal Palace Massacre, Conspiracy Theories and Nepali Street Literature (Chapter 2) - Politica...</span></span></span>
@@ -368,7 +369,7 @@ The strongest available evidence continues to support the conclusion that Crown 
 <a href="https://www.amazon.com/s?k=Into+Thin+Air+by+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
 </h4>
 <p class="fr-book-author">By Jon Krakauer</p>
-
+        
 <p class="fr-book-desc">Keeps recommendations commercially strong.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Into+Thin+Air+by+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +386,7 @@ The strongest available evidence continues to support the conclusion that Crown 
 <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
 </h4>
 <p class="fr-book-author">By Peter Matthiessen</p>
-
+        
 <p class="fr-book-desc">First published 1978. Subjects: Description and travel, Biologists, American Authors, Natural history, Biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +403,7 @@ The strongest available evidence continues to support the conclusion that Crown 
 <a href="https://www.amazon.com/s?k=House+of+snow+Ranulph+Fiennes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="House of snow">House of snow</a>
 </h4>
 <p class="fr-book-author">By Ranulph Fiennes, Ed Douglas</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: In literature, Description and travel, Nepali literature, Nepal, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=House+of+snow+Ranulph+Fiennes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +420,7 @@ The strongest available evidence continues to support the conclusion that Crown 
 <a href="https://www.amazon.com/s?k=Bloodstain+Jonathan+Gregson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodstain">Bloodstain</a>
 </h4>
 <p class="fr-book-author">By Jonathan Gregson</p>
-
+        
 <p class="fr-book-desc">Dedicated investigation of the 2001 palace killings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bloodstain+Jonathan+Gregson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

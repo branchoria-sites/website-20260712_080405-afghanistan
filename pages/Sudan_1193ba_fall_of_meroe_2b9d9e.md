@@ -323,7 +323,8 @@ Each factor alone appears insufficient. Together, however, they provide a convin
 
 <img src="{{ "/assets/images/Sudan_1193ba_fall_of_meroe_2b9d9e-Illustration-3-dark.svg" | relative_url }}" alt="Fall of Meroe illustration 3" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_fall_of_meroe_2b9d9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_fall_of_meroe_2b9d9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Fall of Meroe
+## Why the mystery still matters
+
 The fall of Meroe remains significant because it illustrates how difficult it can be to explain the collapse of an ancient state when written evidence is scarce. Archaeology continues to reshape the debate, and scientific techniques such as isotope analysis now provide environmental evidence that was unavailable only a generation ago. At the same time, further progress depends on improving understanding of the Meroitic language, which may eventually reveal how the kingdom itself understood its final centuries.
 
 Rather than searching for a single decisive battle or catastrophe, historians increasingly see the fall of Meroe as the outcome of overlapping political, economic and environmental pressures. The mystery lies not in whether the kingdom disappeared, but in determining how these forces combined to bring an end to one of the longest-lasting civilisations of the ancient Nile Valley.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/antiquity/article/isotopic-evidence-of-an-environmental-shift-at-the-fall-of-the-kushite-kingdom-of-meroe-sudan/F1E99ABE788A8EE938A7A83FFEB73212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIsotopic evidence of an environmental shift at the fall of the Kushite kingdom of Meroë, Sudan &#124; A...</span></span></span>
@@ -334,38 +335,38 @@ Rather than searching for a single decisive battle or catastrophe, historians in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Brought Down the Kingdom of Meroe?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Brought Down the Kingdom of Meroe?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rise and fall of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9836729-M.jpg" alt="Cover for The rise and fall of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
-        </h4>
-        <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-
-        <p class="fr-book-desc">Explains regional dynamics affecting Nubia and the Nile.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rise and fall of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9836729-M.jpg" alt="Cover for The rise and fall of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
+</h4>
+<p class="fr-book-author">By Toby A. H. Wilkinson</p>
+        
+<p class="fr-book-desc">Explains regional dynamics affecting Nubia and the Nile.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

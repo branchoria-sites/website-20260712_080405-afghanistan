@@ -357,7 +357,8 @@ A single loose artefact discovered on the surface would rarely be enough. Archae
 
 <img src="{{ "/assets/images/Cape_Verde_556906_pre_portuguese_visit_897aaf-Illustration-3-dark.svg" | relative_url }}" alt="First Visitors illustration 3" data-theme-src-dark="{{ "/assets/images/Cape_Verde_556906_pre_portuguese_visit_897aaf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cape_Verde_556906_pre_portuguese_visit_897aaf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of First Visitors
+## Why the mystery still matters
+
 The question of who first reached Cape Verde is about more than assigning priority to one group of navigators.
 
 If convincing evidence of pre-Portuguese visitors were ever discovered, it would reshape understanding of Atlantic navigation before European expansion and illuminate maritime connections between West Africa and the open Atlantic. It would also change the story of one of the Atlantic world's most influential colonial crossroads.
@@ -370,89 +371,89 @@ For now, however, the evidence points in a different direction. Portuguese settl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Anyone Reach Cape Verde Before Portugal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Anyone Reach Cape Verde Before Portugal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fortunate+Isles%3A+A+Study+in+African+Transformation+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fortunate Isles: A Study in African Transformation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4783647-M.jpg" alt="Cover for The Fortunate Isles: A Study in African Transformation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fortunate+Isles%3A+A+Study+in+African+Transformation+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fortunate Isles: A Study in African Transformation">The Fortunate Isles: A Study in African Transformation</a>
-        </h4>
-        <p class="fr-book-author">By Basil Davidson</p>
-
-        <p class="fr-book-desc">Places Cape Verde in wider regional historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fortunate+Isles%3A+A+Study+in+African+Transformation+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fortunate+Isles%3A+A+Study+in+African+Transformation+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fortunate Isles: A Study in African Transformation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4783647-M.jpg" alt="Cover for The Fortunate Isles: A Study in African Transformation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fortunate+Isles%3A+A+Study+in+African+Transformation+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fortunate Isles: A Study in African Transformation">The Fortunate Isles: A Study in African Transformation</a>
+</h4>
+<p class="fr-book-author">By Basil Davidson</p>
+        
+<p class="fr-book-desc">Places Cape Verde in wider regional historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fortunate+Isles%3A+A+Study+in+African+Transformation+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors: How Portugal Forged the First Global Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors: How Portugal Forged the First Global Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors: How Portugal Forged the First Global Empire">Conquerors: How Portugal Forged the First Global Empire</a>
-        </h4>
-        <p class="fr-book-author">By Roger Crowley</p>
-
-        <p class="fr-book-desc">Explains the era of Portuguese Atlantic expansion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors: How Portugal Forged the First Global Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors: How Portugal Forged the First Global Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors: How Portugal Forged the First Global Empire">Conquerors: How Portugal Forged the First Global Empire</a>
+</h4>
+<p class="fr-book-author">By Roger Crowley</p>
+        
+<p class="fr-book-desc">Explains the era of Portuguese Atlantic expansion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese Seaborne Empire, 1415-1825 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire, 1415-1825">The Portuguese Seaborne Empire, 1415-1825</a>
-        </h4>
-        <p class="fr-book-author">By C.R. BOXER</p>
-
-        <p class="fr-book-desc">Provides context for Portuguese exploration of the Atlantic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese Seaborne Empire, 1415-1825 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire,">The Portuguese Seaborne Empire,</a>
+</h4>
+<p class="fr-book-author">By C.R. BOXER</p>
+        
+<p class="fr-book-desc">Provides context for Portuguese exploration of the Atlantic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Cape Verde on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Cape Verde">A History of Cape Verde</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Lobban Jr. and Paul Khalil Saucier</p>
-
-        <p class="fr-book-desc">Explains evidence surrounding the islands before Portuguese settlement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Cape Verde on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Cape Verde">A History of Cape Verde</a>
+</h4>
+<p class="fr-book-author">By Richard A. Lobban Jr. and Paul Khalil Saucier</p>
+        
+<p class="fr-book-desc">Explains evidence surrounding the islands before Portuguese settlement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fortunate+Isles%3A+A+Study+in+African+Transformation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fortunate Isles: A Study in African Transformation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conquerors: How Portugal Forged the First Global Empire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415+1825&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese Seaborne Empire, 1415 1825</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fortunate+Isles%3A+A+Study+in+African+Transformation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fortunate Isles: A Study in African Transformation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conquerors: How Portugal Forged the First Global Empire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415+1825&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese Seaborne Empire,</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -388,78 +388,79 @@ Current evidence supports several conclusions with differing levels of confidenc
 
 <img src="{{ "/assets/images/Burkina_Faso_f61e5f_sankara_assassinatio_9369f0-Illustration-3-dark.svg" | relative_url }}" alt="Sankara illustration 3" data-theme-src-dark="{{ "/assets/images/Burkina_Faso_f61e5f_sankara_assassinatio_9369f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Burkina_Faso_f61e5f_sankara_assassinatio_9369f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Sankara
+## Why the mystery still matters
+
 The unresolved foreign dimension matters because Sankara's assassination was not simply a domestic political killing. It occurred during the closing years of the Cold War, amid intense competition for influence across West Africa. Determining whether outside powers merely welcomed the coup or actively helped bring it about would change the historical understanding of both Burkina Faso and international involvement in post-colonial African politics.
 
 The 2022 convictions resolved the central question of domestic responsibility, but they did not close every chapter of the story. Until additional archives become available or new documentary evidence emerges, the extent of any foreign knowledge or assistance remains one of the country's most enduring historical mysteries—one bounded by genuine gaps in the evidence rather than by established proof of an international conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thomassankara.net/ouverture-dun-proces-historique-a-ouagadougou-a-assassine-thomas-sankara/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thomassankara.net">[thomassankara.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thomassankara.net</span><span class="citation-popover-title">Thomas Sankara Website</span><span class="citation-popover-snippet">OfficielOuverture d’un procès historique à Ouagadougou Mais qui a assassiné Thomas Sankara? - Thomas Sankara Website - OfficielSeptember...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Else Knew About Sankara&#x27;s Assassination?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Else Knew About Sankara&#x27;s Assassination?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8505738-M.jpg" alt="Cover for Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)">Thomas Sankara: An African Revolutionary (Ohio Short Historie...</a>
-        </h4>
-        <p class="fr-book-author">By Ernest Harsch</p>
-
-        <p class="fr-book-desc">Directly addresses Sankara&#x27;s rise, overthrow and assassination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8505738-M.jpg" alt="Cover for Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)">Thomas Sankara: An African Revolutionary (Ohio Short Historie...</a>
+</h4>
+<p class="fr-book-author">By Ernest Harsch</p>
+        
+<p class="fr-book-desc">Directly addresses Sankara&#x27;s rise, overthrow and assassination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Martin Meredith</p>
-
-        <p class="fr-book-desc">Explains regional politics surrounding the assassination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
+</h4>
+<p class="fr-book-author">By Martin Meredith</p>
+        
+<p class="fr-book-desc">Explains regional politics surrounding the assassination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa since independence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1180045-M.jpg" alt="Cover for Africa since independence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
-        </h4>
-        <p class="fr-book-author">By Paul Nugent</p>
-
-        <p class="fr-book-desc">Places the coup within wider African political developments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa since independence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1180045-M.jpg" alt="Cover for Africa since independence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
+</h4>
+<p class="fr-book-author">By Paul Nugent</p>
+        
+<p class="fr-book-desc">Places the coup within wider African political developments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Africa+since+independence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Africa since independence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Africa+since+independence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Africa since independence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -392,7 +392,8 @@ The cemeteries also demonstrate continuity. Rather than isolated burials, they r
 
 <img src="{{ "/assets/images/Eritrea_18740a_dahlak_tombstones_ee1cc1-Illustration-3-dark.svg" | relative_url }}" alt="Dahlak illustration 3" data-theme-src-dark="{{ "/assets/images/Eritrea_18740a_dahlak_tombstones_ee1cc1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eritrea_18740a_dahlak_tombstones_ee1cc1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Dahlak in the wider historical record
+## Why the mystery still matters
+
 The Dahlak tombstones remind historians that surviving evidence can be both abundant and incomplete. Hundreds of inscriptions preserve precise personal details across several centuries, yet the larger narrative of the Dahlak Sultanate remains elusive because administrative records, royal archives and local chronicles have largely vanished.
 
 This makes Dahlak one of Eritrea's most important archival mysteries. The islands preserve the voices of individuals but not the full story of the state they served. Each newly studied inscription helps fill another small gap, refining chronologies, identifying families and tracing connections across the Red Sea. Yet the central question remains unresolved: how exactly did this influential maritime sultanate develop, govern itself and eventually fade from history?
@@ -400,89 +401,89 @@ This makes Dahlak one of Eritrea's most important archival mysteries. The island
 For that reason, the cemeteries of Dahlak are not merely collections of medieval gravestones. They are one of the principal archives for reconstructing a forgotten chapter of Eritrea's place in the commercial and cultural world of the medieval Red Sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.persee.fr/doc/ephe_0000-0001_1975_num" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[persee.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">Persée Stèles funéraires musulmanes des Iles Dahlak (Mer Rouge</span><span class="citation-popover-snippet">PerséeStèles funéraires musulmanes des Iles Dahlak (Mer Rouge) - Persée...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do the Dahlak Tombstones Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do the Dahlak Tombstones Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Atlas of African History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104813-M.jpg" alt="Cover for The Penguin Atlas of African History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Atlas of African History">The Penguin Atlas of African History</a>
-        </h4>
-        <p class="fr-book-author">By Colin McEvedy</p>
-
-        <p class="fr-book-desc">Helps readers place Dahlak in regional history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Atlas of African History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104813-M.jpg" alt="Cover for The Penguin Atlas of African History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Atlas of African History">The Penguin Atlas of African History</a>
+</h4>
+<p class="fr-book-author">By Colin McEvedy</p>
+        
+<p class="fr-book-desc">Helps readers place Dahlak in regional history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fortunes of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8883066-M.jpg" alt="Cover for The fortunes of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fortunes of Africa">The fortunes of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Martin Meredith</p>
-
-        <p class="fr-book-desc">Adds broader historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fortunes of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8883066-M.jpg" alt="Cover for The fortunes of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fortunes of Africa">The fortunes of Africa</a>
+</h4>
+<p class="fr-book-author">By Martin Meredith</p>
+        
+<p class="fr-book-desc">Adds broader historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fortunes+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Historical Dictionary of Eritrea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6922328-M.jpg" alt="Cover for Historical Dictionary of Eritrea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical Dictionary of Eritrea">Historical Dictionary of Eritrea</a>
-        </h4>
-        <p class="fr-book-author">By Dan Connell</p>
-
-        <p class="fr-book-desc">Introduces Dahlak history and archaeology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Historical Dictionary of Eritrea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6922328-M.jpg" alt="Cover for Historical Dictionary of Eritrea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical Dictionary of Eritrea">Historical Dictionary of Eritrea</a>
+</h4>
+<p class="fr-book-author">By Dan Connell</p>
+        
+<p class="fr-book-desc">Introduces Dahlak history and archaeology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea+Dan+Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aksum: An African Civilization of Late Antiquity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1392299-M.jpg" alt="Cover for Aksum: An African Civilization of Late Antiquity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aksum: An African Civilization of Late Antiquity">Aksum: An African Civilization of Late Antiquity</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Munro-Hay</p>
-
-        <p class="fr-book-desc">Background for Eritrea&#x27;s early historical development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aksum: An African Civilization of Late Antiquity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1392299-M.jpg" alt="Cover for Aksum: An African Civilization of Late Antiquity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aksum: An African Civilization of Late Antiquity">Aksum: An African Civilization of Late Antiquity</a>
+</h4>
+<p class="fr-book-author">By Stuart Munro-Hay</p>
+        
+<p class="fr-book-desc">Background for Eritrea&#x27;s early historical development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Aksum%3A+An+African+Civilization+of+Late+Antiquity+Stuart+Munro-Hay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Atlas of African History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fortunes+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fortunes of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Historical Dictionary of Eritrea</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Atlas+of+African+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Atlas of African History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fortunes+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fortunes of Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Historical+Dictionary+of+Eritrea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Historical Dictionary of Eritrea</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

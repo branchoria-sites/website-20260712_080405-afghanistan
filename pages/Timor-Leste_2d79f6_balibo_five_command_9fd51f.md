@@ -351,7 +351,8 @@ The resulting archival gaps have allowed debate about governmental knowledge and
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_balibo_five_command_9fd51f-Illustration-3-dark.svg" | relative_url }}" alt="Balibo Five illustration 3" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_balibo_five_command_9fd51f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_balibo_five_command_9fd51f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Balibo Five in the wider historical record
+## Why the case still matters
+
 The Balibo Five case illustrates how historical mysteries can evolve. The principal uncertainty today is no longer the manner of death but the extent of responsibility.
 
 Most serious historical scholarship now treats the deliberate killing of the journalists by Indonesian forces as the best-supported explanation, reinforced by eyewitness testimony and the 2007 coronial findings. What remains unresolved is the higher command structure behind the decision, whether written or verbal orders existed, and whether sufficient admissible evidence will ever emerge to identify those ultimately responsible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2007-11-16/balibo-5-deliberately-killed-coroner-finds/727656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Balibo 5 deliberately killed, coroner finds</span><span class="citation-popover-snippet">ABC NewsBalibo 5 deliberately killed, coroner finds - ABC NewsNovember 16, 2007...</span><span class="citation-popover-meta">Published: November 16, 2007</span></span></span>
@@ -364,89 +365,89 @@ For Timor-Leste, the case remains a symbol of the wider difficulties involved in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Ordered the Killing of the Balibo Five?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Ordered the Killing of the Balibo Five?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East Timor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6876206-M.jpg" alt="Cover for East Timor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
-        </h4>
-        <p class="fr-book-author">By Jill Jolliffe</p>
-
-        <p class="fr-book-desc">Places the Balibo killings in the wider invasion context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East Timor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6876206-M.jpg" alt="Cover for East Timor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
+</h4>
+<p class="fr-book-author">By Jill Jolliffe</p>
+        
+<p class="fr-book-desc">Places the Balibo killings in the wider invasion context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=East+Timor+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Not-So-Distant Horror on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1508310-M.jpg" alt="Cover for A Not-So-Distant Horror" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Nevins</p>
-
-        <p class="fr-book-desc">Examines the Indonesian occupation and international response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Not-So-Distant Horror on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1508310-M.jpg" alt="Cover for A Not-So-Distant Horror" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
+</h4>
+<p class="fr-book-author">By Joseph Nevins</p>
+        
+<p class="fr-book-desc">Examines the Indonesian occupation and international response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Not on our watch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6890447-M.jpg" alt="Cover for Not on our watch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Not on our watch">Not on our watch</a>
-        </h4>
-        <p class="fr-book-author">By Don Cheadle, John Prendergast</p>
-
-        <p class="fr-book-desc">Discusses East Timor within broader accountability themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Not on our watch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6890447-M.jpg" alt="Cover for Not on our watch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Not on our watch">Not on our watch</a>
+</h4>
+<p class="fr-book-author">By Don Cheadle, John Prendergast</p>
+        
+<p class="fr-book-desc">Discusses East Timor within broader accountability themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Not+on+our+watch+Don+Cheadle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cover-Up%3A+The+Inside+Story+of+the+Balibo+Five+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cover-Up: The Inside Story of the Balibo Five on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cover-Up%3A+The+Inside+Story+of+the+Balibo+Five+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cover-Up: The Inside Story of the Balibo Five">Cover-Up: The Inside Story of the Balibo Five</a>
-        </h4>
-        <p class="fr-book-author">By Jill Jolliffe</p>
-
-        <p class="fr-book-desc">Directly investigates the killings and command responsibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cover-Up%3A+The+Inside+Story+of+the+Balibo+Five+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cover-Up%3A+The+Inside+Story+of+the+Balibo+Five+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cover-Up: The Inside Story of the Balibo Five on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cover-Up%3A+The+Inside+Story+of+the+Balibo+Five+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cover-Up: The Inside Story of the Balibo Five">Cover-Up: The Inside Story of the Balibo Five</a>
+</h4>
+<p class="fr-book-author">By Jill Jolliffe</p>
+        
+<p class="fr-book-desc">Directly investigates the killings and command responsibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cover-Up%3A+The+Inside+Story+of+the+Balibo+Five+Jill+Jolliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=East+Timor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East Timor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Not+So+Distant+Horror&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Not So Distant Horror</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Not+on+our+watch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Not on our watch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=East+Timor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East Timor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Not+So+Distant+Horror&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Not So Distant Horror</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Not+on+our+watch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Not on our watch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

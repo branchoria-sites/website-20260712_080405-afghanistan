@@ -369,89 +369,89 @@ For that reason, the Llanganates Treasure occupies an unusual place in Ecuador's
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Atahualpa&#x27;s Lost Treasure Still in Ecuador?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Atahualpa&#x27;s Lost Treasure Still in Ecuador?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost City of the Incas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5514638-M.jpg" alt="Cover for Lost City of the Incas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost City of the Incas">Lost City of the Incas</a>
-        </h4>
-        <p class="fr-book-author">By Hiram Bingham</p>
-
-        <p class="fr-book-desc">Captures the tradition of searching for legendary Inca sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost City of the Incas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5514638-M.jpg" alt="Cover for Lost City of the Incas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost City of the Incas">Lost City of the Incas</a>
+</h4>
+<p class="fr-book-author">By Hiram Bingham</p>
+        
+<p class="fr-book-desc">Captures the tradition of searching for legendary Inca sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conquest of the Incas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4507007-M.jpg" alt="Cover for The conquest of the Incas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conquest of the Incas">The conquest of the Incas</a>
-        </h4>
-        <p class="fr-book-author">By Hemming, John</p>
-
-        <p class="fr-book-desc">Explains Atahualpa&#x27;s ransom and the origins of the treasure legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conquest of the Incas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4507007-M.jpg" alt="Cover for The conquest of the Incas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conquest of the Incas">The conquest of the Incas</a>
+</h4>
+<p class="fr-book-author">By Hemming, John</p>
+        
+<p class="fr-book-desc">Explains Atahualpa&#x27;s ransom and the origins of the treasure legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Right at Machu Picchu on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6784866-M.jpg" alt="Cover for Turn Right at Machu Picchu" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Right at Machu Picchu">Turn Right at Machu Picchu</a>
-        </h4>
-        <p class="fr-book-author">By Mark Adams, Mark Adams</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in lost Inca treasures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Right at Machu Picchu on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6784866-M.jpg" alt="Cover for Turn Right at Machu Picchu" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Right at Machu Picchu">Turn Right at Machu Picchu</a>
+</h4>
+<p class="fr-book-author">By Mark Adams, Mark Adams</p>
+        
+<p class="fr-book-desc">Appeals to readers interested in lost Inca treasures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Last Days of the Incas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/474243-M.jpg" alt="Cover for The Last Days of the Incas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Days of the Incas">The Last Days of the Incas</a>
-        </h4>
-        <p class="fr-book-author">By Kim MacQuarrie</p>
-
-        <p class="fr-book-desc">Explains events surrounding Atahualpa and the conquest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Last Days of the Incas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/474243-M.jpg" alt="Cover for The Last Days of the Incas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Days of the Incas">The Last Days of the Incas</a>
+</h4>
+<p class="fr-book-author">By Kim MacQuarrie</p>
+        
+<p class="fr-book-desc">Explains events surrounding Atahualpa and the conquest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Last+Days+of+the+Incas+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+City+of+the+Incas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost City of the Incas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conquest+of+the+Incas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conquest of the Incas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Right at Machu Picchu</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+City+of+the+Incas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost City of the Incas</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conquest+of+the+Incas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conquest of the Incas</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Right at Machu Picchu</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

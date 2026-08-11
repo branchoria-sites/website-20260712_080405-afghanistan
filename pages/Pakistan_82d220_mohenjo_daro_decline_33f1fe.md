@@ -328,7 +328,8 @@ The nuclear story largely emerged from speculative books published in the late t
 
 <img src="{{ "/assets/images/Pakistan_82d220_mohenjo_daro_decline_33f1fe-Illustration-3-dark.svg" | relative_url }}" alt="Mohenjo daro illustration 3" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_mohenjo_daro_decline_33f1fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_mohenjo_daro_decline_33f1fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Mohenjo daro
+## Why the mystery still matters
+
 The disappearance of large-scale urban life at Mohenjo-daro remains an important historical puzzle because it illustrates how civilisations can transform without dramatic conquest or sudden annihilation.
 
 Instead of a single spectacular ending, the archaeological record points towards gradual adaptation. Large cities shrank, settlement patterns shifted and societies reorganised in response to changing environmental and economic conditions. Many details remain uncertain because no readable written records explain how the inhabitants themselves understood these changes.
@@ -341,89 +342,89 @@ That uncertainty makes Mohenjo-daro's decline one of [Pakistan]({{ 'what-really-
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Caused Mohenjo-daro&#x27;s Urban Collapse?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Caused Mohenjo-daro&#x27;s Urban Collapse?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Introduces broader debates about ancient societal collapse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1177 B.C on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046612-M.jpg" alt="Cover for 1177 B.C" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1177 B.C">1177 B.C</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Introduces broader debates about ancient societal collapse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mohenjo-Daro and the Indus civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13016560-M.jpg" alt="Cover for Mohenjo-Daro and the Indus civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mohenjo-Daro and the Indus civilization">Mohenjo-Daro and the Indus civilization</a>
-        </h4>
-        <p class="fr-book-author">By Marshall, John Hubert Sir</p>
-
-        <p class="fr-book-desc">Documents the site&#x27;s excavation history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mohenjo-Daro and the Indus civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13016560-M.jpg" alt="Cover for Mohenjo-Daro and the Indus civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mohenjo-Daro and the Indus civilization">Mohenjo-Daro and the Indus civilization</a>
+</h4>
+<p class="fr-book-author">By Marshall, John Hubert Sir</p>
+        
+<p class="fr-book-desc">Documents the site&#x27;s excavation history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mohenjo-Daro+and+the+Indus+civilization+Marshall%2C+John+Hubert+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin History of Early India on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/100760-M.jpg" alt="Cover for The Penguin History of Early India" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of Early India">The Penguin History of Early India</a>
-        </h4>
-        <p class="fr-book-author">By Romila Thapar</p>
-
-        <p class="fr-book-desc">Provides context for the transition after the Indus Civilization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin History of Early India on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/100760-M.jpg" alt="Cover for The Penguin History of Early India" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of Early India">The Penguin History of Early India</a>
+</h4>
+<p class="fr-book-author">By Romila Thapar</p>
+        
+<p class="fr-book-desc">Provides context for the transition after the Indus Civilization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Indus Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5418156-M.jpg" alt="Cover for The Indus Civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indus Civilization">The Indus Civilization</a>
-        </h4>
-        <p class="fr-book-author">By Gregory L. Possehl</p>
-
-        <p class="fr-book-desc">Discusses Mohenjo-daro&#x27;s decline using current archaeological evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Indus Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5418156-M.jpg" alt="Cover for The Indus Civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Indus Civilization">The Indus Civilization</a>
+</h4>
+<p class="fr-book-author">By Gregory L. Possehl</p>
+        
+<p class="fr-book-desc">Discusses Mohenjo-daro&#x27;s decline using current archaeological evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Indus+Civilization+Gregory+L.+Possehl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mohenjo+Daro+and+the+Indus+civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mohenjo Daro and the Indus civilization</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin History of Early India</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=1177+B.C&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1177 B.C</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mohenjo+Daro+and+the+Indus+civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mohenjo Daro and the Indus civilization</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin History of Early India</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

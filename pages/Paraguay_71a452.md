@@ -1332,7 +1332,7 @@ Paraguay’s deepest enigmas therefore occupy different levels of credibility. S
 <a href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig+John+Gimlette&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="At the tomb of the inflatable pig">At the tomb of the inflatable pig</a>
 </h4>
 <p class="fr-book-author">By John Gimlette</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Travel, Description and travel, History, Paraguay, Geografi.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig+John+Gimlette&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ Paraguay’s deepest enigmas therefore occupy different levels of credibility. S
 <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paraguayan War, Volume 1">The Paraguayan War, Volume 1</a>
 </h4>
 <p class="fr-book-author">By Thomas L. Whigham</p>
-
+        
 <p class="fr-book-desc">First published 2002.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ Paraguay’s deepest enigmas therefore occupy different levels of credibility. S
 <a href="https://www.amazon.com/s?k=The+Paraguayan+War+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paraguayan War">The Paraguayan War</a>
 </h4>
 <p class="fr-book-author">By Thomas L. Whigham</p>
-
+        
 <p class="fr-book-desc">Explains the central historical mysteries of Paraguay.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Paraguayan+War+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ Paraguay’s deepest enigmas therefore occupy different levels of credibility. S
 <a href="https://www.amazon.com/s?k=Operation+Condor+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Condor">Operation Condor</a>
 </h4>
 <p class="fr-book-author">By John Dinges</p>
-
+        
 <p class="fr-book-desc">Provides context for Paraguay&#x27;s dictatorship period.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Operation+Condor+John+Dinges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -351,7 +351,8 @@ The secrecy therefore remains unusual less because historians doubt it occurred 
 
 <img src="{{ "/assets/images/Bhutan_bb2254_zhabdrung_hidden_dea_3e2f39-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Death illustration 3" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254_zhabdrung_hidden_dea_3e2f39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254_zhabdrung_hidden_dea_3e2f39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Hidden Death
+## Why the mystery still matters
+
 The hidden death of Bhutan's founder illustrates how political authority can depend as much on legitimacy as on military power.
 
 For more than five decades, Bhutan's highest office rested on the continued symbolic presence of a ruler who had already died. The arrangement bought valuable time for a newly unified kingdom, allowing institutions to outlive the individual who had created them. Yet it also left unresolved the central question of succession, contributing to generations of competing claims over who truly inherited the founder's authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bhutanwiki.org/articles/zhabdrung-reincarnation-controversies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhutanwiki.org">[bhutanwiki.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhutanwiki.org</span><span class="citation-popover-title">Bhutan Wiki The Zhabdrung Reincarnation Controversies &#124; Bhutan Wiki</span><span class="citation-popover-snippet">Bhutan Wiki The Zhabdrung Reincarnation Controversies &#124; Bhutan Wiki</span></span></span>
@@ -376,7 +377,7 @@ Today, the episode is remembered as one of the most remarkable chapters in Bhuta
 <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the sky and the earth">Beyond the sky and the earth</a>
 </h4>
 <p class="fr-book-author">By Jamie Zeppa</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Description and travel, Nonfiction, Travel, Bhutan, description and travel, Women travelers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,8 +394,8 @@ Today, the episode is remembered as one of the most remarkable chapters in Bhuta
 <a href="https://www.amazon.com/s?k=Treasures+of+the+Thunder+Dragon+%5BPaperback%5D+Ashi+Dorji+Wangmo+Wangchuck+Ashi+Dorji+Wangmo+Wangchuck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Treasures of the Thunder Dragon [Paperback] Ashi Dorji Wangmo Wangchuck">Treasures of the Thunder Dragon [Paperback] Ashi Dorji Wangmo...</a>
 </h4>
 <p class="fr-book-author">By Ashi Dorji Wangmo Wangchuck</p>
-
-
+        
+        
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Treasures+of+the+Thunder+Dragon+%5BPaperback%5D+Ashi+Dorji+Wangmo+Wangchuck+Ashi+Dorji+Wangmo+Wangchuck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -410,7 +411,7 @@ Today, the episode is remembered as one of the most remarkable chapters in Bhuta
 <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
 </h4>
 <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Archaeology, Textbooks, Methodology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +428,7 @@ Today, the episode is remembered as one of the most remarkable chapters in Bhuta
 <a href="https://www.amazon.com/s?k=Bhutan%3A+A+History+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan: A History">Bhutan: A History</a>
 </h4>
 <p class="fr-book-author">By Karma Phuntsho</p>
-
+        
 <p class="fr-book-desc">Covers Zhabdrung Ngawang Namgyal and Bhutan&#x27;s formative period.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bhutan%3A+A+History+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

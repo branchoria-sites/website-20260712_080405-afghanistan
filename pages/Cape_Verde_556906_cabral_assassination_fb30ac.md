@@ -395,72 +395,72 @@ Cabral's death reshaped the political future of both Guinea-Bissau and Cape Verd
 For Cape Verde, the assassination remains more than an unresolved murder investigation. It raises enduring questions about the vulnerabilities of liberation movements, the role of colonial intelligence in anti-colonial wars, and the difficulty of distinguishing genuine internal dissent from covert foreign influence. The surviving evidence strongly supports the view that the conspiracy depended on real divisions within the PAIGC. Whether those divisions were merely exploited by Portuguese intelligence or actively orchestrated by it remains one of the most significant unresolved questions in the history of Cape Verde's independence movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/book/39812/chapter-abstract/339934470" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicThe Killing of Cabral &#124; Amílcar Cabral: The Life of a Reluctant Nationalist &#124; Oxford Academic...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Really Ordered Amilcar Cabral&#x27;s Murder?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Really Ordered Amilcar Cabral&#x27;s Murder?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Return to the source on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4467607-M.jpg" alt="Cover for Return to the source" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
-        </h4>
-        <p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
-
-        <p class="fr-book-desc">Introduces Cabral&#x27;s ideas and historical significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Return to the source on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4467607-M.jpg" alt="Cover for Return to the source" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
+</h4>
+<p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
+        
+<p class="fr-book-desc">Introduces Cabral&#x27;s ideas and historical significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unity+and+struggle+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unity and struggle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4393623-M.jpg" alt="Cover for Unity and struggle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unity+and+struggle+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unity and struggle">Unity and struggle</a>
-        </h4>
-        <p class="fr-book-author">By Amílcar Cabral, Basil Davidson</p>
-
-        <p class="fr-book-desc">Primary writings illuminate the political context before his assassination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unity+and+struggle+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unity+and+struggle+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unity and struggle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4393623-M.jpg" alt="Cover for Unity and struggle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unity+and+struggle+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unity and struggle">Unity and struggle</a>
+</h4>
+<p class="fr-book-author">By Amílcar Cabral, Basil Davidson</p>
+        
+<p class="fr-book-desc">Primary writings illuminate the political context before his assassination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unity+and+struggle+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese Seaborne Empire, 1415-1825 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire, 1415-1825">The Portuguese Seaborne Empire, 1415-1825</a>
-        </h4>
-        <p class="fr-book-author">By C.R. BOXER</p>
-
-        <p class="fr-book-desc">First published 1969.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese Seaborne Empire, 1415-1825 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire,">The Portuguese Seaborne Empire,</a>
+</h4>
+<p class="fr-book-author">By C.R. BOXER</p>
+        
+<p class="fr-book-desc">First published 1969.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Return+to+the+source&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Return to the source</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unity+and+struggle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unity and struggle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415+1825&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese Seaborne Empire, 1415 1825</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Return+to+the+source&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Return to the source</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Unity+and+struggle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unity and struggle</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415+1825&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese Seaborne Empire,</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

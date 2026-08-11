@@ -358,89 +358,89 @@ For readers interested in Iran's historical mysteries, the enduring question is 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Ziwiye Treasure Ever Exist as One Hoard?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Ziwiye Treasure Ever Exist as One Hoard?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Medes+and+Persians+William+Culican&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Medes and Persians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7390088-M.jpg" alt="Cover for The Medes and Persians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Medes+and+Persians+William+Culican&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Medes and Persians">The Medes and Persians</a>
-        </h4>
-        <p class="fr-book-author">By William Culican</p>
-
-        <p class="fr-book-desc">Examines Median and Persian art and archaeology, providing direct comparative context for objects attributed to Ziwiye.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Medes+and+Persians+William+Culican&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Medes+and+Persians+William+Culican&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Medes and Persians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7390088-M.jpg" alt="Cover for The Medes and Persians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Medes+and+Persians+William+Culican&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Medes and Persians">The Medes and Persians</a>
+</h4>
+<p class="fr-book-author">By William Culican</p>
+        
+<p class="fr-book-desc">Examines Median and Persian art and archaeology, providing direct comparative context for objects attributed to Ziwiye.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Medes+and+Persians+William+Culican&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+History+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Persian Empire: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139489-M.jpg" alt="Cover for The Persian Empire: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+History+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Persian Empire: A History">The Persian Empire: A History</a>
-        </h4>
-        <p class="fr-book-author">By Allen, Lindsay.</p>
-
-        <p class="fr-book-desc">Explores the archaeological evidence and artistic traditions of ancient Iran around the emergence of the Persian Empire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+History+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+History+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Persian Empire: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139489-M.jpg" alt="Cover for The Persian Empire: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+History+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Persian Empire: A History">The Persian Empire: A History</a>
+</h4>
+<p class="fr-book-author">By Allen, Lindsay.</p>
+        
+<p class="fr-book-desc">Explores the archaeological evidence and artistic traditions of ancient Iran around the emergence of the Persian Empire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+History+Allen%2C+Lindsay.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Persians: The Age of the Great Kings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13455944-M.jpg" alt="Cover for Persians: The Age of the Great Kings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Persians: The Age of the Great Kings">Persians: The Age of the Great Kings</a>
-        </h4>
-        <p class="fr-book-author">By Lloyd Llewellyn-Jones</p>
-
-        <p class="fr-book-desc">Places early Iranian elite culture, precious objects and imperial development within a compelling historical narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Persians: The Age of the Great Kings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13455944-M.jpg" alt="Cover for Persians: The Age of the Great Kings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Persians: The Age of the Great Kings">Persians: The Age of the Great Kings</a>
+</h4>
+<p class="fr-book-author">By Lloyd Llewellyn-Jones</p>
+        
+<p class="fr-book-desc">Places early Iranian elite culture, precious objects and imperial development within a compelling historical narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings+Lloyd+Llewellyn-Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Loot%3A+The+Battle+over+the+Stolen+Treasures+of+the+Ancient+World+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loot: The Battle over the Stolen Treasures of the Ancient World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6299981-M.jpg" alt="Cover for Loot: The Battle over the Stolen Treasures of the Ancient World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Loot%3A+The+Battle+over+the+Stolen+Treasures+of+the+Ancient+World+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loot: The Battle over the Stolen Treasures of the Ancient World">Loot: The Battle over the Stolen Treasures of the Ancient World</a>
-        </h4>
-        <p class="fr-book-author">By Sharon Waxman</p>
-
-        <p class="fr-book-desc">Illuminates how looting, dealers and incomplete provenance can transform uncertain finds into accepted museum narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Loot%3A+The+Battle+over+the+Stolen+Treasures+of+the+Ancient+World+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Loot%3A+The+Battle+over+the+Stolen+Treasures+of+the+Ancient+World+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loot: The Battle over the Stolen Treasures of the Ancient World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6299981-M.jpg" alt="Cover for Loot: The Battle over the Stolen Treasures of the Ancient World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Loot%3A+The+Battle+over+the+Stolen+Treasures+of+the+Ancient+World+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loot: The Battle over the Stolen Treasures of the Ancient World">Loot: The Battle over the Stolen Treasures of the Ancient World</a>
+</h4>
+<p class="fr-book-author">By Sharon Waxman</p>
+        
+<p class="fr-book-desc">Illuminates how looting, dealers and incomplete provenance can transform uncertain finds into accepted museum narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Loot%3A+The+Battle+over+the+Stolen+Treasures+of+the+Ancient+World+Sharon+Waxman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Medes+and+Persians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Medes and Persians</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persian Empire: A History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Persians: The Age of the Great Kings</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Medes+and+Persians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Medes and Persians</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Persian+Empire%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Persian Empire: A History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Persians%3A+The+Age+of+the+Great+Kings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Persians: The Age of the Great Kings</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -209,13 +209,13 @@ description: El Salvador’s most important historical mysteries are not tales o
 hero_summary: El Salvador’s most important historical mysteries are not tales of supernatural forces or hidden cities laden with gold.
 layout: default
 permalink: /which-mysteries-still-haunt-el-salvador/
-nav_short_title: "Lost Records and Unsolved Questions in El Salvador"
-title: "Lost Records and Unsolved Questions in El Salvador"
-title_full: "Lost Records and Unsolved Questions in El Salvador"
-display_title_short: "Lost Records and Unsolved Questions in El Salvador"
-display_title: "Lost Records and Unsolved Questions in El Salvador"
-heading_title: "Lost Records and Unsolved Questions in El Salvador"
-page_heading_title: "Lost Records and Unsolved Questions in El Salvador"
+nav_short_title: Which Mysteries Still Haunt El Salvador?
+title: Which Mysteries Still Haunt El Salvador?
+title_full: Which Mysteries Still Haunt El Salvador?
+display_title_short: Which Mysteries Still Haunt El Salvador?
+display_title: Which Mysteries Still Haunt El Salvador?
+heading_title: Which Mysteries Still Haunt El Salvador?
+page_heading_title: Which Mysteries Still Haunt El Salvador?
 source_count: 126
 infographic_count: 3
 page_website_name: El Salvador Mysteries
@@ -1355,89 +1355,89 @@ That distinction matters. Treating documented atrocities as spooky legends weake
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt El Salvador?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt El Salvador?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The massacre at El Mozote on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420963-M.jpg" alt="Cover for The massacre at El Mozote" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
-        </h4>
-        <p class="fr-book-author">By Mark Danner</p>
-
-        <p class="fr-book-desc">Provides essential background to several enduring national mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The massacre at El Mozote on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420963-M.jpg" alt="Cover for The massacre at El Mozote" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
+</h4>
+<p class="fr-book-author">By Mark Danner</p>
+        
+<p class="fr-book-desc">Provides essential background to several enduring national mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open One day of life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9671140-M.jpg" alt="Cover for One day of life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One day of life">One day of life</a>
-        </h4>
-        <p class="fr-book-author">By Manlio Argueta</p>
-
-        <p class="fr-book-desc">Captures the human experience of conflict and disappearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open One day of life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9671140-M.jpg" alt="Cover for One day of life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One day of life">One day of life</a>
+</h4>
+<p class="fr-book-author">By Manlio Argueta</p>
+        
+<p class="fr-book-desc">Captures the human experience of conflict and disappearances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=One+day+of+life+Manlio+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oscar Romero and the communion of the saints on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11690924-M.jpg" alt="Cover for Oscar Romero and the communion of the saints" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oscar Romero and the communion of the saints">Oscar Romero and the communion of the saints</a>
-        </h4>
-        <p class="fr-book-author">By Scott Wright</p>
-
-        <p class="fr-book-desc">Relevant to one of the country&#x27;s defining unresolved crimes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oscar Romero and the communion of the saints on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11690924-M.jpg" alt="Cover for Oscar Romero and the communion of the saints" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oscar Romero and the communion of the saints">Oscar Romero and the communion of the saints</a>
+</h4>
+<p class="fr-book-author">By Scott Wright</p>
+        
+<p class="fr-book-desc">Relevant to one of the country&#x27;s defining unresolved crimes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints+Scott+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Revolution in El Salvador on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4273867-M.jpg" alt="Cover for Revolution in El Salvador" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Revolution in El Salvador">Revolution in El Salvador</a>
-        </h4>
-        <p class="fr-book-author">By Tommie Sue Montgomery</p>
-
-        <p class="fr-book-desc">Broad context for conflict-era mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Revolution in El Salvador on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4273867-M.jpg" alt="Cover for Revolution in El Salvador" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Revolution in El Salvador">Revolution in El Salvador</a>
+</h4>
+<p class="fr-book-author">By Tommie Sue Montgomery</p>
+        
+<p class="fr-book-desc">Broad context for conflict-era mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Revolution+in+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The massacre at El Mozote</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=One+day+of+life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">One day of life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oscar Romero and the communion of the saints</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The massacre at El Mozote</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=One+day+of+life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">One day of life</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Oscar+Romero+and+the+communion+of+the+saints&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oscar Romero and the communion of the saints</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

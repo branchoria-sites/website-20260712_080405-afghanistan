@@ -371,7 +371,8 @@ These texts are important because they firmly place the monuments within medieva
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QTSSq5G6-BM" title="Tajanstveni svijet stećaka: Kaursko groblje i malo poznati kameni dragulji Trnova" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QTSSq5G6-BM" target="_blank" rel="noopener noreferrer">Tajanstveni svijet stećaka: Kaursko groblje i malo poznati kameni dragulji Trnova</a></p><p class="youtube-embed-meta">Channel: Adnan Vejzovic BH Avanture</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QTSSq5G6-BM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QTSSq5G6-BM">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by Stecci
+## Why the mystery still matters
+
 The mystery of the stećci is not that historians know nothing about them. Their dates, distribution, craftsmanship and cultural importance are increasingly well understood. The unanswered question is whether their remarkable imagery formed a shared symbolic language or whether each motif carried different meanings depending on family, locality, status and changing traditions.
 
 That uncertainty has wider significance. During the nineteenth and twentieth centuries, competing national movements often claimed the monuments as evidence of exclusive ethnic or religious ownership. Modern archaeological research instead presents a more complex picture: the stećci belong to a medieval society where cultural boundaries were less rigid than later political narratives suggested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://revue.nulk.cz/en/clanky/stecci-the-bogomil-myth-and-nationalist-narratives-in-bosnia-and-herzegovina/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revue.nulk.cz">[Journal of Ethnology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revue.nulk.cz</span><span class="citation-popover-snippet">Journal of EthnologyStećci, the Bogomil Myth, and Nationalist Narratives in Bosnia and Herzegovina - Journal of Ethnology...</span></span></span>
@@ -384,89 +385,89 @@ UNESCO's recognition of the stećci as a shared cultural heritage of Bosnia and 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Bosnia&#x27;s Medieval Tombstones Really Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Bosnia&#x27;s Medieval Tombstones Really Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon+Rebecca+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Lamb and Grey Falcon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9520547-M.jpg" alt="Cover for Black Lamb and Grey Falcon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon+Rebecca+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Lamb and Grey Falcon">Black Lamb and Grey Falcon</a>
-        </h4>
-        <p class="fr-book-author">By Rebecca West</p>
-
-        <p class="fr-book-desc">Includes cultural observations that complement interest in Bosnia&#x27;s heritage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon+Rebecca+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon+Rebecca+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Lamb and Grey Falcon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9520547-M.jpg" alt="Cover for Black Lamb and Grey Falcon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon+Rebecca+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Lamb and Grey Falcon">Black Lamb and Grey Falcon</a>
+</h4>
+<p class="fr-book-author">By Rebecca West</p>
+        
+<p class="fr-book-desc">Includes cultural observations that complement interest in Bosnia&#x27;s heritage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon+Rebecca+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
-        </h4>
-        <p class="fr-book-author">By Mark Mazower</p>
-
-        <p class="fr-book-desc">Supplies regional historical background.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans">The Balkans</a>
+</h4>
+<p class="fr-book-author">By Mark Mazower</p>
+        
+<p class="fr-book-desc">Supplies regional historical background.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Balkans+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open By Morris Bishop - The Middle Ages (American Heritage Library) (New edition) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14922686-M.jpg" alt="Cover for By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)">By Morris Bishop - The Middle Ages (American Heritage Library...</a>
-        </h4>
-        <p class="fr-book-author">By Morris Bishop</p>
-
-        <p class="fr-book-desc">First published 2001.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open By Morris Bishop - The Middle Ages (American Heritage Library) (New edition) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14922686-M.jpg" alt="Cover for By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)">By Morris Bishop - The Middle Ages (American Heritage Library...</a>
+</h4>
+<p class="fr-book-author">By Morris Bishop</p>
+        
+<p class="fr-book-desc">First published 2001.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4711764-M.jpg" alt="Cover for Bosnia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia">Bosnia</a>
-        </h4>
-        <p class="fr-book-author">By Noel Malcolm</p>
-
-        <p class="fr-book-desc">First published 1994. Subjects: Ethnic relations, History, Bosnia and hercegovina, history, Bosnia and hercegovina, ethnic relations, Bos...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4711764-M.jpg" alt="Cover for Bosnia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia">Bosnia</a>
+</h4>
+<p class="fr-book-author">By Noel Malcolm</p>
+        
+<p class="fr-book-desc">First published 1994. Subjects: Ethnic relations, History, Bosnia and hercegovina, history, Bosnia and hercegovina, ethnic relations, Bos...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Lamb and Grey Falcon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=By+Morris+Bishop+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">By Morris Bishop The Middle Ages (American Heritage Library) (New edition)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Lamb and Grey Falcon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=By+Morris+Bishop+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">By Morris Bishop The Middle Ages (American Heritage Library) (New edition)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 

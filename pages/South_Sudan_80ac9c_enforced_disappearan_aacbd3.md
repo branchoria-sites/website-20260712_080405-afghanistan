@@ -325,7 +325,8 @@ The UN Commission noted that inconsistent registration practices and the absence
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cvD8zxFZvIA" title="Amnesty Warns of Rising Threats to Journalists in South Sudan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cvD8zxFZvIA" target="_blank" rel="noopener noreferrer">Amnesty Warns of Rising Threats to Journalists in South Sudan</a></p><p class="youtube-embed-meta">Channel: News Central TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cvD8zxFZvIA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cvD8zxFZvIA">Open on YouTube</a></p></div></div></div>
 
-## The unresolved legacy of Disappearances
+## Why the mystery still matters
+
 South Sudan's enforced disappearances remain unresolved not because nothing is known, but because critical pieces of evidence remain concealed or inaccessible. Independent investigations have identified recurring patterns, credible witnesses and probable perpetrators in some cases, yet public accountability has remained limited.
 
 For families, the mystery is deeply personal: confirmation of death, recovery of remains and acknowledgement of responsibility are still absent. For historians, the disappearances illustrate how modern conflicts can create gaps in the historical record that persist long after fighting subsides. And for South Sudan itself, these unresolved cases continue to symbolise the unfinished struggle to establish transparent institutions capable of preserving records, investigating abuses and providing justice for victims.
@@ -336,89 +337,89 @@ For families, the mystery is deeply personal: confirmation of death, recovery of
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Made South Sudan&#x27;s Missing People Vanish?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Made South Sudan&#x27;s Missing People Vanish?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The root causes of Sudan&#x27;s civil wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1153162-M.jpg" alt="Cover for The root causes of Sudan&#x27;s civil wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The root causes of Sudan&#x27;s civil wars">The root causes of Sudan&#x27;s civil wars</a>
-        </h4>
-        <p class="fr-book-author">By Douglas Hamilton Johnson, Douglas H. Johnson et al.</p>
-
-        <p class="fr-book-desc">Explains the conflicts behind enforced disappearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The root causes of Sudan&#x27;s civil wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1153162-M.jpg" alt="Cover for The root causes of Sudan&#x27;s civil wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The root causes of Sudan&#x27;s civil wars">The root causes of Sudan&#x27;s civil wars</a>
+</h4>
+<p class="fr-book-author">By Douglas Hamilton Johnson, Douglas H. Johnson et al.</p>
+        
+<p class="fr-book-desc">Explains the conflicts behind enforced disappearances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars+Douglas+Hamilton+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What Is the What on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/959687-M.jpg" alt="Cover for What Is the What" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is the What">What Is the What</a>
-        </h4>
-        <p class="fr-book-author">By Dave Eggers</p>
-
-        <p class="fr-book-desc">Introduces themes of displacement and political violence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What Is the What on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/959687-M.jpg" alt="Cover for What Is the What" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is the What">What Is the What</a>
+</h4>
+<p class="fr-book-author">By Dave Eggers</p>
+        
+<p class="fr-book-desc">Introduces themes of displacement and political violence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=What+Is+the+What+Dave+Eggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky+Alphonsion+Deng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Poured Fire on Us from the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852994-M.jpg" alt="Cover for They Poured Fire on Us from the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky+Alphonsion+Deng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Poured Fire on Us from the Sky">They Poured Fire on Us from the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Alphonsion Deng, Benson Deng et al.</p>
-
-        <p class="fr-book-desc">Shows the human consequences of prolonged war.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky+Alphonsion+Deng&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky+Alphonsion+Deng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Poured Fire on Us from the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852994-M.jpg" alt="Cover for They Poured Fire on Us from the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky+Alphonsion+Deng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Poured Fire on Us from the Sky">They Poured Fire on Us from the Sky</a>
+</h4>
+<p class="fr-book-author">By Alphonsion Deng, Benson Deng et al.</p>
+        
+<p class="fr-book-desc">Shows the human consequences of prolonged war.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky+Alphonsion+Deng&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open South Sudan on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South Sudan">South Sudan</a>
-        </h4>
-        <p class="fr-book-author">By Edward Thomas</p>
-
-        <p class="fr-book-desc">Provides context for state violence and accountability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open South Sudan on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South Sudan">South Sudan</a>
+</h4>
+<p class="fr-book-author">By Edward Thomas</p>
+        
+<p class="fr-book-desc">Provides context for state violence and accountability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=South+Sudan+Edward+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The root causes of Sudan&#x27;s civil wars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=What+Is+the+What&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What Is the What</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Poured Fire on Us from the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+root+causes+of+Sudan%27s+civil+wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The root causes of Sudan&#x27;s civil wars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=What+Is+the+What&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What Is the What</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Poured+Fire+on+Us+from+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Poured Fire on Us from the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

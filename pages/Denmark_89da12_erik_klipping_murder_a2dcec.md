@@ -362,89 +362,89 @@ Nineteenth-century historical painters reinforced this romantic image. Otto Bach
 The contrast between the evidence and the legend explains why the murder still attracts attention. The historical record points towards a carefully organised political assassination, yet every attempt to identify the conspiracy ultimately runs into the same obstacle: the surviving sources are too fragmentary and too politically shaped to move beyond informed probability. The mystery endures not because no suspects exist, but because none can be proved responsible beyond reasonable historical doubt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://danmarkshistorien.lex.dk/G%C3%A5den_om_mordet_p%C3%A5_Erik_Klipping_i_Finderup_i_1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: danmarkshistorien.lex.dk">[Danmarkshistorien &#124; Lex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">danmarkshistorien.lex.dk</span><span class="citation-popover-title">Gåden om mordet på Erik Klipping i Finderup i 1286</span><span class="citation-popover-snippet">LexGåden om mordet på Erik Klipping i Finderup i 1286 – Danmarkshistorien &#124; LexAugust 28, 2025...</span><span class="citation-popover-meta">Published: August 28, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Really Murdered King Erik Klipping?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Really Murdered King Erik Klipping?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Children of Ash and Elm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10401359-M.jpg" alt="Cover for Children of Ash and Elm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
-        </h4>
-        <p class="fr-book-author">By Neil Price</p>
-
-        <p class="fr-book-desc">Explains the legacy of Scandinavian political culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Children of Ash and Elm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10401359-M.jpg" alt="Cover for Children of Ash and Elm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
+</h4>
+<p class="fr-book-author">By Neil Price</p>
+        
+<p class="fr-book-desc">Explains the legacy of Scandinavian political culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford illustrated history of the Vikings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/129290-M.jpg" alt="Cover for The Oxford illustrated history of the Vikings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of the Vikings">The Oxford illustrated history of the Vikings</a>
-        </h4>
-        <p class="fr-book-author">By Peter Sawyer</p>
-
-        <p class="fr-book-desc">Provides historical continuity into medieval Denmark.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford illustrated history of the Vikings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/129290-M.jpg" alt="Cover for The Oxford illustrated history of the Vikings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of the Vikings">The Oxford illustrated history of the Vikings</a>
+</h4>
+<p class="fr-book-author">By Peter Sawyer</p>
+        
+<p class="fr-book-desc">Provides historical continuity into medieval Denmark.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings+Peter+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open By Morris Bishop - The Middle Ages (American Heritage Library) (New edition) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14922686-M.jpg" alt="Cover for By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)">By Morris Bishop - The Middle Ages (American Heritage Library...</a>
-        </h4>
-        <p class="fr-book-author">By Morris Bishop</p>
-
-        <p class="fr-book-desc">First published 2001.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open By Morris Bishop - The Middle Ages (American Heritage Library) (New edition) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14922686-M.jpg" alt="Cover for By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)">By Morris Bishop - The Middle Ages (American Heritage Library...</a>
+</h4>
+<p class="fr-book-author">By Morris Bishop</p>
+        
+<p class="fr-book-desc">First published 2001.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Medieval+Scandinavia+Birgit+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Medieval Scandinavia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/615054-M.jpg" alt="Cover for Medieval Scandinavia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Medieval+Scandinavia+Birgit+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Medieval Scandinavia">Medieval Scandinavia</a>
-        </h4>
-        <p class="fr-book-author">By Birgit Sawyer</p>
-
-        <p class="fr-book-desc">Directly covers the political world surrounding Erik Klipping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Medieval+Scandinavia+Birgit+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Medieval+Scandinavia+Birgit+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Medieval Scandinavia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/615054-M.jpg" alt="Cover for Medieval Scandinavia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Medieval+Scandinavia+Birgit+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Medieval Scandinavia">Medieval Scandinavia</a>
+</h4>
+<p class="fr-book-author">By Birgit Sawyer</p>
+        
+<p class="fr-book-desc">Directly covers the political world surrounding Erik Klipping.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Medieval+Scandinavia+Birgit+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Children of Ash and Elm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of the Vikings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=By+Morris+Bishop+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">By Morris Bishop The Middle Ages (American Heritage Library) (New edition)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Children of Ash and Elm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+the+Vikings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of the Vikings</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=By+Morris+Bishop+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">By Morris Bishop The Middle Ages (American Heritage Library) (New edition)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

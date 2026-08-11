@@ -321,7 +321,8 @@ More recently, researchers have proposed a **subsistence shift hypothesis**. Thi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5MAnwrcNcg8" title="The Giant Extinct Lemurs of Madagascar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5MAnwrcNcg8" target="_blank" rel="noopener noreferrer">The Giant Extinct Lemurs of Madagascar</a></p><p class="youtube-embed-meta">Channel: Dr. Polaris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5MAnwrcNcg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5MAnwrcNcg8">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by Lost Giants
+## Why the mystery still matters
+
 The extinction of Madagascar's giant animals remains unresolved because researchers are still refining the chronology of human arrival, environmental change and the final survival dates of individual species. New fossil discoveries, improved radiocarbon dating and ancient environmental records continue to alter the picture.
 
 The broader lesson extends beyond the past. Madagascar's surviving lemurs, reptiles and other endemic wildlife now face many of the same interacting pressures—habitat loss, fire, climate stress and human expansion—that likely contributed to the disappearance of the island's largest animals. Understanding how those ancient extinctions unfolded is therefore not only a historical puzzle but also an important guide to preventing further losses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/cambridge-prisms-extinction/article/patterns-of-late-holocene-and-historical-extinctions-on-madagascar/1ECC0DA3436B4E3F51584058694F2F8B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentPatterns of late Holocene and historical extinctions on Madagascar &#124; Cambridge Prisms: Extinction...</span></span></span>
@@ -332,89 +333,89 @@ The broader lesson extends beyond the past. Madagascar's surviving lemurs, repti
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Killed Madagascar&#x27;s Lost Giant Animals?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Killed Madagascar&#x27;s Lost Giant Animals?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sixth Extinction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7910870-M.jpg" alt="Cover for The Sixth Extinction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
-
-        <p class="fr-book-desc">Provides accessible context for extinction processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sixth Extinction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7910870-M.jpg" alt="Cover for The Sixth Extinction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
+</h4>
+<p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
+        
+<p class="fr-book-desc">Provides accessible context for extinction processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Dodo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1019514-M.jpg" alt="Cover for The Song of the Dodo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Dodo">The Song of the Dodo</a>
-        </h4>
-        <p class="fr-book-author">By David Quammen</p>
-
-        <p class="fr-book-desc">Highly relevant to Madagascar&#x27;s isolated ecosystems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Dodo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1019514-M.jpg" alt="Cover for The Song of the Dodo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Dodo">The Song of the Dodo</a>
+</h4>
+<p class="fr-book-author">By David Quammen</p>
+        
+<p class="fr-book-desc">Highly relevant to Madagascar&#x27;s isolated ecosystems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Eighth Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/236475-M.jpg" alt="Cover for The Eighth Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Eighth Continent">The Eighth Continent</a>
-        </h4>
-        <p class="fr-book-author">By Peter Tyson</p>
-
-        <p class="fr-book-desc">Explains Madagascar&#x27;s extinct megafauna and environmental history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Eighth Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/236475-M.jpg" alt="Cover for The Eighth Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Eighth Continent">The Eighth Continent</a>
+</h4>
+<p class="fr-book-author">By Peter Tyson</p>
+        
+<p class="fr-book-desc">Explains Madagascar&#x27;s extinct megafauna and environmental history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonderful Life the Burgess on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1364687-M.jpg" alt="Cover for Wonderful Life the Burgess" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonderful Life the Burgess">Wonderful Life the Burgess</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Jay Gould</p>
-
-        <p class="fr-book-desc">First published 1988. Subjects: Life, British Columbia, Invertebrate fossils, Paleontology, Burgess Shale.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonderful Life the Burgess on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1364687-M.jpg" alt="Cover for Wonderful Life the Burgess" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonderful Life the Burgess">Wonderful Life the Burgess</a>
+</h4>
+<p class="fr-book-author">By Stephen Jay Gould</p>
+        
+<p class="fr-book-desc">First published 1988. Subjects: Life, British Columbia, Invertebrate fossils, Paleontology, Burgess Shale.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sixth+Extinction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sixth Extinction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Dodo</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Eighth+Continent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Eighth Continent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sixth+Extinction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sixth Extinction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Dodo</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Eighth+Continent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Eighth Continent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

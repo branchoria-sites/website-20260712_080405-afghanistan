@@ -403,7 +403,8 @@ A balanced assessment distinguishes between several different levels of evidence
 
 <img src="{{ "/assets/images/Philippines_806736_yamashita_treasure_l_b6fd3d-Illustration-3-dark.svg" | relative_url }}" alt="Yamashita Gold illustration 3" data-theme-src-dark="{{ "/assets/images/Philippines_806736_yamashita_treasure_l_b6fd3d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Philippines_806736_yamashita_treasure_l_b6fd3d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Yamashita Gold in the wider historical record
+## Why the mystery still matters
+
 Yamashita's Treasure remains important not because historians expect a spectacular discovery, but because it illustrates how genuine history can evolve into enduring legend.
 
 The story sits at the intersection of wartime looting, political corruption, incomplete archives and human hope. A limited number of hidden wartime caches may well have existed, and isolated discoveries are historically believable. Yet the available evidence does not support the enormous underground treasure empire that dominates popular imagination.
@@ -411,89 +412,89 @@ The story sits at the intersection of wartime looting, political corruption, inc
 That balance—between documented possibility and legendary exaggeration—is what makes Yamashita Gold one of the Philippines' most enduring historical mysteries.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Yamashita&#x27;s Treasure Ever Really Hidden?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Yamashita&#x27;s Treasure Ever Really Hidden?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Gold+Warriors+Sterling+Seagrave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gold Warriors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/895604-M.jpg" alt="Cover for Gold Warriors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Gold+Warriors+Sterling+Seagrave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gold Warriors">Gold Warriors</a>
-        </h4>
-        <p class="fr-book-author">By Sterling Seagrave, Peggy Seagrave</p>
-
-        <p class="fr-book-desc">Central work in discussions of Yamashita treasure allegations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Gold+Warriors+Sterling+Seagrave&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Gold+Warriors+Sterling+Seagrave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gold Warriors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/895604-M.jpg" alt="Cover for Gold Warriors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Gold+Warriors+Sterling+Seagrave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gold Warriors">Gold Warriors</a>
+</h4>
+<p class="fr-book-author">By Sterling Seagrave, Peggy Seagrave</p>
+        
+<p class="fr-book-desc">Central work in discussions of Yamashita treasure allegations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Gold+Warriors+Sterling+Seagrave&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+soldiers+Hampton+Sides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost soldiers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/227109-M.jpg" alt="Cover for Ghost soldiers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+soldiers+Hampton+Sides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost soldiers">Ghost soldiers</a>
-        </h4>
-        <p class="fr-book-author">By Hampton Sides</p>
-
-        <p class="fr-book-desc">Adds context about the Philippines during the final stages of the war.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+soldiers+Hampton+Sides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+soldiers+Hampton+Sides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost soldiers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/227109-M.jpg" alt="Cover for Ghost soldiers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+soldiers+Hampton+Sides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost soldiers">Ghost soldiers</a>
+</h4>
+<p class="fr-book-author">By Hampton Sides</p>
+        
+<p class="fr-book-desc">Adds context about the Philippines during the final stages of the war.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+soldiers+Hampton+Sides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of the Philippines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6391811-M.jpg" alt="Cover for A History of the Philippines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Philippines">A History of the Philippines</a>
-        </h4>
-        <p class="fr-book-author">By Luis H. Francia</p>
-
-        <p class="fr-book-desc">Provides historical background to wartime Philippines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of the Philippines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6391811-M.jpg" alt="Cover for A History of the Philippines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Philippines">A History of the Philippines</a>
+</h4>
+<p class="fr-book-author">By Luis H. Francia</p>
+        
+<p class="fr-book-desc">Provides historical background to wartime Philippines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+the+Philippines+Luis+H.+Francia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rampage%3A+MacArthur%2C+Yamashita%2C+and+the+Battle+of+Manila+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rampage: MacArthur, Yamashita, and the Battle of Manila on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rampage%3A+MacArthur%2C+Yamashita%2C+and+the+Battle+of+Manila+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rampage: MacArthur, Yamashita, and the Battle of Manila">Rampage: MacArthur, Yamashita, and the Battle of Manila</a>
-        </h4>
-        <p class="fr-book-author">By James M. Scott</p>
-
-        <p class="fr-book-desc">Explains the historical setting behind the Yamashita treasure legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rampage%3A+MacArthur%2C+Yamashita%2C+and+the+Battle+of+Manila+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rampage%3A+MacArthur%2C+Yamashita%2C+and+the+Battle+of+Manila+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rampage: MacArthur, Yamashita, and the Battle of Manila on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rampage%3A+MacArthur%2C+Yamashita%2C+and+the+Battle+of+Manila+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rampage: MacArthur, Yamashita, and the Battle of Manila">Rampage: MacArthur, Yamashita, and the Battle of Manila</a>
+</h4>
+<p class="fr-book-author">By James M. Scott</p>
+        
+<p class="fr-book-desc">Explains the historical setting behind the Yamashita treasure legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rampage%3A+MacArthur%2C+Yamashita%2C+and+the+Battle+of+Manila+James+M.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Gold+Warriors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gold Warriors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+soldiers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost soldiers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+Philippines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the Philippines</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Gold+Warriors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gold Warriors</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+soldiers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost soldiers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+Philippines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the Philippines</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

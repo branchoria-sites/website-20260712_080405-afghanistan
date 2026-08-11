@@ -343,89 +343,89 @@ For Iceland's early history, the question is therefore not whether Christian her
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Christian Hermits Reach Iceland Before the Norse?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Christian Hermits Reach Iceland Before the Norse?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Children of Ash and Elm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10401359-M.jpg" alt="Cover for Children of Ash and Elm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
-        </h4>
-        <p class="fr-book-author">By Neil Price</p>
-
-        <p class="fr-book-desc">Explores Viking expansion, settlement and evidence relevant to early Iceland.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Children of Ash and Elm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10401359-M.jpg" alt="Cover for Children of Ash and Elm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Ash and Elm">Children of Ash and Elm</a>
+</h4>
+<p class="fr-book-author">By Neil Price</p>
+        
+<p class="fr-book-desc">Explores Viking expansion, settlement and evidence relevant to early Iceland.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm+Neil+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9412396-M.jpg" alt="Cover for Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent">Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent</a>
-        </h4>
-        <p class="fr-book-author">By Hannah Kent</p>
-
-        <p class="fr-book-desc">First published 2013. Subjects: Fiction, biographical, Iceland, fiction, Criminals, fiction, Fiction, suspense, Fiction, historical, gene...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9412396-M.jpg" alt="Cover for Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent">Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent</a>
+</h4>
+<p class="fr-book-author">By Hannah Kent</p>
+        
+<p class="fr-book-desc">First published 2013. Subjects: Fiction, biographical, Iceland, fiction, Criminals, fiction, Fiction, suspense, Fiction, historical, gene...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vikings+in+England+Else+Roesdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vikings in England on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5445728-M.jpg" alt="Cover for The Vikings in England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Vikings+in+England+Else+Roesdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vikings in England">The Vikings in England</a>
-        </h4>
-        <p class="fr-book-author">By Else Roesdahl</p>
-
-        <p class="fr-book-desc">First published 1981. Subjects: Northmen, History, Exhibitions, Vikings, Antiquities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Vikings+in+England+Else+Roesdahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vikings+in+England+Else+Roesdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vikings in England on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5445728-M.jpg" alt="Cover for The Vikings in England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Vikings+in+England+Else+Roesdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vikings in England">The Vikings in England</a>
+</h4>
+<p class="fr-book-author">By Else Roesdahl</p>
+        
+<p class="fr-book-desc">First published 1981. Subjects: Northmen, History, Exhibitions, Vikings, Antiquities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Vikings+in+England+Else+Roesdahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Duped on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Duped">Duped</a>
-        </h4>
-        <p class="fr-book-author">By Saul Kassin</p>
-
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Duped on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Duped">Duped</a>
+</h4>
+<p class="fr-book-author">By Saul Kassin</p>
+        
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Duped+Saul+Kassin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Children of Ash and Elm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vikings+in+England&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vikings in England</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Children+of+Ash+and+Elm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Children of Ash and Elm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Burial+Rites+%5BPaperback%5D+%5BJan+01%2C+2013%5D+Hannah+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Burial Rites [Paperback] [Jan 01, 2013] Hannah Kent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vikings+in+England&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vikings in England</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

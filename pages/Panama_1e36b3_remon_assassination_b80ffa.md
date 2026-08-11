@@ -313,7 +313,8 @@ The absence of decisive physical evidence means that no single theory commands b
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MjFaO9DRAsA" title="Was Panama&#x27;s President Killed by the CIA?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MjFaO9DRAsA" target="_blank" rel="noopener noreferrer">Was Panama&#x27;s President Killed by the CIA?</a></p><p class="youtube-embed-meta">Channel: TeleSUR English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MjFaO9DRAsA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MjFaO9DRAsA">Open on YouTube</a></p></div></div></div>
 
-## The historical picture around Remon Murder
+## Why the Case Still Matters
+
 The mystery surrounding Remn's assassination continues to matter because it marked a turning point in Panama's political development. The murder demonstrated how dependent the country's institutions had become on one dominant figure and revealed the fragile relationship between constitutional government and the armed forces.
 
 The affair also exposed weaknesses in Panama's legal system. Guizado's prosecution prompted long-running debates about whether the National Assembly should judge a sitting president accused of an ordinary criminal offence or whether that responsibility belonged to the judiciary. Legal scholars continue to treat the case as an important constitutional precedent because it highlighted ambiguities that later reforms sought to address.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://up-rid.up.ac.pa/1189/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: up-rid.up.ac.pa">[up-rid.up.ac.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">up-rid.up.ac.pa</span><span class="citation-popover-snippet">Repositorio Institucional Digital de la Universidad de PanamáAugust 20, 2019...</span><span class="citation-popover-meta">Published: August 20, 2019</span></span></span>
@@ -328,89 +329,89 @@ For that reason, the assassination of Jos Antonio Remn remains not only an unsol
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Really Ordered President Remon&#x27;s Assassination?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Really Ordered President Remon&#x27;s Assassination?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+the+President%27s+Men+Carl+Bernstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All the President&#x27;s Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EEA7CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All the President&#x27;s Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+the+President%27s+Men+Carl+Bernstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All the President&#x27;s Men">All the President&#x27;s Men</a>
-        </h4>
-        <p class="fr-book-author">By Carl Bernstein, Bob Woodward</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in political investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+the+President%27s+Men+Carl+Bernstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+the+President%27s+Men+Carl+Bernstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All the President&#x27;s Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EEA7CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All the President&#x27;s Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+the+President%27s+Men+Carl+Bernstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All the President&#x27;s Men">All the President&#x27;s Men</a>
+</h4>
+<p class="fr-book-author">By Carl Bernstein, Bob Woodward</p>
+        
+<p class="fr-book-desc">Appeals to readers interested in political investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+the+President%27s+Men+Carl+Bernstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictator&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8114194-M.jpg" alt="Cover for The dictator&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
-
-        <p class="fr-book-desc">Explains incentives behind political violence and power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictator&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8114194-M.jpg" alt="Cover for The dictator&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
+</h4>
+<p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
+        
+<p class="fr-book-desc">Explains incentives behind political violence and power.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Panama Fever: The Epic Story of the Building of the Panama Canal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8046983-M.jpg" alt="Cover for Panama Fever: The Epic Story of the Building of the Panama Canal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Panama Fever: The Epic Story of the Building of the Panama Canal">Panama Fever: The Epic Story of the Building of the Panama Canal</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Parker, Matthew Parker et al.</p>
-
-        <p class="fr-book-desc">Adds wider national historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Panama Fever: The Epic Story of the Building of the Panama Canal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8046983-M.jpg" alt="Cover for Panama Fever: The Epic Story of the Building of the Panama Canal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Panama Fever: The Epic Story of the Building of the Panama Canal">Panama Fever: The Epic Story of the Building of the Panama Canal</a>
+</h4>
+<p class="fr-book-author">By Matthew Parker, Matthew Parker et al.</p>
+        
+<p class="fr-book-desc">Adds wider national historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal+Matthew+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581579-M.jpg" alt="Cover for Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq">Overthrow: America&#x27;s Century of Regime Change from Hawaii to...</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Kinzer, Stephen Kinzer et al.</p>
-
-        <p class="fr-book-desc">Places Cold War Latin American political crises in context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/581579-M.jpg" alt="Cover for Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overthrow: America&#x27;s Century of Regime Change from Hawaii to Iraq">Overthrow: America&#x27;s Century of Regime Change from Hawaii to...</a>
+</h4>
+<p class="fr-book-author">By Stephen Kinzer, Stephen Kinzer et al.</p>
+        
+<p class="fr-book-desc">Places Cold War Latin American political crises in context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Overthrow%3A+America%27s+Century+of+Regime+Change+from+Hawaii+to+Iraq+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+the+President%27s+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All the President&#x27;s Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Panama Fever: The Epic Story of the Building of the Panama Canal</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+the+President%27s+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All the President&#x27;s Men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Panama+Fever%3A+The+Epic+Story+of+the+Building+of+the+Panama+Canal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Panama Fever: The Epic Story of the Building of the Panama Canal</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

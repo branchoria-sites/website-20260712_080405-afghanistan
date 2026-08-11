@@ -335,7 +335,8 @@ Likewise, alternative explanations—including suggestions that the disappearanc
 
 <img src="{{ "/assets/images/Ivory_Coast_0c79b1_guy_andre_kieffer_ca_6d2cb7-Illustration-3-dark.svg" | relative_url }}" alt="Kieffer Case illustration 3" data-theme-src-dark="{{ "/assets/images/Ivory_Coast_0c79b1_guy_andre_kieffer_ca_6d2cb7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ivory_Coast_0c79b1_guy_andre_kieffer_ca_6d2cb7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Kieffer Case
+## Why the case still matters
+
 The Kieffer case became far more than a missing-person investigation. It became a test of whether crimes potentially involving politically influential individuals could be fully investigated in a country emerging from conflict.
 
 For journalists, it remains a symbol of the risks associated with investigating corruption in strategically important industries. For historians of Ivory Coast, it illustrates how periods of political instability can leave enduring gaps in the historical record, where witness testimony, official investigations and judicial proceedings never converge into a complete account.
@@ -343,89 +344,89 @@ For journalists, it remains a symbol of the risks associated with investigating 
 More than twenty years after Guy-André Kieffer disappeared from a supermarket car park in Abidjan, investigators have assembled a persuasive picture of an organised abduction and probable murder. They have never answered the question that gives the case its lasting historical significance: who ultimately decided that the journalist should disappear, and ensured that no trace of him would ever be found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rsf.org/en/investigation-reporter-s-disappearance-c%C3%B4te-d-ivoire-must-be-reactivated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[rsf.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Open source on rsf.org.</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Made Guy-Andre Kieffer Disappear?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Made Guy-Andre Kieffer Disappear?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The state of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12509701-M.jpg" alt="Cover for The state of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The state of Africa">The state of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Martin Meredith</p>
-
-        <p class="fr-book-desc">Provides context for Laurent Gbagbo&#x27;s presidency, Côte d&#x27;Ivoire&#x27;s political crisis and the networks of power surrounding Kieffer&#x27;s disapp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The state of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12509701-M.jpg" alt="Cover for The state of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The state of Africa">The state of Africa</a>
+</h4>
+<p class="fr-book-author">By Martin Meredith</p>
+        
+<p class="fr-book-desc">Provides context for Laurent Gbagbo&#x27;s presidency, Côte d&#x27;Ivoire&#x27;s political crisis and the networks of power surrounding Kieffer&#x27;s disapp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa since independence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1180045-M.jpg" alt="Cover for Africa since independence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
-        </h4>
-        <p class="fr-book-author">By Paul Nugent</p>
-
-        <p class="fr-book-desc">Explains the state institutions, political competition and economic interests shaping postcolonial Côte d&#x27;Ivoire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa since independence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1180045-M.jpg" alt="Cover for Africa since independence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
+</h4>
+<p class="fr-book-author">By Paul Nugent</p>
+        
+<p class="fr-book-desc">Explains the state institutions, political competition and economic interests shaping postcolonial Côte d&#x27;Ivoire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chocolate+Nations+Orla+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chocolate Nations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8791862-M.jpg" alt="Cover for Chocolate Nations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chocolate+Nations+Orla+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chocolate Nations">Chocolate Nations</a>
-        </h4>
-        <p class="fr-book-author">By Orla Ryan</p>
-
-        <p class="fr-book-desc">Investigates the Ivorian and Ghanaian cocoa industries, the commercial world at the centre of Kieffer&#x27;s reporting before his disappearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chocolate+Nations+Orla+Ryan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chocolate+Nations+Orla+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chocolate Nations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8791862-M.jpg" alt="Cover for Chocolate Nations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chocolate+Nations+Orla+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chocolate Nations">Chocolate Nations</a>
+</h4>
+<p class="fr-book-author">By Orla Ryan</p>
+        
+<p class="fr-book-desc">Investigates the Ivorian and Ghanaian cocoa industries, the commercial world at the centre of Kieffer&#x27;s reporting before his disappearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chocolate+Nations+Orla+Ryan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bitter+Chocolate+Carol+Off&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bitter Chocolate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417156-M.jpg" alt="Cover for Bitter Chocolate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bitter+Chocolate+Carol+Off&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bitter Chocolate">Bitter Chocolate</a>
-        </h4>
-        <p class="fr-book-author">By Carol Off</p>
-
-        <p class="fr-book-desc">Explores exploitation and opaque power structures in the West African cocoa trade, helping explain the risks surrounding sensitive commod...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bitter+Chocolate+Carol+Off&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bitter+Chocolate+Carol+Off&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bitter Chocolate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417156-M.jpg" alt="Cover for Bitter Chocolate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bitter+Chocolate+Carol+Off&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bitter Chocolate">Bitter Chocolate</a>
+</h4>
+<p class="fr-book-author">By Carol Off</p>
+        
+<p class="fr-book-desc">Explores exploitation and opaque power structures in the West African cocoa trade, helping explain the risks surrounding sensitive commod...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bitter+Chocolate+Carol+Off&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+state+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The state of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Africa+since+independence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Africa since independence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chocolate+Nations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chocolate Nations</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+state+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The state of Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Africa+since+independence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Africa since independence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chocolate+Nations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chocolate Nations</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

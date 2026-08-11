@@ -380,7 +380,7 @@ The surviving ruins show that pre-Islamic Maldives possessed sophisticated archi
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
 </h4>
 <p class="fr-book-author">By Peter Frankopan</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: East and West, HISTORY / World, Trade routes, Acculturation, TRAVEL / Asia / China.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The surviving ruins show that pre-Islamic Maldives possessed sophisticated archi
 <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of Early India">The Penguin History of Early India</a>
 </h4>
 <p class="fr-book-author">By Romila Thapar</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Civilization, History, India, civilization, India, history, 1000-1526.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+History+of+Early+India+Romila+Thapar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The surviving ruins show that pre-Islamic Maldives possessed sophisticated archi
 <a href="https://www.amazon.com/s?k=Trade%2C+Circulation%2C+and+Flow+in+the+Indian+Ocean+World+Michael+Pearson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trade, Circulation, and Flow in the Indian Ocean World">Trade, Circulation, and Flow in the Indian Ocean World</a>
 </h4>
 <p class="fr-book-author">By Michael Pearson</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: Commerce, Economic conditions, History, Indian ocean region, Economic history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Trade%2C+Circulation%2C+and+Flow+in+the+Indian+Ocean+World+Michael+Pearson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ The surviving ruins show that pre-Islamic Maldives possessed sophisticated archi
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maldives">The Maldives</a>
 </h4>
 <p class="fr-book-author">By J.J. Robinson</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: Democracy, Maldives, Politics and government, Social conditions, Islam.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

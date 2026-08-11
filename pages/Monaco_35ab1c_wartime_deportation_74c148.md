@@ -322,7 +322,8 @@ The archival opening also illustrates a broader feature of Holocaust research: h
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ojc41uFU1UI" title="Monaco: History of a Micro-state (1/3) | ARTE.tv Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ojc41uFU1UI" target="_blank" rel="noopener noreferrer">Monaco: History of a Micro-state (1/3) | ARTE.tv Documentary</a></p><p class="youtube-embed-meta">Channel: ARTE.tv Documentary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ojc41uFU1UI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ojc41uFU1UI">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by Wartime Files
+## Why the Mystery Still Matters
+
 The unresolved element of Monaco's wartime history is no longer whether deportations occurred. That is established beyond reasonable doubt. Instead, the enduring questions concern documentation: whether every victim has been identified, whether every confiscated asset has been traced, and whether surviving archives fully reveal how decisions were made inside the principality.
 
 For descendants, these questions remain deeply personal because missing files can prevent families from reconstructing the final movements of relatives or recovering knowledge of property that disappeared during persecution. For historians, Monaco provides a reminder that even one of Europe's smallest states became entangled in the administrative machinery of the Holocaust, and that the work of recovering historical truth often depends as much on reopening archives as on discovering new evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.monacostatistics.mc/content/download/188420/2168781/file/Report%20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monacostatistics.mc">[monacostatistics.mc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monacostatistics.mc</span><span class="citation-popover-title">Expert group</span><span class="citation-popover-snippet">Expert group</span></span></span>
@@ -345,7 +346,7 @@ For descendants, these questions remain deeply personal because missing files ca
 <a href="https://www.amazon.com/s?k=Ordinary+Men+Christopher+R.+Browning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ordinary Men">Ordinary Men</a>
 </h4>
 <p class="fr-book-author">By Christopher R. Browning</p>
-
+        
 <p class="fr-book-desc">First published 1992. Subjects: Germany, Germany. Reserve-Polizei-Bataillon 101, Nationalsozialistische Deutsche Arbeiter-Partei, Nationa...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ordinary+Men+Christopher+R.+Browning&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +363,7 @@ For descendants, these questions remain deeply personal because missing files ca
 <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Holocaust">The Holocaust</a>
 </h4>
 <p class="fr-book-author">By Laurence Rees, S. P. Bavin</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Jews, Interviews, History and criticism, Holocaust survivors, Sources.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +380,7 @@ For descendants, these questions remain deeply personal because missing files ca
 <a href="https://www.amazon.com/s?k=Vichy+France+Robert+O.+Paxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vichy France">Vichy France</a>
 </h4>
 <p class="fr-book-author">By Robert O. Paxton, R. O. Paxton</p>
-
+        
 <p class="fr-book-desc">First published 1972. Subjects: Politics and government, History, France, history, german occupation, 1940-1945, France, politics and gov...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vichy+France+Robert+O.+Paxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +397,7 @@ For descendants, these questions remain deeply personal because missing files ca
 <a href="https://www.amazon.com/s?k=Grimaldis+of+Monaco+Anne+Edwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grimaldis of Monaco">Grimaldis of Monaco</a>
 </h4>
 <p class="fr-book-author">By Anne Edwards</p>
-
+        
 <p class="fr-book-desc">First published 2017.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Grimaldis+of+Monaco+Anne+Edwards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

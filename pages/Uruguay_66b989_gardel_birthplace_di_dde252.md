@@ -339,7 +339,8 @@ In early 2026, Uruguayan researchers announced the discovery of a 1920 consular 
 
 Most professional biographers, however, have not regarded this discovery as overturning the earlier French birth registration. The new document reinforces the fact that Gardel consistently presented himself as Uruguayan after 1920, but it does not replace or invalidate the earlier civil records created at the time of birth. As a result, the broad scholarly consensus still favours Toulouse while acknowledging that Gardel intentionally maintained a different official identity during much of his career.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Carlos_Gardel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Carlos Gardel</span><span class="citation-popover-snippet">Carlos Gardel</span></span></span>
 
-## Questions left unresolved by Gardel
+## Why the mystery still matters
+
 The dispute survives because it sits at the intersection of national identity, documentary history and cultural memory.
 
 For Uruguay, Gardel represents a figure whose legacy became intertwined with Tacuarembó and national pride. For France, surviving birth and baptismal records provide unusually strong archival evidence. For Argentina, birthplace has often mattered less than the fact that Gardel became the defining voice of Argentine tango and built his career in Buenos Aires.
@@ -352,89 +353,89 @@ Rather than a conventional unsolved mystery with missing evidence, the Gardel co
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Carlos Gardel Really Born in Uruguay?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Carlos Gardel Really Born in Uruguay?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tango: The Art History of Love on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226090-M.jpg" alt="Cover for Tango: The Art History of Love" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tango: The Art History of Love">Tango: The Art History of Love</a>
-        </h4>
-        <p class="fr-book-author">By Robert Farris Thompson</p>
-
-        <p class="fr-book-desc">Provides broader context for Gardel&#x27;s legacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tango: The Art History of Love on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226090-M.jpg" alt="Cover for Tango: The Art History of Love" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tango: The Art History of Love">Tango: The Art History of Love</a>
+</h4>
+<p class="fr-book-author">By Robert Farris Thompson</p>
+        
+<p class="fr-book-desc">Provides broader context for Gardel&#x27;s legacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predatory States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/470902-M.jpg" alt="Cover for Predatory States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predatory States">Predatory States</a>
-        </h4>
-        <p class="fr-book-author">By J. Patrice McSherry, J. Patrice McSherry</p>
-
-        <p class="fr-book-desc">First published 2005. Subjects: State-sponsored terrorism, Operación Cóndor (South American countersubversion association), Political cri...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predatory States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/470902-M.jpg" alt="Cover for Predatory States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predatory States">Predatory States</a>
+</h4>
+<p class="fr-book-author">By J. Patrice McSherry, J. Patrice McSherry</p>
+        
+<p class="fr-book-desc">First published 2005. Subjects: State-sponsored terrorism, Operación Cóndor (South American countersubversion association), Political cri...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Veins Of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
-        </h4>
-        <p class="fr-book-author">By Eduardo Galeano</p>
-
-        <p class="fr-book-desc">Offers historical context for regional identity debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Veins Of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
+</h4>
+<p class="fr-book-author">By Eduardo Galeano</p>
+        
+<p class="fr-book-desc">Offers historical context for regional identity debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open River Plate 1939 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River Plate 1939">River Plate 1939</a>
-        </h4>
-        <p class="fr-book-author">By Angus Konstam, Tony Bryan</p>
-
-        <p class="fr-book-desc">First published 2016. Subjects: River plate, battle of the, 1939, Warships, Admiral Graf Spee (Battleship), River Plate, Battle of the (1...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open River Plate 1939 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River Plate 1939">River Plate 1939</a>
+</h4>
+<p class="fr-book-author">By Angus Konstam, Tony Bryan</p>
+        
+<p class="fr-book-desc">First published 2016. Subjects: River plate, battle of the, 1939, Warships, Admiral Graf Spee (Battleship), River Plate, Battle of the (1...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=River+Plate+1939+Angus+Konstam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tango: The Art History of Love</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Predatory+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predatory States</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Veins Of Latin America</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tango%3A+The+Art+History+of+Love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tango: The Art History of Love</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Predatory+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predatory States</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Veins Of Latin America</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

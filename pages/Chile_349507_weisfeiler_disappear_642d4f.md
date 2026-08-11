@@ -338,7 +338,8 @@ The Chilean National Truth and Reconciliation Commission (the Rettig Commission)
 
 <img src="{{ "/assets/images/Chile_349507_weisfeiler_disappear_642d4f-Illustration-3-dark.svg" | relative_url }}" alt="Weisfeiler illustration 3" data-theme-src-dark="{{ "/assets/images/Chile_349507_weisfeiler_disappear_642d4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chile_349507_weisfeiler_disappear_642d4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Weisfeiler
+## Why the mystery still matters
+
 The disappearance of Boris Weisfeiler occupies an unusual place in Chilean history because it combines an individual missing-person case with the broader legacy of state secrecy during the Pinochet dictatorship.
 
 Unlike many historical mysteries, the debate is not driven by folklore or sensational speculation. Instead, it rests on genuine contradictions between an official investigation, later witness testimony and government records released years afterwards. The absence of a body, the conflicting accounts of military involvement and the documented links between Colonia Dignidad and political repression ensure that the case remains historically significant even though its final chapter has never been written.
@@ -351,89 +352,89 @@ For historians, the unresolved question is no longer simply whether a lone hiker
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened to Boris Weisfeiler in Chile?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened to Boris Weisfeiler in Chile?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pinochet File on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/805386-M.jpg" alt="Cover for The Pinochet File" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pinochet File">The Pinochet File</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kornbluh</p>
-
-        <p class="fr-book-desc">Essential context for the Weisfeiler disappearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pinochet File on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/805386-M.jpg" alt="Cover for The Pinochet File" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pinochet File">The Pinochet File</a>
+</h4>
+<p class="fr-book-author">By Peter Kornbluh</p>
+        
+<p class="fr-book-desc">Essential context for the Weisfeiler disappearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Patagonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/94640-M.jpg" alt="Cover for In Patagonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Patagonia">In Patagonia</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Chatwin</p>
-
-        <p class="fr-book-desc">First published 1977. Subjects: Description and travel, Travel, Journeys, Descriptions et voyages, Patagonia (argentina and chile).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Patagonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/94640-M.jpg" alt="Cover for In Patagonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Patagonia">In Patagonia</a>
+</h4>
+<p class="fr-book-author">By Bruce Chatwin</p>
+        
+<p class="fr-book-desc">First published 1977. Subjects: Description and travel, Travel, Journeys, Descriptions et voyages, Patagonia (argentina and chile).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Patagonia+Bruce+Chatwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Neruda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8797429-M.jpg" alt="Cover for Neruda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neruda">Neruda</a>
-        </h4>
-        <p class="fr-book-author">By Mark Eisner</p>
-
-        <p class="fr-book-desc">First published 2018. Subjects: Neruda, pablo, 1904-1973, Poets, biography, Chilean Authors, Biography, BIOGRAPHY &amp; AUTOBIOGRAPHY / Liter...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Neruda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8797429-M.jpg" alt="Cover for Neruda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neruda">Neruda</a>
+</h4>
+<p class="fr-book-author">By Mark Eisner</p>
+        
+<p class="fr-book-desc">First published 2018. Subjects: Neruda, pablo, 1904-1973, Poets, biography, Chilean Authors, Biography, BIOGRAPHY &amp; AUTOBIOGRAPHY / Liter...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Neruda+Mark+Eisner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My Invented Country on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My Invented Country">My Invented Country</a>
-        </h4>
-        <p class="fr-book-author">By Isabel Allende</p>
-
-        <p class="fr-book-desc">Background on Chilean society and history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My Invented Country on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My Invented Country">My Invented Country</a>
+</h4>
+<p class="fr-book-author">By Isabel Allende</p>
+        
+<p class="fr-book-desc">Background on Chilean society and history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=My+Invented+Country+Isabel+Allende&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pinochet+File&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pinochet File</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Patagonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Patagonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Neruda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Neruda</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pinochet+File&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pinochet File</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Patagonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Patagonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Neruda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Neruda</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

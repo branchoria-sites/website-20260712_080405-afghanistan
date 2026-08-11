@@ -317,7 +317,8 @@ Some recent historical discussions have also questioned when the specific date o
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Vz9DYTICfM" title="The day San Marino, The OLDEST Sovereign State, was Founded | September" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Vz9DYTICfM" target="_blank" rel="noopener noreferrer">The day San Marino, The OLDEST Sovereign State, was Founded | September</a></p><p class="youtube-embed-meta">Channel: On A Day Like This</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Vz9DYTICfM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Vz9DYTICfM">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by Foundation
+## Why the mystery still matters
+
 The disputed foundation of San Marino remains significant because it sits at the intersection of legend, documentary history and national identity.
 
 Many European states possess foundation myths, but few have preserved one so closely linked to living constitutional traditions. San Marino still celebrates 3 September as both the feast of its patron saint and the anniversary of the republic's foundation, reflecting the continuing importance of the traditional narrative regardless of ongoing scholarly debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20260903_Festa_di_San_Marino.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitsanmarino.com">[Visita San Marino, portale ufficiale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitsanmarino.com</span><span class="citation-popover-snippet">Visita San Marino, portale ufficialeFeast of Saint Marinus and Foundation of the Republic Day &#124; Visit San MarinoSeptember 3, 2026...</span><span class="citation-popover-meta">Published: September 3, 2026</span></span></span>
@@ -330,89 +331,89 @@ For historians, the mystery is not whether the legend should simply be accepted 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was San Marino Really Founded in AD 301?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was San Marino Really Founded in AD 301?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10991844-M.jpg" alt="Cover for The pursuit of Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of Italy">The pursuit of Italy</a>
-        </h4>
-        <p class="fr-book-author">By Gilmour, David</p>
-
-        <p class="fr-book-desc">Shows how San Marino fits into the history of the Italian peninsula.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10991844-M.jpg" alt="Cover for The pursuit of Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of Italy">The pursuit of Italy</a>
+</h4>
+<p class="fr-book-author">By Gilmour, David</p>
+        
+<p class="fr-book-desc">Shows how San Marino fits into the history of the Italian peninsula.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open By Morris Bishop - The Middle Ages (American Heritage Library) (New edition) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14922686-M.jpg" alt="Cover for By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)">By Morris Bishop - The Middle Ages (American Heritage Library...</a>
-        </h4>
-        <p class="fr-book-author">By Morris Bishop</p>
-
-        <p class="fr-book-desc">First published 2001.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open By Morris Bishop - The Middle Ages (American Heritage Library) (New edition) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14922686-M.jpg" alt="Cover for By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Morris Bishop - The Middle Ages (American Heritage Library) (New edition)">By Morris Bishop - The Middle Ages (American Heritage Library...</a>
+</h4>
+<p class="fr-book-author">By Morris Bishop</p>
+        
+<p class="fr-book-desc">First published 2001.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=By+Morris+Bishop+-+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29+Morris+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
-        </h4>
-        <p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
-
-        <p class="fr-book-desc">First published 2015. Subjects: Historia, History, Rome, history, Histoire, Antike.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SPQR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7418788-M.jpg" alt="Cover for SPQR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
+</h4>
+<p class="fr-book-author">By Mary Beard, Mary Beard et al.</p>
+        
+<p class="fr-book-desc">First published 2015. Subjects: Historia, History, Rome, history, Histoire, Antike.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of the Decline and Fall of the Roman Empire on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of the Decline and Fall of the Roman Empire">The History of the Decline and Fall of the Roman Empire</a>
-        </h4>
-        <p class="fr-book-author">By Edward Gibbon</p>
-
-        <p class="fr-book-desc">Discusses the transformation of the Roman world into the medieval era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of the Decline and Fall of the Roman Empire on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of the Decline and Fall of the Roman Empire">The History of the Decline and Fall of the Roman Empire</a>
+</h4>
+<p class="fr-book-author">By Edward Gibbon</p>
+        
+<p class="fr-book-desc">Discusses the transformation of the Roman world into the medieval era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+History+of+the+Decline+and+Fall+of+the+Roman+Empire+Edward+Gibbon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+pursuit+of+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The pursuit of Italy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=By+Morris+Bishop+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">By Morris Bishop The Middle Ages (American Heritage Library) (New edition)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=SPQR&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SPQR</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+pursuit+of+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The pursuit of Italy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=By+Morris+Bishop+The+Middle+Ages+%28American+Heritage+Library%29+%28New+edition%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">By Morris Bishop The Middle Ages (American Heritage Library) (New edition)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=SPQR&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SPQR</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

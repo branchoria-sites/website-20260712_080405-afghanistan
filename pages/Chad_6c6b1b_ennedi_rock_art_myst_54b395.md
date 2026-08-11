@@ -369,7 +369,8 @@ These uncertainties are not signs of poor research but consequences of working w
 
 <img src="{{ "/assets/images/Chad_6c6b1b_ennedi_rock_art_myst_54b395-Illustration-3-dark.svg" | relative_url }}" alt="Ennedi Art illustration 3" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b_ennedi_rock_art_myst_54b395-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b_ennedi_rock_art_myst_54b395-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Ennedi Art in the wider historical record
+## Why the Mystery Still Matters
+
 The mystery of the Ennedi rock art is significant because it reshapes understanding of both Chad and the Sahara. Instead of viewing the region as an empty desert, the paintings reveal generations of communities adapting to profound climatic change, developing pastoral economies and expressing complex ideas through art long before written records appeared.
 
 Ongoing recording and conservation are increasingly important. UNESCO and heritage specialists continue to document hundreds of rock art sites, improve local expertise and protect fragile paintings from erosion and human damage. Even so, many shelters remain only partly studied, and every newly documented panel has the potential to refine the chronology or reveal another artistic tradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/news/2622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-title">World Heritage Centre Call for contributions</span><span class="citation-popover-snippet">UNESCO World Heritage CentreCall for contributions - Training workshop on rock art in Ennedi Massif: Natural and Cultural Landscape, Worl...</span></span></span>
@@ -382,89 +383,89 @@ The enduring mystery is therefore not whether the paintings are genuine—they u
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Created Ennedi&#x27;s Mysterious Rock Art?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Created Ennedi&#x27;s Mysterious Rock Art?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sahara%3A+A+Cultural+History+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sahara: A Cultural History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179100-M.jpg" alt="Cover for The Sahara: A Cultural History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sahara%3A+A+Cultural+History+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sahara: A Cultural History">The Sahara: A Cultural History</a>
-        </h4>
-        <p class="fr-book-author">By Michael Palin</p>
-
-        <p class="fr-book-desc">Explains the changing landscape in which the art was created.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sahara%3A+A+Cultural+History+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sahara%3A+A+Cultural+History+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sahara: A Cultural History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179100-M.jpg" alt="Cover for The Sahara: A Cultural History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sahara%3A+A+Cultural+History+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sahara: A Cultural History">The Sahara: A Cultural History</a>
+</h4>
+<p class="fr-book-author">By Michael Palin</p>
+        
+<p class="fr-book-desc">Explains the changing landscape in which the art was created.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sahara%3A+A+Cultural+History+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Africa: Food, Metals and Towns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12755656-M.jpg" alt="Cover for The Archaeology of Africa: Food, Metals and Towns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Africa: Food, Metals and Towns">The Archaeology of Africa: Food, Metals and Towns</a>
-        </h4>
-        <p class="fr-book-author">By Thurstan Shaw</p>
-
-        <p class="fr-book-desc">Places Saharan rock art within wider African archaeology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Africa: Food, Metals and Towns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12755656-M.jpg" alt="Cover for The Archaeology of Africa: Food, Metals and Towns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Africa: Food, Metals and Towns">The Archaeology of Africa: Food, Metals and Towns</a>
+</h4>
+<p class="fr-book-author">By Thurstan Shaw</p>
+        
+<p class="fr-book-desc">Places Saharan rock art within wider African archaeology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns+Thurstan+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Career%3A+Human+Biological+and+Cultural+Origins+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Career: Human Biological and Cultural Origins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/141575-M.jpg" alt="Cover for The Human Career: Human Biological and Cultural Origins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Human+Career%3A+Human+Biological+and+Cultural+Origins+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Career: Human Biological and Cultural Origins">The Human Career: Human Biological and Cultural Origins</a>
-        </h4>
-        <p class="fr-book-author">By Richard G. Klein</p>
-
-        <p class="fr-book-desc">Adds broader prehistoric context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Human+Career%3A+Human+Biological+and+Cultural+Origins+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Career%3A+Human+Biological+and+Cultural+Origins+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Career: Human Biological and Cultural Origins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/141575-M.jpg" alt="Cover for The Human Career: Human Biological and Cultural Origins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Human+Career%3A+Human+Biological+and+Cultural+Origins+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Career: Human Biological and Cultural Origins">The Human Career: Human Biological and Cultural Origins</a>
+</h4>
+<p class="fr-book-author">By Richard G. Klein</p>
+        
+<p class="fr-book-desc">Adds broader prehistoric context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Human+Career%3A+Human+Biological+and+Cultural+Origins+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: A Biography of the Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420380-M.jpg" alt="Cover for Africa: A Biography of the Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: A Biography of the Continent">Africa: A Biography of the Continent</a>
-        </h4>
-        <p class="fr-book-author">By John Reader</p>
-
-        <p class="fr-book-desc">Provides environmental and historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: A Biography of the Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420380-M.jpg" alt="Cover for Africa: A Biography of the Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: A Biography of the Continent">Africa: A Biography of the Continent</a>
+</h4>
+<p class="fr-book-author">By John Reader</p>
+        
+<p class="fr-book-desc">Provides environmental and historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sahara%3A+A+Cultural+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sahara: A Cultural History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archaeology of Africa: Food, Metals and Towns</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Career%3A+Human+Biological+and+Cultural+Origins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Career: Human Biological and Cultural Origins</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sahara%3A+A+Cultural+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sahara: A Cultural History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archaeology+of+Africa%3A+Food%2C+Metals+and+Towns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archaeology of Africa: Food, Metals and Towns</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Career%3A+Human+Biological+and+Cultural+Origins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Career: Human Biological and Cultural Origins</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

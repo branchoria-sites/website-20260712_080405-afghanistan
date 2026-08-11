@@ -347,7 +347,8 @@ The consensus among specialists today is therefore narrower than public debate s
 
 <img src="{{ "/assets/images/Sweden_72ddd2_raoul_wallenberg_dis_d1ab33-Illustration-3-dark.svg" | relative_url }}" alt="Wallenberg illustration 3" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_raoul_wallenberg_dis_d1ab33-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_raoul_wallenberg_dis_d1ab33-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Wallenberg
+## Why the mystery still matters
+
 The significance of the Wallenberg case extends beyond the fate of one individual.
 
 It illustrates how authoritarian secrecy can permanently damage the historical record. Even after the opening of some Soviet archives, investigators found evidence of missing files, contradictory paperwork and unexplained gaps in prison documentation. The result is a rare modern historical case in which substantial documentation exists, yet the decisive evidence appears to have been lost, destroyed or remains inaccessible.
@@ -360,89 +361,89 @@ For Sweden, the disappearance has become both a diplomatic and moral symbol. Wal
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened to Raoul Wallenberg?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened to Raoul Wallenberg?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The spy and the traitor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8824555-M.jpg" alt="Cover for The spy and the traitor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
-        </h4>
-        <p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
-
-        <p class="fr-book-desc">Strong thematic overlap with Soviet secrecy and intelligence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The spy and the traitor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8824555-M.jpg" alt="Cover for The spy and the traitor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
+</h4>
+<p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
+        
+<p class="fr-book-desc">Strong thematic overlap with Soviet secrecy and intelligence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=East+West+Street+Philippe+Sands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East West Street on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11152282-M.jpg" alt="Cover for East West Street" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=East+West+Street+Philippe+Sands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East West Street">East West Street</a>
-        </h4>
-        <p class="fr-book-author">By Philippe Sands</p>
-
-        <p class="fr-book-desc">Explores justice, archives and post-war Europe.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=East+West+Street+Philippe+Sands&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=East+West+Street+Philippe+Sands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East West Street on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11152282-M.jpg" alt="Cover for East West Street" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=East+West+Street+Philippe+Sands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East West Street">East West Street</a>
+</h4>
+<p class="fr-book-author">By Philippe Sands</p>
+        
+<p class="fr-book-desc">Explores justice, archives and post-war Europe.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=East+West+Street+Philippe+Sands&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Volunteer+Jack+Fairweather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Volunteer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8781261-M.jpg" alt="Cover for The Volunteer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Volunteer+Jack+Fairweather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Volunteer">The Volunteer</a>
-        </h4>
-        <p class="fr-book-author">By Jack Fairweather</p>
-
-        <p class="fr-book-desc">Readers interested in wartime rescue missions often buy related works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Volunteer+Jack+Fairweather&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Volunteer+Jack+Fairweather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Volunteer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8781261-M.jpg" alt="Cover for The Volunteer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Volunteer+Jack+Fairweather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Volunteer">The Volunteer</a>
+</h4>
+<p class="fr-book-author">By Jack Fairweather</p>
+        
+<p class="fr-book-desc">Readers interested in wartime rescue missions often buy related works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Volunteer+Jack+Fairweather&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Raoul+Wallenberg+Sharon+Linnea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Raoul Wallenberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3934295-M.jpg" alt="Cover for Raoul Wallenberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Raoul+Wallenberg+Sharon+Linnea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raoul Wallenberg">Raoul Wallenberg</a>
-        </h4>
-        <p class="fr-book-author">By Sharon Linnea</p>
-
-        <p class="fr-book-desc">Examines Wallenberg&#x27;s life, rescue mission and disappearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Raoul+Wallenberg+Sharon+Linnea&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Raoul+Wallenberg+Sharon+Linnea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Raoul Wallenberg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3934295-M.jpg" alt="Cover for Raoul Wallenberg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Raoul+Wallenberg+Sharon+Linnea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raoul Wallenberg">Raoul Wallenberg</a>
+</h4>
+<p class="fr-book-author">By Sharon Linnea</p>
+        
+<p class="fr-book-desc">Examines Wallenberg&#x27;s life, rescue mission and disappearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Raoul+Wallenberg+Sharon+Linnea&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+spy+and+the+traitor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The spy and the traitor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=East+West+Street&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East West Street</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Volunteer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Volunteer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+spy+and+the+traitor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The spy and the traitor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=East+West+Street&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East West Street</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Volunteer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Volunteer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

@@ -363,7 +363,8 @@ This interpretation remains legally and historically contested, but it marked a 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_efq76csNcw" title="How did Ceaușescu&#x27;s rule of Romania come to an end? The Timisoara Uprising by first hand witnesses." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_efq76csNcw" target="_blank" rel="noopener noreferrer">How did Ceaușescu&#x27;s rule of Romania come to an end? The Timisoara Uprising by first hand witnesses.</a></p><p class="youtube-embed-meta">Channel: Museum of Communist Terror</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_efq76csNcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_efq76csNcw">Open on YouTube</a></p></div></div></div>
 
-## The unresolved legacy of 1989 Shooters
+## Why the Mystery Still Matters
+
 The unidentified shooters remain central to understanding both the Romanian Revolution and Romania's transition from dictatorship.
 
 Unlike many historical mysteries, the uncertainty is not simply about missing evidence. It concerns competing interpretations of the same chaotic events:
@@ -401,89 +402,89 @@ Several points are now broadly supported by documentary evidence:
 The enduring mystery is therefore not simply "Who pulled the trigger?" It is how a revolution that appeared won on 22 December descended into days of lethal violence, and why the combination of rumour, fear, fragmented command and possible armed resistance produced a tragedy whose full chain of responsibility remains disputed more than thirty-five years later.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Fired After Ceaușescu Had Fallen?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Fired After Ceaușescu Had Fallen?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989+Peter+Siani-Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Romanian Revolution of December 1989 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/564599-M.jpg" alt="Cover for The Romanian Revolution of December 1989" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989+Peter+Siani-Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Romanian Revolution of December 1989">The Romanian Revolution of December 1989</a>
-        </h4>
-        <p class="fr-book-author">By Peter Siani-Davies</p>
-
-        <p class="fr-book-desc">Directly addresses the revolution and disputed violence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989+Peter+Siani-Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989+Peter+Siani-Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Romanian Revolution of December 1989 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/564599-M.jpg" alt="Cover for The Romanian Revolution of December 1989" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989+Peter+Siani-Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Romanian Revolution of December 1989">The Romanian Revolution of December 1989</a>
+</h4>
+<p class="fr-book-author">By Peter Siani-Davies</p>
+        
+<p class="fr-book-desc">Directly addresses the revolution and disputed violence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989+Peter+Siani-Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Iron Curtain: The Crushing of Eastern Europe, 1944–1956 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7251296-M.jpg" alt="Cover for Iron Curtain: The Crushing of Eastern Europe, 1944–1956" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain: The Crushing of Eastern Europe, 1944–1956">Iron Curtain: The Crushing of Eastern Europe, 1944–1956</a>
-        </h4>
-        <p class="fr-book-author">By Anne Applebaum</p>
-
-        <p class="fr-book-desc">Background on communist systems later challenged in 1989.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Iron Curtain: The Crushing of Eastern Europe, 1944–1956 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7251296-M.jpg" alt="Cover for Iron Curtain: The Crushing of Eastern Europe, 1944–1956" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain: The Crushing of Eastern Europe, 1944–1956">Iron Curtain: The Crushing of Eastern Europe, 1944–1956</a>
+</h4>
+<p class="fr-book-author">By Anne Applebaum</p>
+        
+<p class="fr-book-desc">Background on communist systems later challenged in 1989.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Concise+History+of+Romania+Keith+Hitchins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Concise History of Romania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13168799-M.jpg" alt="Cover for Concise History of Romania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Concise+History+of+Romania+Keith+Hitchins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Concise History of Romania">Concise History of Romania</a>
-        </h4>
-        <p class="fr-book-author">By Keith Hitchins</p>
-
-        <p class="fr-book-desc">Explains the political background to the revolution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Concise+History+of+Romania+Keith+Hitchins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Concise+History+of+Romania+Keith+Hitchins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Concise History of Romania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13168799-M.jpg" alt="Cover for Concise History of Romania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Concise+History+of+Romania+Keith+Hitchins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Concise History of Romania">Concise History of Romania</a>
+</h4>
+<p class="fr-book-author">By Keith Hitchins</p>
+        
+<p class="fr-book-desc">Explains the political background to the revolution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Concise+History+of+Romania+Keith+Hitchins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands: Europe Between Hitler and Stalin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands: Europe Between Hitler and Stalin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands: Europe Between Hitler and Stalin">Bloodlands: Europe Between Hitler and Stalin</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Snyder</p>
-
-        <p class="fr-book-desc">Provides twentieth-century regional context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands: Europe Between Hitler and Stalin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands: Europe Between Hitler and Stalin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands: Europe Between Hitler and Stalin">Bloodlands: Europe Between Hitler and Stalin</a>
+</h4>
+<p class="fr-book-author">By Timothy Snyder</p>
+        
+<p class="fr-book-desc">Provides twentieth-century regional context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bloodlands%3A+Europe+Between+Hitler+and+Stalin+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Romanian Revolution of December 1989</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Iron Curtain: The Crushing of Eastern Europe, 1944–1956</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Concise+History+of+Romania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Concise History of Romania</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Romanian Revolution of December 1989</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Iron+Curtain%3A+The+Crushing+of+Eastern+Europe%2C+1944%E2%80%931956&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Iron Curtain: The Crushing of Eastern Europe, 1944–1956</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Concise+History+of+Romania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Concise History of Romania</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
@@ -600,4 +601,6 @@ The enduring mystery is therefore not simply "Who pulled the trigger?" It is how
    Source: researchgate.net  
    Title: 334674092 The Romanian Revolution of 1989 An Armed Conflict  
    Link:<a href="https://www.researchgate.net/publication/334674092_The_Romanian_Revolution_of_1989_-_An_Armed_Conflict" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334674092_The_Romanian_Revolution_of_1989_-_An_Armed_Conflict</a>
+
+
 

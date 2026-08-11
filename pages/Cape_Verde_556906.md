@@ -1301,7 +1301,8 @@ This uncertainty has political consequences. A low estimate can make the disaste
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T7yLvqytqzQ" title="MAIS UM MISTÉRIO EM CABO VERDE: DUAS CRIANÇAS DESAPARECIDAS NA CIDADE DA PRAIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T7yLvqytqzQ" target="_blank" rel="noopener noreferrer">MAIS UM MISTÉRIO EM CABO VERDE: DUAS CRIANÇAS DESAPARECIDAS NA CIDADE DA PRAIA</a></p><p class="youtube-embed-meta">Channel: RECORD CABO VERDE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T7yLvqytqzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T7yLvqytqzQ">Open on YouTube</a></p></div></div></div>
 
-## The unresolved legacy of Cabo Verde's historical mysteries
+## Why these mysteries endure
+
 Cape Verde’s unresolved history is shaped by the unequal survival of evidence. Colonial institutions documented taxation, appointments and trade more reliably than the lives of enslaved people, rural families or famine victims. Political organisations preserved heroic narratives more readily than internal conflicts. Treasure salvors valued coins and bullion more than broken domestic objects. Entire settlements became footnotes when their administrative purpose disappeared.
 
 That pattern explains why the strongest Cape Verdean mysteries often concern missing context rather than missing events. We know that Cabral was murdered but not whether foreign manipulation was decisive. We know that Alcatrazes existed but are still reconstructing the community that lived there. We know that ships carried wealth into the archipelago’s reefs but cannot always recover the archaeological information lost during salvage. We know that famine killed on a large scale but cannot name or count every victim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.state.gov/historicaldocuments/frus1969-76ve06/d66" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[state.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">The assassination January 20 in Conakry, Guinea, of Amilcar Cabral, Secretary General of the African Party...Read more...</span></span></span>
@@ -1316,89 +1317,89 @@ That distinction is essential. Cape Verde’s history is mysterious not because 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Secrets Still Haunt Cape Verde&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Secrets Still Haunt Cape Verde&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fortunate Isles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4783647-M.jpg" alt="Cover for The Fortunate Isles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fortunate Isles">The Fortunate Isles</a>
-        </h4>
-        <p class="fr-book-author">By Basil Davidson</p>
-
-        <p class="fr-book-desc">Places Cape Verde within wider Atlantic and African history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fortunate Isles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4783647-M.jpg" alt="Cover for The Fortunate Isles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fortunate Isles">The Fortunate Isles</a>
+</h4>
+<p class="fr-book-author">By Basil Davidson</p>
+        
+<p class="fr-book-desc">Places Cape Verde within wider Atlantic and African history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fortunate+Isles+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Return to the source on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4467607-M.jpg" alt="Cover for Return to the source" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
-        </h4>
-        <p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
-
-        <p class="fr-book-desc">Provides primary-source context for Cape Verde&#x27;s independence history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Return to the source on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4467607-M.jpg" alt="Cover for Return to the source" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
+</h4>
+<p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
+        
+<p class="fr-book-desc">Provides primary-source context for Cape Verde&#x27;s independence history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese Seaborne Empire, 1415-1825 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire, 1415-1825">The Portuguese Seaborne Empire, 1415-1825</a>
-        </h4>
-        <p class="fr-book-author">By C.R. BOXER</p>
-
-        <p class="fr-book-desc">Essential background to Cape Verde&#x27;s colonial origins.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese Seaborne Empire, 1415-1825 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese Seaborne Empire,">The Portuguese Seaborne Empire,</a>
+</h4>
+<p class="fr-book-author">By C.R. BOXER</p>
+        
+<p class="fr-book-desc">Essential background to Cape Verde&#x27;s colonial origins.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415-1825+C.R.+BOXER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Cape Verde on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Cape Verde">A History of Cape Verde</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Lobban Jr. and Paul Khalil Saucier</p>
-
-        <p class="fr-book-desc">Broad coverage of the archipelago&#x27;s major historical debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Cape Verde on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Cape Verde">A History of Cape Verde</a>
+</h4>
+<p class="fr-book-author">By Richard A. Lobban Jr. and Paul Khalil Saucier</p>
+        
+<p class="fr-book-desc">Broad coverage of the archipelago&#x27;s major historical debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Cape+Verde+Richard+A.+Lobban+Jr.+and+Paul+Khalil+Saucier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fortunate+Isles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fortunate Isles</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Return+to+the+source&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Return to the source</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415+1825&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese Seaborne Empire, 1415 1825</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fortunate+Isles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fortunate Isles</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Return+to+the+source&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Return to the source</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese+Seaborne+Empire%2C+1415+1825&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese Seaborne Empire,</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

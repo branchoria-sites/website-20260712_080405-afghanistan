@@ -1339,95 +1339,95 @@ These cases do not offer the satisfying pattern promised by conspiracy theories.
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Cuban Mysteries Still Defy a Final Answer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Cuban Mysteries Still Defy a Final Answer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuba Reader: History, Culture, Politics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/622725-M.jpg" alt="Cover for The Cuba Reader: History, Culture, Politics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuba Reader: History, Culture, Politics">The Cuba Reader: History, Culture, Politics</a>
-        </h4>
-        <p class="fr-book-author">By Aviva Chomsky, Barry Carr et al.</p>
-
-        <p class="fr-book-desc">Collects primary sources and interpretations relevant to contested Cuban history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuba Reader: History, Culture, Politics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/622725-M.jpg" alt="Cover for The Cuba Reader: History, Culture, Politics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuba Reader: History, Culture, Politics">The Cuba Reader: History, Culture, Politics</a>
+</h4>
+<p class="fr-book-author">By Aviva Chomsky, Barry Carr et al.</p>
+        
+<p class="fr-book-desc">Collects primary sources and interpretations relevant to contested Cuban history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba: An American History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba: An American History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba: An American History">Cuba: An American History</a>
-        </h4>
-        <p class="fr-book-author">By Ada Ferrer</p>
-
-        <p class="fr-book-desc">Provides essential context for many of Cuba&#x27;s enduring historical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba: An American History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba: An American History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba: An American History">Cuba: An American History</a>
+</h4>
+<p class="fr-book-author">By Ada Ferrer</p>
+        
+<p class="fr-book-desc">Provides essential context for many of Cuba&#x27;s enduring historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
-
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
+            
                 What Everyone Needs to Know Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7737685-M.jpg" alt="Cover for Cuba
-
+            
                 What Everyone Needs to Know Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba
-
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba
+            
                 What Everyone Needs to Know Paper">Cuba What Everyone Needs to Know Paper</a>
-        </h4>
-        <p class="fr-book-author">By Julia E. Sweig</p>
-
-        <p class="fr-book-desc">First published 2012. Subjects: Cuba, history, Cuba, politics and government, Politics and government, History, Foreign relations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+</h4>
+<p class="fr-book-author">By Julia E. Sweig</p>
+        
+<p class="fr-book-desc">First published 2012. Subjects: Cuba, history, Cuba, politics and government, Politics and government, History, Foreign relations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba">Cuba</a>
-        </h4>
-        <p class="fr-book-author">By Ada Ferrer</p>
-
-        <p class="fr-book-desc">First published 2021. Subjects: History, Foreign relations, Histoire, Relations extérieures, HISTORY / Caribbean &amp; West Indies / Cuba.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba">Cuba</a>
+</h4>
+<p class="fr-book-author">By Ada Ferrer</p>
+        
+<p class="fr-book-desc">First published 2021. Subjects: History, Foreign relations, Histoire, Relations extérieures, HISTORY / Caribbean &amp; West Indies / Cuba.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cuba+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuba Reader: History, Culture, Politics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba: An American History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba What Everyone Needs to Know Paper</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuba+Reader%3A+History%2C+Culture%2C+Politics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuba Reader: History, Culture, Politics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba: An American History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba What Everyone Needs to Know Paper</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

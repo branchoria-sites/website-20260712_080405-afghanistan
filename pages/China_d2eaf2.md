@@ -1320,7 +1320,8 @@ Speculation that the aircraft was deliberately shot down has not acquired convin
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GNLd2-PyyIc" title="China&#x27;s Greatest Archaeological Discovery? 🇨🇳 in Chengdu China" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GNLd2-PyyIc" target="_blank" rel="noopener noreferrer">China&#x27;s Greatest Archaeological Discovery? 🇨🇳 in Chengdu China</a></p><p class="youtube-embed-meta">Channel: travelshorts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GNLd2-PyyIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GNLd2-PyyIc">Open on YouTube</a></p></div></div></div>
 
-## The historical picture around China's historical mysteries
+## Why these mysteries endure
+
 China’s unresolved historical cases share several recurring features. They often arose at moments when institutions were breaking down: a wartime evacuation, the capture of a capital, a dynastic transition or a struggle within the state. The uncertainty was then amplified by lost documents, controlled archives or later storytelling.
 
 They also show that different kinds of mystery require different standards of judgement. Peking Man is a missing-object case that might be solved by physical recovery. The Jianwen Emperor’s fate depends on compromised historical testimony and may never be settled. The First Emperor’s tomb contains evidence that remains inaccessible for conservation reasons. Sanxingdui is an interpretive archaeological puzzle in which new discoveries continually revise the question. The Yongle Encyclopedia combines destruction with the possibility of future rediscovery, one volume at a time.
@@ -1333,89 +1334,89 @@ None benefits from exaggeration. The strongest explanations are generally ground
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt China&#x27;s Past?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Mysteries Still Haunt China&#x27;s Past?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for modern China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246705-M.jpg" alt="Cover for The search for modern China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan D. Spence</p>
-
-        <p class="fr-book-desc">Provides broad historical context for multiple mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for modern China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246705-M.jpg" alt="Cover for The search for modern China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
+</h4>
+<p class="fr-book-author">By Jonathan D. Spence</p>
+        
+<p class="fr-book-desc">Provides broad historical context for multiple mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge illustrated history of China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101852-M.jpg" alt="Cover for The Cambridge illustrated history of China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
-        </h4>
-        <p class="fr-book-author">By Ebrey, Patricia Buckley</p>
-
-        <p class="fr-book-desc">Introduces the eras behind the featured mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge illustrated history of China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101852-M.jpg" alt="Cover for The Cambridge illustrated history of China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge illustrated history of China">The Cambridge illustrated history of China</a>
+</h4>
+<p class="fr-book-author">By Ebrey, Patricia Buckley</p>
+        
+<p class="fr-book-desc">Introduces the eras behind the featured mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China+Ebrey%2C+Patricia+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Terracotta Army on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524912-M.jpg" alt="Cover for The Terracotta Army" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Terracotta Army">The Terracotta Army</a>
-        </h4>
-        <p class="fr-book-author">By John Man</p>
-
-        <p class="fr-book-desc">Covers Qin Shi Huang and his mausoleum.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Terracotta Army on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524912-M.jpg" alt="Cover for The Terracotta Army" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Terracotta Army">The Terracotta Army</a>
+</h4>
+<p class="fr-book-author">By John Man</p>
+        
+<p class="fr-book-desc">Covers Qin Shi Huang and his mausoleum.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Terracotta+Army+John+Man&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chronicle of the Chinese emperors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315788-M.jpg" alt="Cover for Chronicle of the Chinese emperors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chronicle of the Chinese emperors">Chronicle of the Chinese emperors</a>
-        </h4>
-        <p class="fr-book-author">By Ann Paludan</p>
-
-        <p class="fr-book-desc">Useful for imperial mysteries including the Jianwen Emperor.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chronicle of the Chinese emperors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315788-M.jpg" alt="Cover for Chronicle of the Chinese emperors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chronicle of the Chinese emperors">Chronicle of the Chinese emperors</a>
+</h4>
+<p class="fr-book-author">By Ann Paludan</p>
+        
+<p class="fr-book-desc">Useful for imperial mysteries including the Jianwen Emperor.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chronicle+of+the+Chinese+emperors+Ann+Paludan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+modern+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for modern China</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge illustrated history of China</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Terracotta+Army&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Terracotta Army</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+modern+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for modern China</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+illustrated+history+of+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge illustrated history of China</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Terracotta+Army&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Terracotta Army</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

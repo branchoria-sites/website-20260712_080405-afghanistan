@@ -354,95 +354,96 @@ This does not mean that every shipment has been fully traced. Smaller losses, th
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sT8iyX93hnU" title="ENGLISH SERVICE - UNSOLVED MYSTERIES - THE LEGEND OF THE KRUGER MILLIONS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sT8iyX93hnU" target="_blank" rel="noopener noreferrer">ENGLISH SERVICE - UNSOLVED MYSTERIES - THE LEGEND OF THE KRUGER MILLIONS</a></p><p class="youtube-embed-meta">Channel: SPRINGBOK RADIO PRESERVATION SOCIETY OF SA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sT8iyX93hnU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sT8iyX93hnU">Open on YouTube</a></p></div></div></div>
 
-## The unresolved legacy of Kruger Millions
+## Why the mystery still matters
+
 The Kruger Millions remain part of South African historical memory because they combine genuine wartime events with unanswered accounting questions and irresistible folklore. Unlike entirely fictional treasure stories, this legend began with a documented evacuation of real government wealth. The mystery grew because surviving records were incomplete and because later generations preferred the romance of hidden gold to the more ordinary reality of wartime finance.
 
 Today, historians generally distinguish between two separate questions. The first—whether republican gold left Pretoria—is firmly answered in the affirmative. The second—whether those millions were buried intact in a secret location—has attracted far weaker evidence. The balance of historical research favours a story of spending, transport and gradual dispersal rather than one spectacular hidden hoard, leaving the Kruger Millions as a revealing example of how genuine historical uncertainty can evolve into enduring national legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kruger_Millions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kruger Millions</span><span class="citation-popover-snippet">Kruger Millions</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Kruger Millions Ever Really Buried?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Kruger Millions Ever Really Buried?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lie of 1652 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11135860-M.jpg" alt="Cover for The Lie of 1652" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lie of 1652">The Lie of 1652</a>
-        </h4>
-        <p class="fr-book-author">By Patric Tariq Mellet, Patric MELLET</p>
-
-        <p class="fr-book-desc">First published 2020. Subjects: Social history, Colonies, History, Slavery, Colonial Labor laws and legislation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lie of 1652 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11135860-M.jpg" alt="Cover for The Lie of 1652" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lie of 1652">The Lie of 1652</a>
+</h4>
+<p class="fr-book-author">By Patric Tariq Mellet, Patric MELLET</p>
+        
+<p class="fr-book-desc">First published 2020. Subjects: Social history, Colonies, History, Slavery, Colonial Labor laws and legislation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lie+of+1652+Patric+Tariq+Mellet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Boer+War+1899-1902+John+Grehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Boer War 1899-1902 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12853380-M.jpg" alt="Cover for Boer War 1899-1902" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Boer+War+1899-1902+John+Grehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boer War 1899-1902">Boer War 1899-1902</a>
-        </h4>
-        <p class="fr-book-author">By John Grehan, Martin Mace</p>
-
-        <p class="fr-book-desc">First published 2014. Subjects: South african war, 1899-1902, Orange free state, South africa, history, South African War, 1899-1902, Sou...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Boer+War+1899-1902+John+Grehan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Boer+War+1899-1902+John+Grehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Boer War 1899-1902 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12853380-M.jpg" alt="Cover for Boer War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Boer+War+1899-1902+John+Grehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boer War">Boer War</a>
+</h4>
+<p class="fr-book-author">By John Grehan, Martin Mace</p>
+        
+<p class="fr-book-desc">First published 2014. Subjects: South african war, 1899-1902, Orange free state, South africa, history, South African War, 1899-1902, Sou...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Boer+War+1899-1902+John+Grehan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Boer+War+John+Grehan%2C+Martin+Mace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Boer War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12853380-M.jpg" alt="Cover for Boer War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Boer+War+John+Grehan%2C+Martin+Mace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boer War">Boer War</a>
-        </h4>
-        <p class="fr-book-author">By John Grehan, Martin Mace</p>
-
-        <p class="fr-book-desc">Explains the historical circumstances behind the treasure legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Boer+War+John+Grehan%2C+Martin+Mace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Boer+War+John+Grehan%2C+Martin+Mace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Boer War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12853380-M.jpg" alt="Cover for Boer War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Boer+War+John+Grehan%2C+Martin+Mace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boer War">Boer War</a>
+</h4>
+<p class="fr-book-author">By John Grehan, Martin Mace</p>
+        
+<p class="fr-book-desc">Explains the historical circumstances behind the treasure legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Boer+War+John+Grehan%2C+Martin+Mace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Trilogy+of+Deneys+Reitz%2C+Commando+-+Trekking+on+-+No+Outspan+Deneys+Reitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trilogy of Deneys Reitz, Commando - Trekking on - No Outspan on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trilogy+of+Deneys+Reitz%2C+Commando+-+Trekking+on+-+No+Outspan+Deneys+Reitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trilogy of Deneys Reitz, Commando - Trekking on - No Outspan">Trilogy of Deneys Reitz, Commando - Trekking on - No Outspan</a>
-        </h4>
-        <p class="fr-book-author">By Deneys Reitz</p>
-
-        <p class="fr-book-desc">First published 1994.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trilogy+of+Deneys+Reitz%2C+Commando+-+Trekking+on+-+No+Outspan+Deneys+Reitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Trilogy+of+Deneys+Reitz%2C+Commando+-+Trekking+on+-+No+Outspan+Deneys+Reitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trilogy of Deneys Reitz, Commando - Trekking on - No Outspan on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trilogy+of+Deneys+Reitz%2C+Commando+-+Trekking+on+-+No+Outspan+Deneys+Reitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trilogy of Deneys Reitz, Commando - Trekking on - No Outspan">Trilogy of Deneys Reitz, Commando - Trekking on - No Outspan</a>
+</h4>
+<p class="fr-book-author">By Deneys Reitz</p>
+        
+<p class="fr-book-desc">First published 1994.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trilogy+of+Deneys+Reitz%2C+Commando+-+Trekking+on+-+No+Outspan+Deneys+Reitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lie+of+1652&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lie of 1652</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Boer+War+1899+1902&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boer War 1899 1902</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Boer+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boer War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lie+of+1652&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lie of 1652</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Boer+War+1899+1902&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boer War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Boer+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boer War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

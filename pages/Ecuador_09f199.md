@@ -1342,7 +1342,7 @@ None of these cases requires claims of extraterrestrials, limitless treasure or 
 <a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost City of the Incas">Lost City of the Incas</a>
 </h4>
 <p class="fr-book-author">By Hiram Bingham</p>
-
+        
 <p class="fr-book-desc">First published 1948. Subjects: Incas, Antiquities, Archaeological expeditions, Description and travel, Journeys.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lost+City+of+the+Incas+Hiram+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ None of these cases requires claims of extraterrestrials, limitless treasure or 
 <a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conquest of the Incas">The conquest of the Incas</a>
 </h4>
 <p class="fr-book-author">By Hemming, John</p>
-
+        
 <p class="fr-book-desc">First published 1970. Subjects: History, Incas, Conquest of Peru (1522-1548) fast (OCoLC)fst01352533, Histoire universelle, Untergang.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+conquest+of+the+Incas+Hemming%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ None of these cases requires claims of extraterrestrials, limitless treasure or 
 <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Right at Machu Picchu">Turn Right at Machu Picchu</a>
 </h4>
 <p class="fr-book-author">By Mark Adams, Mark Adams</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Travel, Protection, Cultural property, New York Times bestseller, nyt:e-book_nonfiction=2011-08-06.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Turn+Right+at+Machu+Picchu+Mark+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,7 +1393,7 @@ None of these cases requires claims of extraterrestrials, limitless treasure or 
 <a href="https://www.amazon.com/s?k=The+Andes%3A+A+Human+History+of+the+World%27s+Longest+Mountain+Range+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Andes: A Human History of the World&#x27;s Longest Mountain Range">The Andes: A Human History of the World&#x27;s Longest Mountain Range</a>
 </h4>
 <p class="fr-book-author">By Kim MacQuarrie</p>
-
+        
 <p class="fr-book-desc">Covers the historical and geographical backdrop to many Ecuadorian mysteries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Andes%3A+A+Human+History+of+the+World%27s+Longest+Mountain+Range+Kim+MacQuarrie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

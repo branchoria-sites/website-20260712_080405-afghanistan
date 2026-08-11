@@ -336,7 +336,8 @@ Modern searches for aircraft such as Air France Flight 447 have shown that even 
 
 This means that the absence of wreckage does not by itself imply foul play. At the same time, without physical evidence, neither accident investigators nor historians can conclusively eliminate alternative explanations.
 
-## Questions left unresolved by Cienfuegos
+## Why the Mystery Endures
+
 The disappearance became more than an aviation mystery because it occurred during a defining moment in Cuban history.
 
 Within Cuba, Cienfuegos was transformed into a revolutionary martyr. Every year on 28 October, schoolchildren and citizens traditionally throw flowers into rivers and the sea in his memory, symbolically returning them to the waters where he is believed to have been lost. His image became inseparable from the Revolution's official narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Camilo_Cienfuegos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Camilo Cienfuegos</span><span class="citation-popover-snippet">Camilo Cienfuegos</span></span></span>
@@ -372,95 +373,95 @@ For historians, the mystery lies less in whether Cienfuegos disappeared than in 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Camilo Cienfuegos Die in an Accident?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Camilo Cienfuegos Die in an Accident?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba: An American History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba: An American History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba: An American History">Cuba: An American History</a>
-        </h4>
-        <p class="fr-book-author">By Ada Ferrer</p>
-
-        <p class="fr-book-desc">Places Camilo Cienfuegos and his disappearance within revolutionary Cuba.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba: An American History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11966600-M.jpg" alt="Cover for Cuba: An American History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba: An American History">Cuba: An American History</a>
+</h4>
+<p class="fr-book-author">By Ada Ferrer</p>
+        
+<p class="fr-book-desc">Places Camilo Cienfuegos and his disappearance within revolutionary Cuba.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cuba%3A+An+American+History+Ada+Ferrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
-
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
+            
                 What Everyone Needs to Know Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7737685-M.jpg" alt="Cover for Cuba
-
+            
                 What Everyone Needs to Know Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba
-
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba
+            
                 What Everyone Needs to Know Paper">Cuba What Everyone Needs to Know Paper</a>
-        </h4>
-        <p class="fr-book-author">By Julia E. Sweig</p>
-
-        <p class="fr-book-desc">First published 2012. Subjects: Cuba, history, Cuba, politics and government, Politics and government, History, Foreign relations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+</h4>
+<p class="fr-book-author">By Julia E. Sweig</p>
+        
+<p class="fr-book-desc">First published 2012. Subjects: Cuba, history, Cuba, politics and government, Politics and government, History, Foreign relations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Che+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Che on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3326807-M.jpg" alt="Cover for Che" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Che+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Che">Che</a>
-        </h4>
-        <p class="fr-book-author">By Jon Lee Anderson</p>
-
-        <p class="fr-book-desc">First published 1997. Subjects: Biografías, Guerrillas, Biography, Biografía, Argentinos (Biografias).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Che+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Che+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Che on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3326807-M.jpg" alt="Cover for Che" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Che+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Che">Che</a>
+</h4>
+<p class="fr-book-author">By Jon Lee Anderson</p>
+        
+<p class="fr-book-desc">First published 1997. Subjects: Biografías, Guerrillas, Biography, Biografía, Argentinos (Biografias).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Che+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Che+Guevara%3A+A+Revolutionary+Life+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Che Guevara: A Revolutionary Life on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Che+Guevara%3A+A+Revolutionary+Life+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Che Guevara: A Revolutionary Life">Che Guevara: A Revolutionary Life</a>
-        </h4>
-        <p class="fr-book-author">By Jon Lee Anderson</p>
-
-        <p class="fr-book-desc">Offers detailed coverage of revolutionary leaders including Cienfuegos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Che+Guevara%3A+A+Revolutionary+Life+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Che+Guevara%3A+A+Revolutionary+Life+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Che Guevara: A Revolutionary Life on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Che+Guevara%3A+A+Revolutionary+Life+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Che Guevara: A Revolutionary Life">Che Guevara: A Revolutionary Life</a>
+</h4>
+<p class="fr-book-author">By Jon Lee Anderson</p>
+        
+<p class="fr-book-desc">Offers detailed coverage of revolutionary leaders including Cienfuegos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Che+Guevara%3A+A+Revolutionary+Life+Jon+Lee+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba: An American History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba What Everyone Needs to Know Paper</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Che&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Che</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba%3A+An+American+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba: An American History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cuba What Everyone Needs to Know Paper</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Che&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Che</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

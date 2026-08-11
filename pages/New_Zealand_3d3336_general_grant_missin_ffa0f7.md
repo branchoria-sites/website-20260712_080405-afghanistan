@@ -332,7 +332,8 @@ Claims that the entire treasure has already been secretly recovered, or that the
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hvDDuXvuips" title="The General Grant Shipwreck | Lost Gold Treasure | 1866 Survival Story | Auckland Islands Disaster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hvDDuXvuips" target="_blank" rel="noopener noreferrer">The General Grant Shipwreck | Lost Gold Treasure | 1866 Survival Story | Auckland Islands Disaster</a></p><p class="youtube-embed-meta">Channel: Survival Instinct</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hvDDuXvuips" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hvDDuXvuips">Open on YouTube</a></p></div></div></div>
 
-## The unresolved legacy of General Grant
+## Why the mystery still matters
+
 The *General Grant* occupies a distinctive place in New Zealand's history because it combines authentic documentary evidence with genuine uncertainty. Unlike many legendary treasure stories, the ship unquestionably existed, the disaster unquestionably occurred, and valuable gold was unquestionably aboard. The unresolved question is not whether there was treasure, but where the wreck actually lies.
 
 That combination has kept the case alive for generations. It links maritime disaster, extraordinary human endurance and the continuing challenge of exploring one of the most remote and hostile coastlines associated with New Zealand. Until the wreck is conclusively identified, the *General Grant* will remain one of the country's most credible and compelling historical mysteries.
@@ -360,7 +361,7 @@ That combination has kept the case alive for generations. It links maritime disa
 <a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ship of gold in the deep blue sea">Ship of gold in the deep blue sea</a>
 </h4>
 <p class="fr-book-author">By Gary Kinder</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Central America (Ship), Survival after airplane accidents, shipwrecks, Shipwrecks, Shipwreck survival, Su...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ship+of+gold+in+the+deep+blue+sea+Gary+Kinder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +378,7 @@ That combination has kept the case alive for generations. It links maritime disa
 <a href="https://www.amazon.com/s?k=Shadow+Divers+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shadow Divers">Shadow Divers</a>
 </h4>
 <p class="fr-book-author">By Robert Kurson</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: World War II Military History, Excavations (Archaeology), Underwater archaeology, Deep diving, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Shadow+Divers+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +395,7 @@ That combination has kept the case alive for generations. It links maritime disa
 <a href="https://www.amazon.com/s?k=The+Penguin+History+of+New+Zealand+King%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of New Zealand">The Penguin History of New Zealand</a>
 </h4>
 <p class="fr-book-author">By King, Michael</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: New zealand, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+History+of+New+Zealand+King%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +412,7 @@ That combination has kept the case alive for generations. It links maritime disa
 <a href="https://www.amazon.com/s?k=The+Sea+Hunters+Clive+Cussler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Hunters">The Sea Hunters</a>
 </h4>
 <p class="fr-book-author">By Clive Cussler, Craig Dirgo</p>
-
+        
 <p class="fr-book-desc">First published 1996. Subjects: Underwater archaeology, Open Library Staff Picks, Personal Beauty, Shipwrecks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sea+Hunters+Clive+Cussler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

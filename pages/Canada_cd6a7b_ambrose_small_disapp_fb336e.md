@@ -357,7 +357,8 @@ The mystery has also appeared in documentaries, books and works of fiction, help
 
 <img src="{{ "/assets/images/Canada_cd6a7b_ambrose_small_disapp_fb336e-Illustration-3-dark.svg" | relative_url }}" alt="Ambrose Small illustration 3" data-theme-src-dark="{{ "/assets/images/Canada_cd6a7b_ambrose_small_disapp_fb336e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Canada_cd6a7b_ambrose_small_disapp_fb336e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Ambrose Small
+## Why the case still matters
+
 Ambrose Small's disappearance remains one of Canada's most enduring historical mysteries because the uncertainty lies at its centre rather than around its edges.
 
 Investigators established many surrounding facts with unusual precision: the business sale, the bank deposit, the meetings, the approximate time of his last confirmed sighting and the later theft of his Victory Bonds. Yet none of those facts explains what happened after roughly 5:30 p.m. on 2 December 1919.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Ambrose_Small" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Ambrose Small</span><span class="citation-popover-snippet">Disappearance of Ambrose Small</span></span></span>
@@ -367,89 +368,89 @@ The case also illustrates the limitations of early twentieth-century investigati
 More than a century later, the essential mystery remains exactly where it began: Ambrose Small was last reliably seen leaving an ordinary business meeting at the height of his success, and no confirmed evidence has ever shown where he went next or whether he met with accident, murder or a carefully planned disappearance.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did Ambrose Small Vanish Without a Trace?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did Ambrose Small Vanish Without a Trace?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small+Fred+McClement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The strange case of Ambrose Small on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9559176-M.jpg" alt="Cover for The strange case of Ambrose Small" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small+Fred+McClement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The strange case of Ambrose Small">The strange case of Ambrose Small</a>
-        </h4>
-        <p class="fr-book-author">By Fred McClement</p>
-
-        <p class="fr-book-desc">Dedicated book on the Ambrose Small mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small+Fred+McClement&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small+Fred+McClement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The strange case of Ambrose Small on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9559176-M.jpg" alt="Cover for The strange case of Ambrose Small" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small+Fred+McClement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The strange case of Ambrose Small">The strange case of Ambrose Small</a>
+</h4>
+<p class="fr-book-author">By Fred McClement</p>
+        
+<p class="fr-book-desc">Dedicated book on the Ambrose Small mystery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small+Fred+McClement&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Canada in Ten Maps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8815128-M.jpg" alt="Cover for A History of Canada in Ten Maps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Canada in Ten Maps">A History of Canada in Ten Maps</a>
-        </h4>
-        <p class="fr-book-author">By Adam Shoalts</p>
-
-        <p class="fr-book-desc">Broadens historical understanding of early twentieth-century Canada.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Canada in Ten Maps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8815128-M.jpg" alt="Cover for A History of Canada in Ten Maps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Canada in Ten Maps">A History of Canada in Ten Maps</a>
+</h4>
+<p class="fr-book-author">By Adam Shoalts</p>
+        
+<p class="fr-book-desc">Broadens historical understanding of early twentieth-century Canada.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps+Adam+Shoalts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arctic Grail on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9321859-M.jpg" alt="Cover for The Arctic Grail" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arctic Grail">The Arctic Grail</a>
-        </h4>
-        <p class="fr-book-author">By Pierre Berton</p>
-
-        <p class="fr-book-desc">First published 1988. Subjects: Discovery and exploration, Northwest Passage, North pole, Arctic regions, discovery and exploration, Déco...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arctic Grail on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9321859-M.jpg" alt="Cover for The Arctic Grail" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arctic Grail">The Arctic Grail</a>
+</h4>
+<p class="fr-book-author">By Pierre Berton</p>
+        
+<p class="fr-book-desc">First published 1988. Subjects: Discovery and exploration, Northwest Passage, North pole, Arctic regions, discovery and exploration, Déco...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Arctic+Grail+Pierre+Berton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The great Canadian bucket list on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great Canadian bucket list">The great Canadian bucket list</a>
-        </h4>
-        <p class="fr-book-author">By Robin Esrock</p>
-
-        <p class="fr-book-desc">Many readers of Canadian history also enjoy landmark stories and places.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The great Canadian bucket list on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The great Canadian bucket list">The great Canadian bucket list</a>
+</h4>
+<p class="fr-book-author">By Robin Esrock</p>
+        
+<p class="fr-book-desc">Many readers of Canadian history also enjoy landmark stories and places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+great+Canadian+bucket+list+Robin+Esrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The strange case of Ambrose Small</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Canada in Ten Maps</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arctic+Grail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arctic Grail</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+strange+case+of+Ambrose+Small&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The strange case of Ambrose Small</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Canada+in+Ten+Maps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Canada in Ten Maps</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arctic+Grail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arctic Grail</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -209,13 +209,13 @@ description: Antigua and Barbuda’s strongest historical mysteries are not tale
 hero_summary: Antigua and Barbuda’s strongest historical mysteries are not tales of hidden civilisations or supernatural forces. They are puzzles created by incomplete archives, ambiguous ruins, disputed memories and objects whose identities have only partly emerged.
 layout: default
 permalink: /antigua-and-barbuda/
-nav_short_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
-title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
-title_full: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
-display_title_short: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
-display_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
-heading_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
-page_heading_title: "Antigua and Barbuda: What the Historical Record Still Cannot Settle"
+nav_short_title: What Really Happened in Antigua's Greatest Mysteries?
+title: What Really Happened in Antigua's Greatest Mysteries?
+title_full: What Really Happened in Antigua's Greatest Mysteries?
+display_title_short: What Really Happened in Antigua's Greatest Mysteries?
+display_title: What Really Happened in Antigua's Greatest Mysteries?
+heading_title: What Really Happened in Antigua's Greatest Mysteries?
+page_heading_title: What Really Happened in Antigua's Greatest Mysteries?
 source_count: 100
 infographic_count: 3
 page_website_name: Antigua Mysteries
@@ -1332,7 +1332,7 @@ The four cases also show that solving a mystery rarely means eliminating all unc
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
 </h4>
 <p class="fr-book-author">By Jan Rogozinski</p>
-
+        
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ The four cases also show that solving a mystery rarely means eliminating all unc
 <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1493">1493</a>
 </h4>
 <p class="fr-book-author">By Charles C. Mann</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: New York Times bestseller, Economic history, Commerce, History, Ecology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ The four cases also show that solving a mystery rarely means eliminating all unc
 <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire&#x27;s Crossroads">Empire&#x27;s Crossroads</a>
 </h4>
 <p class="fr-book-author">By Carrie Gibson</p>
-
+        
 <p class="fr-book-desc">First published 2001. Subjects: Caribbean area, history, Caribbean area, social conditions, New York Times reviewed, History, Social cond...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Empire%27s+Crossroads+Carrie+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ The four cases also show that solving a mystery rarely means eliminating all unc
 <a href="https://www.amazon.com/s?k=A+History+of+Antigua%3A+The+Unsuspected+Isle+Christopher+K.+Dobson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Antigua: The Unsuspected Isle">A History of Antigua: The Unsuspected Isle</a>
 </h4>
 <p class="fr-book-author">By Christopher K. Dobson</p>
-
+        
 <p class="fr-book-desc">Covers the island&#x27;s major historical episodes and debates.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Antigua%3A+The+Unsuspected+Isle+Christopher+K.+Dobson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

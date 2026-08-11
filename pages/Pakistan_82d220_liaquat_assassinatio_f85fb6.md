@@ -351,89 +351,89 @@ The established facts are clear: Liaquat Ali Khan was assassinated at a public m
 What remains uncertain is the missing chain of command. No surviving primary evidence has demonstrated who, if anyone, recruited, directed or financed Said Akbar. That absence of conclusive proof—not the lack of theories—is what has preserved the assassination as one of Pakistan's most enduring historical mysteries.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Ordered Liaquat Ali Khan&#x27;s Assassination?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Ordered Liaquat Ali Khan&#x27;s Assassination?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jinnah+of+Pakistan+Stanley+A.+Wolpert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jinnah of Pakistan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4226771-M.jpg" alt="Cover for Jinnah of Pakistan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jinnah+of+Pakistan+Stanley+A.+Wolpert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jinnah of Pakistan">Jinnah of Pakistan</a>
-        </h4>
-        <p class="fr-book-author">By Stanley A. Wolpert</p>
-
-        <p class="fr-book-desc">Provides essential background to Pakistan&#x27;s founding leadership.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jinnah+of+Pakistan+Stanley+A.+Wolpert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Jinnah+of+Pakistan+Stanley+A.+Wolpert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jinnah of Pakistan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4226771-M.jpg" alt="Cover for Jinnah of Pakistan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jinnah+of+Pakistan+Stanley+A.+Wolpert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jinnah of Pakistan">Jinnah of Pakistan</a>
+</h4>
+<p class="fr-book-author">By Stanley A. Wolpert</p>
+        
+<p class="fr-book-desc">Provides essential background to Pakistan&#x27;s founding leadership.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jinnah+of+Pakistan+Stanley+A.+Wolpert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shahab+nama+Qudrat+Ullah+Shahab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shahab nama on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12940565-M.jpg" alt="Cover for Shahab nama" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shahab+nama+Qudrat+Ullah+Shahab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shahab nama">Shahab nama</a>
-        </h4>
-        <p class="fr-book-author">By Qudrat Ullah Shahab</p>
-
-        <p class="fr-book-desc">Offers firsthand insight into Pakistan&#x27;s early political era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shahab+nama+Qudrat+Ullah+Shahab&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Shahab+nama+Qudrat+Ullah+Shahab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shahab nama on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12940565-M.jpg" alt="Cover for Shahab nama" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Shahab+nama+Qudrat+Ullah+Shahab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shahab nama">Shahab nama</a>
+</h4>
+<p class="fr-book-author">By Qudrat Ullah Shahab</p>
+        
+<p class="fr-book-desc">Offers firsthand insight into Pakistan&#x27;s early political era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Shahab+nama+Qudrat+Ullah+Shahab&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pakistan: A Hard Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10355209-M.jpg" alt="Cover for Pakistan: A Hard Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pakistan: A Hard Country">Pakistan: A Hard Country</a>
-        </h4>
-        <p class="fr-book-author">By Anatol Lieven</p>
-
-        <p class="fr-book-desc">Explains the political context behind major unresolved events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pakistan: A Hard Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10355209-M.jpg" alt="Cover for Pakistan: A Hard Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pakistan: A Hard Country">Pakistan: A Hard Country</a>
+</h4>
+<p class="fr-book-author">By Anatol Lieven</p>
+        
+<p class="fr-book-desc">Explains the political context behind major unresolved events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Murder+of+History%3A+A+Critique+of+History+Textbooks+Used+in+Pakistan+Khursheed+Kamal+Aziz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Murder of History: A Critique of History Textbooks Used in Pakistan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6287881-M.jpg" alt="Cover for The Murder of History: A Critique of History Textbooks Used in Pakistan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Murder+of+History%3A+A+Critique+of+History+Textbooks+Used+in+Pakistan+Khursheed+Kamal+Aziz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Murder of History: A Critique of History Textbooks Used in Pakistan">The Murder of History: A Critique of History Textbooks Used i...</a>
-        </h4>
-        <p class="fr-book-author">By Khursheed Kamal Aziz</p>
-
-        <p class="fr-book-desc">Explores historical narratives and contested interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Murder+of+History%3A+A+Critique+of+History+Textbooks+Used+in+Pakistan+Khursheed+Kamal+Aziz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Murder+of+History%3A+A+Critique+of+History+Textbooks+Used+in+Pakistan+Khursheed+Kamal+Aziz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Murder of History: A Critique of History Textbooks Used in Pakistan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6287881-M.jpg" alt="Cover for The Murder of History: A Critique of History Textbooks Used in Pakistan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Murder+of+History%3A+A+Critique+of+History+Textbooks+Used+in+Pakistan+Khursheed+Kamal+Aziz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Murder of History: A Critique of History Textbooks Used in Pakistan">The Murder of History: A Critique of History Textbooks Used i...</a>
+</h4>
+<p class="fr-book-author">By Khursheed Kamal Aziz</p>
+        
+<p class="fr-book-desc">Explores historical narratives and contested interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Murder+of+History%3A+A+Critique+of+History+Textbooks+Used+in+Pakistan+Khursheed+Kamal+Aziz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jinnah+of+Pakistan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jinnah of Pakistan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Shahab+nama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shahab nama</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pakistan: A Hard Country</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Jinnah+of+Pakistan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jinnah of Pakistan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Shahab+nama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shahab nama</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pakistan: A Hard Country</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

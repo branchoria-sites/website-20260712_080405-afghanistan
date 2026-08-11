@@ -344,7 +344,8 @@ Even if DNA established that the bones belonged to Edward V and his brother, it 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VRIDhxFBHWg" title="The Princes in the Tower | Murdered or Survived?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VRIDhxFBHWg" target="_blank" rel="noopener noreferrer">The Princes in the Tower | Murdered or Survived?</a></p><p class="youtube-embed-meta">Channel: Historic Royal Palaces</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VRIDhxFBHWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VRIDhxFBHWg">Open on YouTube</a></p></div></div></div>
 
-## The unresolved legacy of Tower Princes
+## Why the Mystery Endures
+
 The Princes in the Tower have become more than a medieval crime story because almost every surviving source raises questions of reliability.
 
 Much of the familiar narrative comes from writers working decades after the events. Sir Thomas More's influential *History of King Richard III*, written roughly thirty years later, vividly described the boys being smothered on Richard's orders. Although enormously influential—and later adapted by William Shakespeare—More wrote under the Tudor dynasty, whose legitimacy benefited from portraying Richard as a tyrant. Historians therefore treat his account as an important but problematic source rather than unquestioned fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hrp.org.uk/tower-of-london/history-and-stories/the-princes-in-the-tower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrp.org.uk">[Historic Royal Palaces]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrp.org.uk</span><span class="citation-popover-snippet">Open source on hrp.org.uk.</span></span></span>
@@ -359,89 +360,89 @@ The case therefore remains a model historical mystery. The broad outline is wide
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Killed the Princes in the Tower?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Killed the Princes in the Tower?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Daughter of Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6485299-M.jpg" alt="Cover for The Daughter of Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Daughter of Time">The Daughter of Time</a>
-        </h4>
-        <p class="fr-book-author">By Josephine Tey</p>
-
-        <p class="fr-book-desc">Famously re-examines the evidence surrounding Richard III.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Daughter of Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6485299-M.jpg" alt="Cover for The Daughter of Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Daughter of Time">The Daughter of Time</a>
+</h4>
+<p class="fr-book-author">By Josephine Tey</p>
+        
+<p class="fr-book-desc">Famously re-examines the evidence surrounding Richard III.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Daughter+of+Time+Josephine+Tey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The princes in the tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5525606-M.jpg" alt="Cover for The princes in the tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The princes in the tower">The princes in the tower</a>
-        </h4>
-        <p class="fr-book-author">By Alison Weir</p>
-
-        <p class="fr-book-desc">Directly examines the disappearance of the princes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The princes in the tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5525606-M.jpg" alt="Cover for The princes in the tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The princes in the tower">The princes in the tower</a>
+</h4>
+<p class="fr-book-author">By Alison Weir</p>
+        
+<p class="fr-book-desc">Directly examines the disappearance of the princes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+princes+in+the+tower+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Richard III on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1406022-M.jpg" alt="Cover for Richard III" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Richard III">Richard III</a>
-        </h4>
-        <p class="fr-book-author">By Michael Hicks</p>
-
-        <p class="fr-book-desc">Assesses Richard III&#x27;s role in the mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Richard III on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1406022-M.jpg" alt="Cover for Richard III" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Richard III">Richard III</a>
+</h4>
+<p class="fr-book-author">By Michael Hicks</p>
+        
+<p class="fr-book-desc">Assesses Richard III&#x27;s role in the mystery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Richard+III+Michael+Hicks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The time traveller&#x27;s guide to medieval England on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8728137-M.jpg" alt="Cover for The time traveller&#x27;s guide to medieval England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
-        </h4>
-        <p class="fr-book-author">By Ian Mortimer</p>
-
-        <p class="fr-book-desc">Helps readers understand the world in which the events unfolded.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The time traveller&#x27;s guide to medieval England on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8728137-M.jpg" alt="Cover for The time traveller&#x27;s guide to medieval England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
+</h4>
+<p class="fr-book-author">By Ian Mortimer</p>
+        
+<p class="fr-book-desc">Helps readers understand the world in which the events unfolded.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Daughter+of+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Daughter of Time</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+princes+in+the+tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The princes in the tower</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Richard+III&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Richard III</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Daughter+of+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Daughter of Time</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+princes+in+the+tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The princes in the tower</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Richard+III&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Richard III</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

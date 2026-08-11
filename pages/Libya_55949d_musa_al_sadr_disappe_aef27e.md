@@ -334,95 +334,96 @@ The result is an unusual historical mystery: the broad outline appears increasin
 
 <img src="{{ "/assets/images/Libya_55949d_musa_al_sadr_disappe_aef27e-Illustration-3-dark.svg" | relative_url }}" alt="Musa al Sadr illustration 3" data-theme-src-dark="{{ "/assets/images/Libya_55949d_musa_al_sadr_disappe_aef27e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Libya_55949d_musa_al_sadr_disappe_aef27e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Musa al Sadr
+## Why the mystery still matters
+
 Musa al-Sadr's disappearance has had consequences far beyond the fate of one individual. It transformed relations between Lebanon and Libya, became a defining grievance for the Amal movement and remains an enduring symbol of the secrecy surrounding Gaddafi's security apparatus.
 
 For historians, the case illustrates how authoritarian governments can leave behind uncertainty long after a regime collapses. The strongest evidence now points towards enforced disappearance and probable murder inside Libya, but the final proof remains missing. Until bodies are identified or archival records emerge that establish exactly who gave the orders and where the victims were buried, one of the Middle East's most significant political disappearances will remain unresolved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Musa al-Sadr Ever Leave Libya?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Musa al-Sadr Ever Leave Libya?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Return: Fathers, Sons and the Land in Between on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8543276-M.jpg" alt="Cover for The Return: Fathers, Sons and the Land in Between" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return: Fathers, Sons and the Land in Between">The Return: Fathers, Sons and the Land in Between</a>
-        </h4>
-        <p class="fr-book-author">By Hisham Matar</p>
-
-        <p class="fr-book-desc">Strong contextual reading for unresolved disappearances under Gaddafi.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Return: Fathers, Sons and the Land in Between on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8543276-M.jpg" alt="Cover for The Return: Fathers, Sons and the Land in Between" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return: Fathers, Sons and the Land in Between">The Return: Fathers, Sons and the Land in Between</a>
+</h4>
+<p class="fr-book-author">By Hisham Matar</p>
+        
+<p class="fr-book-desc">Strong contextual reading for unresolved disappearances under Gaddafi.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Modern Libya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/349677-M.jpg" alt="Cover for A History of Modern Libya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Modern Libya">A History of Modern Libya</a>
-        </h4>
-        <p class="fr-book-author">By Dirk Vandewalle</p>
-
-        <p class="fr-book-desc">Explains the political setting surrounding Musa al-Sadr&#x27;s disappearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Modern Libya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/349677-M.jpg" alt="Cover for A History of Modern Libya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Modern Libya">A History of Modern Libya</a>
+</h4>
+<p class="fr-book-author">By Dirk Vandewalle</p>
+        
+<p class="fr-book-desc">Explains the political setting surrounding Musa al-Sadr&#x27;s disappearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Modern+Libya+Dirk+Vandewalle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hezbollah+A+Short+History+Augustus+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hezbollah A Short History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7532326-M.jpg" alt="Cover for Hezbollah A Short History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hezbollah+A+Short+History+Augustus+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hezbollah A Short History">Hezbollah A Short History</a>
-        </h4>
-        <p class="fr-book-author">By Augustus Richard Norton</p>
-
-        <p class="fr-book-desc">Explains the evolution of Lebanese Shi&#x27;a politics after al-Sadr.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hezbollah+A+Short+History+Augustus+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hezbollah+A+Short+History+Augustus+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hezbollah A Short History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7532326-M.jpg" alt="Cover for Hezbollah A Short History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hezbollah+A+Short+History+Augustus+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hezbollah A Short History">Hezbollah A Short History</a>
+</h4>
+<p class="fr-book-author">By Augustus Richard Norton</p>
+        
+<p class="fr-book-desc">Explains the evolution of Lebanese Shi&#x27;a politics after al-Sadr.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hezbollah+A+Short+History+Augustus+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Libya: From Colony to Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3001066-M.jpg" alt="Cover for Libya: From Colony to Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya: From Colony to Revolution">Libya: From Colony to Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Bruce St John</p>
-
-        <p class="fr-book-desc">Provides historical background on Libya during 1978.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Libya: From Colony to Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3001066-M.jpg" alt="Cover for Libya: From Colony to Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya: From Colony to Revolution">Libya: From Colony to Revolution</a>
+</h4>
+<p class="fr-book-author">By Ronald Bruce St John</p>
+        
+<p class="fr-book-desc">Provides historical background on Libya during 1978.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Return: Fathers, Sons and the Land in Between</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Modern+Libya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Modern Libya</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hezbollah+A+Short+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hezbollah A Short History</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Return: Fathers, Sons and the Land in Between</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Modern+Libya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Modern Libya</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hezbollah+A+Short+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hezbollah A Short History</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

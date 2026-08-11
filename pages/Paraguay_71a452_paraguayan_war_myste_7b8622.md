@@ -345,7 +345,7 @@ The enduring mystery is therefore not simply the absence of perfect records. It 
 <a href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig+John+Gimlette&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="At the tomb of the inflatable pig">At the tomb of the inflatable pig</a>
 </h4>
 <p class="fr-book-author">By John Gimlette</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Travel, Description and travel, History, Paraguay, Geografi.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=At+the+tomb+of+the+inflatable+pig+John+Gimlette&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ The enduring mystery is therefore not simply the absence of perfect records. It 
 <a href="https://www.amazon.com/s?k=The+Blood+of+Guatemala+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Blood of Guatemala">The Blood of Guatemala</a>
 </h4>
 <p class="fr-book-author">By Greg Grandin</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: Politics and government, Quiché Indians, Race relations, Social conditions, Mayas.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Blood+of+Guatemala+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ The enduring mystery is therefore not simply the absence of perfect records. It 
 <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predatory States">Predatory States</a>
 </h4>
 <p class="fr-book-author">By J. Patrice McSherry, J. Patrice McSherry</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: State-sponsored terrorism, Operación Cóndor (South American countersubversion association), Political cri...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Predatory+States+J.+Patrice+McSherry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ The enduring mystery is therefore not simply the absence of perfect records. It 
 <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paraguayan War, Volume 1">The Paraguayan War, Volume 1</a>
 </h4>
 <p class="fr-book-author">By Thomas L. Whigham</p>
-
+        
 <p class="fr-book-desc">First published 2002.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Paraguayan+War%2C+Volume+1+Thomas+L.+Whigham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

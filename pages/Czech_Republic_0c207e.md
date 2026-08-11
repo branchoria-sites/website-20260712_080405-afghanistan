@@ -1334,7 +1334,8 @@ Prague has embraced the figure in art, tourism and popular culture, but its comm
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CSYXCBqGcZo" title="Secrets of the Voynich Manuscript" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CSYXCBqGcZo" target="_blank" rel="noopener noreferrer">Secrets of the Voynich Manuscript</a></p><p class="youtube-embed-meta">Channel: hochelaga</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CSYXCBqGcZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CSYXCBqGcZo">Open on YouTube</a></p></div></div></div>
 
-## Czechia's historical mysteries in the wider historical record
+## Why these mysteries endure
+
 The Czech Republic’s historical enigmas survive for different reasons. Jan Masaryk’s death persists because the evidence remains incomplete and the first investigation took place under a newly authoritarian regime. The Voynich Manuscript endures because a real object continues to resist interpretation. The forged national manuscripts remain important because they once answered a powerful demand for an ancient heroic past.
 
 Other stories survive through a mixture of fact and invention. Real Nazi archives encouraged fantasies about the Štěchovice treasure. Genuine Nazi papers were repackaged within the staged discovery of Operation Neptune. The exceptional scale of the Codex Gigas generated a supernatural origin story, while nineteenth- and twentieth-century literature transformed older traditions about artificial life into the supposedly ancient Prague Golem.
@@ -1356,89 +1357,89 @@ Together, the cases offer a practical way to judge historical mysteries:
 The country’s most interesting mysteries are therefore not necessarily those with the most dramatic theories. They are the cases in which archives, physical evidence and public memory pull in different directions — revealing not only what may have happened, but how nations decide which versions of the past they wish to preserve.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Czech Mysteries Still Resist an Answer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Czech Mysteries Still Resist an Answer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret history of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2950446-M.jpg" alt="Cover for The secret history of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret history of the world">The secret history of the world</a>
-        </h4>
-        <p class="fr-book-author">By Mark Booth</p>
-
-        <p class="fr-book-desc">Explores enduring historical enigmas and hidden narratives that align with Czech mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret history of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2950446-M.jpg" alt="Cover for The secret history of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret history of the world">The secret history of the world</a>
+</h4>
+<p class="fr-book-author">By Mark Booth</p>
+        
+<p class="fr-book-desc">Explores enduring historical enigmas and hidden narratives that align with Czech mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+secret+history+of+the+world+Mark+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voynich manuscript on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/499428-M.jpg" alt="Cover for The Voynich manuscript" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voynich manuscript">The Voynich manuscript</a>
-        </h4>
-        <p class="fr-book-author">By Gerry Kennedy, Rob Churchill</p>
-
-        <p class="fr-book-desc">Covers one of the best-known mysteries connected with Prague.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voynich manuscript on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/499428-M.jpg" alt="Cover for The Voynich manuscript" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voynich manuscript">The Voynich manuscript</a>
+</h4>
+<p class="fr-book-author">By Gerry Kennedy, Rob Churchill</p>
+        
+<p class="fr-book-desc">Covers one of the best-known mysteries connected with Prague.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Voynich+manuscript+Gerry+Kennedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Maze: A Biography of Prague on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10873155-M.jpg" alt="Cover for The Golden Maze: A Biography of Prague" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Maze: A Biography of Prague">The Golden Maze: A Biography of Prague</a>
-        </h4>
-        <p class="fr-book-author">By Richard Fidler</p>
-
-        <p class="fr-book-desc">Places several famous Czech mysteries within Prague&#x27;s wider history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Maze: A Biography of Prague on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10873155-M.jpg" alt="Cover for The Golden Maze: A Biography of Prague" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Maze: A Biography of Prague">The Golden Maze: A Biography of Prague</a>
+</h4>
+<p class="fr-book-author">By Richard Fidler</p>
+        
+<p class="fr-book-desc">Places several famous Czech mysteries within Prague&#x27;s wider history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Golden+Maze%3A+A+Biography+of+Prague+Richard+Fidler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prague: A Cultural and Literary History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/807169-M.jpg" alt="Cover for Prague: A Cultural and Literary History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague: A Cultural and Literary History">Prague: A Cultural and Literary History</a>
-        </h4>
-        <p class="fr-book-author">By Richard D. E. Burton</p>
-
-        <p class="fr-book-desc">Provides cultural context for many Czech historical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prague: A Cultural and Literary History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/807169-M.jpg" alt="Cover for Prague: A Cultural and Literary History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague: A Cultural and Literary History">Prague: A Cultural and Literary History</a>
+</h4>
+<p class="fr-book-author">By Richard D. E. Burton</p>
+        
+<p class="fr-book-desc">Provides cultural context for many Czech historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Prague%3A+A+Cultural+and+Literary+History+Richard+D.+E.+Burton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+history+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret history of the world</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voynich+manuscript&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voynich manuscript</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Which+Czech+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Which Czech biography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+history+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret history of the world</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voynich+manuscript&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voynich manuscript</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Which+Czech+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Which Czech biography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 

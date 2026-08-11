@@ -354,7 +354,7 @@ For that reason, Edward James Roye's death remains one of Liberia's clearest exa
 <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The house at Sugar Beach">The house at Sugar Beach</a>
 </h4>
 <p class="fr-book-author">By Helene Cooper, Helene Cooper</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Biography, Childhood and youth, Elite (Social sciences), History, Journalists.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For that reason, Edward James Roye's death remains one of Liberia's clearest exa
 <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mask of anarchy">The mask of anarchy</a>
 </h4>
 <p class="fr-book-author">By Ellis, Stephen</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Liberia Civil War, 1989-, Religious aspects, Sande Society, Religion, Poro (Society).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For that reason, Edward James Roye's death remains one of Liberia's clearest exa
 <a href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Liberia: The Violence of Democracy">Liberia: The Violence of Democracy</a>
 </h4>
 <p class="fr-book-author">By Amos Sawyer</p>
-
+        
 <p class="fr-book-desc">Provides the political background to Roye&#x27;s overthrow and death.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Liberia%3A+The+Violence+of+Democracy+Amos+Sawyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For that reason, Edward James Roye's death remains one of Liberia's clearest exa
 <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Liberia+D.+Elwood+Dunn%2C+Amos+J.+Beyan+and+Carl+Patrick+Burrowes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Historical Dictionary of Liberia">Historical Dictionary of Liberia</a>
 </h4>
 <p class="fr-book-author">By D. Elwood Dunn, Amos J. Beyan and Carl Patrick Burrowes</p>
-
+        
 <p class="fr-book-desc">Contains authoritative entries on Roye and nineteenth-century Liberia.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Historical+Dictionary+of+Liberia+D.+Elwood+Dunn%2C+Amos+J.+Beyan+and+Carl+Patrick+Burrowes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

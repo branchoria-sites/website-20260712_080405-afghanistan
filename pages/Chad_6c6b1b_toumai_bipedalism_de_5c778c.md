@@ -298,7 +298,8 @@ Even so, scepticism remains. Other specialists argue that the proposed diagnosti
 
 <img src="{{ "/assets/images/Chad_6c6b1b_toumai_bipedalism_de_5c778c-Illustration-3-dark.svg" | relative_url }}" alt="Toumai illustration 3" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b_toumai_bipedalism_de_5c778c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b_toumai_bipedalism_de_5c778c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Toumai
+## Why the Mystery Still Matters
+
 The mystery surrounding Toumaï is larger than a single fossil. It influences how scientists reconstruct one of the defining transitions in human evolution: the emergence of habitual walking on two legs.
 
 If Toumaï was truly bipedal, then upright walking evolved very close to the divergence between humans and chimpanzees and may have appeared before many other recognisably human characteristics, including larger brains. If the fossil instead represents an extinct ape outside the human lineage, then the search for the earliest unquestioned hominin shifts elsewhere.
@@ -328,7 +329,7 @@ For Chad, the discovery remains one of the country's greatest archaeological and
 <a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your inner fish">Your inner fish</a>
 </h4>
 <p class="fr-book-author">By Neil Shubin</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Human anatomy, Human evolution, Nature, Nonfiction, Popular works.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -345,7 +346,7 @@ For Chad, the discovery remains one of the country's greatest archaeological and
 <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COMPLETE WORLD OF HUMAN EVOLUTION">COMPLETE WORLD OF HUMAN EVOLUTION</a>
 </h4>
 <p class="fr-book-author">By CHRIS STRINGER, Chris Stringer et al.</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Human evolution, Evolution, Science/Mathematics, Life Sciences - Evolution, Science.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=COMPLETE+WORLD+OF+HUMAN+EVOLUTION+CHRIS+STRINGER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +363,7 @@ For Chad, the discovery remains one of the country's greatest archaeological and
 <a href="https://www.amazon.com/s?k=The+Human+Career+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Career">The Human Career</a>
 </h4>
 <p class="fr-book-author">By Richard G. Klein</p>
-
+        
 <p class="fr-book-desc">First published 1989. Subjects: Origin, Human beings, Fossil hominids, Human evolution, Evolución humana.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Human+Career+Richard+G.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +380,7 @@ For Chad, the discovery remains one of the country's greatest archaeological and
 <a href="https://www.amazon.com/s?k=Almost+Human+Lee+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Almost Human">Almost Human</a>
 </h4>
 <p class="fr-book-author">By Lee Berger, John Hawks</p>
-
+        
 <p class="fr-book-desc">First published 2017.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Almost+Human+Lee+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

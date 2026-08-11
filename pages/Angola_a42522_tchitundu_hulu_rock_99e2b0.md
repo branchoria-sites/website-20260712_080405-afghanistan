@@ -363,7 +363,8 @@ Current archaeological evidence does not support these ideas.
 
 Instead, researchers note that similar geometric rock art traditions appear across parts of Central and southern Africa. The motifs fit within recognised regional artistic traditions rather than requiring an unknown civilisation or external origin. The site's true importance lies not in extraordinary claims but in the insight it offers into prehistoric symbolic behaviour and long-term human occupation of Angola's south-west.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://africanrockart.britishmuseum.org/country/angola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africanrockart.britishmuseum.org">[African Rock Art]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africanrockart.britishmuseum.org</span><span class="citation-popover-title">African Rock Art Angola</span><span class="citation-popover-snippet">African Rock Art Angola</span></span></span>
 
-## Questions left unresolved by Rock Art
+## Why the mystery still matters
+
 Tchitundu-Hulu remains one of Angola's most important archaeological sites precisely because so much has survived while so many questions remain unanswered.
 
 Recent heritage projects have focused on detailed recording through high-resolution photography, three-dimensional scanning and digital documentation before erosion damages additional engravings and paintings. These records not only preserve the site but may eventually allow researchers to detect superimpositions, pigment composition and weathering patterns that were previously impossible to study in detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifas.org.za/research/uncategorized/dig-arq-2023-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifas.org.za">[French Institute of South Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifas.org.za</span><span class="citation-popover-title">dig arq</span><span class="citation-popover-snippet">French Institute of South AfricaDIG-ARQ – Digitalisation, Accessibility, and Heritage Preservation of Archaeology in Angola (2024-2027) –...</span></span></span>
@@ -378,89 +379,89 @@ For now, the enduring mystery is not whether Tchitundu-Hulu is genuine—it unqu
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Created Tchitundu-Hulu&#x27;s Mysterious Rock Art?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Created Tchitundu-Hulu&#x27;s Mysterious Rock Art?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mind in the Cave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315818-M.jpg" alt="Cover for The Mind in the Cave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mind in the Cave">The Mind in the Cave</a>
-        </h4>
-        <p class="fr-book-author">By J. David Lewis-Williams</p>
-
-        <p class="fr-book-desc">Explores interpretation of prehistoric rock art worldwide.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mind in the Cave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315818-M.jpg" alt="Cover for The Mind in the Cave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mind in the Cave">The Mind in the Cave</a>
+</h4>
+<p class="fr-book-author">By J. David Lewis-Williams</p>
+        
+<p class="fr-book-desc">Explores interpretation of prehistoric rock art worldwide.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Archaeology: A Critical Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African Archaeology: A Critical Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Archaeology: A Critical Introduction">African Archaeology: A Critical Introduction</a>
-        </h4>
-        <p class="fr-book-author">By David W. Phillipson</p>
-
-        <p class="fr-book-desc">Explains archaeological approaches used at sites like Tchitundu-Hulu.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Archaeology: A Critical Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African Archaeology: A Critical Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Archaeology: A Critical Introduction">African Archaeology: A Critical Introduction</a>
+</h4>
+<p class="fr-book-author">By David W. Phillipson</p>
+        
+<p class="fr-book-desc">Explains archaeological approaches used at sites like Tchitundu-Hulu.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+Introduction+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: A Biography of the Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420380-M.jpg" alt="Cover for Africa: A Biography of the Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: A Biography of the Continent">Africa: A Biography of the Continent</a>
-        </h4>
-        <p class="fr-book-author">By John Reader</p>
-
-        <p class="fr-book-desc">Connects Angola&#x27;s prehistory with continental developments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: A Biography of the Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420380-M.jpg" alt="Cover for Africa: A Biography of the Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: A Biography of the Continent">Africa: A Biography of the Continent</a>
+</h4>
+<p class="fr-book-author">By John Reader</p>
+        
+<p class="fr-book-desc">Connects Angola&#x27;s prehistory with continental developments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Rock+Art%3A+Paintings+and+Engravings+on+Stone+David+Coulson+and+Alec+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Rock Art: Paintings and Engravings on Stone on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+Rock+Art%3A+Paintings+and+Engravings+on+Stone+David+Coulson+and+Alec+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Rock Art: Paintings and Engravings on Stone">African Rock Art: Paintings and Engravings on Stone</a>
-        </h4>
-        <p class="fr-book-author">By David Coulson and Alec Campbell</p>
-
-        <p class="fr-book-desc">Directly relevant to understanding Tchitundu-Hulu.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+Rock+Art%3A+Paintings+and+Engravings+on+Stone+David+Coulson+and+Alec+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Rock+Art%3A+Paintings+and+Engravings+on+Stone+David+Coulson+and+Alec+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Rock Art: Paintings and Engravings on Stone on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+Rock+Art%3A+Paintings+and+Engravings+on+Stone+David+Coulson+and+Alec+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Rock Art: Paintings and Engravings on Stone">African Rock Art: Paintings and Engravings on Stone</a>
+</h4>
+<p class="fr-book-author">By David Coulson and Alec Campbell</p>
+        
+<p class="fr-book-desc">Directly relevant to understanding Tchitundu-Hulu.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+Rock+Art%3A+Paintings+and+Engravings+on+Stone+David+Coulson+and+Alec+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mind+in+the+Cave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mind in the Cave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Archaeology: A Critical books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Who+Created+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Who Created biography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mind+in+the+Cave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mind in the Cave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Archaeology%3A+A+Critical+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Archaeology: A Critical books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Who+Created+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Who Created biography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

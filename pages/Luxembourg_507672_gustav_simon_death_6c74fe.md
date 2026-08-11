@@ -341,7 +341,8 @@ Other Luxembourg historians remain unconvinced by the assassination theory. They
 
 <img src="{{ "/assets/images/Luxembourg_507672_gustav_simon_death_6c74fe-Illustration-3-dark.svg" | relative_url }}" alt="Simon illustration 3" data-theme-src-dark="{{ "/assets/images/Luxembourg_507672_gustav_simon_death_6c74fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luxembourg_507672_gustav_simon_death_6c74fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The unresolved legacy of Simon
+## Why the mystery endures
+
 The debate over Simon's death survives because it sits in an uncomfortable space between documented history and missing evidence.
 
 The official explanation is supported by the strongest surviving contemporary documentation, but those records are not as complete as historians would ideally like. The alternative execution story is emotionally understandable in the context of post-war Luxembourg and is reinforced by persistent local memory, yet it lacks direct documentary proof.
@@ -371,7 +372,7 @@ As a result, most modern historical assessments conclude that **suicide in Briti
 <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second World War">The Second World War</a>
 </h4>
 <p class="fr-book-author">By Antony Beevor</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: World War, 1939-1945, Sino-japanese war, 1937-1945, New York Times reviewed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +389,7 @@ As a result, most modern historical assessments conclude that **suicide in Briti
 <a href="https://www.amazon.com/s?k=KL%3A+a+history+of+the+Nazi+concentration+camps+Nikolaus+WACHSMANN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="KL: a history of the Nazi concentration camps">KL: a history of the Nazi concentration camps</a>
 </h4>
 <p class="fr-book-author">By Nikolaus WACHSMANN</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: World war, 1939-1945, prisoners and prisons, german, Holocaust, jewish (1939-1945).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=KL%3A+a+history+of+the+Nazi+concentration+camps+Nikolaus+WACHSMANN&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +406,7 @@ As a result, most modern historical assessments conclude that **suicide in Briti
 <a href="https://www.amazon.com/s?k=Hitler%27s+empire+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hitler&#x27;s empire">Hitler&#x27;s empire</a>
 </h4>
 <p class="fr-book-author">By Mark Mazower</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: History, World War II, 1939-1945, Holocaust, Colonization, Imperialism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hitler%27s+empire+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +423,7 @@ As a result, most modern historical assessments conclude that **suicide in Briti
 <a href="https://www.amazon.com/s?k=The+Nuremberg+Trial+Ann+and+John+Tusa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Nuremberg Trial">The Nuremberg Trial</a>
 </h4>
 <p class="fr-book-author">By Ann and John Tusa</p>
-
+        
 <p class="fr-book-desc">First published 1984. Subjects: Nuremberg Trial of Major German War Criminals, Nuremberg, Germany, 1945-1946.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Nuremberg+Trial+Ann+and+John+Tusa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

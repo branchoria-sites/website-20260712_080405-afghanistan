@@ -320,7 +320,8 @@ International organisations including Amnesty International and Reporters Withou
 
 <img src="{{ "/assets/images/Burkina_Faso_f61e5f_norbert_zongo_murder_811947-Illustration-3-dark.svg" | relative_url }}" alt="Zongo illustration 3" data-theme-src-dark="{{ "/assets/images/Burkina_Faso_f61e5f_norbert_zongo_murder_811947-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Burkina_Faso_f61e5f_norbert_zongo_murder_811947-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Zongo
+## Why the case still matters
+
 The mystery surrounding Norbert Zongo's death is narrower today than it appeared in 1998. Few serious observers regard the killings as an unexplained roadside crime. The evidence assembled over many years has consistently pointed investigators towards individuals connected with the presidential security establishment and to the political context created by Zongo's investigation into David Ouédraogo's death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.african-court.org/ajudata/download-file/1898/630db7b083f70786601222.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: african-court.org">[African Court on Human Rights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">african-court.org</span><span class="citation-popover-snippet">African Court on Human Rights5f55d2db8c3ee953263790.pdf...</span></span></span>
 
 What remains unresolved is the judicial account. No court has heard the complete evidence against all alleged participants, tested witness testimony through a full adversarial trial or delivered final verdicts identifying everyone responsible. Until that happens, the precise chain of command, the planning of the murders and the full extent of any political involvement remain matters of informed suspicion rather than established legal fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.african-court.org/ajudata/download-file/1898/630db7b083f70786601222.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: african-court.org">[African Court on Human Rights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">african-court.org</span><span class="citation-popover-snippet">African Court on Human Rights5f55d2db8c3ee953263790.pdf...</span></span></span>
@@ -333,89 +334,89 @@ For Burkina Faso, the Zongo case has therefore become a symbol of the wider stru
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Has Norbert Zongo&#x27;s Murder Never Reached Trial?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Has Norbert Zongo&#x27;s Murder Never Reached Trial?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Martin Meredith</p>
-
-        <p class="fr-book-desc">Places the Zongo case in broader post-colonial politics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
+</h4>
+<p class="fr-book-author">By Martin Meredith</p>
+        
+<p class="fr-book-desc">Places the Zongo case in broader post-colonial politics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8505738-M.jpg" alt="Cover for Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)">Thomas Sankara: An African Revolutionary (Ohio Short Historie...</a>
-        </h4>
-        <p class="fr-book-author">By Ernest Harsch</p>
-
-        <p class="fr-book-desc">Explains the political system that shaped the Zongo era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8505738-M.jpg" alt="Cover for Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)">Thomas Sankara: An African Revolutionary (Ohio Short Historie...</a>
+</h4>
+<p class="fr-book-author">By Ernest Harsch</p>
+        
+<p class="fr-book-desc">Explains the political system that shaped the Zongo era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29+Ernest+Harsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1180045-M.jpg" alt="Cover for AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY">AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY</a>
-        </h4>
-        <p class="fr-book-author">By Paul Nugent</p>
-
-        <p class="fr-book-desc">Covers governance and political crises across Africa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1180045-M.jpg" alt="Cover for AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY">AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY</a>
+</h4>
+<p class="fr-book-author">By Paul Nugent</p>
+        
+<p class="fr-book-desc">Covers governance and political crises across Africa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: Altered States, Ordinary Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8110604-M.jpg" alt="Cover for Africa: Altered States, Ordinary Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: Altered States, Ordinary Miracles">Africa: Altered States, Ordinary Miracles</a>
-        </h4>
-        <p class="fr-book-author">By Richard Dowden</p>
-
-        <p class="fr-book-desc">Explores journalism, politics and power across Africa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: Altered States, Ordinary Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8110604-M.jpg" alt="Cover for Africa: Altered States, Ordinary Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: Altered States, Ordinary Miracles">Africa: Altered States, Ordinary Miracles</a>
+</h4>
+<p class="fr-book-author">By Richard Dowden</p>
+        
+<p class="fr-book-desc">Explores journalism, politics and power across Africa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thomas+Sankara%3A+An+African+Revolutionary+%28Ohio+Short+Histories+of+Africa%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thomas Sankara: An African Revolutionary (Ohio Short Histories of Africa)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=AFRICA+SINCE+INDEPENDENCE%3A+A+COMPARATIVE+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AFRICA SINCE INDEPENDENCE: A COMPARATIVE HISTORY</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

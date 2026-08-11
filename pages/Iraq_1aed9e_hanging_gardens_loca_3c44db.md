@@ -332,7 +332,8 @@ A third possibility is that the classical Hanging Gardens were never a single, p
 
 <img src="{{ "/assets/images/Iraq_1aed9e_hanging_gardens_loca_3c44db-Illustration-3-dark.svg" | relative_url }}" alt="Hanging Gardens illustration 3" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e_hanging_gardens_loca_3c44db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e_hanging_gardens_loca_3c44db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Questions left unresolved by Hanging Gardens
+## Why the mystery still matters
+
 The debate over the Hanging Gardens illustrates how ancient history is reconstructed from incomplete evidence. Historians must weigh archaeological remains against texts written long after the events they describe, while recognising that both can contain gaps, misunderstandings and embellishments.
 
 For Iraq, the mystery also highlights the extraordinary achievements of ancient Mesopotamian civilisation. Whether the Wonder ultimately belonged to Babylon, Nineveh or emerged from a blending of both traditions, there is no doubt that rulers in ancient Iraq created vast royal gardens supported by sophisticated irrigation systems that astonished visitors.
@@ -345,89 +346,89 @@ The enduring fascination of the Hanging Gardens lies precisely in this uncertain
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Hanging Gardens Really in Babylon?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Hanging Gardens Really in Babylon?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World+Bettany+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Wonders of the Ancient World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14805476-M.jpg" alt="Cover for Seven Wonders of the Ancient World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World+Bettany+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Wonders of the Ancient World">Seven Wonders of the Ancient World</a>
-        </h4>
-        <p class="fr-book-author">By Bettany Hughes</p>
-
-        <p class="fr-book-desc">Places the Hanging Gardens among the Seven Wonders and assesses the stories, evidence and cultural memory surrounding them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World+Bettany+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World+Bettany+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Wonders of the Ancient World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14805476-M.jpg" alt="Cover for Seven Wonders of the Ancient World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World+Bettany+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Wonders of the Ancient World">Seven Wonders of the Ancient World</a>
+</h4>
+<p class="fr-book-author">By Bettany Hughes</p>
+        
+<p class="fr-book-desc">Places the Hanging Gardens among the Seven Wonders and assesses the stories, evidence and cultural memory surrounding them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World+Bettany+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Babylon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9076423-M.jpg" alt="Cover for Babylon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Babylon">Babylon</a>
-        </h4>
-        <p class="fr-book-author">By Paul Kriwaczek</p>
-
-        <p class="fr-book-desc">Examines the city&#x27;s history, material remains and later reputation, helping readers assess the traditional Babylon location.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Babylon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9076423-M.jpg" alt="Cover for Babylon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Babylon">Babylon</a>
+</h4>
+<p class="fr-book-author">By Paul Kriwaczek</p>
+        
+<p class="fr-book-desc">Examines the city&#x27;s history, material remains and later reputation, helping readers assess the traditional Babylon location.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Babylon+Paul+Kriwaczek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mystery Of The Hanging Garden Of Babylon An Elusive World Wonder Traced on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7515461-M.jpg" alt="Cover for The Mystery Of The Hanging Garden Of Babylon An Elusive World Wonder Traced" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mystery Of The Hanging Garden Of Babylon An Elusive World Wonder Traced">The Mystery Of The Hanging Garden Of Babylon An Elusive World...</a>
-        </h4>
-        <p class="fr-book-author">By Stephanie Dalley</p>
-
-        <p class="fr-book-desc">First published 2013. Subjects: Archaeology and history, Ancient History, History, Seven Wonders of the World, Gardens.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mystery Of The Hanging Garden Of Babylon An Elusive World Wonder Traced on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7515461-M.jpg" alt="Cover for The Mystery Of The Hanging Garden Of Babylon An Elusive World Wonder Traced" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mystery Of The Hanging Garden Of Babylon An Elusive World Wonder Traced">The Mystery Of The Hanging Garden Of Babylon An Elusive World...</a>
+</h4>
+<p class="fr-book-author">By Stephanie Dalley</p>
+        
+<p class="fr-book-desc">First published 2013. Subjects: Archaeology and history, Ancient History, History, Seven Wonders of the World, Gardens.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Egypt+to+Babylon+Paul+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Egypt to Babylon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948130-M.jpg" alt="Cover for From Egypt to Babylon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=From+Egypt+to+Babylon+Paul+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Egypt to Babylon">From Egypt to Babylon</a>
-        </h4>
-        <p class="fr-book-author">By Paul Collins</p>
-
-        <p class="fr-book-desc">First published 2008. Subjects: History, Middle east, history, to 622.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=From+Egypt+to+Babylon+Paul+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Egypt+to+Babylon+Paul+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Egypt to Babylon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948130-M.jpg" alt="Cover for From Egypt to Babylon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=From+Egypt+to+Babylon+Paul+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Egypt to Babylon">From Egypt to Babylon</a>
+</h4>
+<p class="fr-book-author">By Paul Collins</p>
+        
+<p class="fr-book-desc">First published 2008. Subjects: History, Middle east, history, to 622.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=From+Egypt+to+Babylon+Paul+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seven Wonders of the Ancient World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Babylon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Babylon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mystery Of The Hanging Garden Of Babylon An Elusive World Wonder Traced</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Seven+Wonders+of+the+Ancient+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seven Wonders of the Ancient World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Babylon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Babylon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mystery+Of+The+Hanging+Garden+Of+Babylon+An+Elusive+World+Wonder+Traced&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mystery Of The Hanging Garden Of Babylon An Elusive World Wonder Traced</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

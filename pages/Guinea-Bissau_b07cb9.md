@@ -209,13 +209,13 @@ description: Guinea-Bissau’s most important historical mysteries are not tales
 hero_summary: Guinea-Bissau’s most important historical mysteries are not tales of vanished treasure or supernatural ruins. They concern political killings, disputed coup plots, incomplete casualty lists and investigations obstructed by fear, weak institutions and military power.
 layout: default
 permalink: /what-really-happened-in-guinea-bissaus/
-nav_short_title: "Inside the Historical Mysteries of Guinea Bissau"
-title: "Inside the Historical Mysteries of Guinea Bissau"
-title_full: "Inside the Historical Mysteries of Guinea Bissau"
-display_title_short: "Inside the Historical Mysteries of Guinea Bissau"
-display_title: "Inside the Historical Mysteries of Guinea Bissau"
-heading_title: "Inside the Historical Mysteries of Guinea Bissau"
-page_heading_title: "Inside the Historical Mysteries of Guinea Bissau"
+nav_short_title: What Really Happened in Guinea Bissau's Darkest Cases?
+title: What Really Happened in Guinea Bissau's Darkest Cases?
+title_full: What Really Happened in Guinea Bissau's Darkest Cases?
+display_title_short: What Really Happened in Guinea Bissau's Darkest Cases?
+display_title: What Really Happened in Guinea Bissau's Darkest Cases?
+heading_title: What Really Happened in Guinea Bissau's Darkest Cases?
+page_heading_title: What Really Happened in Guinea Bissau's Darkest Cases?
 source_count: 113
 infographic_count: 3
 page_website_name: Guinea Bissau Mysteries
@@ -1312,89 +1312,89 @@ These mysteries matter because they shaped more than historical memory. Unresolv
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Guinea-Bissau&#x27;s Darkest Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Guinea-Bissau&#x27;s Darkest Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Martin Meredith</p>
-
-        <p class="fr-book-desc">Provides accessible background for readers exploring the country&#x27;s modern history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
+</h4>
+<p class="fr-book-author">By Martin Meredith</p>
+        
+<p class="fr-book-desc">Provides accessible background for readers exploring the country&#x27;s modern history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13134025-M.jpg" alt="Cover for A history of modern Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Africa">A history of modern Africa</a>
-        </h4>
-        <p class="fr-book-author">By Richard J. Reid</p>
-
-        <p class="fr-book-desc">Places Guinea-Bissau&#x27;s crises within wider African political history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of modern Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13134025-M.jpg" alt="Cover for A history of modern Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Africa">A history of modern Africa</a>
+</h4>
+<p class="fr-book-author">By Richard J. Reid</p>
+        
+<p class="fr-book-desc">Places Guinea-Bissau&#x27;s crises within wider African political history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+modern+Africa+Richard+J.+Reid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amilcar Cabral : revolutionary leadership and people&#x27;s war on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4276196-M.jpg" alt="Cover for Amilcar Cabral : revolutionary leadership and people&#x27;s war" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amilcar Cabral : revolutionary leadership and people&#x27;s war">Amilcar Cabral : revolutionary leadership and people&#x27;s war</a>
-        </h4>
-        <p class="fr-book-author">By Patrick Chabal</p>
-
-        <p class="fr-book-desc">Explains the personalities and political tensions behind several featured cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amilcar Cabral : revolutionary leadership and people&#x27;s war on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4276196-M.jpg" alt="Cover for Amilcar Cabral : revolutionary leadership and people&#x27;s war" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amilcar Cabral : revolutionary leadership and people&#x27;s war">Amilcar Cabral : revolutionary leadership and people&#x27;s war</a>
+</h4>
+<p class="fr-book-author">By Patrick Chabal</p>
+        
+<p class="fr-book-desc">Explains the personalities and political tensions behind several featured cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war+Patrick+Chabal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Return to the source on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4467607-M.jpg" alt="Cover for Return to the source" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
-        </h4>
-        <p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
-
-        <p class="fr-book-desc">Provides context for the country&#x27;s liberation struggle and political conflicts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Return to the source on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4467607-M.jpg" alt="Cover for Return to the source" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Return to the source">Return to the source</a>
+</h4>
+<p class="fr-book-author">By Amílcar Cabral, Tsenay Serequeberhan</p>
+        
+<p class="fr-book-desc">Provides context for the country&#x27;s liberation struggle and political conflicts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Return+to+the+source+Am%C3%ADlcar+Cabral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amilcar Cabral : revolutionary leadership and people&#x27;s war</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+modern+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of modern Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Amilcar+Cabral+%3A+revolutionary+leadership+and+people%27s+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amilcar Cabral : revolutionary leadership and people&#x27;s war</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -306,7 +306,8 @@ The nineteenth-century trader David O'Keefe introduced another complication. By 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Byy6RMVNkvo" title="Ancient Pacific Currency Yapese Rai Stones: The Fascinating History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Byy6RMVNkvo" target="_blank" rel="noopener noreferrer">Ancient Pacific Currency Yapese Rai Stones: The Fascinating History</a></p><p class="youtube-embed-meta">Channel: American Numismatic Association</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Byy6RMVNkvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Byy6RMVNkvo">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by Stone Money
+## Why the Mystery Still Matters
+
 The enduring fascination with the "lost stone money" story lies in what it reveals about the nature of value itself. At first glance, the idea that a submerged stone retained worth seems almost unbelievable. On closer examination, it reflects a principle familiar in many modern financial systems: ownership often exists because trusted institutions or communities agree that it does.
 
 The real historical lesson is therefore more subtle than the popular myth suggests. Yap's rai system was neither primitive nor an anticipation of digital currencies in any simple sense. It was a highly developed cultural institution in which material objects, oral history, public memory and social relationships all combined to define wealth. The famous sunken stone remains memorable because it exposes how easily outsiders mistake an illustrative story for the entire system, while the deeper mystery is how such a sophisticated tradition became condensed into a single anecdote repeated around the world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://repository.si.edu/items/1e60ad21-d0ce-4421-a5be-8a41248644e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.si.edu">[si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.si.edu</span><span class="citation-popover-title">Smithsonian Research Online Stone Money of Yap: A Numismatic Survey</span><span class="citation-popover-snippet">Smithsonian Research OnlineStone Money of Yap: A Numismatic SurveyJanuary 1, 1975...</span><span class="citation-popover-meta">Published: January 1, 1975</span></span></span>
@@ -317,89 +318,89 @@ The real historical lesson is therefore more subtle than the popular myth sugges
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Sunken Stone Money Still Hold Value?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Sunken Stone Money Still Hold Value?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ascent+of+money+Niall+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ascent of money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6327852-M.jpg" alt="Cover for The ascent of money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+ascent+of+money+Niall+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ascent of money">The ascent of money</a>
-        </h4>
-        <p class="fr-book-author">By Niall Ferguson</p>
-
-        <p class="fr-book-desc">Helps readers compare Yap&#x27;s monetary traditions with global monetary history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+ascent+of+money+Niall+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ascent+of+money+Niall+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ascent of money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6327852-M.jpg" alt="Cover for The ascent of money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+ascent+of+money+Niall+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ascent of money">The ascent of money</a>
+</h4>
+<p class="fr-book-author">By Niall Ferguson</p>
+        
+<p class="fr-book-desc">Helps readers compare Yap&#x27;s monetary traditions with global monetary history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+ascent+of+money+Niall+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds%3A+An+Archaeological+History+of+the+Pacific+Islands+before+European+Contact+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Road of the Winds: An Archaeological History of the Pacific Islands before European Contact on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/327317-M.jpg" alt="Cover for On the Road of the Winds: An Archaeological History of the Pacific Islands before European Contact" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds%3A+An+Archaeological+History+of+the+Pacific+Islands+before+European+Contact+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Road of the Winds: An Archaeological History of the Pacific Islands before European Contact">On the Road of the Winds: An Archaeological History of the Pa...</a>
-        </h4>
-        <p class="fr-book-author">By Patrick Vinton Kirch</p>
-
-        <p class="fr-book-desc">Explains the broader cultural setting of Yap.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds%3A+An+Archaeological+History+of+the+Pacific+Islands+before+European+Contact+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds%3A+An+Archaeological+History+of+the+Pacific+Islands+before+European+Contact+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Road of the Winds: An Archaeological History of the Pacific Islands before European Contact on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/327317-M.jpg" alt="Cover for On the Road of the Winds: An Archaeological History of the Pacific Islands before European Contact" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds%3A+An+Archaeological+History+of+the+Pacific+Islands+before+European+Contact+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Road of the Winds: An Archaeological History of the Pacific Islands before European Contact">On the Road of the Winds: An Archaeological History of the Pa...</a>
+</h4>
+<p class="fr-book-author">By Patrick Vinton Kirch</p>
+        
+<p class="fr-book-desc">Explains the broader cultural setting of Yap.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds%3A+An+Archaeological+History+of+the+Pacific+Islands+before+European+Contact+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Money%3A+The+True+Story+of+a+Made-Up+Thing+Jacob+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Money: The True Story of a Made-Up Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10449682-M.jpg" alt="Cover for Money: The True Story of a Made-Up Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Money%3A+The+True+Story+of+a+Made-Up+Thing+Jacob+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Money: The True Story of a Made-Up Thing">Money: The True Story of a Made-Up Thing</a>
-        </h4>
-        <p class="fr-book-author">By Jacob Goldstein</p>
-
-        <p class="fr-book-desc">Provides context for unusual monetary systems such as Yap&#x27;s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Money%3A+The+True+Story+of+a+Made-Up+Thing+Jacob+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Money%3A+The+True+Story+of+a+Made-Up+Thing+Jacob+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Money: The True Story of a Made-Up Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10449682-M.jpg" alt="Cover for Money: The True Story of a Made-Up Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Money%3A+The+True+Story+of+a+Made-Up+Thing+Jacob+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Money: The True Story of a Made-Up Thing">Money: The True Story of a Made-Up Thing</a>
+</h4>
+<p class="fr-book-author">By Jacob Goldstein</p>
+        
+<p class="fr-book-desc">Provides context for unusual monetary systems such as Yap&#x27;s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Money%3A+The+True+Story+of+a+Made-Up+Thing+Jacob+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Island+of+Stone+Money%3A+Uap+of+the+Carolines+William+Henry+Furness+III&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Island of Stone Money: Uap of the Carolines on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Island+of+Stone+Money%3A+Uap+of+the+Carolines+William+Henry+Furness+III&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Island of Stone Money: Uap of the Carolines">The Island of Stone Money: Uap of the Carolines</a>
-        </h4>
-        <p class="fr-book-author">By William Henry Furness III</p>
-
-        <p class="fr-book-desc">Directly covers rai stones and the famous sunken stone story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Island+of+Stone+Money%3A+Uap+of+the+Carolines+William+Henry+Furness+III&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Island+of+Stone+Money%3A+Uap+of+the+Carolines+William+Henry+Furness+III&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Island of Stone Money: Uap of the Carolines on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Island+of+Stone+Money%3A+Uap+of+the+Carolines+William+Henry+Furness+III&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Island of Stone Money: Uap of the Carolines">The Island of Stone Money: Uap of the Carolines</a>
+</h4>
+<p class="fr-book-author">By William Henry Furness III</p>
+        
+<p class="fr-book-desc">Directly covers rai stones and the famous sunken stone story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Island+of+Stone+Money%3A+Uap+of+the+Carolines+William+Henry+Furness+III&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ascent+of+money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ascent of money</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds%3A+An+Archaeological+History+of+the+Pacific+Islands+before+European+Contact&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Road of the Winds: An Archaeological History of the Pacific Islands before European Contact</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Money%3A+The+True+Story+of+a+Made+Up+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Money: The True Story of a Made Up Thing</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ascent+of+money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ascent of money</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds%3A+An+Archaeological+History+of+the+Pacific+Islands+before+European+Contact&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Road of the Winds: An Archaeological History of the Pacific Islands before European Contact</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Money%3A+The+True+Story+of+a+Made+Up+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Money: The True Story of a Made Up Thing</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

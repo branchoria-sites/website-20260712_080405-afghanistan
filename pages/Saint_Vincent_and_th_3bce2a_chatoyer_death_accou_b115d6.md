@@ -346,7 +346,8 @@ In this modern memory, the uncertainty surrounding the duel matters less than th
 
 <img src="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_chatoyer_death_accou_b115d6-Illustration-3-dark.svg" | relative_url }}" alt="Chatoyer s Death illustration 3" data-theme-src-dark="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_chatoyer_death_accou_b115d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_chatoyer_death_accou_b115d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The historical picture around Chatoyer's Death
+## Why the mystery still matters
+
 The debate over Chatoyer's death is ultimately a question about historical evidence rather than conspiracy. There is no serious disagreement that he died in battle on Dorsetshire Hill. The unresolved issue is whether later generations inherited an accurate description of his final moments or a story reshaped by colonial storytelling.
 
 That makes the case important beyond one battlefield. It highlights how historians work with incomplete archives, how oral traditions and written records can preserve different memories, and how nations reassess figures once described by imperial powers.
@@ -359,89 +360,89 @@ For Saint Vincent and the Grenadines, Chatoyer's death therefore remains signifi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Joseph Chatoyer Really Killed in a Duel?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Joseph Chatoyer Really Killed in a Duel?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Spartacus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10111498-M.jpg" alt="Cover for Black Spartacus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Spartacus">Black Spartacus</a>
-        </h4>
-        <p class="fr-book-author">By Sudhir Hazareesingh</p>
-
-        <p class="fr-book-desc">Offers comparative insight into anti-colonial leadership in the Caribbean.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Spartacus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10111498-M.jpg" alt="Cover for Black Spartacus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Spartacus">Black Spartacus</a>
+</h4>
+<p class="fr-book-author">By Sudhir Hazareesingh</p>
+        
+<p class="fr-book-desc">Offers comparative insight into anti-colonial leadership in the Caribbean.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the past on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the past" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
-        </h4>
-        <p class="fr-book-author">By Michel-Rolph Trouillot</p>
-
-        <p class="fr-book-desc">Helps readers evaluate conflicting colonial and oral accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the past on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the past" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
+</h4>
+<p class="fr-book-author">By Michel-Rolph Trouillot</p>
+        
+<p class="fr-book-desc">Helps readers evaluate conflicting colonial and oral accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Columbus and the Quest for Jerusalem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9044166-M.jpg" alt="Cover for Columbus and the Quest for Jerusalem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Columbus and the Quest for Jerusalem">Columbus and the Quest for Jerusalem</a>
-        </h4>
-        <p class="fr-book-author">By Carol Delaney</p>
-
-        <p class="fr-book-desc">First published 2012.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Columbus and the Quest for Jerusalem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9044166-M.jpg" alt="Cover for Columbus and the Quest for Jerusalem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Columbus and the Quest for Jerusalem">Columbus and the Quest for Jerusalem</a>
+</h4>
+<p class="fr-book-author">By Carol Delaney</p>
+        
+<p class="fr-book-desc">First published 2012.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem+Carol+Delaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Caribs (Garifuna) of Honduras on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Caribs (Garifuna) of Honduras">The Black Caribs (Garifuna) of Honduras</a>
-        </h4>
-        <p class="fr-book-author">By Ruy Galvao de Andrade Coelho</p>
-
-        <p class="fr-book-desc">Explains the people and conflict associated with Chatoyer.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Caribs (Garifuna) of Honduras on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Caribs (Garifuna) of Honduras">The Black Caribs (Garifuna) of Honduras</a>
+</h4>
+<p class="fr-book-author">By Ruy Galvao de Andrade Coelho</p>
+        
+<p class="fr-book-desc">Explains the people and conflict associated with Chatoyer.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Black+Caribs+%28Garifuna%29+of+Honduras+Ruy+Galvao+de+Andrade+Coelho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Spartacus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Spartacus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silencing+the+past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silencing the past</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Columbus and the Quest for Jerusalem</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Spartacus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Spartacus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silencing+the+past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silencing the past</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Columbus+and+the+Quest+for+Jerusalem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Columbus and the Quest for Jerusalem</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

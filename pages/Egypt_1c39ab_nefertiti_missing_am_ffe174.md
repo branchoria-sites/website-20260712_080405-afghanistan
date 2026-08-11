@@ -353,7 +353,8 @@ Despite decades of research, several important questions remain open.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJln0RU2DXc" title="Nefertiti&#x27;s DNA Was Finally Analyzed — And the Results Rewrite Egyptian History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJln0RU2DXc" target="_blank" rel="noopener noreferrer">Nefertiti&#x27;s DNA Was Finally Analyzed — And the Results Rewrite Egyptian History</a></p><p class="youtube-embed-meta">Channel: Huyen Tran</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJln0RU2DXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJln0RU2DXc">Open on YouTube</a></p></div></div></div>
 
-## Lost Royals in the wider historical record
+## Why this mystery still matters
+
 The disappearance of the Amarna royals illustrates how history can become uncertain even in one of the world's best-documented ancient civilisations.
 
 Unlike mysteries based mainly on legend, this one rests on genuine gaps in the archaeological record. Damaged inscriptions, disturbed tombs and incomplete family relationships mean that historians possess abundant evidence but not enough to reconstruct every event with confidence.
@@ -361,89 +362,89 @@ Unlike mysteries based mainly on legend, this one rests on genuine gaps in the a
 Each new discovery—whether a fragmentary inscription, an improved reading of an erased cartouche or advances in ancient DNA techniques—has the potential to reshape the chronology of Egypt's most turbulent royal succession. For that reason, the fate of Nefertiti and the missing Amarna royals remains an active historical investigation rather than a solved chapter of ancient Egyptian history.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Did Nefertiti and the Amarna Royals Go?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Did Nefertiti and the Amarna Royals Go?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Search for Nefertiti on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2401960-M.jpg" alt="Cover for The Search for Nefertiti" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for Nefertiti">The Search for Nefertiti</a>
-        </h4>
-        <p class="fr-book-author">By Joann Fletcher</p>
-
-        <p class="fr-book-desc">Directly addresses Nefertiti&#x27;s identity and disappearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Search for Nefertiti on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2401960-M.jpg" alt="Cover for The Search for Nefertiti" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for Nefertiti">The Search for Nefertiti</a>
+</h4>
+<p class="fr-book-author">By Joann Fletcher</p>
+        
+<p class="fr-book-desc">Directly addresses Nefertiti&#x27;s identity and disappearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Search+for+Nefertiti+Joann+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nefertiti%27s+Face+Joyce+A.+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nefertiti&#x27;s Face on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8835066-M.jpg" alt="Cover for Nefertiti&#x27;s Face" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nefertiti%27s+Face+Joyce+A.+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nefertiti&#x27;s Face">Nefertiti&#x27;s Face</a>
-        </h4>
-        <p class="fr-book-author">By Joyce A. Tyldesley</p>
-
-        <p class="fr-book-desc">Explores the Amarna period and the evidence surrounding Nefertiti.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nefertiti%27s+Face+Joyce+A.+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nefertiti%27s+Face+Joyce+A.+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nefertiti&#x27;s Face on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8835066-M.jpg" alt="Cover for Nefertiti&#x27;s Face" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nefertiti%27s+Face+Joyce+A.+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nefertiti&#x27;s Face">Nefertiti&#x27;s Face</a>
+</h4>
+<p class="fr-book-author">By Joyce A. Tyldesley</p>
+        
+<p class="fr-book-desc">Explores the Amarna period and the evidence surrounding Nefertiti.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nefertiti%27s+Face+Joyce+A.+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rise and fall of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9836729-M.jpg" alt="Cover for The rise and fall of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
-        </h4>
-        <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-
-        <p class="fr-book-desc">Places the Amarna period within broader Egyptian history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rise and fall of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9836729-M.jpg" alt="Cover for The rise and fall of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
+</h4>
+<p class="fr-book-author">By Toby A. H. Wilkinson</p>
+        
+<p class="fr-book-desc">Places the Amarna period within broader Egyptian history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Tutankhamun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316459-M.jpg" alt="Cover for The Complete Tutankhamun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Tutankhamun">The Complete Tutankhamun</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Reeves</p>
-
-        <p class="fr-book-desc">Discusses royal family relationships and tomb discoveries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Tutankhamun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316459-M.jpg" alt="Cover for The Complete Tutankhamun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Tutankhamun">The Complete Tutankhamun</a>
+</h4>
+<p class="fr-book-author">By Nicholas Reeves</p>
+        
+<p class="fr-book-desc">Discusses royal family relationships and tomb discoveries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Search+for+Nefertiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Search for Nefertiti</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nefertiti%27s+Face&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nefertiti&#x27;s Face</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The rise and fall of ancient Egypt</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Search+for+Nefertiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Search for Nefertiti</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nefertiti%27s+Face&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nefertiti&#x27;s Face</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The rise and fall of ancient Egypt</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

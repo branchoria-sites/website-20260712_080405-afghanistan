@@ -305,7 +305,8 @@ The legend nevertheless became deeply embedded in Maldivian cultural memory beca
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dOLth30485o" title="Ancient Religion of the Maldives - Dhivehi Legends DOCUMENTARY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dOLth30485o" target="_blank" rel="noopener noreferrer">Ancient Religion of the Maldives - Dhivehi Legends DOCUMENTARY</a></p><p class="youtube-embed-meta">Channel: LoreLabyrinth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dOLth30485o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dOLth30485o">Open on YouTube</a></p></div></div></div>
 
-## Questions left unresolved by Conversion Legend
+## Why the mystery still matters
+
 The conversion legend remains important because it sits at the intersection of history, religion and national identity.
 
 For historians, the central questions are practical ones: which medieval sources deserve the most confidence, how oral traditions changed over time, and what archaeological or documentary evidence can actually establish. The disagreement over the missionary's identity illustrates the difficulties of reconstructing early Maldivian history, where relatively few contemporary local records survive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2077-1444/16/2/201" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Religion, Power, and National Identity: The Dual Role of Islam in the History and Modernization of the MaldivesFebruary 8, 2025...</span><span class="citation-popover-meta">Published: February 8, 2025</span></span></span>
@@ -337,7 +338,7 @@ The enduring mystery, therefore, is not whether the Maldives became Islamic—it
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
 </h4>
 <p class="fr-book-author">By Peter Frankopan</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: East and West, HISTORY / World, Trade routes, Acculturation, TRAVEL / Asia / China.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +355,7 @@ The enduring mystery, therefore, is not whether the Maldives became Islamic—it
 <a href="https://www.amazon.com/s?k=Destiny+disrupted+Mir+Tamim+Ansary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Destiny disrupted">Destiny disrupted</a>
 </h4>
 <p class="fr-book-author">By Mir Tamim Ansary, Tamim Ansary</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: History, Nonfiction, World history, Islamic civilization, East and West.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Destiny+disrupted+Mir+Tamim+Ansary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +372,7 @@ The enduring mystery, therefore, is not whether the Maldives became Islamic—it
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maldives">The Maldives</a>
 </h4>
 <p class="fr-book-author">By J.J. Robinson</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: Democracy, Maldives, Politics and government, Social conditions, Islam.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +389,7 @@ The enduring mystery, therefore, is not whether the Maldives became Islamic—it
 <a href="https://www.amazon.com/s?k=Folk+Tales+of+the+Maldives+Romero+Frias+Xavier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Tales of the Maldives">Folk Tales of the Maldives</a>
 </h4>
 <p class="fr-book-author">By Romero Frias Xavier</p>
-
+        
 <p class="fr-book-desc">First published 2021.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folk+Tales+of+the+Maldives+Romero+Frias+Xavier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

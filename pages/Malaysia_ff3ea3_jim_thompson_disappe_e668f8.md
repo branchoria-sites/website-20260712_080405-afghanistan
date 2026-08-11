@@ -346,7 +346,8 @@ Modern search specialists have emphasised that successful search operations depe
 
 As a result, the absence of evidence has never strongly favoured one explanation over another. Instead, it has preserved several plausible scenarios simultaneously.
 
-## Questions left unresolved by Jim Thompson
+## Why the Case Still Matters
+
 Jim Thompson's disappearance occupies a distinctive place in Malaysia's history because it combines a famous individual, an inaccessible landscape and an unresolved investigation that has resisted explanation for decades.
 
 Unlike many historical mysteries that later yield new documents or forensic discoveries, this case remains constrained by the lack of recoverable physical evidence. Occasional claims—from alleged sightings to possible human remains discovered years later—have generated renewed interest but have never been verified as solving the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/news/community/2010/03/31/researcher-dna-may-help-unravel-the-mysterious-disappearance-of-thai-silk-king" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-snippet">The StarResearcher: DNA may help unravel the mysterious disappearance of ‘Thai Silk King’ &#124; The StarMarch 31, 2010...</span><span class="citation-popover-meta">Published: March 31, 2010</span></span></span>
@@ -359,89 +360,89 @@ The disappearance has become woven into the cultural identity of the Cameron Hig
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Jim Thompson Simply Vanish in the Hills?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Jim Thompson Simply Vanish in the Hills?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Into Thin Air on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=72sJCMs2JDgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Into Thin Air" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
-        </h4>
-        <p class="fr-book-author">By Jon Krakauer</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in disappearances and difficult terrain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Into Thin Air on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=72sJCMs2JDgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Into Thin Air" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
+</h4>
+<p class="fr-book-author">By Jon Krakauer</p>
+        
+<p class="fr-book-desc">Appeals to readers interested in disappearances and difficult terrain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Malay Archipelago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1056114-M.jpg" alt="Cover for The Malay Archipelago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
-        </h4>
-        <p class="fr-book-author">By Alfred Russel Wallace</p>
-
-        <p class="fr-book-desc">Evokes the landscapes and history of the region.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Malay Archipelago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1056114-M.jpg" alt="Cover for The Malay Archipelago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
+</h4>
+<p class="fr-book-author">By Alfred Russel Wallace</p>
+        
+<p class="fr-book-desc">Evokes the landscapes and history of the region.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jim+Thompson+Warren%2C+William&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jim Thompson on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1055476-M.jpg" alt="Cover for Jim Thompson" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jim+Thompson+Warren%2C+William&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jim Thompson">Jim Thompson</a>
-        </h4>
-        <p class="fr-book-author">By Warren, William, William Warren</p>
-
-        <p class="fr-book-desc">Examines evidence and competing theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jim+Thompson+Warren%2C+William&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Jim+Thompson+Warren%2C+William&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jim Thompson on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1055476-M.jpg" alt="Cover for Jim Thompson" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jim+Thompson+Warren%2C+William&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jim Thompson">Jim Thompson</a>
+</h4>
+<p class="fr-book-author">By Warren, William, William Warren</p>
+        
+<p class="fr-book-desc">Examines evidence and competing theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jim+Thompson+Warren%2C+William&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Malayan emergency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14308167-M.jpg" alt="Cover for The Malayan emergency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malayan emergency">The Malayan emergency</a>
-        </h4>
-        <p class="fr-book-author">By Robert Jackson</p>
-
-        <p class="fr-book-desc">First published 1991. Subjects: History, Malaya, history, Borneo, history, Counterinsurgency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Malayan emergency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14308167-M.jpg" alt="Cover for The Malayan emergency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malayan emergency">The Malayan emergency</a>
+</h4>
+<p class="fr-book-author">By Robert Jackson</p>
+        
+<p class="fr-book-desc">First published 1991. Subjects: History, Malaya, history, Borneo, history, Counterinsurgency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Malayan+emergency+Robert+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Into+Thin+Air&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Into Thin Air</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Malay+Archipelago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Malay Archipelago</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jim+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jim Thompson</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Into+Thin+Air&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Into Thin Air</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Malay+Archipelago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Malay Archipelago</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Jim+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jim Thompson</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

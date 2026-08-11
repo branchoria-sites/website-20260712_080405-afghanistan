@@ -312,7 +312,8 @@ The cemeteries also demonstrate the value of combining disciplines. Historians f
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oaSWmWlhzEc" title="When The Black Death Began" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oaSWmWlhzEc" target="_blank" rel="noopener noreferrer">When The Black Death Began</a></p><p class="youtube-embed-meta">Channel: The Buried Record</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oaSWmWlhzEc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oaSWmWlhzEc">Open on YouTube</a></p></div></div></div>
 
-## Plague Origins in the wider historical record
+## Why the mystery still matters
+
 The Issyk-Kul plague graves remain a historical mystery, but they are a rare example of one that has moved substantially towards resolution rather than remaining permanently speculative.
 
 The central question has shifted. Researchers are no longer asking whether the Issyk-Kul epidemic was connected with the Black Death—it almost certainly was. Instead, they are investigating how plague emerged from natural reservoirs in the Tian Shan region, how it entered human communities, and how trade networks transformed a regional outbreak into one of history's deadliest pandemics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-022-04800-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">The source of the Black Death in fourteenth-century central Eurasia &#124; Nature</span><span class="citation-popover-snippet">The source of the Black Death in fourteenth-century central Eurasia &#124; NatureJune 15, 2022...</span><span class="citation-popover-meta">Published: June 15, 2022</span></span></span>
@@ -342,7 +343,7 @@ For Kyrgyzstan, the graves represent one of the country's most internationally s
 <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
 </h4>
 <p class="fr-book-author">By David Quammen</p>
-
+        
 <p class="fr-book-desc">Explores disease origins and scientific investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -359,7 +360,7 @@ For Kyrgyzstan, the graves represent one of the country's most internationally s
 <a href="https://www.amazon.com/s?k=The+Great+Mortality+John+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Mortality">The Great Mortality</a>
 </h4>
 <p class="fr-book-author">By John Kelly</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Black Death, Sources, History, Surtos de doenças (história), Doenças transmissíveis (história).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Great+Mortality+John+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +377,7 @@ For Kyrgyzstan, the graves represent one of the country's most internationally s
 <a href="https://www.amazon.com/s?k=The+Black+Death+John+Hatcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Death">The Black Death</a>
 </h4>
 <p class="fr-book-author">By John Hatcher, John Hatcher et al.</p>
-
+        
 <p class="fr-book-desc">First published 2007. Subjects: Black Death, Social conditions, Fiction, History, England, fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Black+Death+John+Hatcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +394,7 @@ For Kyrgyzstan, the graves represent one of the country's most internationally s
 <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
 </h4>
 <p class="fr-book-author">By Adeeb Khalid</p>
-
+        
 <p class="fr-book-desc">First published 2021.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

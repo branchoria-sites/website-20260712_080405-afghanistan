@@ -1371,89 +1371,89 @@ Lithuania’s major historical mysteries fall on a spectrum rather than into a s
 What links these cases is the interaction between missing evidence and public memory. Medieval gaps were filled by Romantic literature; aviation uncertainty became a story of hostile attack; Soviet secrecy encouraged justified suspicion; and a forgotten wartime hiding place became a real lost treasure. Lithuania’s historical mysteries are most revealing when they are examined not merely as puzzles, but as arguments about statehood, occupation, resistance and who has the authority to tell the national past.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Lithuanian Mysteries Still Resist Explanation?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Lithuanian Mysteries Still Resist Explanation?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of Lithuania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5525068-M.jpg" alt="Cover for The History of Lithuania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of Lithuania">The History of Lithuania</a>
-        </h4>
-        <p class="fr-book-author">By Zigmantas Kiaupa</p>
-
-        <p class="fr-book-desc">Provides authoritative background for the country&#x27;s major historical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of Lithuania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5525068-M.jpg" alt="Cover for The History of Lithuania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of Lithuania">The History of Lithuania</a>
+</h4>
+<p class="fr-book-author">By Zigmantas Kiaupa</p>
+        
+<p class="fr-book-desc">Provides authoritative background for the country&#x27;s major historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+History+of+Lithuania+Zigmantas+Kiaupa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reconstruction of Nations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/161904-M.jpg" alt="Cover for The Reconstruction of Nations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reconstruction of Nations">The Reconstruction of Nations</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Snyder</p>
-
-        <p class="fr-book-desc">Explores Lithuanian history, identity and historical memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reconstruction of Nations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/161904-M.jpg" alt="Cover for The Reconstruction of Nations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reconstruction of Nations">The Reconstruction of Nations</a>
+</h4>
+<p class="fr-book-author">By Timothy Snyder</p>
+        
+<p class="fr-book-desc">Explores Lithuanian history, identity and historical memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vanished kingdoms on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101390-M.jpg" alt="Cover for Vanished kingdoms" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vanished kingdoms">Vanished kingdoms</a>
-        </h4>
-        <p class="fr-book-author">By Norman Davies</p>
-
-        <p class="fr-book-desc">Includes the Grand Duchy of Lithuania within Europe&#x27;s lost states.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vanished kingdoms on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7101390-M.jpg" alt="Cover for Vanished kingdoms" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vanished kingdoms">Vanished kingdoms</a>
+</h4>
+<p class="fr-book-author">By Norman Davies</p>
+        
+<p class="fr-book-desc">Includes the Grand Duchy of Lithuania within Europe&#x27;s lost states.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vanished+kingdoms+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lithuania ascending on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/339903-M.jpg" alt="Cover for Lithuania ascending" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lithuania ascending">Lithuania ascending</a>
-        </h4>
-        <p class="fr-book-author">By S. C. Rowell</p>
-
-        <p class="fr-book-desc">First published 1994. Subjects: History, Lithuania, history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lithuania ascending on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/339903-M.jpg" alt="Cover for Lithuania ascending" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lithuania ascending">Lithuania ascending</a>
+</h4>
+<p class="fr-book-author">By S. C. Rowell</p>
+        
+<p class="fr-book-desc">First published 1994. Subjects: History, Lithuania, history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lithuania+ascending+S.+C.+Rowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+History+of+Lithuania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The History of Lithuania</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reconstruction of Nations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vanished+kingdoms&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vanished kingdoms</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+History+of+Lithuania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The History of Lithuania</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reconstruction+of+Nations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reconstruction of Nations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vanished+kingdoms&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vanished kingdoms</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
@@ -1675,4 +1675,6 @@ What links these cases is the interaction between missing evidence and public me
 47.<a id="endnote-47"></a>
    Source: bpmuziejus.lt  
    Link:<a href="https://www.bpmuziejus.lt/news/baznytinio-paveldo-muziejus-rengia-naujausiu-vilniaus-katedros-lobyno-atradimu-paroda-copy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bpmuziejus.lt/news/baznytinio-paveldo-muziejus-rengia-naujausiu-vilniaus-katedros-lobyno-atradimu-paroda-copy/</a>
+
+
 
