@@ -225,4 +225,86 @@ site_image_description: A mountain valley containing an ancient brick minaret, s
 </section>
 <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Browse all countries</a></p>
 </section>
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books behind the reports on this site — historical mysteries, lost civilizations, and the unsolved records. Each report carries picks tied to its own subject.</p>
+    </div>
+    <div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+King%27s+Shadow%3A+Obsession%2C+Betrayal%2C+and+the+Deadly+Quest+for+the+Lost+City+of+Alexandria+Edmund+Richardson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The King&#x27;s Shadow: Obsession, Betrayal, and the Deadly Quest for the Lost City of Alexandria on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+King%27s+Shadow%3A+Obsession%2C+Betrayal%2C+and+the+Deadly+Quest+for+the+Lost+City+of+Alexandria+Edmund+Richardson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King&#x27;s Shadow: Obsession, Betrayal, and the Deadly Quest for the Lost City of Alexandria">The King&#x27;s Shadow: Obsession, Betrayal, and the Deadly Quest...</a>
+</h4>
+<p class="fr-book-author">By Edmund Richardson</p>
+        
+<p class="fr-book-desc">Follows Charles Masson&#x27;s search for ancient Afghan cities and artefacts, directly reflecting the page&#x27;s themes of discovery, disappearanc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+King%27s+Shadow%3A+Obsession%2C+Betrayal%2C+and+the+Deadly+Quest+for+the+Lost+City+of+Alexandria+Edmund+Richardson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment">Lost Enlightenment</a>
+</h4>
+<p class="fr-book-author">By S. Frederick Starr</p>
+        
+<p class="fr-book-desc">Covers the intellectual and urban civilisation of medieval Central Asia, including regions and dynasties essential to understanding Afgha...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lost+Enlightenment+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Afghanistan%3A+Hidden+Treasures+from+the+National+Museum%2C+Kabul+Fredrik+Hiebert+and+Pierre+Cambon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afghanistan: Hidden Treasures from the National Museum, Kabul on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Afghanistan%3A+Hidden+Treasures+from+the+National+Museum%2C+Kabul+Fredrik+Hiebert+and+Pierre+Cambon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afghanistan: Hidden Treasures from the National Museum, Kabul">Afghanistan: Hidden Treasures from the National Museum, Kabul</a>
+</h4>
+<p class="fr-book-author">By Fredrik Hiebert and Pierre Cambon</p>
+        
+<p class="fr-book-desc">Documents the Bactrian gold and other National Museum collections that survived concealment, war, looting and political upheaval.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Afghanistan%3A+Hidden+Treasures+from+the+National+Museum%2C+Kabul+Fredrik+Hiebert+and+Pierre+Cambon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African archaeology">African archaeology</a>
+</h4>
+<p class="fr-book-author">By David W. Phillipson</p>
+        
+<p class="fr-book-desc">Explains archaeological methods behind many Algerian historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=historical+mysteries+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Historical mysteries</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=lost+civilizations+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost civilizations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=archaeology+mystery+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeology mysteries</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases. <a class="fr-disclosure-link" href="https://branchoria.com/disclosure/">Affiliate &amp; AI Disclosure</a></p>
+    </div>
+  </div>
+</section>
 
