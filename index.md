@@ -225,7 +225,6 @@ site_image_description: A mountain valley containing an ancient brick minaret, s
 </section>
 <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Browse all countries</a></p>
 </section>
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
@@ -237,22 +236,6 @@ site_image_description: A mountain valley containing an ancient brick minaret, s
     </div>
     <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afghanistan A Cultural And Political History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7785911-M.jpg" alt="Cover for Afghanistan A Cultural And Political History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afghanistan A Cultural And Political History">Afghanistan A Cultural And Political History</a>
-</h4>
-<p class="fr-book-author">By Thomas Barfield</p>
-        
-<p class="fr-book-desc">Explains the political upheavals, cultural crossroads and repeated disruptions that caused Afghan sites, archives, treasures and historic...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 <article class="fr-book-card">
 <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+King%27s+Shadow%3A+Obsession%2C+Betrayal%2C+and+the+Deadly+Quest+for+the+Lost+City+of+Alexandria+Edmund+Richardson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The King&#x27;s Shadow: Obsession, Betrayal, and the Deadly Quest for the Lost City of Alexandria on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
@@ -286,16 +269,32 @@ site_image_description: A mountain valley containing an ancient brick minaret, s
 </div>
 </article>
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Free%3A+A+Child+and+a+Country+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Free: A Child and a Country at the End of History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Afghanistan%3A+Hidden+Treasures+from+the+National+Museum%2C+Kabul+Fredrik+Hiebert+and+Pierre+Cambon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afghanistan: Hidden Treasures from the National Museum, Kabul on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Free%3A+A+Child+and+a+Country+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Free: A Child and a Country at the End of History">Free: A Child and a Country at the End of History</a>
+<a href="https://www.amazon.com/s?k=Afghanistan%3A+Hidden+Treasures+from+the+National+Museum%2C+Kabul+Fredrik+Hiebert+and+Pierre+Cambon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afghanistan: Hidden Treasures from the National Museum, Kabul">Afghanistan: Hidden Treasures from the National Museum, Kabul</a>
 </h4>
-<p class="fr-book-author">By Lea Ypi</p>
+<p class="fr-book-author">By Fredrik Hiebert and Pierre Cambon</p>
         
-<p class="fr-book-desc">Explores the personal legacies of dictatorship, political persecution and concealed family histories that persisted after communism colla...</p>
+<p class="fr-book-desc">Documents the Bactrian gold and other National Museum collections that survived concealment, war, looting and political upheaval.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Free%3A+A+Child+and+a+Country+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Afghanistan%3A+Hidden+Treasures+from+the+National+Museum%2C+Kabul+Fredrik+Hiebert+and+Pierre+Cambon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8213214-M.jpg" alt="Cover for African archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African archaeology">African archaeology</a>
+</h4>
+<p class="fr-book-author">By David W. Phillipson</p>
+        
+<p class="fr-book-desc">Explains archaeological methods behind many Algerian historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+archaeology+David+W.+Phillipson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
