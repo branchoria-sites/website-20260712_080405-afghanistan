@@ -829,7 +829,6 @@ The survival of the Bactrian gold demonstrates that determined custodians could 
 16.<a id="endnote-16"></a>
    Source: unama.unmissions.org  
    Title: stolen afghan artefacts return home  
-   Link:https://unama.unmissions.org/stolen-afghan-artefacts-return-home  
 
 17.<a id="endnote-17"></a>
    Source: archaeopress.com  
